@@ -1,0 +1,453 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Asian and Asia-Pacific Digital-Asset Orders &mdash; Code, Law and Capital</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --green:#43652E; --gold:#43652E; --surface:#FFFFFF; --ink:#111516; --ink-head:#111516;
+  --ink-soft:#22292C; --ink-mute:#56676E; --cream:#FFFFFF;
+  --backdrop:#EEF0F0; --rule:#CCD1D4; --rule-faint:#EEF0F0; --oxblood:#652E43;
+  --gold-text:#2F4720;   /* 4.98:1 on ground - gold as TEXT */
+  --gold-on-dark:#FFFFFF; /* 5.00:1 on the green masthead */
+  --sans:Archivo,"Helvetica Neue",Arial,sans-serif;
+  --serif:Spectral,Georgia,"Times New Roman",serif;
+  --display:"Cormorant Garamond",Georgia,serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:5rem}
+:where(a,button,[tabindex]):focus-visible{outline:2px solid var(--gold-text);outline-offset:2px}
+body{margin:0;background:var(--backdrop);color:var(--ink);font:400 1.0625rem/1.65 var(--serif)}
+
+/* ---- masthead ---- */
+.masthead{position:sticky;top:0;z-index:40;background:var(--green);color:var(--cream);
+  border-bottom:2px solid var(--gold);display:flex;align-items:center;gap:1rem;
+  padding:.6rem 1.1rem;font-family:var(--sans)}
+.masthead .work{font:600 .72rem/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;
+  color:var(--cream);text-decoration:none;white-space:nowrap}
+.masthead .work span{color:rgba(255,255,255,.72)}
+.masthead form{margin-left:auto;display:flex;align-items:center}
+#q{font:400 .82rem var(--sans);padding:.32rem .6rem;width:14rem;max-width:38vw;
+  border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.10);
+  color:var(--cream);border-radius:2px}
+#q::placeholder{color:rgba(255,255,255,.60)}
+.allsearch{margin-left:.6rem;font:600 .64rem/1 var(--sans);letter-spacing:.1em;
+  text-transform:uppercase;color:var(--gold-on-dark);text-decoration:none;white-space:nowrap}
+.allsearch:hover{color:var(--cream)}
+#q:focus{outline:2px solid var(--gold);outline-offset:1px}
+#navtoggle{display:none;font:600 .72rem var(--sans);letter-spacing:.12em;text-transform:uppercase;
+  background:none;border:1px solid rgba(255,255,255,.4);color:var(--cream);
+  padding:.3rem .55rem;border-radius:2px;cursor:pointer}
+
+/* ---- shell ---- */
+.shell{display:grid;grid-template-columns:17rem minmax(0,1fr);gap:0;
+  max-width:76rem;margin:0 auto;align-items:start}
+
+/* ---- sidebar ---- */
+.sidebar{position:sticky;top:3.1rem;max-height:calc(100vh - 3.1rem);overflow-y:auto;
+  padding:1.6rem 1rem 3rem 1.2rem;font-family:var(--sans);
+  border-right:1px solid var(--rule)}
+.sidebar .up{display:block;font:600 .64rem/1.4 var(--sans);letter-spacing:.09em;
+  text-transform:uppercase;color:var(--ink-mute);text-decoration:none;margin-bottom:1rem}
+.sidebar .up:hover{color:var(--gold)}
+.sidebar h2{font:600 .68rem/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;
+  color:var(--ink-head);margin:0 0 .8rem;padding-bottom:.6rem;border-bottom:1px solid var(--rule)}
+.sidebar ol{list-style:none;margin:0;padding:0}
+
+/* the whole work, on every page */
+.worknav .pt span{display:block;margin:1rem 0 .35rem;font:600 .58rem/1.35 var(--sans);
+  letter-spacing:.14em;text-transform:uppercase;color:var(--gold-text)}
+.worknav .ch a{display:flex;gap:.5rem;padding:.26rem .4rem;font-size:.76rem;line-height:1.35;
+  color:var(--ink-soft);text-decoration:none;border-left:2px solid transparent;border-radius:2px}
+.worknav .ch a b{flex:none;font-weight:600;color:#56676E;font-variant-numeric:tabular-nums}
+.worknav .ch a:hover{color:var(--green);background:rgba(67,101,46,.08)}
+.worknav .ch a:hover b{color:var(--gold)}
+.worknav .ch.here > a{color:var(--green);font-weight:600;border-left-color:var(--gold);
+  background:rgba(67,101,46,.10)}
+.worknav .ch.here > a b{color:var(--gold)}
+.worknav .ch.app a{color:var(--ink-mute);font-style:italic}
+.worknav .seclist{margin:.2rem 0 .5rem;padding:0 0 0 1.35rem;
+  border-left:1px solid var(--rule)}
+.worknav .seclist a{display:block;padding:.16rem .4rem;font-size:.72rem;line-height:1.35;
+  color:var(--ink-mute);text-decoration:none;border-left:2px solid transparent}
+.worknav .seclist a:hover{color:var(--green)}
+.worknav .seclist a.here{color:var(--green);font-weight:600;border-left-color:var(--gold)}
+.worknav .seclist .toc-l3 a{padding-left:.9rem}
+.worknav .seclist .toc-l4 a{padding-left:1.6rem}
+
+/* breadcrumb */
+.crumb{margin:0 0 1.6rem;font:500 .74rem/1.5 var(--sans);color:var(--ink-mute)}
+.crumb a{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(--rule)}
+.crumb a:hover{color:var(--gold);border-bottom-color:var(--gold)}
+.crumb span{margin:0 .45rem;color:var(--rule)}
+.crumb em{font-style:normal;color:var(--ink)}
+
+/* on this page, in the reading column */
+.onthispage{margin:0 0 2.4rem;padding:1.1rem 1.3rem;background:var(--surface);
+  border:1px solid var(--rule)}
+.onthispage h2{margin:0 0 .7rem;font:600 .62rem/1 var(--sans);letter-spacing:.18em;
+  text-transform:uppercase;color:var(--ink-mute)}
+.onthispage ol{list-style:none;margin:0;padding:0;columns:2;column-gap:2rem}
+.onthispage li{break-inside:avoid;margin:.12rem 0}
+.onthispage a{font-size:.82rem;line-height:1.45;color:var(--green);text-decoration:none;
+  border-bottom:1px solid transparent}
+.onthispage a:hover{border-bottom-color:var(--gold);color:var(--gold)}
+.onthispage .toc-l3 a{padding-left:.9rem;font-size:.78rem;color:var(--ink-soft)}
+.onthispage .toc-l4 a{padding-left:1.7rem;font-size:.76rem;color:var(--ink-mute)}
+@media (max-width:640px){.onthispage ol{columns:1}}
+
+/* ---- sheet ---- */
+.sheet{background:var(--surface);border-left:1px solid var(--rule);border-right:1px solid var(--rule);
+  padding:3rem 3.4rem 5rem;min-height:100vh}
+/* ---- chapter cover band, after the v0.20 cover ---- */
+.cover{position:relative;margin:-3rem -3.4rem 2.4rem;padding:2.6rem 3.4rem 2.4rem;
+  background:var(--green);color:var(--cream);overflow:hidden}
+.cover .plate{position:absolute;inset:0;background:url("assets/clc-cover.jpg") center/cover no-repeat;
+  opacity:.20;filter:grayscale(.25)}
+.cover .frame{position:absolute;inset:.7rem;border:2px solid rgba(255,255,255,.40);
+  pointer-events:none}
+.cover > *:not(.plate):not(.frame){position:relative}
+.cover .eyebrow{font:600 .68rem/1 var(--sans);letter-spacing:.24em;text-transform:uppercase;
+  color:var(--gold-on-dark);margin-bottom:1rem}
+.cover .rule{display:flex;align-items:center;gap:.6rem;margin:.9rem 0 0;width:60%}
+.cover .rule i{display:block;width:5px;height:5px;background:var(--gold);transform:rotate(45deg)}
+.cover .rule b{flex:1;height:1px;background:rgba(255,255,255,.5)}
+h1{margin:0;font:600 2.5rem/1.12 var(--display);color:var(--cream);text-wrap:balance}
+.cover .subtitle{margin-top:.7rem;font:500 1.12rem/1.35 var(--display);font-style:italic;
+  color:var(--gold-on-dark)}
+.cover .byline{margin-top:1.1rem;font:500 .72rem/1 var(--sans);letter-spacing:.28em;
+  text-transform:uppercase;color:rgba(255,255,255,.85)}
+
+h2.sec{margin:2.6rem 0 .9rem;padding-bottom:.4rem;border-bottom:1px solid var(--rule);
+  font:600 1.32rem/1.3 var(--sans);letter-spacing:.02em;color:var(--ink-head);text-wrap:balance}
+h3.sec{margin:2rem 0 .6rem;font:600 1.08rem/1.35 var(--display);color:var(--oxblood);text-wrap:balance}
+h4.sec{margin:1.5rem 0 .5rem;font:600 .95rem/1.35 var(--sans);color:var(--ink-soft)}
+.sec .num{color:var(--gold-text);font-variant-numeric:tabular-nums}
+
+/* ---- paragraphs ---- */
+.para{position:relative;margin:0 0 1.05rem;padding-left:2.6rem;scroll-margin-top:5rem}
+.pnum{position:absolute;left:0;top:.28rem;width:2rem;text-align:right;
+  font:500 .68rem/1 var(--sans);color:#56676E;text-decoration:none;
+  font-variant-numeric:tabular-nums;transition:color .12s}
+.para:hover .pnum,.pnum:focus{color:var(--gold-text)}
+.para:target .ptext{background:rgba(67,101,46,.09);box-shadow:-.5rem 0 0 rgba(67,101,46,.09),.5rem 0 0 rgba(67,101,46,.09)}
+.ptext{max-width:34rem;text-align:left;text-wrap:pretty}
+.ptext em{font-style:italic}
+a.xref{color:var(--green);text-decoration:none;border-bottom:1px solid rgba(47,71,32,.32);
+  transition:border-color .12s,color .12s}
+a.xref:hover{color:var(--gold);border-bottom-color:var(--gold)}
+a.xref::after{content:"↗";font-size:.72em;vertical-align:.35em;margin-left:.1em;
+  color:var(--gold);opacity:.7}
+@media print{a.xref{border-bottom:0;color:inherit} a.xref::after{content:""}}
+.ptext ul.condlist{margin:.6rem 0 .6rem 1.15rem;padding:0;list-style:disc}
+.ptext ul.condlist li{margin:.42rem 0}
+.ptext ul.condlist strong{font-weight:600;color:var(--ink-head)}
+
+/* ---- figures ---- */
+figure{margin:2.2rem 0;max-width:none}
+img{max-width:100%;height:auto;display:block;border:1px solid var(--rule-faint)}
+figcaption{margin-top:.7rem;font:600 1.02rem/1.35 var(--display);color:var(--oxblood)}
+.fignote{margin:.5rem 0 0;font:italic 400 .82rem/1.5 var(--serif);color:var(--ink-mute)}
+.tablewrap{margin:1.8rem 0;max-width:none;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.tablewrap table{border-collapse:collapse;width:100%;min-width:34rem;
+  font:400 .84rem/1.5 var(--sans)}
+.tablewrap th{text-align:left;padding:.55rem .7rem;border-bottom:1.2pt solid var(--gold);
+  font:600 .74rem/1.4 var(--sans);color:var(--ink-head);vertical-align:bottom}
+.tablewrap td{padding:.5rem .7rem;border-bottom:1px solid var(--rule-faint);
+  vertical-align:top;color:var(--ink)}
+.tablewrap tr:last-child td{border-bottom:0}
+.tablewrap th strong,.tablewrap td strong{font-weight:600}
+figure.ornament{margin:2rem auto;max-width:16rem;opacity:.55}
+figure.ornament img{border:0}
+
+/* ---- footnotes: inline popover, print endnotes ---- */
+sup.fnref{line-height:0}
+sup.fnref a,button.fnbtn{font:600 .62rem/1 var(--sans);color:#fff;background:var(--green);
+  border:0;border-radius:2px;padding:.12rem .3rem;margin:0 .1rem;cursor:pointer;
+  text-decoration:none;vertical-align:super;font-variant-numeric:tabular-nums}
+button.fnbtn:hover,button.fnbtn[aria-expanded=true]{background:var(--gold)}
+.fnpop{position:absolute;z-index:60;max-width:min(30rem,88vw);background:#fff;
+  border:1px solid var(--gold);border-top:3px solid var(--gold);
+  box-shadow:0 6px 24px rgba(36,30,19,.22);padding:.8rem .95rem;
+  font:400 .84rem/1.5 var(--serif);color:var(--ink-soft);border-radius:2px}
+.fnpop .close{float:right;margin:-.3rem -.3rem 0 .5rem;border:0;background:none;
+  font:600 .95rem/1 var(--sans);color:var(--ink-mute);cursor:pointer}
+.pager{display:grid;grid-template-columns:1fr auto 1fr;gap:1rem;align-items:stretch;
+  margin:3rem 0 0;padding-top:1.6rem;border-top:1px solid var(--rule)}
+.pager a{display:flex;flex-direction:column;gap:.2rem;padding:.9rem 1rem;
+  text-decoration:none;color:var(--ink);border:1px solid var(--rule);
+  background:var(--surface);min-height:44px;justify-content:center;transition:border-color .15s}
+.pager a:hover{border-color:var(--gold-text)}
+.pg-next{text-align:right}
+.pg-dir{font:600 .6rem/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;
+  color:var(--gold-text)}
+.pg-ch{font:600 .84rem/1.3 var(--sans)}
+.pg-ti{font:400 .8rem/1.35 var(--serif);color:var(--ink-mute)}
+.pg-all{align-self:center;font:600 .64rem/1 var(--sans);letter-spacing:.12em;
+  text-transform:uppercase;color:var(--ink-2);white-space:nowrap;flex-direction:row}
+.pg-end{display:block}
+@media (max-width:640px){
+  .pager{grid-template-columns:1fr;gap:.5rem}
+  .pg-next{text-align:left}
+  .pg-all{order:3;justify-content:center}
+}
+@media print{.pager{display:none}}
+.notes{margin-top:3.5rem;border-top:1px solid var(--rule);padding-top:1.4rem}
+.notes h2{font:600 .72rem/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;
+  color:var(--ink-mute);margin:0 0 1rem}
+.notes ol{margin:0;padding-left:1.4rem}
+.notes li{margin:.45rem 0;font-size:.85rem;line-height:1.5;color:var(--ink-soft);
+  scroll-margin-top:5rem}
+.notes li:target{background:rgba(67,101,46,.10)}
+.backref{color:var(--gold-text);text-decoration:none;margin-right:.25rem}
+a.cite-url{color:var(--green);text-decoration:none;border-bottom:1px solid rgba(67,101,46,.3);
+  word-break:break-word}
+a.cite-url:hover{color:var(--gold);border-bottom-color:var(--gold)}
+@media print{a.cite-url{border-bottom:0;color:inherit}}
+a{color:var(--green)}
+a:hover{color:var(--gold)}
+
+/* ---- search ---- */
+mark{background:rgba(105,132,88,.38);color:inherit;padding:0 .08em}
+.nohit{display:none}
+#searchnote{font:500 .76rem var(--sans);color:var(--ink-mute);margin:1rem 0 0}
+
+/* ---- responsive ---- */
+@media (max-width:960px){
+  .shell{grid-template-columns:minmax(0,1fr)}
+  .sheet{min-width:0}
+  .sidebar{position:static;max-height:none;border-right:0;border-bottom:1px solid var(--rule);
+    display:none;background:#fff}
+  .sidebar.open{display:block}
+  #navtoggle{display:inline-block}
+  .sheet{padding:1.8rem 1.25rem 3.5rem;border:0}
+  .cover{margin:-1.8rem -1.25rem 1.8rem;padding:2rem 1.25rem 1.8rem}
+  .cover .rule{width:100%}
+  h1{font-size:1.95rem}
+  .masthead{gap:.6rem;padding:.55rem .8rem}
+  .masthead .work{font-size:.62rem;overflow:hidden;text-overflow:ellipsis}
+  .masthead form{flex:1;min-width:0}
+  #q{width:100%;max-width:none}
+  .para{padding-left:0}
+  .pnum{position:static;display:inline-block;width:auto;margin-right:.5rem;
+    text-align:left;color:var(--gold)}
+}
+
+@media (max-width:560px){
+  .masthead .work{display:none}
+}
+
+/* ---- print: return to the v0.20 page design ---- */
+@media print{
+  @page{size:Letter;margin:.85in}
+  body{background:#fff;font:400 10.4pt/1.62 var(--serif)}
+  .masthead,.sidebar,#searchnote,.fnpop,.crumb,.onthispage{display:none!important}
+  .shell{display:block;max-width:none}
+  .sheet{border:0;padding:0;min-height:0}
+  .ptext{text-align:justify;hyphens:auto}
+  .para{padding-left:2.2rem}
+  .pnum{color:#56676E}
+  h1,h2,h3,h4{break-after:avoid}
+  p,.para{orphans:2;widows:2}
+  sup.fnref a{background:none;color:var(--ink);padding:0;font-size:.7em}
+  button.fnbtn{display:inline!important;background:none;color:var(--ink);border:0;padding:0;font:inherit;font-size:.7em;vertical-align:super;min-width:0;height:auto}
+  .tablewrap{overflow:visible}
+  .tablewrap table{min-width:0;font-size:8.6pt}
+  .tablewrap thead{display:table-header-group}
+  .notes{break-before:page}
+  a{color:var(--ink);text-decoration:none}
+}
+</style>
+<link rel="stylesheet" href="../assets/css/codex-chrome.css">
+</head>
+<body>
+<header class="site-head site-head--static"><div class="in">
+  <a class="brand" href="../index.html"><b>JUSNREM Codex</b><span>Code, Law and Capital</span></a>
+  <nav aria-label="Site"><a href="../code-law-and-capital/" aria-current="page">Library</a><a href="../search.html">Search</a><a href="../authorities.html">Authorities</a><a href="../doctrines.html">Doctrines</a><a href="../map.html">Map</a></nav>
+</div></header>
+<header class="masthead">
+  <button id="navtoggle" aria-expanded="false" aria-controls="sidebar">Contents</button>
+  <a class="work" href="index.html">Code, Law <span>&amp;</span> Capital</a>
+  <form role="search" onsubmit="return false">
+    <label class="sr-only" for="q" hidden>Search this chapter</label>
+    <input id="q" type="search" placeholder="Search this chapter&hellip;" autocomplete="off">
+    <a class="allsearch" href="../search.html">All 26 &rarr;</a>
+  </form>
+</header>
+
+<div class="shell">
+  <nav class="sidebar" id="sidebar" aria-label="Codex contents">
+    <a class="up" href="../">&larr; JUSNREM Codex</a>
+    <h2>Code, Law and Capital</h2>
+    <ol class="worknav"><li class="pt"><span>Part 01 &middot; Foundations and the Governing Triad</span></li><li class="ch"><a href="chapter-01.html"><b>01</b> The Governing Thesis: Code, Law and Capital</a></li><li class="ch"><a href="chapter-02.html"><b>02</b> From Electronic Value to the Global Digital-Asset Order</a></li><li class="ch"><a href="chapter-03.html"><b>03</b> Pakistan’s Digital-Asset Order: From Perimeter Preservation to Statutory Recognition</a></li><li class="ch"><a href="chapter-04.html"><b>04</b> Code: Digital-Asset Technologies, Functions and Control</a></li><li class="ch"><a href="chapter-05.html"><b>05</b> Law: Authority, Interpretation and the Digital Legal Order</a></li><li class="ch"><a href="chapter-06.html"><b>06</b> Capital: Markets, Monetary Sovereignty and Distribution</a></li><li class="pt"><span>Part 02 &middot; Pakistan’s Digital and Virtual-Asset Legal Order</span></li><li class="ch"><a href="chapter-07.html"><b>07</b> Pakistan’s Digital, Electronic and ICT Legal Architecture</a></li><li class="ch"><a href="chapter-08.html"><b>08</b> The Virtual Assets Act 2026 and PVARA</a></li><li class="ch"><a href="chapter-09.html"><b>09</b> Market Entry, Existing Participants and Transitional Legality</a></li><li class="pt"><span>Part 03 &middot; Financial, Property, Integrity and Fiscal Order</span></li><li class="ch"><a href="chapter-10.html"><b>10</b> The Monetary and Financial Perimeter</a></li><li class="ch"><a href="chapter-11.html"><b>11</b> Property, Custody, Customer Assets, Insolvency and Market Conduct</a></li><li class="ch"><a href="chapter-12.html"><b>12</b> Financial Integrity, Sanctions and Evidentiary Enforcement</a></li><li class="ch"><a href="chapter-13.html"><b>13</b> Fiscal Order: Recognition, Taxation, Disclosure and Public Finance</a></li><li class="pt"><span>Part 04 &middot; Digital Systems, Institutions, Rights and Remedies</span></li><li class="ch"><a href="chapter-14.html"><b>14</b> Data, Cybersecurity, Digital Identity and Evidence</a></li><li class="ch"><a href="chapter-15.html"><b>15</b> Smart Contracts, DeFi, DAOs and Autonomous Systems</a></li><li class="ch"><a href="chapter-16.html"><b>16</b> Institutional Integrity, Federalism and Cross-Border Administration</a></li><li class="ch"><a href="chapter-17.html"><b>17</b> Enforcement, Tribunal, Courts and Constitutional Remedies</a></li><li class="pt"><span>Part 05 &middot; Comparative Digital-Asset Orders</span></li><li class="ch"><a href="chapter-18.html"><b>18</b> The United States: Markets, Enforcement and the Contest for Regulatory Authority</a></li><li class="ch"><a href="chapter-19.html"><b>19</b> The United Kingdom and European Legal Orders</a></li><li class="ch here"><a href="chapter-20.html"><b>20</b> Asian and Asia-Pacific Digital-Asset Orders</a><ol class="seclist"><li class="toc-l2"><a href="#s20-1">20.1 Asia Is Not a Single Regulatory Model</a></li><li class="toc-l3"><a href="#s20-1-1">20.1.1 Different constitutional, monetary and market structures</a></li><li class="toc-l3"><a href="#s20-1-2">20.1.2 Licensing, restriction, experimentation and state digital currency</a></li><li class="toc-l2"><a href="#s20-2">20.2 Japan</a></li><li class="toc-l3"><a href="#s20-2-1">20.2.1 Mt Gox, judicial characterisation and insolvency</a></li><li class="toc-l3"><a href="#s20-2-2">20.2.2 Exchange licensing, custody, customer assets and stablecoins</a></li><li class="toc-l2"><a href="#s20-3">20.3 Singapore</a></li><li class="toc-l3"><a href="#s20-3-1">20.3.1 Payment-services regulation and licensing</a></li><li class="toc-l3"><a href="#s20-3-2">20.3.2 Automated transactions, wholesale tokenisation and institutional markets</a></li><li class="toc-l2"><a href="#s20-4">20.4 Hong Kong</a></li><li class="toc-l3"><a href="#s20-4-1">20.4.1 Virtual-asset trading platforms and securities law</a></li><li class="toc-l3"><a href="#s20-4-2">20.4.2 Institutional access, tokenisation and stablecoin development</a></li><li class="toc-l2"><a href="#s20-5">20.5 People’s Republic of China</a></li><li class="toc-l3"><a href="#s20-5-1">20.5.1 Restrictions on private cryptoasset activity</a></li><li class="toc-l3"><a href="#s20-5-2">20.5.2 Blockchain policy, state digital currency and monetary control</a></li><li class="toc-l2"><a href="#s20-6">20.6 South Korea</a></li><li class="toc-l3"><a href="#s20-6-1">20.6.1 Investor protection, exchanges and market conduct</a></li><li class="toc-l3"><a href="#s20-6-2">20.6.2 Tax, custody and institutional development</a></li><li class="toc-l2"><a href="#s20-7">20.7 India</a></li><li class="toc-l3"><a href="#s20-7-1">20.7.1 Banking restrictions and constitutional litigation</a></li><li class="toc-l3"><a href="#s20-7-2">20.7.2 Taxation, enforcement, regulatory uncertainty and recognition questions</a></li><li class="toc-l2"><a href="#s20-8">20.8 Australia</a></li><li class="toc-l3"><a href="#s20-8-1">20.8.1 Financial-services and market-law perimeter</a></li><li class="toc-l3"><a href="#s20-8-2">20.8.2 Licensing reform, custody and consumer protection</a></li><li class="toc-l2"><a href="#s20-9">20.9 New Zealand</a></li><li class="toc-l3"><a href="#s20-9-1">20.9.1 Ruscoe v Cryptopia and property in insolvency</a></li><li class="toc-l3"><a href="#s20-9-2">20.9.2 Regulatory treatment and service-provider obligations</a></li><li class="toc-l2"><a href="#s20-10">20.10 Comparative Lessons for Pakistan</a></li><li class="toc-l3"><a href="#s20-10-1">20.10.1 Recognition, licensing, custody and transition</a></li><li class="toc-l3"><a href="#s20-10-2">20.10.2 What diverse Asian models reveal about institutional fit</a></li><li class="toc-l2"><a href="#sx30">Chapter 20 Conclusion</a></li></ol></li><li class="ch"><a href="chapter-21.html"><b>21</b> GCC and Middle Eastern Digital-Asset Orders</a></li><li class="ch"><a href="chapter-22.html"><b>22</b> ASEAN and Emerging Regional Models</a></li><li class="pt"><span>Part 06 &middot; Global Standards and International Law</span></li><li class="ch"><a href="chapter-23.html"><b>23</b> Global Standards and Transnational Regulatory Coordination</a></li><li class="ch"><a href="chapter-24.html"><b>24</b> Public International Law and Digital Assets</a></li><li class="ch"><a href="chapter-25.html"><b>25</b> Private International Law and Cross-Border Digital Assets</a></li><li class="pt"><span>Part 07 &middot; Building Pakistan’s Future Digital-Asset Order</span></li><li class="ch"><a href="chapter-26.html"><b>26</b> Building Pakistan’s Digital-Asset Order</a></li><li class="ch app"><a href="front-matter.html"><b>&mdash;</b> Front matter</a></li><li class="ch app"><a href="back-matter.html"><b>&mdash;</b> Back matter</a></li></ol>
+    <p id="searchnote" hidden></p>
+  </nav>
+
+  <main class="sheet">
+    <div class="cover">
+      <div class="plate" role="presentation"></div>
+      <div class="frame" role="presentation"></div>
+      <div class="eyebrow">Chapter Twenty &middot; Part 5</div>
+      <h1>Asian and Asia-Pacific Digital-Asset Orders</h1>
+      <div class="subtitle"></div>
+      <div class="rule"><i></i><b></b></div>
+      <div class="byline">Khurram Chughtai</div>
+    </div>
+    <nav class="crumb" aria-label="Breadcrumb">
+      <a href="../">Codex</a> <span>/</span>
+      <a href="index.html">Code, Law and Capital</a> <span>/</span>
+      <em>Chapter Twenty &middot; Part 5</em>
+    </nav>
+    <nav class="onthispage" aria-label="On this page">
+      <h2>On this page</h2>
+      <ol><li class="toc-l2"><a href="#s20-1">20.1 Asia Is Not a Single Regulatory Model</a></li><li class="toc-l3"><a href="#s20-1-1">20.1.1 Different constitutional, monetary and market structures</a></li><li class="toc-l3"><a href="#s20-1-2">20.1.2 Licensing, restriction, experimentation and state digital currency</a></li><li class="toc-l2"><a href="#s20-2">20.2 Japan</a></li><li class="toc-l3"><a href="#s20-2-1">20.2.1 Mt Gox, judicial characterisation and insolvency</a></li><li class="toc-l3"><a href="#s20-2-2">20.2.2 Exchange licensing, custody, customer assets and stablecoins</a></li><li class="toc-l2"><a href="#s20-3">20.3 Singapore</a></li><li class="toc-l3"><a href="#s20-3-1">20.3.1 Payment-services regulation and licensing</a></li><li class="toc-l3"><a href="#s20-3-2">20.3.2 Automated transactions, wholesale tokenisation and institutional markets</a></li><li class="toc-l2"><a href="#s20-4">20.4 Hong Kong</a></li><li class="toc-l3"><a href="#s20-4-1">20.4.1 Virtual-asset trading platforms and securities law</a></li><li class="toc-l3"><a href="#s20-4-2">20.4.2 Institutional access, tokenisation and stablecoin development</a></li><li class="toc-l2"><a href="#s20-5">20.5 People’s Republic of China</a></li><li class="toc-l3"><a href="#s20-5-1">20.5.1 Restrictions on private cryptoasset activity</a></li><li class="toc-l3"><a href="#s20-5-2">20.5.2 Blockchain policy, state digital currency and monetary control</a></li><li class="toc-l2"><a href="#s20-6">20.6 South Korea</a></li><li class="toc-l3"><a href="#s20-6-1">20.6.1 Investor protection, exchanges and market conduct</a></li><li class="toc-l3"><a href="#s20-6-2">20.6.2 Tax, custody and institutional development</a></li><li class="toc-l2"><a href="#s20-7">20.7 India</a></li><li class="toc-l3"><a href="#s20-7-1">20.7.1 Banking restrictions and constitutional litigation</a></li><li class="toc-l3"><a href="#s20-7-2">20.7.2 Taxation, enforcement, regulatory uncertainty and recognition questions</a></li><li class="toc-l2"><a href="#s20-8">20.8 Australia</a></li><li class="toc-l3"><a href="#s20-8-1">20.8.1 Financial-services and market-law perimeter</a></li><li class="toc-l3"><a href="#s20-8-2">20.8.2 Licensing reform, custody and consumer protection</a></li><li class="toc-l2"><a href="#s20-9">20.9 New Zealand</a></li><li class="toc-l3"><a href="#s20-9-1">20.9.1 Ruscoe v Cryptopia and property in insolvency</a></li><li class="toc-l3"><a href="#s20-9-2">20.9.2 Regulatory treatment and service-provider obligations</a></li><li class="toc-l2"><a href="#s20-10">20.10 Comparative Lessons for Pakistan</a></li><li class="toc-l3"><a href="#s20-10-1">20.10.1 Recognition, licensing, custody and transition</a></li><li class="toc-l3"><a href="#s20-10-2">20.10.2 What diverse Asian models reveal about institutional fit</a></li><li class="toc-l2"><a href="#sx30">Chapter 20 Conclusion</a></li></ol>
+    </nav>
+    <h2 id="s20-1" class="sec lvl2"><span class="num">20.1</span> Asia Is Not a Single Regulatory Model</h2><h3 id="s20-1-1" class="sec lvl3"><span class="num">20.1.1</span> Different constitutional, monetary and market structures</h3><div class="para" id="p1"><a class="pnum" href="#p1" aria-label="Paragraph 1">1</a><div class="ptext">Japan and South Korea regulate exchanges within detailed national frameworks; Singapore and Hong Kong use financial-centre institutions; China restricts private virtual-currency business while developing state digital money; India combines tax and AML obligations with unresolved perimeter questions; Australia is transitioning to new platform licensing; New Zealand relies substantially on existing law. These differences follow constitutional authority, capital controls, monetary policy and market history.</div></div><h3 id="s20-1-2" class="sec lvl3"><span class="num">20.1.2</span> Licensing, restriction, experimentation and state digital currency</h3><div class="para" id="p2"><a class="pnum" href="#p2" aria-label="Paragraph 2">2</a><div class="ptext">Licensing, prohibition, sandbox experimentation and central-bank digital currency are different legal techniques. A state may permit wholesale tokenisation while restricting retail promotion; it may tax a transaction without licensing the service; and it may develop a CBDC without recognising private tokens as money. Comparison must keep those propositions separate.</div></div><h2 id="s20-2" class="sec lvl2"><span class="num">20.2</span> Japan</h2><h3 id="s20-2-1" class="sec lvl3"><span class="num">20.2.1</span> Mt Gox, judicial characterisation and insolvency</h3><div class="para" id="p3"><a class="pnum" href="#p3" aria-label="Paragraph 3">3</a><div class="ptext">The Mt Gox failure made custody, insolvency and record integrity central to Japanese policy. Early judicial reasoning did not treat Bitcoin as a corporeal thing capable of ownership under the particular Civil Code inquiry, but this did not place exchange claims outside law. Claims, restitution and insolvency distributions continued through contractual and statutory structures. The episode warns against deriving an entire regulatory perimeter from one property-law characterisation.</div></div><h3 id="s20-2-2" class="sec lvl3"><span class="num">20.2.2</span> Exchange licensing, custody, customer assets and stablecoins</h3><div class="para" id="p4"><a class="pnum" href="#p4" aria-label="Paragraph 4">4</a><div class="ptext">The Payment Services Act requires registration for cryptoasset exchange services and imposes information, security, segregation and supervisory duties. Stablecoin reforms distinguish electronic payment instruments and limit issuance or intermediation through designated regulated actors. Japan also applies FATF-style transfer-information duties; an August 2026 amendment expanded covered jurisdictions.<sup class="fnref"><a href="#fn1" id="fnref1">1</a></sup> Precise commencement and counterparty scope remain essential.</div></div><h2 id="s20-3" class="sec lvl2"><span class="num">20.3</span> Singapore</h2><h3 id="s20-3-1" class="sec lvl3"><span class="num">20.3.1</span> Payment-services regulation and licensing</h3><div class="para" id="p5"><a class="pnum" href="#p5" aria-label="Paragraph 5">5</a><div class="ptext">Singapore regulates digital payment token services through the Payment Services Act 2019, Monetary Authority of Singapore notices and amendments extending the perimeter to specified cross-border and custody activities. A licence is activity-specific. AML, technology risk, safeguarding and conduct requirements may differ by service and customer class.<sup class="fnref"><a href="#fn2" id="fnref2">2</a></sup></div></div><h3 id="s20-3-2" class="sec lvl3"><span class="num">20.3.2</span> Automated transactions, wholesale tokenisation and institutional markets</h3><div class="para" id="p6"><a class="pnum" href="#p6" aria-label="Paragraph 6">6</a><div class="ptext">Singapore&#x27;s Electronic Transactions Act supports automated contracting subject to ordinary requirements of attribution and validity. Project Guardian and related institutional pilots explore tokenised funds and wholesale markets. A pilot or industry standard is not general permission: regulated issuance, dealing, custody and settlement continue to depend on applicable legislation and MAS authority.</div></div><h2 id="s20-4" class="sec lvl2"><span class="num">20.4</span> Hong Kong</h2><h3 id="s20-4-1" class="sec lvl3"><span class="num">20.4.1</span> Virtual-asset trading platforms and securities law</h3><div class="para" id="p7"><a class="pnum" href="#p7" aria-label="Paragraph 7">7</a><div class="ptext">Centralised virtual-asset trading platforms operating in Hong Kong are subject to the Anti-Money Laundering and Counter-Terrorist Financing Ordinance licensing regime; platforms dealing in security tokens may also require authorisation under the Securities and Futures Ordinance. The Securities and Futures Commission applies a dual-licensing approach and detailed platform guidelines.<sup class="fnref"><a href="#fn3" id="fnref3">3</a></sup></div></div><h3 id="s20-4-2" class="sec lvl3"><span class="num">20.4.2</span> Institutional access, tokenisation and stablecoin development</h3><div class="para" id="p8"><a class="pnum" href="#p8" aria-label="Paragraph 8">8</a><div class="ptext">Hong Kong combines licensed retail platform access with institutional tokenisation and a distinct fiat-referenced stablecoin regime. The Stablecoins Ordinance commenced on 1 August 2025, and the Hong Kong Monetary Authority announced its first licences in April 2026.<sup class="fnref"><a href="#fn4" id="fnref4">4</a></sup> Licensing an issuer does not settle the treatment of every tokenised security, platform or custody arrangement.</div></div><h2 id="s20-5" class="sec lvl2"><span class="num">20.5</span> People’s Republic of China</h2><h3 id="s20-5-1" class="sec lvl3"><span class="num">20.5.1</span> Restrictions on private cryptoasset activity</h3><div class="para" id="p9"><a class="pnum" href="#p9" aria-label="Paragraph 9">9</a><div class="ptext">The 2021 multi-agency notice treats virtual-currency-related business activities as illegal financial activities and addresses overseas exchanges serving domestic residents.<sup class="fnref"><a href="#fn5" id="fnref5">5</a></sup> This is a restrictions model, not merely an unlicensed-market model. Any account must preserve the distinction between private holding, prohibited business services and enforcement practice rather than state that “crypto is banned” without qualification.</div></div><h3 id="s20-5-2" class="sec lvl3"><span class="num">20.5.2</span> Blockchain policy, state digital currency and monetary control</h3><div class="para" id="p10"><a class="pnum" href="#p10" aria-label="Paragraph 10">10</a><div class="ptext">China&#x27;s support for blockchain applications and its digital-renminbi programme coexist with restrictions on privately issued and traded virtual currencies. The apparent tension disappears once the state distinguishes infrastructure from private monetary substitution. For Pakistan, the lesson is that technology policy, payment sovereignty and private-asset regulation are separable decisions.</div></div><h2 id="s20-6" class="sec lvl2"><span class="num">20.6</span> South Korea</h2><h3 id="s20-6-1" class="sec lvl3"><span class="num">20.6.1</span> Investor protection, exchanges and market conduct</h3><div class="para" id="p11"><a class="pnum" href="#p11" aria-label="Paragraph 11">11</a><div class="ptext">The Act on the Protection of Virtual Asset Users took effect on 19 July 2024. It imposes customer-deposit and custody safeguards, requires a high proportion of customer virtual assets to be kept in cold wallets, and addresses unfair trading and supervisory enforcement.<sup class="fnref"><a href="#fn6" id="fnref6">6</a></sup> The statute is a protection layer; it does not by itself settle every issuer or business category.</div></div><h3 id="s20-6-2" class="sec lvl3"><span class="num">20.6.2</span> Tax, custody and institutional development</h3><div class="para" id="p12"><a class="pnum" href="#p12" aria-label="Paragraph 12">12</a><div class="ptext">South Korea continues to develop its second-stage market architecture. August 2026 amendments strengthened registration and AML controls for virtual-asset service providers, with provisions commencing according to the official instrument.<sup class="fnref"><a href="#fn7" id="fnref7">7</a></sup> Tax commencement has been politically contested; comparative claims should cite the current tax statute and effective date rather than repeated announcements.</div></div><h2 id="s20-7" class="sec lvl2"><span class="num">20.7</span> India</h2><h3 id="s20-7-1" class="sec lvl3"><span class="num">20.7.1</span> Banking restrictions and constitutional litigation</h3><div class="para" id="p13"><a class="pnum" href="#p13" aria-label="Paragraph 13">13</a><div class="ptext">In <em>Internet and Mobile Association of India v Reserve Bank of India</em>, the Supreme Court set aside the RBI&#x27;s 2018 banking circular on proportionality grounds.<sup class="fnref"><a href="#fn8" id="fnref8">8</a></sup> The judgment did not declare virtual assets legal tender, create a licence, or prevent Parliament and regulators from acting within lawful authority. It is principally a case about evidential justification and the proportionality of a particular restriction.</div></div><h3 id="s20-7-2" class="sec lvl3"><span class="num">20.7.2</span> Taxation, enforcement, regulatory uncertainty and recognition questions</h3><div class="para" id="p14"><a class="pnum" href="#p14" aria-label="Paragraph 14">14</a><div class="ptext">India taxes income from transfers of virtual digital assets under section 115BBH and requires covered providers to comply with anti-money-laundering registration and guidance.<sup class="fnref"><a href="#fn9" id="fnref9">9</a></sup> Tax and AML coverage do not amount to comprehensive market authorisation. Private-law characterisation, service permissions and the treatment of decentralised arrangements remain questions requiring the relevant statute and facts.</div></div><h2 id="s20-8" class="sec lvl2"><span class="num">20.8</span> Australia</h2><h3 id="s20-8-1" class="sec lvl3"><span class="num">20.8.1</span> Financial-services and market-law perimeter</h3><div class="para" id="p15"><a class="pnum" href="#p15" aria-label="Paragraph 15">15</a><div class="ptext">ASIC applies existing corporations, financial-products, consumer and market law according to the rights and activities involved. Some cryptoassets are financial products; others are not. Misleading conduct and managed-investment-scheme rules can apply without a special token label.<sup class="fnref"><a href="#fn10" id="fnref10">10</a></sup></div></div><h3 id="s20-8-2" class="sec lvl3"><span class="num">20.8.2</span> Licensing reform, custody and consumer protection</h3><div class="para" id="p16"><a class="pnum" href="#p16" aria-label="Paragraph 16">16</a><div class="ptext">The Corporations Amendment (Digital Assets Framework) Act 2026 received Royal Assent on 8 April 2026 and introduces a licensing framework for covered digital-asset platforms and tokenised custody platforms. ASIC states that the new requirements commence on 9 April 2027 and has set an implementation path.<sup class="fnref"><a href="#fn11" id="fnref11">11</a></sup> Until commencement, present law continues; passage should not be described as present operational authorisation.</div></div><h2 id="s20-9" class="sec lvl2"><span class="num">20.9</span> New Zealand</h2><h3 id="s20-9-1" class="sec lvl3"><span class="num">20.9.1</span> Ruscoe v Cryptopia and property in insolvency</h3><div class="para" id="p17"><a class="pnum" href="#p17" aria-label="Paragraph 17">17</a><div class="ptext">In <em>Ruscoe v Cryptopia Ltd (in liquidation)</em>, the High Court held that cryptocurrencies were property under the Companies Act 1993 and that the exchange held specified assets on trust for account holders.<sup class="fnref"><a href="#fn12" id="fnref12">12</a></sup> The holding depended on New Zealand law and the platform arrangements. It is persuasive comparative authority, not a universal declaration of customer priority.</div></div><h3 id="s20-9-2" class="sec lvl3"><span class="num">20.9.2</span> Regulatory treatment and service-provider obligations</h3><div class="para" id="p18"><a class="pnum" href="#p18" aria-label="Paragraph 18">18</a><div class="ptext">New Zealand applies financial-markets, fair-trading, AML and financial-service-provider law according to activity. The Financial Markets Authority has warned that particular offers or services may be regulated even without a bespoke cryptoasset code. Cryptopia shows why regulatory coverage should be joined to clear custody records and insolvency rules.</div></div><h2 id="s20-10" class="sec lvl2"><span class="num">20.10</span> Comparative Lessons for Pakistan</h2><h3 id="s20-10-1" class="sec lvl3"><span class="num">20.10.1</span> Recognition, licensing, custody and transition</h3><div class="para" id="p19"><a class="pnum" href="#p19" aria-label="Paragraph 19">19</a><div class="ptext">Across the region, the durable elements are express entry controls, segregation and reconciliation, market-conduct prohibitions, operational resilience and lawful transition. Property recognition and market authorisation answer different questions. Pakistan&#x27;s notified PVARA Regulations provide a current licensing baseline; implementation should state how existing providers enter it and how customer assets are treated during transition and failure.</div></div><h3 id="s20-10-2" class="sec lvl3"><span class="num">20.10.2</span> What diverse Asian models reveal about institutional fit</h3><div class="para" id="p20"><a class="pnum" href="#p20" aria-label="Paragraph 20">20</a><div class="ptext">Financial-centre models rely on regulators, courts, payment systems and professional capacity that took time to build. Restriction models reflect different monetary and political choices. Pakistan should adapt mechanisms only after identifying the domestic institution, statute, resources and route of review that will make them real.</div></div><div class="para" id="p21"><a class="pnum" href="#p21" aria-label="Paragraph 21">21</a><div class="ptext">The first regional lesson concerns institutional memory after failure. Mt Gox and Cryptopia made the legal status of customer assets and the quality of platform records unavoidable. South Korea translated loss experience into statutory deposit and cold-wallet protections; Japan imposed segregation and exchange supervision. The transferable rule is not a fixed cold-storage percentage. It is the requirement that a supervisor and insolvency office-holder can reconstruct each customer&#x27;s entitlement, identify control, detect a shortfall and activate a lawful return or distribution process.</div></div><div class="para" id="p22"><a class="pnum" href="#p22" aria-label="Paragraph 22">22</a><div class="ptext">The second lesson is that payment policy can diverge from investment-market policy. China supports distributed technology and a state digital currency while restricting private virtual-currency business. Indonesia permits supervised cryptoasset trading while maintaining a separate payment perimeter. Hong Kong regulates trading platforms and stablecoin issuers through different statutes and institutions. Pakistan should therefore resist using PVARA licensing to imply that an asset is legal tender, an authorised payment instrument or freely convertible under foreign-exchange law.</div></div><div class="para" id="p23"><a class="pnum" href="#p23" aria-label="Paragraph 23">23</a><div class="ptext">The third lesson is staged statutory commencement. Australia enacted a new framework in April 2026 but set commencement for April 2027. That interval allows rules, applications and systems to be prepared while existing law continues. Hong Kong&#x27;s stablecoin law tied issuer entry to a commenced statutory regime and official licensing. Pakistan&#x27;s regulations are already the current baseline; its next transition task is different. It must publish how an incumbent completes the application, which existing services may continue, what marketing is prohibited and what occurs on refusal.</div></div><div class="para" id="p24"><a class="pnum" href="#p24" aria-label="Paragraph 24">24</a><div class="ptext">The fourth lesson is that constitutional adjudication can improve regulatory method without deciding substantive policy. The Indian Supreme Court&#x27;s proportionality ruling addressed the evidential foundation and breadth of a banking restriction. It did not confer monetary or licensing status. Pakistani regulators should similarly assemble evidence, identify affected rights, compare less restrictive means and give reasons, particularly where account access, blocking or compulsory exit is proposed.</div></div><div class="para" id="p25"><a class="pnum" href="#p25" aria-label="Paragraph 25">25</a><div class="ptext">The fifth lesson is to distinguish institutional experiments from general law. Singapore&#x27;s wholesale tokenisation projects can test issuance, settlement and interoperability in a sophisticated market. They do not prove that retail distribution, custody or cross-border offers are generally permitted. A Pakistani sandbox should specify participants, modified or applicable rules, customer limits, data access, test metrics, exit and the legal effect of results. Graduation should require an ordinary permission or legislative change.</div></div><div class="tablewrap"><table><tr><th><strong>Function</strong></th><th><strong>Japan/South Korea</strong></th><th><strong>Singapore/Hong Kong</strong></th><th><strong>China/India</strong></th><th><strong>Australia/New Zealand</strong></th><th><strong>Pakistan implication</strong></th></tr><tr><td>Entry</td><td>Detailed registration and user protection</td><td>Financial-centre licensing by activity</td><td>Restriction or incomplete perimeter with tax/AML layers</td><td>Existing law plus reform or judicial private law</td><td>Publish activity permission and transition; do not infer payment status</td></tr><tr><td>Customer assets</td><td>Segregation, cold-wallet and supervisory controls</td><td>Platform and issuer safeguarding</td><td>Varies with restricted or incomplete service perimeter</td><td>Reform plus case-law lessons from failure</td><td>Enact entitlement, reconciliation, shortfall and insolvency consequences</td></tr><tr><td>State money</td><td>Central-bank payment policy remains separate</td><td>Wholesale settlement and stablecoin policy coexist</td><td>e-CNY and sovereign monetary control are explicit; India retains RBI authority</td><td>Central-bank and market regulators remain distinct</td><td>Require SBP determination for monetary and payment functions</td></tr><tr><td>Change method</td><td>Legislative amendment and supervision</td><td>Controlled pilots and staged licences</td><td>Policy restriction and judicial review</td><td>Delayed commencement and transition</td><td>Choose method according to authority and capability, not speed alone</td></tr></table></div><div class="para" id="p26"><a class="pnum" href="#p26" aria-label="Paragraph 26">26</a><div class="ptext">These comparisons also counsel against rankings. A restrictive jurisdiction may have a clear monetary policy but limited private innovation; a permissive financial centre may impose demanding entry and customer controls; a country taxing gains may still lack a complete service-provider regime. “Adoption” and “friendliness” are poor legal metrics. The questions that matter are whether citizens can know the law, firms can obtain a definite decision, assets survive failure, misconduct is investigated and restrictions can be challenged.</div></div><div class="para" id="p27"><a class="pnum" href="#p27" aria-label="Paragraph 27">27</a><div class="ptext">For Pakistan, institutional fit should be evidenced through capacity before scale. PVARA needs licence examiners, custody and technology specialists, a supervisory dataset and an exercised incident process. SBP and SECP need a recorded interface for mixed products. FBR needs valuation and reporting rules. Courts and investigators need admissible records. Comparative legislation becomes useful only when these domestic connections are made.</div></div><div class="para" id="p28"><a class="pnum" href="#p28" aria-label="Paragraph 28">28</a><div class="ptext">The licensing record should show more than an entity name. Japan, Hong Kong and South Korea demonstrate the importance of linking a provider to its activities and continuing duties. Pakistan&#x27;s public register should list exchange, brokerage, custody, transfer, lending, issuance or other permissions separately, identify conditions and show suspension, surrender or wind-down. A customer should be able to distinguish a preliminary incorporation approval from a final activity licence without reading a press release.</div></div><div class="para" id="p29"><a class="pnum" href="#p29" aria-label="Paragraph 29">29</a><div class="ptext">Regional experience also supports risk-based foreign recognition rather than automatic equivalence. A provider licensed in Singapore, Hong Kong or Australia may be well supervised, but Pakistani authorities still need access to records, cooperation, customer remedies and a lawful route when permission changes abroad. Recognition should specify the activity and can be withdrawn on stated grounds. It should never imply that foreign monetary, tax or insolvency law displaces Pakistan&#x27;s mandatory rules.</div></div><div class="para" id="p30"><a class="pnum" href="#p30" aria-label="Paragraph 30">30</a><div class="ptext">Finally, comparison should remain dynamic but source-controlled. Asia-Pacific regimes changed rapidly between 2024 and 2026. An annual review should record enactment, commencement, official rule changes, licensing evidence and leading judgments in separate columns. Policy speeches and consultation papers can explain direction but should not overwrite the current-law column. This discipline is particularly important where reform dates have been deferred or a pilot is described as a national framework.</div></div><div class="para" id="p31"><a class="pnum" href="#p31" aria-label="Paragraph 31">31</a><div class="ptext">Market integrity requires the same functional method. South Korea&#x27;s unfair-trading controls, Hong Kong&#x27;s platform supervision and Japan&#x27;s exchange rules operate within distinct statutes. Pakistan should define manipulation, deceptive conduct, conflicts and misuse of customer orders for the markets it actually supervises. Surveillance data should support investigation, not automatically determine liability. Where SECP securities law and PVARA rules both engage the same conduct, referral and penalty coordination should preserve lawful competence and prevent duplicate punishment.</div></div><div class="para" id="p32"><a class="pnum" href="#p32" aria-label="Paragraph 32">32</a><div class="ptext">Retail access should be evaluated through evidence rather than foreign fashion. Suitability, warnings, leverage restrictions and product limits can reduce harm, but excessive complexity or broad banking exclusion can shift citizens to offshore channels. Pakistan should monitor complaints, losses, access, concentration and unauthorised-provider use, and revise controls through published reasons. That balanced feedback loop is more transferable than any region&#x27;s present list of permitted assets.</div></div><div class="para" id="p33"><a class="pnum" href="#p33" aria-label="Paragraph 33">33</a><div class="ptext">Courts remain part of that loop. <em>IAMAI</em> and <em>Cryptopia</em> answered different constitutional and private-law questions, yet both show the value of reasoned adjudication when regulation or failure exposes an unresolved assumption. Pakistan should ensure that PVARA decisions generate a record fit for review and that insolvency proceedings can obtain custody evidence. Comparative doctrine is most useful when it improves that domestic decisional method.</div></div><h2 id="sx30" class="sec lvl2">Chapter 20 Conclusion</h2><div class="para" id="p34"><a class="pnum" href="#p34" aria-label="Paragraph 34">34</a><div class="ptext">Asia-Pacific comparison defeats simple categories. Permission may coexist with strict retail controls; state tokenisation may coexist with restrictions on private currencies; and tax or AML coverage may coexist with an incomplete market perimeter. The correct comparative question is not which jurisdiction is friendliest, but which institution performs each legal function and with what evidence of operational capacity.</div></div>
+    <section class="notes" aria-label="Footnotes">
+      <h2>Footnotes</h2>
+      <ol><li id="fn1"><a class="backref" href="#fnref1" aria-label="Back to text">&#8593;</a> Payment Services Act of Japan, Act No 59 of 2009, as amended; Financial Services Agency, ‘Addition of countries and regions subject to the Travel Rule’ (7 July 2026), effective 3 August 2026.</li><li id="fn2"><a class="backref" href="#fnref2" aria-label="Back to text">&#8593;</a> Payment Services Act 2019 (Singapore); Monetary Authority of Singapore, Notices PSN01, PSN02 and PSN05, as applicable.</li><li id="fn3"><a class="backref" href="#fnref3" aria-label="Back to text">&#8593;</a> Securities and Futures Commission, <em>Guidelines for Virtual Asset Trading Platform Operators</em> (June 2023, as amended); Anti-Money Laundering and Counter-Terrorist Financing Ordinance (Cap 615).</li><li id="fn4"><a class="backref" href="#fnref4" aria-label="Back to text">&#8593;</a> Stablecoins Ordinance (Cap 656) (Hong Kong); Hong Kong Monetary Authority, announcement of first stablecoin issuer licences (10 April 2026).</li><li id="fn5"><a class="backref" href="#fnref5" aria-label="Back to text">&#8593;</a> People&#x27;s Bank of China and others, ‘Notice on Further Preventing and Resolving the Risks of Virtual Currency Trading and Speculation’ (24 September 2021).</li><li id="fn6"><a class="backref" href="#fnref6" aria-label="Back to text">&#8593;</a> Act on the Protection of Virtual Asset Users (Republic of Korea), effective 19 July 2024; Financial Services Commission, implementation materials (2024).</li><li id="fn7"><a class="backref" href="#fnref7" aria-label="Back to text">&#8593;</a> Financial Services Commission (Republic of Korea), ‘Revisions to VASP Registration and AML Rules’ (11 August 2026).</li><li id="fn8"><a class="backref" href="#fnref8" aria-label="Back to text">&#8593;</a> <em>Internet and Mobile Association of India v Reserve Bank of India</em> (2020) 10 SCC 274.</li><li id="fn9"><a class="backref" href="#fnref9" aria-label="Back to text">&#8593;</a> Income-tax Act 1961 (India), s 115BBH; Financial Intelligence Unit—India, AML/CFT Guidelines for Reporting Entities Providing Services Related to Virtual Digital Assets (updated January 2026).</li><li id="fn10"><a class="backref" href="#fnref10" aria-label="Back to text">&#8593;</a> Australian Securities and Investments Commission, Information Sheet 225, ‘Crypto assets’ (current 2026).</li><li id="fn11"><a class="backref" href="#fnref11" aria-label="Back to text">&#8593;</a> Corporations Amendment (Digital Assets Framework) Act 2026 (Cth); ASIC, ‘Deadline looms for digital asset businesses to apply for a licence’ (2026), stating passage on 1 April 2026, Royal Assent on 8 April 2026 and commencement on 9 April 2027.</li><li id="fn12"><a class="backref" href="#fnref12" aria-label="Back to text">&#8593;</a> <em>Ruscoe v Cryptopia Ltd (in liq)</em> [2020] NZHC 728, [2020] 2 NZLR 809.</li></ol>
+    </section>
+    <nav class="pager" aria-label="Chapter navigation"><a class="pg-prev" href="chapter-19.html"><span class="pg-dir">&larr; Previous</span><span class="pg-ch">Chapter 19</span><span class="pg-ti">The United Kingdom and European Legal Orders</span></a><a class="pg-all" href="index.html">All chapters</a><a class="pg-next" href="chapter-21.html"><span class="pg-dir">&rarr; Next</span><span class="pg-ch">Chapter 21</span><span class="pg-ti">GCC and Middle Eastern Digital-Asset Orders</span></a></nav>
+  </main>
+</div>
+
+<script>
+const NOTES = {"fn1":"Payment Services Act of Japan, Act No 59 of 2009, as amended; Financial Services Agency, ‘Addition of countries and regions subject to the Travel Rule’ (7 July 2026), effective 3 August 2026.","fn2":"Payment Services Act 2019 (Singapore); Monetary Authority of Singapore, Notices PSN01, PSN02 and PSN05, as applicable.","fn3":"Securities and Futures Commission, <em>Guidelines for Virtual Asset Trading Platform Operators<\/em> (June 2023, as amended); Anti-Money Laundering and Counter-Terrorist Financing Ordinance (Cap 615).","fn4":"Stablecoins Ordinance (Cap 656) (Hong Kong); Hong Kong Monetary Authority, announcement of first stablecoin issuer licences (10 April 2026).","fn5":"People&#x27;s Bank of China and others, ‘Notice on Further Preventing and Resolving the Risks of Virtual Currency Trading and Speculation’ (24 September 2021).","fn6":"Act on the Protection of Virtual Asset Users (Republic of Korea), effective 19 July 2024; Financial Services Commission, implementation materials (2024).","fn7":"Financial Services Commission (Republic of Korea), ‘Revisions to VASP Registration and AML Rules’ (11 August 2026).","fn8":"<em>Internet and Mobile Association of India v Reserve Bank of India<\/em> (2020) 10 SCC 274.","fn9":"Income-tax Act 1961 (India), s 115BBH; Financial Intelligence Unit—India, AML/CFT Guidelines for Reporting Entities Providing Services Related to Virtual Digital Assets (updated January 2026).","fn10":"Australian Securities and Investments Commission, Information Sheet 225, ‘Crypto assets’ (current 2026).","fn11":"Corporations Amendment (Digital Assets Framework) Act 2026 (Cth); ASIC, ‘Deadline looms for digital asset businesses to apply for a licence’ (2026), stating passage on 1 April 2026, Royal Assent on 8 April 2026 and commencement on 9 April 2027.","fn12":"<em>Ruscoe v Cryptopia Ltd (in liq)<\/em> [2020] NZHC 728, [2020] 2 NZLR 809."};
+
+/* Footnotes as inline popovers, with the anchor link preserved underneath. */
+function upgradeFootnotes(root) {
+  root.querySelectorAll('sup.fnref > a').forEach(a => {
+    const id = (a.getAttribute('href') || '').slice(1);
+    if (!NOTES[id]) return;
+    const btn = document.createElement('button');
+    btn.className = 'fnbtn';
+    btn.type = 'button';
+    btn.textContent = a.textContent;
+    btn.setAttribute('aria-expanded', 'false');
+    btn.setAttribute('aria-label', 'Footnote ' + a.textContent);
+    btn.dataset.fn = id;
+    a.parentNode.replaceChild(btn, a);
+  });
+}
+upgradeFootnotes(document);
+
+let openPop = null;
+function closePop() {
+  if (!openPop) return;
+  openPop.btn.setAttribute('aria-expanded', 'false');
+  openPop.el.remove();
+  openPop = null;
+}
+document.addEventListener('click', e => {
+  const btn = e.target.closest('button.fnbtn');
+  if (!btn) { if (!e.target.closest('.fnpop')) closePop(); return; }
+  const wasOpen = openPop && openPop.btn === btn;
+  closePop();
+  if (wasOpen) return;
+  const pop = document.createElement('div');
+  pop.className = 'fnpop';
+  pop.innerHTML = '<button class="close" aria-label="Close">&times;</button>' + NOTES[btn.dataset.fn];
+  document.body.appendChild(pop);
+  const r = btn.getBoundingClientRect();
+  const top = r.bottom + window.scrollY + 6;
+  let left = r.left + window.scrollX - 20;
+  left = Math.max(10, Math.min(left, window.scrollX + document.documentElement.clientWidth - pop.offsetWidth - 10));
+  pop.style.top = top + 'px';
+  pop.style.left = left + 'px';
+  btn.setAttribute('aria-expanded', 'true');
+  openPop = { btn, el: pop };
+  pop.querySelector('.close').addEventListener('click', closePop);
+});
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closePop(); });
+window.addEventListener('resize', closePop);
+
+/* Sidebar: current-section highlight. */
+const links = [...document.querySelectorAll('.sidebar .seclist a')];
+const targets = links.map(a => document.getElementById(a.getAttribute('href').slice(1))).filter(Boolean);
+const spy = new IntersectionObserver(entries => {
+  entries.forEach(en => {
+    if (!en.isIntersecting) return;
+    links.forEach(l => l.classList.remove('here'));
+    const hit = links.find(l => l.getAttribute('href') === '#' + en.target.id);
+    if (hit) hit.classList.add('here');
+  });
+}, { rootMargin: '-64px 0px -75% 0px' });  /* px or % only; rem throws */
+targets.forEach(t => spy.observe(t));
+
+/* Mobile contents toggle. */
+const toggle = document.getElementById('navtoggle');
+toggle.addEventListener('click', () => {
+  const open = document.getElementById('sidebar').classList.toggle('open');
+  toggle.setAttribute('aria-expanded', String(open));
+});
+
+/* Search, scoped to this chapter only. */
+const paras = [...document.querySelectorAll('.para')];
+const originals = paras.map(p => p.querySelector('.ptext').innerHTML);
+const note = document.getElementById('searchnote');
+const q = document.getElementById('q');
+let timer;
+q.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(run, 140); });
+
+/* Wrap matches in the text nodes only, so tags and footnote buttons survive. */
+function highlight(el, term) {
+  const rx = new RegExp('(' + term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+  const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
+  const nodes = [];
+  for (let n = walker.nextNode(); n; n = walker.nextNode()) nodes.push(n);
+  let found = 0;
+  nodes.forEach(n => {
+    rx.lastIndex = 0;
+    if (!rx.test(n.nodeValue)) return;
+    rx.lastIndex = 0;
+    found++;
+    const frag = document.createDocumentFragment();
+    let last = 0, m;
+    while ((m = rx.exec(n.nodeValue)) !== null) {
+      frag.appendChild(document.createTextNode(n.nodeValue.slice(last, m.index)));
+      const mk = document.createElement('mark');
+      mk.textContent = m[0];
+      frag.appendChild(mk);
+      last = m.index + m[0].length;
+      if (m[0] === '') rx.lastIndex++;
+    }
+    frag.appendChild(document.createTextNode(n.nodeValue.slice(last)));
+    n.parentNode.replaceChild(frag, n);
+  });
+  return found > 0;
+}
+
+function run() {
+  const term = q.value.trim();
+  closePop();
+  paras.forEach((p, i) => {
+    const el = p.querySelector('.ptext');
+    el.innerHTML = originals[i];   // discards the upgraded footnote buttons,
+    upgradeFootnotes(el);          // so rebuild them on the restored markup
+    p.classList.remove('nohit');
+  });
+  if (term.length < 2) { note.hidden = true; return; }
+  let hits = 0;
+  paras.forEach(p => {
+    if (highlight(p.querySelector('.ptext'), term)) hits++;
+    else p.classList.add('nohit');
+  });
+  note.hidden = false;
+  note.textContent = hits
+    ? hits + ' paragraph' + (hits === 1 ? '' : 's') + ' matching \u201c' + term + '\u201d'
+    : 'No match in this chapter.';
+}
+</script>
+<script src="../assets/js/codex-config.js"></script>
+<script src="../assets/js/codex-auth.js"></script>
+<footer class="works-strip"><div class="in">
+  <h2>The works of the JUSNREM Codex</h2>
+  <div class="row"><a class="w here" href="../code-law-and-capital/" style="--acc:#43652E"><b>Code, Law and Capital</b><span>Digital assets and the emerging global legal order</span><i>Read &rarr;</i></a><a class="w" href="https://jus-automica.digital/" rel="noopener" style="--acc:#652E43"><b>JUS.automica</b><span>How law remains law when intelligence is distributed</span><i>Programme site &nearr;</i></a><div class="w" style="--acc:#2E4365"><b>The Constitution of Fiscal Order</b><span>Public finance and taxation in Pakistan</span><i>Forthcoming</i></div></div>
+  <p class="foot"><a href="../index.html">JUSNREM Codex home</a> &middot; <a href="../account.html">Account</a> &middot; Every work is open to read.</p>
+</div></footer>
+</body>
+</html>

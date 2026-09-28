@@ -1,351 +1,320 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Code, Law and Capital — Digital Codex v0.25</title>
-<meta name="description" content="The twenty-six-chapter online reading Codex for Code, Law and Capital.">
-<meta property="og:title" content="Code, Law and Capital — Digital Codex v0.25">
-<meta property="og:description" content="A paragraph-level online reading edition across all twenty-six chapters.">
-<meta property="og:type" content="website">
-<meta property="og:image" content="/og.png">
-<meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>JUSNREM Codex — Legal Intelligence Ecosystem</title>
+<meta name="description" content="The JUSNREM Codex: a legal intelligence ecosystem holding the treatises, registers and applied frameworks of Khurram Chughtai, published with their status and limits visible.">
+<link rel="canonical" href="https://jusnrem.digital/">
+<style>
+:root{
+  --ground:#EEF0F0; --surface:#FFFFFF; --ink:#111516; --ink-2:#3C484D; --ink-3:#56676E;
+  --gold:#43652E; --gold-soft:rgba(67,101,46,.10); --rule:#CCD1D4; --rule-2:#DDE1E2;
+  /* per-library accents, drawn from each work's own identity */
+  --clc:#43652E; --ja:#652E43; --cfo:#2E4365; --reg:#698458;
+  --sans:Aptos,"Segoe UI",system-ui,Inter,Helvetica,Arial,sans-serif;
+  --serif:Georgia,"Iowan Old Style","Times New Roman",serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:4.5rem}
+body{margin:0;background:var(--ground);color:var(--ink);
+  font:400 .95rem/1.62 var(--sans);-webkit-font-smoothing:antialiased}
+
+.masthead{position:sticky;top:0;z-index:50;background:rgba(238,240,240,.94);
+  backdrop-filter:blur(8px);border-bottom:1px solid var(--rule)}
+.masthead .in{max-width:74rem;margin:0 auto;padding:.7rem 1.4rem;display:flex;align-items:center;gap:1.4rem}
+.brand{text-decoration:none;color:var(--ink);line-height:1.15}
+.brand b{display:block;font:600 .78rem/1 var(--sans);letter-spacing:.19em;text-transform:uppercase}
+.brand span{display:block;margin-top:.22rem;font:400 .64rem/1 var(--sans);
+  letter-spacing:.13em;text-transform:uppercase;color:var(--ink-3)}
+.mnav{margin-left:auto;display:flex;gap:1.25rem}
+.mnav a{font:500 .74rem/1 var(--sans);letter-spacing:.05em;color:var(--ink-2);
+  text-decoration:none;padding:.3rem 0;border-bottom:1px solid transparent}
+.mnav a:hover{color:var(--ink);border-bottom-color:var(--gold)}
+
+.wrap{max-width:74rem;margin:0 auto;padding:0 1.4rem}
+
+.hero{padding:4.4rem 0 3.4rem;border-bottom:1px solid var(--rule)}
+.chip{display:inline-block;font:600 .62rem/1 var(--sans);letter-spacing:.16em;text-transform:uppercase;
+  padding:.4rem .62rem;border:1px solid var(--rule);color:var(--ink-2);background:var(--surface)}
+.chip.mark{border-color:var(--gold);color:#2F4720}
+h1{margin:1.7rem 0 0;max-width:19ch;font:400 clamp(2.2rem,5.2vw,3.5rem)/1.12 var(--serif);
+  letter-spacing:-.013em;text-wrap:balance}
+h1 em{font-style:normal;color:var(--gold)}
+.standfirst{margin:1.6rem 0 0;max-width:58ch;font-size:1.07rem;line-height:1.66;color:var(--ink-2)}
+
+section{padding:3.4rem 0;border-bottom:1px solid var(--rule)}
+.seclabel{font:600 .64rem/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;
+  color:var(--ink-3);margin-bottom:1.1rem}
+.seclabel i{font-style:normal;color:var(--gold);margin-right:.55rem}
+h2{margin:0 0 1.1rem;max-width:36ch;font:400 clamp(1.35rem,2.6vw,1.9rem)/1.28 var(--serif);
+  letter-spacing:-.008em;text-wrap:balance}
+.lede{max-width:62ch;color:var(--ink-2);margin:0 0 2rem}
+
+/* ---------- the libraries ---------- */
+.shelf{display:grid;gap:1.1rem}
+.work{position:relative;display:block;text-decoration:none;color:inherit;background:var(--surface);
+  border:1px solid var(--rule);padding:1.6rem 1.7rem 1.5rem 2.2rem;transition:border-color .15s,transform .15s}
+.work::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--accent,var(--gold))}
+a.work:hover{border-color:var(--accent,var(--gold));transform:translateX(2px)}
+.work .top{display:flex;flex-wrap:wrap;align-items:baseline;gap:.8rem;margin-bottom:.55rem}
+.work h3{margin:0;font:600 1.12rem/1.28 var(--sans);letter-spacing:-.005em}
+.work .kind{font:600 .6rem/1 var(--sans);letter-spacing:.15em;text-transform:uppercase;color:var(--accent,var(--gold))}
+.work p{margin:0;max-width:62ch;font-size:.9rem;line-height:1.6;color:var(--ink-2)}
+.editions{margin-top:1.1rem;display:flex;flex-wrap:wrap;gap:.35rem}
+.editions .ed{font:500 .68rem/1 var(--sans);letter-spacing:.03em;padding:.4rem .6rem;
+  border:1px dashed var(--rule);color:var(--ink-3);background:var(--ground)}
+.editions .ed.live{border-style:solid;border-color:var(--accent);color:var(--accent);font-weight:600}
+.work .meta{margin-top:1rem;display:flex;flex-wrap:wrap;gap:.45rem .5rem;align-items:center}
+.tag{font:600 .6rem/1 var(--sans);letter-spacing:.13em;text-transform:uppercase;
+  padding:.35rem .55rem;border:1px solid var(--rule-2);color:var(--ink-3);background:var(--ground)}
+.tag.live{border-color:var(--accent);color:var(--accent)}
+.work .go{margin-left:auto;font:600 .68rem/1 var(--sans);letter-spacing:.11em;
+  text-transform:uppercase;color:var(--accent,var(--gold))}
+.work.soon{opacity:.92}
+.work .go.muted{color:var(--ink-3)}
+
+/* ---------- governance ---------- */
+.rules{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:.1rem}
+.rules div{padding:1.15rem 1.25rem;background:var(--surface);border:1px solid var(--rule-2);margin:-1px 0 0 -1px}
+.rules dt{font:600 .64rem/1 var(--sans);letter-spacing:.15em;text-transform:uppercase;
+  color:var(--gold);margin-bottom:.5rem}
+.rules dd{margin:0;font-size:.87rem;line-height:1.55;color:var(--ink-2)}
+.vocab{margin-top:1.6rem;display:flex;flex-wrap:wrap;gap:.45rem}
+.caveat{margin:1.6rem 0 0;max-width:64ch;font-size:.85rem;color:var(--ink-2)}
+
+/* ---------- ecosystem ---------- */
+.eco{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:.1rem}
+.eco a{display:block;padding:1.05rem 1.15rem;text-decoration:none;background:var(--surface);
+  border:1px solid var(--rule-2);margin:-1px 0 0 -1px;transition:background .13s}
+.eco a:hover{background:var(--gold-soft)}
+.eco .dom{display:block;font:600 .8rem/1.3 var(--sans);color:var(--ink);margin-bottom:.28rem}
+.eco .role{display:block;font-size:.8rem;line-height:1.5;color:var(--ink-2)}
+
+footer{padding:2.6rem 0 3.6rem;font-size:.8rem;color:var(--ink-3)}
+footer .mark{font:600 .62rem/1.6 var(--sans);letter-spacing:.15em;text-transform:uppercase;
+  color:var(--ink-2);margin-bottom:.8rem}
+footer p{margin:.45rem 0;max-width:66ch}
+a{color:var(--ink)}
+
+@media (max-width:760px){
+  .mnav{display:none}
+  section{padding:2.6rem 0}
+  .work{padding:1.3rem 1.2rem 1.2rem 1.6rem}
+  .work .go{margin-left:0}
+}
+.herofoot{margin-top:2.4rem;display:flex;flex-wrap:wrap;gap:.7rem;align-items:center}
+.btn{display:inline-block;font:600 .74rem/1 var(--sans);letter-spacing:.11em;text-transform:uppercase;
+  padding:.72rem 1.15rem;text-decoration:none;border:1px solid var(--ink);color:var(--ink);
+  background:transparent;transition:background .15s,color .15s}
+.btn:hover{background:var(--ink);color:var(--surface)}
+.btn.primary{background:var(--ink);color:var(--surface)}
+.btn.primary:hover{background:var(--gold);border-color:var(--gold);color:#fff}
+</style>
+<link rel="stylesheet" href="assets/css/codex-chrome.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;650&family=Spectral:wght@400;600&family=Archivo:wght@400;700;750;800&family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
-<style>
-:root {
-  --font-display: 'Cormorant Garamond', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
-  --font-reading: Spectral, Charter, 'Bitstream Charter', Georgia, serif;
-  --font-interface: Archivo, 'Avenir Next', 'Segoe UI', sans-serif;
-  --font-code: 'IBM Plex Mono', 'Cascadia Mono', Consolas, monospace;
-}
-* { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
-body { margin: 0; background: #f1ede4; color: #17261d; font-family: var(--font-interface); }
-button, input, select { font: inherit; }
-button { color: inherit; }
-a { color: inherit; text-decoration: none; }
-svg { display: block; }
-
-/* Twenty-six-chapter Digital Codex portal */
-.portal-shell { min-height: 100vh; background: #f1ede4; color: #17261d; }
-.portal-header {
-  position: sticky; top: 0; z-index: 50; display: grid; grid-template-columns: minmax(270px, 1fr) auto minmax(170px, 1fr);
-  align-items: center; min-height: 72px; padding: 10px clamp(18px, 2.7vw, 44px); border-bottom: 1px solid #cec6b6;
-  background: rgba(241, 237, 228, .96); backdrop-filter: blur(14px);
-}
-.portal-brand { display: inline-flex; align-items: center; width: max-content; gap: 13px; padding: 0; border: 0; background: transparent; cursor: pointer; text-align: left; }
-.portal-brand > span:first-child { display: grid; place-items: center; width: 40px; height: 40px; background: #233b2c; color: #fffdf6; font-family: var(--font-display); font-size: 15px; letter-spacing: .08em; }
-.portal-brand > span:last-child { display: grid; }
-.portal-brand strong { font-family: var(--font-display); font-size: 20px; font-weight: 650; line-height: 1; }
-.portal-brand small { margin-top: 6px; color: #69736c; font-size: 9px; font-weight: 750; letter-spacing: .16em; text-transform: uppercase; }
-.portal-header-meta { display: flex; gap: 18px; color: #667168; font-size: 9px; font-weight: 700; letter-spacing: .11em; text-transform: uppercase; }
-.portal-header > a { display: inline-flex; align-items: center; justify-self: end; gap: 7px; padding-bottom: 3px; border-bottom: 1px solid #a8813c; color: #5f492a; font-size: 9px; font-weight: 750; letter-spacing: .1em; text-transform: uppercase; }
-.portal-header > a svg { width: 13px; }
-.portal-mobile-select { display: none; }
-.portal-layout { display: grid; grid-template-columns: minmax(278px, 19vw) minmax(0, 1fr); min-height: calc(100vh - 72px); }
-.portal-layout > aside { position: sticky; top: 72px; height: calc(100vh - 72px); overflow-y: auto; border-right: 1px solid #cec6b6; background: #f1ede4; }
-.portal-contents { padding: 28px 16px 70px clamp(18px, 2.2vw, 36px); }
-.portal-overview { display: grid; grid-template-columns: 25px 1fr; width: 100%; gap: 9px; padding: 11px 9px; border: 0; border-left: 2px solid transparent; background: transparent; cursor: pointer; text-align: left; }
-.portal-overview svg { width: 16px; color: #a8813c; }
-.portal-overview span { display: grid; }
-.portal-overview strong { font-family: var(--font-reading); font-size: 14px; }
-.portal-overview small { margin-top: 4px; color: #748078; font-size: 9px; }
-.portal-overview:hover, .portal-overview.active { border-left-color: #a8813c; background: rgba(168,129,60,.09); }
-.portal-filter { display: flex; align-items: center; gap: 8px; margin: 22px 8px 4px; padding: 0 9px; border: 1px solid #cec6b6; background: #fbf8f0; }
-.portal-filter svg { width: 14px; color: #a8813c; }
-.portal-filter input { min-width: 0; width: 100%; height: 36px; border: 0; outline: 0; background: transparent; color: #17261d; font-size: 11px; }
-.portal-filter input::placeholder { color: #879087; }
-.portal-part { margin-top: 28px; }
-.portal-part > p { margin: 0 8px 7px; color: #a07840; font-size: 8px; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
-.portal-part > h2 { margin: 0 8px 9px; font-family: var(--font-display); font-size: 18px; font-weight: 650; line-height: 1.08; }
-.portal-chapter { display: grid; grid-template-columns: 24px 1fr; width: 100%; gap: 7px; padding: 8px 7px; border: 0; border-left: 2px solid transparent; background: transparent; color: #526057; cursor: pointer; font-family: var(--font-reading); font-size: 12px; line-height: 1.34; text-align: left; }
-.portal-chapter > span:first-child { padding-top: 2px; color: #7e877f; font-family: var(--font-code); font-size: 8px; }
-.portal-chapter:hover, .portal-chapter.active { border-left-color: #a8813c; background: rgba(168,129,60,.09); color: #17261d; }
-
-.portal-overview-page { min-width: 0; max-width: 1120px; padding: clamp(58px, 8vw, 116px) clamp(34px, 8vw, 128px) 100px; background: #fbf8f0; box-shadow: 0 12px 50px rgba(27,43,33,.11); }
-.portal-kicker { margin: 0 0 27px; color: #a07840; font-size: 9px; font-weight: 800; letter-spacing: .18em; text-transform: uppercase; }
-.portal-overview-page > h1 { display: grid; margin: 0; font-family: var(--font-display); font-size: clamp(66px, 8vw, 112px); font-weight: 500; line-height: .78; letter-spacing: -.045em; }
-.portal-overview-page > h1 span:last-child { padding-left: clamp(24px, 6vw, 84px); color: #a07840; }
-.portal-deck { max-width: 740px; margin: 42px 0 28px; color: #445248; font-family: var(--font-reading); font-size: clamp(20px, 2vw, 28px); line-height: 1.5; }
-.portal-status { display: flex; flex-wrap: wrap; align-items: center; gap: 0; width: max-content; max-width: 100%; margin-bottom: 28px; border: 1px solid #cec6b6; }
-.portal-status > * { padding: 8px 11px; border-right: 1px solid #cec6b6; font-size: 9px; letter-spacing: .1em; text-transform: uppercase; }
-.portal-status > *:last-child { border-right: 0; }
-.portal-status strong { background: #233b2c; color: #fffdf6; font-weight: 800; }
-.portal-actions { display: flex; flex-wrap: wrap; gap: 9px; margin-bottom: 78px; }
-.portal-actions button, .portal-actions a { display: inline-flex; align-items: center; justify-content: center; height: 40px; gap: 9px; padding: 0 16px; border: 1px solid #233b2c; background: transparent; cursor: pointer; font-size: 9px; font-weight: 750; letter-spacing: .09em; text-transform: uppercase; }
-.portal-actions button { background: #233b2c; color: #fffdf6; }
-.portal-actions svg { width: 14px; }
-.portal-thesis { margin: 0 calc(clamp(34px, 8vw, 128px) * -1); padding: 58px clamp(34px, 8vw, 128px); background: #233b2c; color: #fffdf6; }
-.portal-thesis > p, .portal-map-head > p, .portal-provenance > p { margin: 0 0 17px; color: #d8b77f; font-size: 9px; font-weight: 800; letter-spacing: .17em; text-transform: uppercase; }
-.portal-thesis blockquote { max-width: 850px; margin: 0; font-family: var(--font-display); font-size: clamp(31px, 4vw, 48px); line-height: 1.22; }
-.portal-map { padding: 80px 0 25px; }
-.portal-map-head { display: grid; grid-template-columns: 1fr 1.1fr; gap: 28px; padding-bottom: 34px; border-bottom: 3px solid #233b2c; }
-.portal-map-head > p { grid-column: 1 / -1; margin: 0; color: #a07840; }
-.portal-map-head h2 { margin: 0; font-family: var(--font-display); font-size: 42px; font-weight: 600; line-height: 1.02; }
-.portal-map-head > span { color: #526057; font-family: var(--font-reading); font-size: 15px; line-height: 1.68; }
-.portal-part-grid { display: grid; grid-template-columns: 1fr 1fr; }
-.portal-part-grid button { position: relative; min-height: 180px; padding: 24px 50px 24px 0; border: 0; border-bottom: 1px solid #cec6b6; background: transparent; cursor: pointer; text-align: left; }
-.portal-part-grid button:nth-child(odd) { padding-right: 27px; border-right: 1px solid #cec6b6; }
-.portal-part-grid button:nth-child(even) { padding-left: 27px; }
-.portal-part-grid button:hover { background: rgba(168,129,60,.08); }
-.portal-part-grid button > span { color: #a07840; font-size: 8px; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
-.portal-part-grid h3 { margin: 17px 0 12px; font-family: var(--font-display); font-size: 25px; font-weight: 600; line-height: 1.08; }
-.portal-part-grid p { margin: 0; color: #667168; font-size: 9px; letter-spacing: .09em; text-transform: uppercase; }
-.portal-part-grid svg { position: absolute; right: 16px; bottom: 24px; width: 16px; color: #a07840; }
-.portal-provenance { display: grid; grid-template-columns: .55fr 1.45fr; gap: 42px; margin-top: 62px; padding: 33px 0; border-top: 1px solid #cec6b6; border-bottom: 1px solid #cec6b6; }
-.portal-provenance > p { margin: 3px 0 0; color: #a07840; }
-.portal-provenance h2 { margin: 0 0 12px; font-family: var(--font-display); font-size: 30px; font-weight: 600; }
-.portal-provenance div > p { margin: 0; color: #526057; font-family: var(--font-reading); font-size: 14px; line-height: 1.72; }
-
-.portal-reader-stage { min-width: 0; background: #fbf8f0; }
-.portal-reader-meta { display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 30px; min-height: 86px; padding: 15px clamp(20px, 3vw, 45px); border-bottom: 1px solid #cec6b6; }
-.portal-reader-meta > div { display: grid; gap: 4px; }
-.portal-reader-meta > div:last-child { justify-items: end; text-align: right; }
-.portal-reader-meta span { color: #a07840; font-size: 8px; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
-.portal-reader-meta strong { font-family: var(--font-display); font-size: 20px; font-weight: 650; line-height: 1.1; }
-.portal-reader-meta > div:last-child strong { font-family: var(--font-interface); font-size: 10px; letter-spacing: .05em; }
-.portal-reader-meta small { max-width: 380px; overflow: hidden; color: #788179; font-family: var(--font-code); font-size: 8px; text-overflow: ellipsis; white-space: nowrap; }
-.portal-reader-stage iframe { display: block; width: 100%; height: calc(100vh - 72px - 86px - 46px); min-height: 620px; border: 0; background: #fbf9f2; }
-.portal-reader-pager { display: grid; grid-template-columns: 1fr 1fr; min-height: 46px; border-top: 1px solid #cec6b6; }
-.portal-reader-pager button { display: inline-flex; align-items: center; gap: 7px; padding: 0 20px; border: 0; background: transparent; color: #526057; cursor: pointer; font-size: 9px; font-weight: 750; letter-spacing: .09em; text-transform: uppercase; }
-.portal-reader-pager button:last-child { justify-self: end; }
-.portal-reader-pager button:hover { color: #a07840; }
-.portal-reader-pager svg { width: 13px; }
-
-@media (max-width: 980px) {
-  .portal-header { grid-template-columns: 1fr auto; }
-  .portal-header-meta { display: none; }
-  .portal-layout { grid-template-columns: 250px minmax(0, 1fr); }
-  .portal-reader-meta { grid-template-columns: 1fr; gap: 8px; }
-  .portal-reader-meta > div:last-child { display: none; }
-  .portal-reader-stage iframe { height: calc(100vh - 72px - 86px - 46px); }
-}
-
-@media (max-width: 760px) {
-  .portal-header { position: static; min-height: 66px; padding: 9px 15px; }
-  .portal-brand > span:first-child { width: 36px; height: 36px; }
-  .portal-brand strong { font-size: 17px; }
-  .portal-brand small { font-size: 8px; }
-  .portal-header > a { font-size: 0; }
-  .portal-header > a svg { width: 17px; }
-  .portal-mobile-select { display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 10px; padding: 9px 15px; border-bottom: 1px solid #cec6b6; background: #fbf8f0; }
-  .portal-mobile-select > span { color: #a07840; font-size: 8px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
-  .portal-mobile-select select { min-width: 0; width: 100%; height: 35px; border: 1px solid #cec6b6; background: #fffdf7; color: #17261d; font-family: var(--font-reading); font-size: 12px; }
-  .portal-layout { display: block; min-height: 0; }
-  .portal-layout > aside { display: none; }
-  .portal-overview-page { padding: 52px 23px 70px; box-shadow: none; }
-  .portal-overview-page > h1 { font-size: clamp(58px, 18vw, 84px); }
-  .portal-overview-page > h1 span:last-child { padding-left: 18px; }
-  .portal-deck { font-size: 20px; }
-  .portal-actions > * { width: 100%; }
-  .portal-thesis { margin-inline: -23px; padding: 45px 23px; }
-  .portal-map-head { grid-template-columns: 1fr; gap: 16px; }
-  .portal-map-head > p { grid-column: auto; }
-  .portal-map-head h2 { font-size: 35px; }
-  .portal-part-grid { grid-template-columns: 1fr; }
-  .portal-part-grid button, .portal-part-grid button:nth-child(odd), .portal-part-grid button:nth-child(even) { min-height: 146px; padding: 23px 42px 23px 0; border-right: 0; }
-  .portal-provenance { grid-template-columns: 1fr; gap: 14px; }
-  .portal-reader-meta { min-height: 78px; padding: 12px 16px; }
-  .portal-reader-meta strong { font-size: 18px; }
-  .portal-reader-stage iframe { height: calc(100vh - 66px - 54px - 78px - 46px); min-height: 560px; }
-}
-</style>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/codex-platform.css">
 </head>
-<body>
-<div id="root"></div>
-<script>
-const PARTS = [
-  { number: 1, title: 'Foundations and the Governing Triad', range: 'Chapters 1–6' },
-  { number: 2, title: "Pakistan’s Digital and Virtual-Asset Legal Order", range: 'Chapters 7–9' },
-  { number: 3, title: 'Financial, Property, Integrity and Fiscal Order', range: 'Chapters 10–13' },
-  { number: 4, title: 'Digital Systems, Institutions, Rights and Remedies', range: 'Chapters 14–17' },
-  { number: 5, title: 'Comparative Digital-Asset Orders', range: 'Chapters 18–22' },
-  { number: 6, title: 'Global Standards and International Law', range: 'Chapters 23–25' },
-  { number: 7, title: "Building Pakistan’s Future Digital-Asset Order", range: 'Chapter 26' },
-];
+<body data-page="home">
 
-const CHAPTERS = [
-  { number: 1, title: 'The Governing Thesis: Code, Law and Capital', built: '1 September 2026, 03:49', part: 1 },
-  { number: 2, title: 'From Electronic Value to the Global Digital-Asset Order', built: '1 September 2026, 20:04', part: 1 },
-  { number: 3, title: "Pakistan’s Digital-Asset Order: From Perimeter Preservation to Statutory Recognition", built: '1 September 2026, 03:49', part: 1 },
-  { number: 4, title: 'Code: Digital-Asset Technologies, Functions and Control', built: '1 September 2026, 03:49', part: 1 },
-  { number: 5, title: 'Law: Authority, Interpretation and the Digital Legal Order', built: '31 August 2026', part: 1 },
-  { number: 6, title: 'Capital: Markets, Monetary Sovereignty and Distribution', built: '1 September 2026, 03:49', part: 1 },
-  { number: 7, title: "Pakistan’s Digital, Electronic and ICT Legal Architecture", built: '1 September 2026, 09:06', part: 2 },
-  { number: 8, title: 'The Virtual Assets Act 2026 and PVARA', built: '1 September 2026, 09:06', part: 2 },
-  { number: 9, title: 'Market Entry, Existing Participants and Transitional Legality', built: '1 September 2026, 20:04', part: 2 },
-  { number: 10, title: 'The Monetary and Financial Perimeter', built: '1 September 2026, 09:06', part: 3 },
-  { number: 11, title: 'Property, Custody, Customer Assets, Insolvency and Market Conduct', built: '31 August 2026', part: 3 },
-  { number: 12, title: 'Financial Integrity, Sanctions and Evidentiary Enforcement', built: '1 September 2026, 20:04', part: 3 },
-  { number: 13, title: 'Fiscal Order: Recognition, Taxation, Disclosure and Public Finance', built: '31 August 2026', part: 3 },
-  { number: 14, title: 'Data, Cybersecurity, Digital Identity and Evidence', built: '31 August 2026', part: 4 },
-  { number: 15, title: 'Smart Contracts, DeFi, DAOs and Autonomous Systems', built: '1 September 2026, 09:44', part: 4 },
-  { number: 16, title: 'Institutional Integrity, Federalism and Cross-Border Administration', built: '31 August 2026', part: 4 },
-  { number: 17, title: 'Enforcement, Tribunal, Courts and Constitutional Remedies', built: '31 August 2026', part: 4 },
-  { number: 18, title: 'The United States: Markets, Enforcement and the Contest for Regulatory Authority', built: '1 September 2026, 09:44', part: 5 },
-  { number: 19, title: 'The United Kingdom and European Legal Orders', built: '31 August 2026', part: 5 },
-  { number: 20, title: 'Asian and Asia-Pacific Digital-Asset Orders', built: '1 September 2026, 03:23', part: 5 },
-  { number: 21, title: 'GCC and Middle Eastern Digital-Asset Orders', built: '1 September 2026, 09:44', part: 5 },
-  { number: 22, title: 'ASEAN and Emerging Regional Models', built: '1 September 2026, 20:04', part: 5 },
-  { number: 23, title: 'Global Standards and Transnational Regulatory Coordination', built: '1 September 2026, 09:44', part: 6 },
-  { number: 24, title: 'Public International Law and Digital Assets', built: '1 September 2026, 09:44', part: 6 },
-  { number: 25, title: 'Private International Law and Cross-Border Digital Assets', built: '1 September 2026, 03:23', part: 6 },
-  { number: 26, title: "Building Pakistan’s Digital-Asset Order", built: '31 August 2026', part: 7 },
-];
+<header class="masthead site-head"><div class="in">
+  <a class="brand" href="index.html"><b>JUSNREM Codex</b><span>Legal Intelligence Ecosystem</span></a>
+  <nav aria-label="Site"><a href="code-law-and-capital/">Library</a><a href="search.html">Search</a><a href="authorities.html">Authorities</a><a href="doctrines.html">Doctrines</a><a href="map.html">Map</a></nav>
+</div></header>
+<div class="site-sub"><div class="in" aria-label="On this page"><a href="#libraries">Libraries</a><a href="#governance">Governance</a><a href="#ecosystem">Ecosystem</a></div></div>
 
-const readerPath = (n) => `/readers/chapter-${String(n).padStart(2, '0')}.html`;
-const pad = (n) => String(n).padStart(2, '0');
+<div class="wrap">
 
-function icon(name) {
-  const icons = {
-    book: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>',
-    search: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>',
-    ext: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>',
-    right: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>',
-    left: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="m12 19-7-7 7-7"/></svg>',
-    down: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3"/><path d="m7 10 5 5 5-5"/><path d="M20 21H4"/></svg>',
-  };
-  return icons[name] || '';
-}
+  <div class="hero">
+    <span class="chip mark">First public edition</span>
+    <h1>Law must remain <em>locatable</em> when power changes form.</h1>
+    <p class="standfirst">
+      The Codex holds the treatises, registers and applied frameworks of a
+      continuing inquiry into legal authority, institutional capability and remedy.
+      Each work is published with its status and limits visible, and each proposition
+      is addressed so that it can be found, cited and corrected.
+    </p>
+  </div>
 
-function getSelected() {
-  const v = Number(new URLSearchParams(location.search).get('chapter'));
-  return v >= 1 && v <= 26 ? v : null;
-}
+  <section id="libraries">
+    <div class="seclabel"><i>01</i> The libraries</div>
+    <h2>Distinct works, separately governed, deliberately not merged.</h2>
+    <p class="lede">
+      Each library is a legally and intellectually distinct body of work with its own
+      status, evidence discipline and release schedule. They share a citation scheme
+      and a doctrine register; they do not share conclusions.
+    </p>
 
-function choose(n) {
-  const url = n ? `?chapter=${pad(n)}` : location.pathname;
-  history.pushState({}, '', url);
-  render();
-}
+    <div class="shelf">
 
-function renderContents(selected, filter) {
-  const needle = (filter || '').trim().toLowerCase();
-  const filtered = CHAPTERS.filter((c) => `${c.number} ${c.title}`.toLowerCase().includes(needle));
-  let html = `<nav class="portal-contents" aria-label="Digital Codex contents">
-    <button class="portal-overview${selected === null ? ' active' : ''}" data-choose="">
-      ${icon('book')}<span><strong>Codex overview</strong><small>Edition, scope and reading route</small></span>
-    </button>
-    <label class="portal-filter">${icon('search')}
-      <span style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">Filter chapter titles</span>
-      <input id="chapter-filter" value="${filter ? filter.replace(/"/g, '&quot;') : ''}" placeholder="Find a chapter">
-    </label>`;
-  for (const part of PARTS) {
-    const chapters = filtered.filter((c) => c.part === part.number);
-    if (!chapters.length) continue;
-    html += `<section class="portal-part">
-      <p>Part ${pad(part.number)} · ${part.range}</p>
-      <h2>${part.title}</h2>
-      ${chapters.map((c) => `<button class="portal-chapter${selected === c.number ? ' active' : ''}" data-choose="${c.number}"><span>${pad(c.number)}</span><span>${c.title}</span></button>`).join('')}
-    </section>`;
-  }
-  html += `</nav>`;
-  return html;
-}
+      <a class="work" href="code-law-and-capital/" style="--accent:var(--clc)">
+        <div class="top">
+          <h3>Code, Law and Capital</h3>
+          <span class="kind">Edition family &middot; Digital assets and the emerging global legal order</span>
+        </div>
+        <p>
+          One jurisprudence and one analytical method applied across several legal
+          orders. Architecture determines capability, law determines authority, and
+          capital distributes value, power and loss. A global foundation carries the
+          universal propositions; jurisdictional editions record where each legal
+          order varies, and why.
+        </p>
+        <div class="editions">
+          <span class="ed live">Global Digital Assets Order</span>
+          <span class="ed">Pakistan</span>
+          <span class="ed">GCC</span>
+          <span class="ed">European Union</span>
+          <span class="ed">United States</span>
+          <span class="ed">ASEAN</span>
+        </div>
+        <div class="meta">
+          <span class="tag live">Reading corpus v0.25</span>
+          <span class="tag">Candidate and working research</span>
+          <span class="tag">26 chapters released</span>
+          <span class="go">Enter &rarr;</span>
+        </div>
+      </a>
 
-function renderOverview() {
-  const first = (n) => CHAPTERS.find((c) => c.part === n).number;
-  return `<main class="portal-overview-page">
-    <p class="portal-kicker">KSC · JUSNREM · Digital publication</p>
-    <h1><span>Code, Law</span><span>and Capital</span></h1>
-    <p class="portal-deck">The future of digital assets in Pakistan — presented as a navigable, paragraph-level Digital Codex across all twenty-six chapters.</p>
-    <div class="portal-status"><span>Reading corpus</span><strong>v0.25</strong><span>26 chapters</span><span>7 parts</span></div>
-    <div class="portal-actions">
-      <button data-choose="1">Begin with Chapter 1 ${icon('right')}</button>
-      <a href="/downloads/CLC-Detailed-Contents-26-Chapters.pdf" target="_blank" rel="noreferrer">Detailed contents ${icon('down')}</a>
+      <a class="work soon" href="https://jus-automica.digital/" rel="noopener" style="--accent:var(--ja)">
+        <div class="top">
+          <h3>JUS.automica</h3>
+          <span class="kind">Jurisprudential programme</span>
+        </div>
+        <p>
+          The foundational inquiry: how law remains law when intelligence is
+          distributed. Constitutional authority, competence, attribution, evidence,
+          review and remedy in machine-mediated governance. Three candidate volumes
+          are in development.
+        </p>
+        <div class="meta">
+          <span class="tag">In development</span>
+          <span class="tag">Candidate volumes</span>
+          <span class="go">Programme site &nearr;</span>
+        </div>
+      </a>
+      <div class="work soon" style="--accent:var(--cfo)">
+        <div class="top">
+          <h3>The Constitution of Fiscal Order</h3>
+          <span class="kind">Treatise &middot; independent work</span>
+        </div>
+        <p>
+          Public money as a constitutional question: appropriation, delegation,
+          the taxing power, federal and provincial competence, and the institutions
+          through which fiscal authority is exercised and reviewed. An independent
+          fiscal jurisprudential work &mdash; it is not part of JUS.automica, and
+          shared concepts are cross-referenced between the works rather than merged.
+        </p>
+        <div class="meta">
+          <span class="tag">In preparation</span>
+          <span class="tag">Not yet released</span>
+          <span class="go muted">Forthcoming</span>
+        </div>
+      </div>
+
     </div>
-    <section class="portal-thesis">
-      <p>Governing proposition</p>
-      <blockquote>Code structures possibility. Law constitutes authority. Capital allocates power, value and risk.</blockquote>
-    </section>
-    <section class="portal-map">
-      <div class="portal-map-head">
-        <p>Complete architecture</p>
-        <h2>One Codex, seven connected inquiries.</h2>
-        <span>The structure follows the current twenty-six-chapter detailed contents. Select any part to enter its first chapter.</span>
-      </div>
-      <div class="portal-part-grid">
-        ${PARTS.map((part) => `<button data-choose="${first(part.number)}"><span>Part ${pad(part.number)}</span><h3>${part.title}</h3><p>${part.range}</p>${icon('right')}</button>`).join('')}
-      </div>
-    </section>
-    <section class="portal-provenance">
-      <p>Edition and provenance</p>
+
+    <p class="caveat">
+      Further works will be added as each reaches a state in which it can be read
+      with its evidence and status intact. A work is not listed here because it
+      exists in draft; it is listed when it can be cited.
+    </p>
+
+  </section>
+
+  <section id="doctrines">
+    <div class="seclabel"><i>02</i> Doctrine Register</div>
+    <h2>A doctrine is cited across works, so it needs an address of its own.</h2>
+    <p class="lede">
+      Doctrines do not belong to the chapter that first states them. The Register
+      gives each one a permanent record &mdash; canonical name, authorial definition,
+      provenance and first development, jurisprudential foundation, legal elements,
+      the applicable test, counterarguments, related doctrines, institutional examples
+      &mdash; and a status of exploratory, developed, settled or revised. Works then
+      cite the Register rather than restating it.
+    </p>
+    <div class="herofoot" style="margin-top:.4rem">
+      <a class="btn primary" href="doctrines.html">Open the Register</a>
+      <span class="chip">23 ratified names &middot; 14 located candidates</span>
+    </div>
+  </section>
+
+  <section id="governance">
+    <div class="seclabel"><i>03</i> How the Codex is governed</div>
+    <h2>Claims must remain smaller than the evidence.</h2>
+    <dl class="rules">
       <div>
-        <h2>Latest located chapter readers</h2>
-        <p>This Codex uses the latest dated HTML reader located for each of Chapters 1–26. The chapter files were built between 31 August and 1 September 2026 from their stated source documents. "v0.25" identifies the reading corpus; it does not by itself assert final Author approval or legal authority.</p>
+        <dt>Status is stated, not implied</dt>
+        <dd>Every proposition carries its research status. Publication does not convert
+            a candidate proposition into established law or an institutional deployment.</dd>
       </div>
-    </section>
-  </main>`;
-}
+      <div>
+        <dt>Sources are separated by rank</dt>
+        <dd>Constitutions, enacted statutes, notified instruments and binding judgments
+            are distinguished from policy, consultation history, guidance and empirical
+            assertion. Where the authenticated instrument is not held, the proposition
+            is qualified rather than upgraded by inference.</dd>
+      </div>
+      <div>
+        <dt>Nothing is silently overwritten</dt>
+        <dd>Substantive updates carry a date, a version and an explanation of what
+            changed and why. Earlier formulations remain part of the record.</dd>
+      </div>
+      <div>
+        <dt>Text is addressed, not paginated</dt>
+        <dd>Each work, chapter, section, paragraph and doctrine receives an identifier
+            intended to survive revision, so the digital edition can be cited precisely.</dd>
+      </div>
+    </dl>
+    <p class="caveat">
+      The permanent citation scheme is still being fixed. Paragraph numbering in
+      released chapters is provisional and should not yet be relied on for fixed
+      pinpoint citation.
+    </p>
+    <p class="caveat">
+      These publications are independent evidence-controlled analysis. They are not
+      legal advice to any person, a regulatory approval, an offer of investment, a
+      prediction of market performance, or a substitute for checking the law
+      applicable to a particular activity at the relevant time. Nothing here
+      represents governmental authority.
+    </p>
+  </section>
 
-function renderReader(chapter) {
-  const index = CHAPTERS.findIndex((c) => c.number === chapter.number);
-  const prev = index > 0 ? CHAPTERS[index - 1] : null;
-  const next = index < CHAPTERS.length - 1 ? CHAPTERS[index + 1] : null;
-  return `<main class="portal-reader-stage">
-    <div class="portal-reader-meta">
-      <div><span>Chapter ${pad(chapter.number)}</span><strong>${chapter.title}</strong></div>
-      <div><span>Latest located HTML</span><strong>${chapter.built}</strong></div>
+  <section id="updates">
+    <div class="seclabel"><i>04</i> Living updates</div>
+    <h2>A treatise that cannot record change becomes a historical document.</h2>
+    <p class="lede">
+      Legislative and regulatory developments, judgments and administrative decisions,
+      standards and technical change, and jurisdictional comparisons will be recorded
+      against the propositions they affect &mdash; each dated, with its consequence for
+      the earlier text stated rather than absorbed in silence.
+    </p>
+    <span class="chip">In preparation</span>
+  </section>
+
+  <section id="ecosystem">
+    <div class="seclabel"><i>05</i> Ecosystem</div>
+    <h2>The Codex is the published record. It is not the whole of the work.</h2>
+    <div class="eco">
+      <a href="https://ksc-jusnrem.io/"><span class="dom">ksc-jusnrem.io</span><span class="role">Institutional umbrella and official public record</span></a>
+      <a href="https://ksc.bio/"><span class="dom">ksc.bio</span><span class="role">Person, journey and authorship</span></a>
+      <a href="https://jus-automica.digital/"><span class="dom">jus-automica.digital</span><span class="role">Jurisprudential research programme</span></a>
+      <a href="https://ksc-jusnrem.space/"><span class="dom">ksc-jusnrem.space</span><span class="role">Governed inquiry commons</span></a>
+      <a href="https://constitution.codes/"><span class="dom">constitution.codes</span><span class="role">Applied Constitutional Intelligence Engine</span></a>
+      <a href="https://budget.codes/"><span class="dom">budget.codes</span><span class="role">Applied Fiscal Intelligence and Law-as-Code Engine</span></a>
     </div>
-    <iframe src="${readerPath(chapter.number)}" title="Chapter ${chapter.number}: ${chapter.title}"></iframe>
-    <nav class="portal-reader-pager" aria-label="Previous and next chapter">
-      ${prev ? `<button data-choose="${prev.number}">${icon('left')} Chapter ${prev.number}</button>` : '<span></span>'}
-      ${next ? `<button data-choose="${next.number}">Chapter ${next.number} ${icon('right')}</button>` : '<span></span>'}
-    </nav>
-  </main>`;
-}
+  </section>
 
-let filterValue = '';
+  <footer>
+    <div class="mark">Part of the KSC.JUSNREM ecosystem &middot; Institutional source &middot; Person and authorship &middot; Jurisprudence &middot; Commons &middot; Applied engines</div>
+    <p>JUSNREM Codex. Khurram Chughtai.</p>
+    <p>&copy; 2026 KSC.JUSNREM. A domain does not create an institution, and a
+       publication does not prove an operating capability.</p>
+  </footer>
 
-function render() {
-  const selected = getSelected();
-  const chapter = selected ? CHAPTERS.find((c) => c.number === selected) : null;
-  const root = document.getElementById('root');
-  root.innerHTML = `<div class="portal-shell${chapter ? ' reading' : ''}">
-    <header class="portal-header">
-      <button class="portal-brand" data-choose="" aria-label="Open the Digital Codex overview">
-        <span>CLC</span><span><strong>Code, Law and Capital</strong><small>Digital Codex · v0.25</small></span>
-      </button>
-      <div class="portal-header-meta"><span>26 chapters</span><span>Paragraph-level reading</span></div>
-      ${chapter ? `<a href="${readerPath(chapter.number)}" target="_blank" rel="noreferrer">Open standalone ${icon('ext')}</a>` : '<span></span>'}
-    </header>
-    <label class="portal-mobile-select">
-      <span>Chapter</span>
-      <select id="mobile-select">
-        <option value="">Codex overview</option>
-        ${CHAPTERS.map((c) => `<option value="${c.number}"${selected === c.number ? ' selected' : ''}>${c.number}. ${c.title}</option>`).join('')}
-      </select>
-    </label>
-    <div class="portal-layout">
-      <aside>${renderContents(selected, filterValue)}</aside>
-      ${chapter ? renderReader(chapter) : renderOverview()}
-    </div>
-  </div>`;
-
-  root.querySelectorAll('[data-choose]').forEach((el) => {
-    el.addEventListener('click', () => choose(el.getAttribute('data-choose') ? Number(el.getAttribute('data-choose')) : null));
-  });
-  const filterInput = document.getElementById('chapter-filter');
-  if (filterInput) {
-    filterInput.addEventListener('input', (e) => {
-      filterValue = e.target.value;
-      const pos = filterInput.selectionStart;
-      render();
-      const again = document.getElementById('chapter-filter');
-      if (again) { again.focus(); again.setSelectionRange(pos, pos); }
-    });
-  }
-  const mobileSelect = document.getElementById('mobile-select');
-  if (mobileSelect) {
-    mobileSelect.addEventListener('change', (e) => choose(e.target.value ? Number(e.target.value) : null));
-  }
-}
-
-window.addEventListener('popstate', render);
-render();
-</script>
+</div>
+<script src="assets/js/codex-config.js"></script>
+<script src="assets/js/codex-auth.js"></script>
 </body>
 </html>

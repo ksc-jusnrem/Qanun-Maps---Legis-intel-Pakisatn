@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cross-reference map &mdash; JUSNREM Codex</title>
+<meta name="description" content="How the Codex cites itself: every internal cross-reference in the published text, drawn as an arc between chapters.">
+<link rel="canonical" href="https://jusnrem.digital/map.html">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root{--ground:#EEF0F0;--surface:#FFFFFF;--ink:#111516;--ink-2:#3C484D;--ink-3:#56676E;
+ --gold:#43652E;--rule:#CCD1D4;--rule-2:#DDE1E2;--green:#43652E;
+ --sans:Aptos,"Segoe UI",system-ui,Inter,Helvetica,Arial,sans-serif;
+ --serif:Georgia,"Iowan Old Style","Times New Roman",serif;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:400 .95rem/1.6 var(--sans)}
+.masthead{position:sticky;top:0;z-index:50;background:rgba(238,240,240,.95);
+ backdrop-filter:blur(8px);border-bottom:1px solid var(--rule)}
+.masthead .in{max-width:76rem;margin:0 auto;padding:.7rem 1.4rem;display:flex;align-items:center;gap:1.2rem}
+.brand{text-decoration:none;color:var(--ink)}
+.brand b{display:block;font:600 .78rem/1 var(--sans);letter-spacing:.19em;text-transform:uppercase}
+.brand span{display:block;margin-top:.22rem;font:400 .64rem/1 var(--sans);
+ letter-spacing:.13em;text-transform:uppercase;color:var(--ink-3)}
+.masthead nav{margin-left:auto;display:flex;gap:1.2rem}
+.masthead nav a{font:500 .74rem var(--sans);color:var(--ink-2);text-decoration:none}
+.masthead nav a:hover{color:var(--gold)}
+.wrap{max-width:76rem;margin:0 auto;padding:0 1.4rem}
+.head{padding:3rem 0 1.4rem}
+h1{margin:0;font:400 clamp(1.9rem,4.2vw,2.7rem)/1.15 var(--serif);letter-spacing:-.012em}
+.lede{margin:1.1rem 0 0;max-width:62ch;color:var(--ink-2)}
+.stat{margin-top:1.5rem;display:flex;flex-wrap:wrap;gap:.5rem}
+.stat b{font:600 .62rem/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;
+ padding:.45rem .65rem;border:1px solid var(--rule);background:var(--surface);color:var(--ink-2)}
+.stat b.warn{border-color:var(--gold);color:#2F4720}
+figure{margin:1.4rem 0 0;padding:1rem .4rem .4rem;background:var(--surface);
+ border:1px solid var(--rule);overflow-x:auto}
+svg{display:block;min-width:52rem;width:100%;height:auto}
+.arc{opacity:.42;transition:opacity .15s,stroke-width .15s}
+.arc:hover{opacity:1;stroke-width:3.4}
+svg.focus .arc{opacity:.07}
+svg.focus .arc.on{opacity:1}
+.lbl{font:600 9px var(--sans);fill:var(--ink-3)}
+.node circle{cursor:pointer;transition:r .12s}
+.node:hover circle{stroke-width:2.6}
+.node.orphan circle{stroke-dasharray:2.5 2.5}
+.legend{display:flex;flex-wrap:wrap;gap:.4rem 1.1rem;margin:1rem 0 0}
+.lg{display:inline-flex;align-items:center;gap:.4rem;font:500 .72rem var(--sans);color:var(--ink-2)}
+.lg i{width:.62rem;height:.62rem;border-radius:2px;display:inline-block}
+.note{margin:1.6rem 0 0;padding:1rem 1.15rem;background:rgba(67,101,46,.09);
+ border:1px solid var(--gold);border-left-width:4px;max-width:70ch}
+.note b{display:block;font:600 .62rem/1 var(--sans);letter-spacing:.15em;
+ text-transform:uppercase;color:#2F4720;margin-bottom:.5rem}
+.note p{margin:0;font-size:.88rem;line-height:1.6;color:var(--ink-2)}
+h2{margin:3rem 0 1rem;padding-bottom:.5rem;border-bottom:1px solid var(--rule);
+ font:600 1rem var(--sans)}
+table{border-collapse:collapse;width:100%;font-size:.85rem}
+th{text-align:left;padding:.5rem .6rem;border-bottom:1.2pt solid var(--gold);
+ font:600 .68rem var(--sans);letter-spacing:.06em;text-transform:uppercase}
+td{padding:.42rem .6rem;border-bottom:1px solid var(--rule-2);vertical-align:top}
+td.n{text-align:right;font-variant-numeric:tabular-nums;width:5rem;color:var(--ink-2)}
+td.t{color:var(--ink-2)}
+td a{color:var(--green);text-decoration:none;font-weight:600;white-space:nowrap}
+td a:hover{color:var(--gold)}
+footer{padding:3rem 0;margin-top:2rem;border-top:1px solid var(--rule);font-size:.8rem;color:var(--ink-3)}
+a{color:var(--green)}
+@media (max-width:720px){.masthead nav{display:none}}
+</style>
+<link rel="stylesheet" href="assets/css/codex-chrome.css">
+<link rel="stylesheet" href="assets/css/codex-platform.css">
+</head>
+<body data-page="map">
+<header class="masthead site-head"><div class="in">
+  <a class="brand" href="index.html"><b>JUSNREM Codex</b><span>Map · Code, Law and Capital</span></a>
+  <nav aria-label="Site"><a href="code-law-and-capital/">Library</a><a href="search.html">Search</a><a href="authorities.html">Authorities</a><a href="doctrines.html">Doctrines</a><a href="map.html" aria-current="page">Map</a></nav>
+</div></header>
+<p class="scope-line">Cross-references within <a href="code-law-and-capital/">Code, Law and Capital</a></p>
+
+<div class="wrap">
+  <div class="head">
+    <h1>How the Codex cites itself</h1>
+    <p class="lede">
+      Every arc is a cross-reference in the published text. Forward references arc
+      above the line, back-references below; the thicker the arc, the more often that
+      chapter cites the other. Drawn from the chapters themselves, so it cannot show a
+      connection the text does not make &mdash; or hide one it does.
+    </p>
+    <div class="stat">
+      <b>47 connections</b><b>79 references</b>
+      <b class="warn">6 chapters unconnected</b>
+    </div>
+  </div>
+
+  <figure>
+    <svg id="g" viewBox="0 0 1160 490" role="img"
+         aria-label="Arc diagram of cross-references between the 26 chapters">
+      <line x1="40" y1="300" x2="1160" y2="300" stroke="#CCD1D4" stroke-width="1"
+            transform="translate(-20,0)"/>
+      <path class="arc" d="M54.0,300 Q580.0,68.0 1106.0,300" stroke="#43652E" stroke-width="2.20" fill="none" data-a="1" data-b="26" data-n="3"><title>Chapter 1 cites Chapter 26 — 3 references</title></path><path class="arc" d="M138.2,300 Q622.1,68.0 1106.0,300" stroke="#43652E" stroke-width="2.20" fill="none" data-a="3" data-b="26" data-n="3"><title>Chapter 3 cites Chapter 26 — 3 references</title></path><path class="arc" d="M1106.0,300 Q643.1,439.2 180.2,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="26" data-b="4" data-n="1"><title>Chapter 26 cites Chapter 4 — 1 reference</title></path><path class="arc" d="M264.4,300 Q685.2,68.0 1106.0,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="6" data-b="26" data-n="1"><title>Chapter 6 cites Chapter 26 — 1 reference</title></path><path class="arc" d="M1106.0,300 Q685.2,439.2 264.4,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="26" data-b="6" data-n="1"><title>Chapter 26 cites Chapter 6 — 1 reference</title></path><path class="arc" d="M348.6,300 Q727.3,68.0 1106.0,300" stroke="#652E43" stroke-width="1.20" fill="none" data-a="8" data-b="26" data-n="1"><title>Chapter 8 cites Chapter 26 — 1 reference</title></path><path class="arc" d="M96.1,300 Q411.7,68.0 727.3,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="2" data-b="17" data-n="1"><title>Chapter 2 cites Chapter 17 — 1 reference</title></path><path class="arc" d="M96.1,300 Q390.6,68.0 685.2,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="2" data-b="16" data-n="1"><title>Chapter 2 cites Chapter 16 — 1 reference</title></path><path class="arc" d="M96.1,300 Q369.6,68.0 643.1,300" stroke="#43652E" stroke-width="2.70" fill="none" data-a="2" data-b="15" data-n="4"><title>Chapter 2 cites Chapter 15 — 4 references</title></path><path class="arc" d="M138.2,300 Q411.7,68.0 685.2,300" stroke="#43652E" stroke-width="1.70" fill="none" data-a="3" data-b="16" data-n="2"><title>Chapter 3 cites Chapter 16 — 2 references</title></path><path class="arc" d="M1106.0,300 Q832.5,439.2 559.0,300" stroke="#43652E" stroke-width="1.70" fill="none" data-a="26" data-b="13" data-n="2"><title>Chapter 26 cites Chapter 13 — 2 references</title></path><path class="arc" d="M96.1,300 Q348.6,68.0 601.0,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="2" data-b="14" data-n="1"><title>Chapter 2 cites Chapter 14 — 1 reference</title></path><path class="arc" d="M138.2,300 Q390.6,68.0 643.1,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="3" data-b="15" data-n="1"><title>Chapter 3 cites Chapter 15 — 1 reference</title></path><path class="arc" d="M96.1,300 Q327.5,68.0 559.0,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="2" data-b="13" data-n="1"><title>Chapter 2 cites Chapter 13 — 1 reference</title></path><path class="arc" d="M643.1,300 Q874.6,68.0 1106.0,300" stroke="#698458" stroke-width="1.70" fill="none" data-a="15" data-b="26" data-n="2"><title>Chapter 15 cites Chapter 26 — 2 references</title></path><path class="arc" d="M1106.0,300 Q874.6,439.2 643.1,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="26" data-b="15" data-n="1"><title>Chapter 26 cites Chapter 15 — 1 reference</title></path><path class="arc" d="M96.1,300 Q306.5,80.4 516.9,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="2" data-b="12" data-n="1"><title>Chapter 2 cites Chapter 12 — 1 reference</title></path><path class="arc" d="M264.4,300 Q474.8,80.4 685.2,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="6" data-b="16" data-n="1"><title>Chapter 6 cites Chapter 16 — 1 reference</title></path><path class="arc" d="M1106.0,300 Q895.6,431.7 685.2,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="26" data-b="16" data-n="1"><title>Chapter 26 cites Chapter 16 — 1 reference</title></path><path class="arc" d="M96.1,300 Q285.4,99.8 474.8,300" stroke="#43652E" stroke-width="2.20" fill="none" data-a="2" data-b="11" data-n="3"><title>Chapter 2 cites Chapter 11 — 3 references</title></path><path class="arc" d="M348.6,300 Q537.9,99.8 727.3,300" stroke="#652E43" stroke-width="1.70" fill="none" data-a="8" data-b="17" data-n="2"><title>Chapter 8 cites Chapter 17 — 2 references</title></path><path class="arc" d="M96.1,300 Q264.4,119.1 432.7,300" stroke="#43652E" stroke-width="1.70" fill="none" data-a="2" data-b="10" data-n="2"><title>Chapter 2 cites Chapter 10 — 2 references</title></path><path class="arc" d="M138.2,300 Q306.5,119.1 474.8,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="3" data-b="11" data-n="1"><title>Chapter 3 cites Chapter 11 — 1 reference</title></path><path class="arc" d="M390.6,300 Q559.0,119.1 727.3,300" stroke="#652E43" stroke-width="1.20" fill="none" data-a="9" data-b="17" data-n="1"><title>Chapter 9 cites Chapter 17 — 1 reference</title></path><path class="arc" d="M54.0,300 Q201.3,138.5 348.6,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="1" data-b="8" data-n="1"><title>Chapter 1 cites Chapter 8 — 1 reference</title></path><path class="arc" d="M138.2,300 Q285.4,138.5 432.7,300" stroke="#43652E" stroke-width="1.70" fill="none" data-a="3" data-b="10" data-n="2"><title>Chapter 3 cites Chapter 10 — 2 references</title></path><path class="arc" d="M264.4,300 Q411.7,138.5 559.0,300" stroke="#43652E" stroke-width="1.70" fill="none" data-a="6" data-b="13" data-n="2"><title>Chapter 6 cites Chapter 13 — 2 references</title></path><path class="arc" d="M54.0,300 Q180.2,157.9 306.5,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="1" data-b="7" data-n="1"><title>Chapter 1 cites Chapter 7 — 1 reference</title></path><path class="arc" d="M96.1,300 Q222.3,157.9 348.6,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="2" data-b="8" data-n="1"><title>Chapter 2 cites Chapter 8 — 1 reference</title></path><path class="arc" d="M432.7,300 Q306.5,385.3 180.2,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="10" data-b="4" data-n="1"><title>Chapter 10 cites Chapter 4 — 1 reference</title></path><path class="arc" d="M54.0,300 Q159.2,177.2 264.4,300" stroke="#43652E" stroke-width="1.70" fill="none" data-a="1" data-b="6" data-n="2"><title>Chapter 1 cites Chapter 6 — 2 references</title></path><path class="arc" d="M138.2,300 Q243.4,177.2 348.6,300" stroke="#43652E" stroke-width="2.20" fill="none" data-a="3" data-b="8" data-n="3"><title>Chapter 3 cites Chapter 8 — 3 references</title></path><path class="arc" d="M264.4,300 Q369.6,177.2 474.8,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="6" data-b="11" data-n="1"><title>Chapter 6 cites Chapter 11 — 1 reference</title></path><path class="arc" d="M390.6,300 Q285.4,373.7 180.2,300" stroke="#652E43" stroke-width="1.20" fill="none" data-a="9" data-b="4" data-n="1"><title>Chapter 9 cites Chapter 4 — 1 reference</title></path><path class="arc" d="M54.0,300 Q138.2,196.6 222.3,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="1" data-b="5" data-n="1"><title>Chapter 1 cites Chapter 5 — 1 reference</title></path><path class="arc" d="M264.4,300 Q348.6,196.6 432.7,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="6" data-b="10" data-n="1"><title>Chapter 6 cites Chapter 10 — 1 reference</title></path><path class="arc" d="M54.0,300 Q117.1,215.9 180.2,300" stroke="#43652E" stroke-width="2.20" fill="none" data-a="1" data-b="4" data-n="3"><title>Chapter 1 cites Chapter 4 — 3 references</title></path><path class="arc" d="M54.0,300 Q96.1,235.3 138.2,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="1" data-b="3" data-n="1"><title>Chapter 1 cites Chapter 3 — 1 reference</title></path><path class="arc" d="M96.1,300 Q138.2,235.3 180.2,300" stroke="#43652E" stroke-width="1.70" fill="none" data-a="2" data-b="4" data-n="2"><title>Chapter 2 cites Chapter 4 — 2 references</title></path><path class="arc" d="M264.4,300 Q222.3,338.8 180.2,300" stroke="#43652E" stroke-width="1.70" fill="none" data-a="6" data-b="4" data-n="2"><title>Chapter 6 cites Chapter 4 — 2 references</title></path><path class="arc" d="M937.7,300 Q895.6,338.8 853.5,300" stroke="#2F4720" stroke-width="1.20" fill="none" data-a="22" data-b="20" data-n="1"><title>Chapter 22 cites Chapter 20 — 1 reference</title></path><path class="arc" d="M54.0,300 Q75.0,254.6 96.1,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="1" data-b="2" data-n="1"><title>Chapter 1 cites Chapter 2 — 1 reference</title></path><path class="arc" d="M96.1,300 Q117.1,254.6 138.2,300" stroke="#43652E" stroke-width="2.20" fill="none" data-a="2" data-b="3" data-n="3"><title>Chapter 2 cites Chapter 3 — 3 references</title></path><path class="arc" d="M138.2,300 Q117.1,327.2 96.1,300" stroke="#43652E" stroke-width="2.70" fill="none" data-a="3" data-b="2" data-n="4"><title>Chapter 3 cites Chapter 2 — 4 references</title></path><path class="arc" d="M390.6,300 Q369.6,327.2 348.6,300" stroke="#652E43" stroke-width="1.20" fill="none" data-a="9" data-b="8" data-n="1"><title>Chapter 9 cites Chapter 8 — 1 reference</title></path><path class="arc" d="M432.7,300 Q453.8,254.6 474.8,300" stroke="#43652E" stroke-width="3.20" fill="none" data-a="10" data-b="11" data-n="5"><title>Chapter 10 cites Chapter 11 — 5 references</title></path><path class="arc" d="M474.8,300 Q453.8,327.2 432.7,300" stroke="#43652E" stroke-width="1.20" fill="none" data-a="11" data-b="10" data-n="1"><title>Chapter 11 cites Chapter 10 — 1 reference</title></path>
+      <g class="node" data-ch="1"><a href="code-law-and-capital/chapter-01.html"><circle cx="54.0" cy="300" r="8.7" fill="#43652E" stroke="#43652E" stroke-width="1.4"/><text x="54.0" y="326" text-anchor="middle" class="lbl">1</text><title>Chapter 1 — The Governing Thesis: Code, Law and Capital
+cites 13, cited by 0</title></a></g><g class="node" data-ch="2"><a href="code-law-and-capital/chapter-02.html"><circle cx="96.1" cy="300" r="10.7" fill="#43652E" stroke="#43652E" stroke-width="1.4"/><text x="96.1" y="326" text-anchor="middle" class="lbl">2</text><title>Chapter 2 — From Electronic Value to the Global Digital-Asset Order
+cites 20, cited by 5</title></a></g><g class="node" data-ch="3"><a href="code-law-and-capital/chapter-03.html"><circle cx="138.2" cy="300" r="10.7" fill="#43652E" stroke="#43652E" stroke-width="1.4"/><text x="138.2" y="326" text-anchor="middle" class="lbl">3</text><title>Chapter 3 — Pakistan’s Digital-Asset Order: From Perimeter Preservation to Statutory Recognition
+cites 16, cited by 4</title></a></g><g class="node" data-ch="4"><a href="code-law-and-capital/chapter-04.html"><circle cx="180.2" cy="300" r="7.4" fill="#43652E" stroke="#43652E" stroke-width="1.4"/><text x="180.2" y="326" text-anchor="middle" class="lbl">4</text><title>Chapter 4 — Code: Digital-Asset Technologies, Functions and Control
+cites 0, cited by 10</title></a></g><g class="node" data-ch="5"><a href="code-law-and-capital/chapter-05.html"><circle cx="222.3" cy="300" r="3.6" fill="#43652E" stroke="#43652E" stroke-width="1.4"/><text x="222.3" y="326" text-anchor="middle" class="lbl">5</text><title>Chapter 5 — Law: Authority, Interpretation and the Digital Legal Order
+cites 0, cited by 1</title></a></g><g class="node" data-ch="6"><a href="code-law-and-capital/chapter-06.html"><circle cx="264.4" cy="300" r="7.8" fill="#43652E" stroke="#43652E" stroke-width="1.4"/><text x="264.4" y="326" text-anchor="middle" class="lbl">6</text><title>Chapter 6 — Capital: Markets, Monetary Sovereignty and Distribution
+cites 8, cited by 3</title></a></g><g class="node" data-ch="7"><a href="code-law-and-capital/chapter-07.html"><circle cx="306.5" cy="300" r="3.6" fill="#652E43" stroke="#652E43" stroke-width="1.4"/><text x="306.5" y="326" text-anchor="middle" class="lbl">7</text><title>Chapter 7 — Chapter 7 — Pakistan’s Digital, Electronic and ICT Legal Architecture
+cites 0, cited by 1</title></a></g><g class="node" data-ch="8"><a href="code-law-and-capital/chapter-08.html"><circle cx="348.6" cy="300" r="7.0" fill="#652E43" stroke="#652E43" stroke-width="1.4"/><text x="348.6" y="326" text-anchor="middle" class="lbl">8</text><title>Chapter 8 — THE VIRTUAL ASSETS ACT 2026 AND PVARA
+cites 3, cited by 6</title></a></g><g class="node" data-ch="9"><a href="code-law-and-capital/chapter-09.html"><circle cx="390.6" cy="300" r="4.5" fill="#652E43" stroke="#652E43" stroke-width="1.4"/><text x="390.6" y="326" text-anchor="middle" class="lbl">9</text><title>Chapter 9 — Market Entry, Existing Participants and Transitional Legality
+cites 3, cited by 0</title></a></g><g class="node" data-ch="10"><a href="code-law-and-capital/chapter-10.html"><circle cx="432.7" cy="300" r="8.2" fill="#43652E" stroke="#43652E" stroke-width="1.4"/><text x="432.7" y="326" text-anchor="middle" class="lbl">10</text><title>Chapter 10 — The Monetary and Financial Perimeter
+cites 6, cited by 6</title></a></g><g class="node" data-ch="11"><a href="code-law-and-capital/chapter-11.html"><circle cx="474.8" cy="300" r="7.8" fill="#43652E" stroke="#43652E" stroke-width="1.4"/><text x="474.8" y="326" text-anchor="middle" class="lbl">11</text><title>Chapter 11 — Chapter 11 — Property, Custody, Customer Assets, Insolvency and Market Conduct
+cites 1, cited by 10</title></a></g><g class="node" data-ch="12"><a href="code-law-and-capital/chapter-12.html"><circle cx="516.9" cy="300" r="3.6" fill="#43652E" stroke="#43652E" stroke-width="1.4"/><text x="516.9" y="326" text-anchor="middle" class="lbl">12</text><title>Chapter 12 — Financial Integrity, Sanctions and Evidentiary Enforcement
+cites 0, cited by 1</title></a></g><g class="node" data-ch="13"><a href="code-law-and-capital/chapter-13.html"><circle cx="559.0" cy="300" r="5.3" fill="#43652E" stroke="#43652E" stroke-width="1.4"/><text x="559.0" y="326" text-anchor="middle" class="lbl">13</text><title>Chapter 13 — Chapter 13 — Fiscal Order: Recognition, Taxation, Disclosure and Public Finance
+cites 0, cited by 5</title></a></g><g class="node" data-ch="14"><a href="code-law-and-capital/chapter-14.html"><circle cx="601.0" cy="300" r="3.6" fill="#698458" stroke="#698458" stroke-width="1.4"/><text x="601.0" y="326" text-anchor="middle" class="lbl">14</text><title>Chapter 14 — Chapter 14 — Data, Cybersecurity, Digital Identity and Evidence
+cites 0, cited by 1</title></a></g><g class="node" data-ch="15"><a href="code-law-and-capital/chapter-15.html"><circle cx="643.1" cy="300" r="6.6" fill="#698458" stroke="#698458" stroke-width="1.4"/><text x="643.1" y="326" text-anchor="middle" class="lbl">15</text><title>Chapter 15 — SMART CONTRACTS, DEFI, DAOS AND AUTONOMOUS SYSTEMS
+cites 2, cited by 6</title></a></g><g class="node" data-ch="16"><a href="code-law-and-capital/chapter-16.html"><circle cx="685.2" cy="300" r="5.3" fill="#698458" stroke="#698458" stroke-width="1.4"/><text x="685.2" y="326" text-anchor="middle" class="lbl">16</text><title>Chapter 16 — Chapter 16 — Institutional Integrity, Federalism and Cross-Border Administration
+cites 0, cited by 5</title></a></g><g class="node" data-ch="17"><a href="code-law-and-capital/chapter-17.html"><circle cx="727.3" cy="300" r="4.9" fill="#698458" stroke="#698458" stroke-width="1.4"/><text x="727.3" y="326" text-anchor="middle" class="lbl">17</text><title>Chapter 17 — Chapter 17 — Enforcement, Tribunal, Courts and Constitutional Remedies
+cites 0, cited by 4</title></a></g><g class="node orphan" data-ch="18"><a href="code-law-and-capital/chapter-18.html"><circle cx="769.4" cy="300" r="3.2" fill="none" stroke="#2F4720" stroke-width="1.4"/><text x="769.4" y="326" text-anchor="middle" class="lbl">18</text><title>Chapter 18 — Chapter 18 — The United States: Markets, Enforcement and the Contest for Regulatory Authority
+cites 0, cited by 0</title></a></g><g class="node orphan" data-ch="19"><a href="code-law-and-capital/chapter-19.html"><circle cx="811.4" cy="300" r="3.2" fill="none" stroke="#2F4720" stroke-width="1.4"/><text x="811.4" y="326" text-anchor="middle" class="lbl">19</text><title>Chapter 19 — Chapter 19 — The United Kingdom and European Legal Orders
+cites 0, cited by 0</title></a></g><g class="node" data-ch="20"><a href="code-law-and-capital/chapter-20.html"><circle cx="853.5" cy="300" r="3.6" fill="#2F4720" stroke="#2F4720" stroke-width="1.4"/><text x="853.5" y="326" text-anchor="middle" class="lbl">20</text><title>Chapter 20 — Asian and Asia-Pacific Digital-Asset Orders
+cites 0, cited by 1</title></a></g><g class="node orphan" data-ch="21"><a href="code-law-and-capital/chapter-21.html"><circle cx="895.6" cy="300" r="3.2" fill="none" stroke="#2F4720" stroke-width="1.4"/><text x="895.6" y="326" text-anchor="middle" class="lbl">21</text><title>Chapter 21 — GCC and Middle Eastern Digital-Asset Orders
+cites 0, cited by 0</title></a></g><g class="node" data-ch="22"><a href="code-law-and-capital/chapter-22.html"><circle cx="937.7" cy="300" r="3.6" fill="#2F4720" stroke="#2F4720" stroke-width="1.4"/><text x="937.7" y="326" text-anchor="middle" class="lbl">22</text><title>Chapter 22 — ASEAN and Emerging Regional Models
+cites 1, cited by 0</title></a></g><g class="node orphan" data-ch="23"><a href="code-law-and-capital/chapter-23.html"><circle cx="979.8" cy="300" r="3.2" fill="none" stroke="#3C484D" stroke-width="1.4"/><text x="979.8" y="326" text-anchor="middle" class="lbl">23</text><title>Chapter 23 — Global Standards and Transnational Regulatory Coordination
+cites 0, cited by 0</title></a></g><g class="node orphan" data-ch="24"><a href="code-law-and-capital/chapter-24.html"><circle cx="1021.8" cy="300" r="3.2" fill="none" stroke="#3C484D" stroke-width="1.4"/><text x="1021.8" y="326" text-anchor="middle" class="lbl">24</text><title>Chapter 24 — Public International Law and Digital Assets
+cites 0, cited by 0</title></a></g><g class="node orphan" data-ch="25"><a href="code-law-and-capital/chapter-25.html"><circle cx="1063.9" cy="300" r="3.2" fill="none" stroke="#3C484D" stroke-width="1.4"/><text x="1063.9" y="326" text-anchor="middle" class="lbl">25</text><title>Chapter 25 — Chapter 25 — Private International Law and Cross-Border Digital Assets
+cites 0, cited by 0</title></a></g><g class="node" data-ch="26"><a href="code-law-and-capital/chapter-26.html"><circle cx="1106.0" cy="300" r="9.9" fill="#43652E" stroke="#43652E" stroke-width="1.4"/><text x="1106.0" y="326" text-anchor="middle" class="lbl">26</text><title>Chapter 26 — Chapter 26 — Building Pakistan’s Digital-Asset Order
+cites 6, cited by 10</title></a></g>
+    </svg>
+  </figure>
+  <div class="legend"><span class="lg"><i style="background:#43652E"></i>Part 01 &middot; Foundations and the Governing Triad</span><span class="lg"><i style="background:#652E43"></i>Part 02 &middot; Pakistan&#x27;s Digital and Virtual-Asset Legal Order</span><span class="lg"><i style="background:#43652E"></i>Part 03 &middot; Financial, Property, Integrity and Fiscal Order</span><span class="lg"><i style="background:#698458"></i>Part 04 &middot; Digital Systems, Institutions, Rights and Remedies</span><span class="lg"><i style="background:#2F4720"></i>Part 05 &middot; Comparative Digital-Asset Orders</span><span class="lg"><i style="background:#3C484D"></i>Part 06 &middot; Global Standards and International Law</span><span class="lg"><i style="background:#43652E"></i>Part 07 &middot; Building Pakistan&#x27;s Future Digital-Asset Order</span></div>
+
+  <div class="note">
+    <b>What the shape shows</b>
+    <p>
+      Chapters 18, 19, 21, 23, 24, 25 carry no cross-reference in either direction &mdash; drawn
+      with a dashed outline and no arcs. They neither cite the rest of the work nor are
+      cited by it. For a treatise that argues an integrated analysis, that is a
+      structural observation rather than a defect in the drawing.
+    </p>
+  </div>
+
+  <h2>Chapters by connectedness</h2>
+  <table>
+    <thead><tr><th>Chapter</th><th>Title</th><th class="n">Cites</th><th class="n">Cited by</th></tr></thead>
+    <tbody><tr><td><a href="code-law-and-capital/chapter-02.html">Ch 2</a></td><td class="t">From Electronic Value to the Global Digital-Asset Order</td><td class="n">20</td><td class="n">5</td></tr><tr><td><a href="code-law-and-capital/chapter-03.html">Ch 3</a></td><td class="t">Pakistan’s Digital-Asset Order: From Perimeter Preservation to Statutory Recognition</td><td class="n">16</td><td class="n">4</td></tr><tr><td><a href="code-law-and-capital/chapter-26.html">Ch 26</a></td><td class="t">Chapter 26 — Building Pakistan’s Digital-Asset Order</td><td class="n">6</td><td class="n">10</td></tr><tr><td><a href="code-law-and-capital/chapter-01.html">Ch 1</a></td><td class="t">The Governing Thesis: Code, Law and Capital</td><td class="n">13</td><td class="n">0</td></tr><tr><td><a href="code-law-and-capital/chapter-10.html">Ch 10</a></td><td class="t">The Monetary and Financial Perimeter</td><td class="n">6</td><td class="n">6</td></tr><tr><td><a href="code-law-and-capital/chapter-06.html">Ch 6</a></td><td class="t">Capital: Markets, Monetary Sovereignty and Distribution</td><td class="n">8</td><td class="n">3</td></tr><tr><td><a href="code-law-and-capital/chapter-11.html">Ch 11</a></td><td class="t">Chapter 11 — Property, Custody, Customer Assets, Insolvency and Market Conduct</td><td class="n">1</td><td class="n">10</td></tr><tr><td><a href="code-law-and-capital/chapter-04.html">Ch 4</a></td><td class="t">Code: Digital-Asset Technologies, Functions and Control</td><td class="n">0</td><td class="n">10</td></tr><tr><td><a href="code-law-and-capital/chapter-08.html">Ch 8</a></td><td class="t">THE VIRTUAL ASSETS ACT 2026 AND PVARA</td><td class="n">3</td><td class="n">6</td></tr><tr><td><a href="code-law-and-capital/chapter-15.html">Ch 15</a></td><td class="t">SMART CONTRACTS, DEFI, DAOS AND AUTONOMOUS SYSTEMS</td><td class="n">2</td><td class="n">6</td></tr><tr><td><a href="code-law-and-capital/chapter-13.html">Ch 13</a></td><td class="t">Chapter 13 — Fiscal Order: Recognition, Taxation, Disclosure and Public Finance</td><td class="n">0</td><td class="n">5</td></tr><tr><td><a href="code-law-and-capital/chapter-16.html">Ch 16</a></td><td class="t">Chapter 16 — Institutional Integrity, Federalism and Cross-Border Administration</td><td class="n">0</td><td class="n">5</td></tr><tr><td><a href="code-law-and-capital/chapter-17.html">Ch 17</a></td><td class="t">Chapter 17 — Enforcement, Tribunal, Courts and Constitutional Remedies</td><td class="n">0</td><td class="n">4</td></tr><tr><td><a href="code-law-and-capital/chapter-09.html">Ch 9</a></td><td class="t">Market Entry, Existing Participants and Transitional Legality</td><td class="n">3</td><td class="n">0</td></tr><tr><td><a href="code-law-and-capital/chapter-05.html">Ch 5</a></td><td class="t">Law: Authority, Interpretation and the Digital Legal Order</td><td class="n">0</td><td class="n">1</td></tr><tr><td><a href="code-law-and-capital/chapter-07.html">Ch 7</a></td><td class="t">Chapter 7 — Pakistan’s Digital, Electronic and ICT Legal Architecture</td><td class="n">0</td><td class="n">1</td></tr><tr><td><a href="code-law-and-capital/chapter-12.html">Ch 12</a></td><td class="t">Financial Integrity, Sanctions and Evidentiary Enforcement</td><td class="n">0</td><td class="n">1</td></tr><tr><td><a href="code-law-and-capital/chapter-14.html">Ch 14</a></td><td class="t">Chapter 14 — Data, Cybersecurity, Digital Identity and Evidence</td><td class="n">0</td><td class="n">1</td></tr><tr><td><a href="code-law-and-capital/chapter-20.html">Ch 20</a></td><td class="t">Asian and Asia-Pacific Digital-Asset Orders</td><td class="n">0</td><td class="n">1</td></tr><tr><td><a href="code-law-and-capital/chapter-22.html">Ch 22</a></td><td class="t">ASEAN and Emerging Regional Models</td><td class="n">1</td><td class="n">0</td></tr><tr><td><a href="code-law-and-capital/chapter-18.html">Ch 18</a></td><td class="t">Chapter 18 — The United States: Markets, Enforcement and the Contest for Regulatory Authority</td><td class="n">0</td><td class="n">0</td></tr><tr><td><a href="code-law-and-capital/chapter-19.html">Ch 19</a></td><td class="t">Chapter 19 — The United Kingdom and European Legal Orders</td><td class="n">0</td><td class="n">0</td></tr><tr><td><a href="code-law-and-capital/chapter-21.html">Ch 21</a></td><td class="t">GCC and Middle Eastern Digital-Asset Orders</td><td class="n">0</td><td class="n">0</td></tr><tr><td><a href="code-law-and-capital/chapter-23.html">Ch 23</a></td><td class="t">Global Standards and Transnational Regulatory Coordination</td><td class="n">0</td><td class="n">0</td></tr><tr><td><a href="code-law-and-capital/chapter-24.html">Ch 24</a></td><td class="t">Public International Law and Digital Assets</td><td class="n">0</td><td class="n">0</td></tr><tr><td><a href="code-law-and-capital/chapter-25.html">Ch 25</a></td><td class="t">Chapter 25 — Private International Law and Cross-Border Digital Assets</td><td class="n">0</td><td class="n">0</td></tr></tbody>
+  </table>
+
+  <footer>
+    Generated from the published text. &copy; 2026 KSC.JUSNREM.
+  </footer>
+</div>
+
+<script>
+/* Hovering a chapter isolates the references it takes part in. */
+const svg = document.getElementById('g');
+const arcs = [...svg.querySelectorAll('.arc')];
+svg.querySelectorAll('.node').forEach(g => {
+  const ch = g.dataset.ch;
+  const on = () => {
+    svg.classList.add('focus');
+    arcs.forEach(a => a.classList.toggle('on', a.dataset.a === ch || a.dataset.b === ch));
+  };
+  const off = () => { svg.classList.remove('focus'); arcs.forEach(a => a.classList.remove('on')); };
+  g.addEventListener('mouseenter', on);
+  g.addEventListener('mouseleave', off);
+  g.addEventListener('focusin', on);
+  g.addEventListener('focusout', off);
+});
+</script>
+<script src="assets/js/codex-config.js"></script>
+<script src="assets/js/codex-auth.js"></script>
+<footer class="works-strip"><div class="in">
+  <h2>The works of the JUSNREM Codex</h2>
+  <div class="row"><a class="w" href="code-law-and-capital/" style="--acc:#43652E"><b>Code, Law and Capital</b><span>Digital assets and the emerging global legal order</span><i>Read &rarr;</i></a><a class="w" href="https://jus-automica.digital/" rel="noopener" style="--acc:#652E43"><b>JUS.automica</b><span>How law remains law when intelligence is distributed</span><i>Programme site &nearr;</i></a><div class="w" style="--acc:#2E4365"><b>The Constitution of Fiscal Order</b><span>Public finance and taxation in Pakistan</span><i>Forthcoming</i></div></div>
+  <p class="foot"><a href="index.html">JUSNREM Codex home</a> &middot; <a href="account.html">Account</a> &middot; Every work is open to read.</p>
+</div></footer>
+</body>
+</html>

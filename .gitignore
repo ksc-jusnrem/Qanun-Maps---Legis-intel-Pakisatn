@@ -1,1 +1,24 @@
+# OS / editor
 .DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editorial working material — never published
+*-Reader-*.html
+*.docx
+~$*
+/work/
+/scratch/
+
+# Local tooling
+.vercel
+node_modules/

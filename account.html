@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Account &mdash; JUSNREM Codex</title>
+<meta name="description" content="Sign in to the JUSNREM Codex to receive revision notices and, in time, to reach licensed editions.">
+<meta name="robots" content="noindex, follow">
+<link rel="canonical" href="https://jusnrem.digital/account.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#EEF0F0; --surface:#FFFFFF; --ink:#111516; --ink-2:#3C484D; --ink-3:#56676E;
+  --gold:#43652E; --gold-text:#2F4720; --gold-soft:rgba(67,101,46,.10);
+  --rule:#CCD1D4; --rule-2:#DDE1E2; --green:#43652E; --rust:#652E43;
+  --sans:Aptos,"Segoe UI",system-ui,Inter,Helvetica,Arial,sans-serif;
+  --serif:Georgia,"Iowan Old Style","Times New Roman",serif;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:400 1rem/1.62 var(--sans)}
+:where(a,button,[tabindex]):focus-visible{outline:2px solid var(--gold-text);outline-offset:2px}
+
+.masthead{position:sticky;top:0;z-index:50;background:rgba(238,240,240,.95);
+  backdrop-filter:blur(8px);border-bottom:1px solid var(--rule)}
+.masthead .in{max-width:70rem;margin:0 auto;padding:.7rem 1.4rem;display:flex;align-items:center;gap:1.2rem}
+.brand{text-decoration:none;color:var(--ink)}
+.brand b{display:block;font:600 .78rem/1 var(--sans);letter-spacing:.19em;text-transform:uppercase}
+.brand span{display:block;margin-top:.22rem;font:400 .64rem/1 var(--sans);
+  letter-spacing:.13em;text-transform:uppercase;color:var(--ink-3)}
+.masthead nav{margin-left:auto;display:flex;gap:1.2rem}
+.masthead nav a{font:500 .74rem/1 var(--sans);color:var(--ink-2);text-decoration:none;padding:.55rem 0}
+.masthead nav a:hover{color:var(--gold-text)}
+
+.wrap{max-width:70rem;margin:0 auto;padding:0 1.4rem}
+.grid{display:grid;grid-template-columns:minmax(0,25rem) minmax(0,1fr);gap:3.5rem;padding:3.4rem 0}
+h1{margin:0 0 1.1rem;font:400 clamp(1.9rem,4vw,2.6rem)/1.15 var(--serif);letter-spacing:-.012em}
+.lede{margin:0 0 1.8rem;max-width:52ch;color:var(--ink-2)}
+
+.card{background:var(--surface);border:1px solid var(--rule);padding:1.7rem}
+.card h2{margin:0 0 .3rem;font:600 1rem/1.3 var(--sans)}
+.card p.sub{margin:0 0 1.3rem;font-size:.87rem;color:var(--ink-2)}
+label{display:block;font:600 .62rem/1 var(--sans);letter-spacing:.15em;
+  text-transform:uppercase;color:var(--ink-3);margin-bottom:.45rem}
+input[type=email],input[type=text],select{width:100%;font:400 .95rem var(--sans);
+  padding:.7rem .8rem;border:1px solid var(--rule);background:#fff;color:var(--ink);border-radius:2px}
+input:focus,select:focus{outline:2px solid var(--gold-text);outline-offset:1px}
+.field{margin-bottom:1.1rem}
+.btn{display:inline-block;width:100%;font:600 .74rem/1 var(--sans);letter-spacing:.11em;
+  text-transform:uppercase;padding:.85rem 1.15rem;border:1px solid var(--ink);
+  background:var(--ink);color:var(--surface);cursor:pointer;transition:background .15s}
+.btn:hover{background:var(--gold-text);border-color:var(--gold-text)}
+.btn[disabled]{opacity:.5;cursor:default}
+.btn.ghost{background:none;color:var(--ink)}
+.btn.ghost:hover{background:var(--ink);color:var(--surface)}
+
+.msg{margin-top:1.1rem;padding:.85rem 1rem;font-size:.87rem;line-height:1.55;border:1px solid;display:none}
+.msg.show{display:block}
+.msg.ok{border-color:var(--green);background:rgba(67,101,46,.07);color:var(--green)}
+.msg.err{border-color:var(--rust);background:rgba(101,46,67,.07);color:var(--rust)}
+.msg.info{border-color:var(--gold);background:var(--gold-soft);color:#2F4720}
+
+.what h2{margin:0 0 .9rem;font:600 1rem var(--sans)}
+.what ul{margin:0 0 2rem;padding:0;list-style:none}
+.what li{padding:.7rem 0;border-bottom:1px solid var(--rule-2);display:flex;gap:.9rem;font-size:.93rem}
+.what li b{flex:none;width:9.5rem;font:600 .62rem/1.5 var(--sans);letter-spacing:.13em;
+  text-transform:uppercase;color:var(--gold-text)}
+.what li span{color:var(--ink-2)}
+.note{padding:1.05rem 1.2rem;background:var(--surface);border:1px solid var(--gold);
+  border-left-width:4px;max-width:60ch}
+.note b{display:block;font:600 .62rem/1 var(--sans);letter-spacing:.15em;
+  text-transform:uppercase;color:#2F4720;margin-bottom:.5rem}
+.note p{margin:0;font-size:.87rem;line-height:1.6;color:var(--ink-2)}
+
+.acct-row{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;
+  padding:.7rem 0;border-bottom:1px solid var(--rule-2)}
+.acct-row dt{font:600 .62rem/1.5 var(--sans);letter-spacing:.13em;text-transform:uppercase;color:var(--ink-3)}
+.acct-row dd{margin:0;font-size:.93rem;text-align:right;word-break:break-word}
+
+footer{padding:3rem 0;margin-top:2rem;border-top:1px solid var(--rule);font-size:.8rem;color:var(--ink-3)}
+a{color:var(--green)}
+@media (max-width:860px){.grid{grid-template-columns:1fr;gap:2.4rem;padding:2.4rem 0}.masthead nav{display:none}}
+</style>
+<link rel="stylesheet" href="assets/css/codex-chrome.css">
+<link rel="stylesheet" href="assets/css/codex-platform.css">
+</head>
+<body data-page="account">
+
+<header class="masthead site-head"><div class="in">
+  <a class="brand" href="index.html"><b>JUSNREM Codex</b><span>Your account</span></a>
+  <nav aria-label="Site"><a href="code-law-and-capital/">Library</a><a href="search.html">Search</a><a href="authorities.html">Authorities</a><a href="doctrines.html">Doctrines</a><a href="map.html">Map</a></nav>
+</div></header>
+
+<div class="wrap">
+  <div class="grid">
+
+    <!-- ── left: the form ───────────────────────────────────────────── -->
+    <div>
+      <div id="signin-card" class="card">
+        <h2>Sign in</h2>
+        <p class="sub">
+          Enter your email and we will send a single-use link. There is no password
+          to choose or remember.
+        </p>
+        <form id="signin-form" novalidate>
+          <div class="field">
+            <label for="email">Email address</label>
+            <input id="email" type="email" autocomplete="email" required
+                   placeholder="you@institution.org">
+          </div>
+          <button class="btn" id="send" type="submit">Send sign-in link</button>
+        </form>
+        <div class="msg" id="msg" role="status" aria-live="polite"></div>
+      </div>
+
+      <div id="account-card" class="card" hidden>
+        <h2>Your account</h2>
+        <p class="sub">Signed in. Update how you would like to be reached.</p>
+        <dl id="acct-facts"></dl>
+        <form id="profile-form" style="margin-top:1.4rem">
+          <div class="field">
+            <label for="fullname">Name</label>
+            <input id="fullname" type="text" autocomplete="name" placeholder="Optional">
+          </div>
+          <div class="field">
+            <label for="institution">Institution or firm</label>
+            <input id="institution" type="text" autocomplete="organization" placeholder="Optional">
+          </div>
+          <div class="field">
+            <label for="interest">Principal interest</label>
+            <select id="interest">
+              <option value="">Not stated</option>
+              <option value="practice">Legal practice</option>
+              <option value="regulator">Regulator or public body</option>
+              <option value="judiciary">Judiciary</option>
+              <option value="academic">Academic or research</option>
+              <option value="financial">Financial institution</option>
+              <option value="technology">Technology or policy</option>
+              <option value="library">Library or acquisitions</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+          <button class="btn" type="submit">Save</button>
+        </form>
+        <div class="msg" id="pmsg" role="status" aria-live="polite"></div>
+        <button class="btn ghost" id="signout" style="margin-top:.7rem">Sign out</button>
+      </div>
+    </div>
+
+    <!-- ── right: what an account is, and is not ────────────────────── -->
+    <div class="what">
+      <h1>An account, and what it is for</h1>
+      <p class="lede">
+        The Codex is open. Every chapter, the Doctrine Register, the Table of
+        Authorities and search are free to read, without an account and without
+        registration. An account exists so that the work can reach you when it
+        changes.
+      </p>
+
+      <h2>What an account gives you</h2>
+      <ul>
+        <li><b>Revision notices</b><span>Notification when a chapter is revised, with a statement of what changed and why. The published text is never silently overwritten.</span></li>
+        <li><b>Update briefings</b><span>Legislative and regulatory developments recorded against the propositions they affect.</span></li>
+        <li><b>Licensed editions</b><span>In time, the route to downloadable and institutional editions. Not yet available.</span></li>
+      </ul>
+
+      <h2>What it does not do</h2>
+      <ul>
+        <li><b>No paywall</b><span>Nothing in the Codex is behind this account today. Signing in unlocks nothing you cannot already read.</span></li>
+        <li><b>No tracking</b><span>Your reading is not recorded against your identity, and reader data is not sold.</span></li>
+      </ul>
+
+      <div class="note">
+        <b>Stated plainly</b>
+        <p>
+          This registration is for revision notices and for a future licensing
+          route. It is not an access control, and it should not be described as
+          one. Where a work is open, an account is a courtesy to the reader, not a
+          condition of reading.
+        </p>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    JUSNREM Codex. &copy; 2026 KSC.JUSNREM.
+  </footer>
+</div>
+
+<script src="assets/js/codex-config.js"></script>
+<script src="assets/js/codex-auth.js"></script>
+<script>
+const $ = (id) => document.getElementById(id);
+const show = (el, kind, text) => { el.className = 'msg show ' + kind; el.textContent = text; };
+
+(async function () {
+  // Not configured yet: say so honestly rather than failing silently.
+  if (!CODEX_AUTH.config()) {
+    $('send').disabled = true;
+    show($('msg'), 'info',
+      'Sign-in is not yet connected. The Supabase project has not been configured — ' +
+      'see SUPABASE-SETUP.md in the repository. Everything in the Codex remains open to read.');
+    return;
+  }
+
+  const user = await CODEX_AUTH.user();
+  if (user) {
+    $('signin-card').hidden = true;
+    $('account-card').hidden = false;
+    const created = user.created_at ? new Date(user.created_at).toLocaleDateString('en-GB',
+      { day: 'numeric', month: 'long', year: 'numeric' }) : '—';
+    $('acct-facts').innerHTML =
+      `<div class="acct-row"><dt>Email</dt><dd>${user.email}</dd></div>` +
+      `<div class="acct-row"><dt>Registered</dt><dd>${created}</dd></div>` +
+      `<div class="acct-row"><dt>Access</dt><dd>Open reader</dd></div>`;
+    const p = await CODEX_AUTH.profile();
+    if (p) {
+      $('fullname').value = p.full_name || '';
+      $('institution').value = p.institution || '';
+      $('interest').value = p.interest || '';
+    }
+  }
+})();
+
+$('signin-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const email = $('email').value.trim();
+  if (!email || !email.includes('@')) {
+    show($('msg'), 'err', 'Enter a valid email address.');
+    return;
+  }
+  $('send').disabled = true;
+  $('send').textContent = 'Sending…';
+  try {
+    await CODEX_AUTH.sendLink(email, '/account.html');
+    show($('msg'), 'ok',
+      'Check your email. We have sent a single-use sign-in link to ' + email +
+      '. It expires in one hour.');
+    $('signin-form').reset();
+  } catch (err) {
+    show($('msg'), 'err', 'Could not send the link: ' + (err.message || 'unknown error') + '.');
+  } finally {
+    $('send').disabled = false;
+    $('send').textContent = 'Send sign-in link';
+  }
+});
+
+$('profile-form')?.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  try {
+    await CODEX_AUTH.saveProfile({
+      full_name: $('fullname').value.trim() || null,
+      institution: $('institution').value.trim() || null,
+      interest: $('interest').value || null,
+    });
+    show($('pmsg'), 'ok', 'Saved.');
+  } catch (err) {
+    show($('pmsg'), 'err', 'Could not save: ' + (err.message || 'unknown error') + '.');
+  }
+});
+
+$('signout')?.addEventListener('click', async () => {
+  await CODEX_AUTH.signOut();
+  location.reload();
+});
+</script>
+<footer class="works-strip"><div class="in">
+  <h2>The works of the JUSNREM Codex</h2>
+  <div class="row"><a class="w" href="code-law-and-capital/" style="--acc:#43652E"><b>Code, Law and Capital</b><span>Digital assets and the emerging global legal order</span><i>Read &rarr;</i></a><a class="w" href="https://jus-automica.digital/" rel="noopener" style="--acc:#652E43"><b>JUS.automica</b><span>How law remains law when intelligence is distributed</span><i>Programme site &nearr;</i></a><div class="w" style="--acc:#2E4365"><b>The Constitution of Fiscal Order</b><span>Public finance and taxation in Pakistan</span><i>Forthcoming</i></div></div>
+  <p class="foot"><a href="index.html">JUSNREM Codex home</a> &middot; <a href="account.html">Account</a> &middot; Every work is open to read.</p>
+</div></footer>
+</body>
+</html>

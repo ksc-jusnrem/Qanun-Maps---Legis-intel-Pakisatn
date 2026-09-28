@@ -1,0 +1,453 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Law: Authority, Interpretation and the Digital Legal Order &mdash; Code, Law and Capital</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --green:#43652E; --gold:#43652E; --surface:#FFFFFF; --ink:#111516; --ink-head:#111516;
+  --ink-soft:#22292C; --ink-mute:#56676E; --cream:#FFFFFF;
+  --backdrop:#EEF0F0; --rule:#CCD1D4; --rule-faint:#EEF0F0; --oxblood:#652E43;
+  --gold-text:#2F4720;   /* 4.98:1 on ground - gold as TEXT */
+  --gold-on-dark:#FFFFFF; /* 5.00:1 on the green masthead */
+  --sans:Archivo,"Helvetica Neue",Arial,sans-serif;
+  --serif:Spectral,Georgia,"Times New Roman",serif;
+  --display:"Cormorant Garamond",Georgia,serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:5rem}
+:where(a,button,[tabindex]):focus-visible{outline:2px solid var(--gold-text);outline-offset:2px}
+body{margin:0;background:var(--backdrop);color:var(--ink);font:400 1.0625rem/1.65 var(--serif)}
+
+/* ---- masthead ---- */
+.masthead{position:sticky;top:0;z-index:40;background:var(--green);color:var(--cream);
+  border-bottom:2px solid var(--gold);display:flex;align-items:center;gap:1rem;
+  padding:.6rem 1.1rem;font-family:var(--sans)}
+.masthead .work{font:600 .72rem/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;
+  color:var(--cream);text-decoration:none;white-space:nowrap}
+.masthead .work span{color:rgba(255,255,255,.72)}
+.masthead form{margin-left:auto;display:flex;align-items:center}
+#q{font:400 .82rem var(--sans);padding:.32rem .6rem;width:14rem;max-width:38vw;
+  border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.10);
+  color:var(--cream);border-radius:2px}
+#q::placeholder{color:rgba(255,255,255,.60)}
+.allsearch{margin-left:.6rem;font:600 .64rem/1 var(--sans);letter-spacing:.1em;
+  text-transform:uppercase;color:var(--gold-on-dark);text-decoration:none;white-space:nowrap}
+.allsearch:hover{color:var(--cream)}
+#q:focus{outline:2px solid var(--gold);outline-offset:1px}
+#navtoggle{display:none;font:600 .72rem var(--sans);letter-spacing:.12em;text-transform:uppercase;
+  background:none;border:1px solid rgba(255,255,255,.4);color:var(--cream);
+  padding:.3rem .55rem;border-radius:2px;cursor:pointer}
+
+/* ---- shell ---- */
+.shell{display:grid;grid-template-columns:17rem minmax(0,1fr);gap:0;
+  max-width:76rem;margin:0 auto;align-items:start}
+
+/* ---- sidebar ---- */
+.sidebar{position:sticky;top:3.1rem;max-height:calc(100vh - 3.1rem);overflow-y:auto;
+  padding:1.6rem 1rem 3rem 1.2rem;font-family:var(--sans);
+  border-right:1px solid var(--rule)}
+.sidebar .up{display:block;font:600 .64rem/1.4 var(--sans);letter-spacing:.09em;
+  text-transform:uppercase;color:var(--ink-mute);text-decoration:none;margin-bottom:1rem}
+.sidebar .up:hover{color:var(--gold)}
+.sidebar h2{font:600 .68rem/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;
+  color:var(--ink-head);margin:0 0 .8rem;padding-bottom:.6rem;border-bottom:1px solid var(--rule)}
+.sidebar ol{list-style:none;margin:0;padding:0}
+
+/* the whole work, on every page */
+.worknav .pt span{display:block;margin:1rem 0 .35rem;font:600 .58rem/1.35 var(--sans);
+  letter-spacing:.14em;text-transform:uppercase;color:var(--gold-text)}
+.worknav .ch a{display:flex;gap:.5rem;padding:.26rem .4rem;font-size:.76rem;line-height:1.35;
+  color:var(--ink-soft);text-decoration:none;border-left:2px solid transparent;border-radius:2px}
+.worknav .ch a b{flex:none;font-weight:600;color:#56676E;font-variant-numeric:tabular-nums}
+.worknav .ch a:hover{color:var(--green);background:rgba(67,101,46,.08)}
+.worknav .ch a:hover b{color:var(--gold)}
+.worknav .ch.here > a{color:var(--green);font-weight:600;border-left-color:var(--gold);
+  background:rgba(67,101,46,.10)}
+.worknav .ch.here > a b{color:var(--gold)}
+.worknav .ch.app a{color:var(--ink-mute);font-style:italic}
+.worknav .seclist{margin:.2rem 0 .5rem;padding:0 0 0 1.35rem;
+  border-left:1px solid var(--rule)}
+.worknav .seclist a{display:block;padding:.16rem .4rem;font-size:.72rem;line-height:1.35;
+  color:var(--ink-mute);text-decoration:none;border-left:2px solid transparent}
+.worknav .seclist a:hover{color:var(--green)}
+.worknav .seclist a.here{color:var(--green);font-weight:600;border-left-color:var(--gold)}
+.worknav .seclist .toc-l3 a{padding-left:.9rem}
+.worknav .seclist .toc-l4 a{padding-left:1.6rem}
+
+/* breadcrumb */
+.crumb{margin:0 0 1.6rem;font:500 .74rem/1.5 var(--sans);color:var(--ink-mute)}
+.crumb a{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(--rule)}
+.crumb a:hover{color:var(--gold);border-bottom-color:var(--gold)}
+.crumb span{margin:0 .45rem;color:var(--rule)}
+.crumb em{font-style:normal;color:var(--ink)}
+
+/* on this page, in the reading column */
+.onthispage{margin:0 0 2.4rem;padding:1.1rem 1.3rem;background:var(--surface);
+  border:1px solid var(--rule)}
+.onthispage h2{margin:0 0 .7rem;font:600 .62rem/1 var(--sans);letter-spacing:.18em;
+  text-transform:uppercase;color:var(--ink-mute)}
+.onthispage ol{list-style:none;margin:0;padding:0;columns:2;column-gap:2rem}
+.onthispage li{break-inside:avoid;margin:.12rem 0}
+.onthispage a{font-size:.82rem;line-height:1.45;color:var(--green);text-decoration:none;
+  border-bottom:1px solid transparent}
+.onthispage a:hover{border-bottom-color:var(--gold);color:var(--gold)}
+.onthispage .toc-l3 a{padding-left:.9rem;font-size:.78rem;color:var(--ink-soft)}
+.onthispage .toc-l4 a{padding-left:1.7rem;font-size:.76rem;color:var(--ink-mute)}
+@media (max-width:640px){.onthispage ol{columns:1}}
+
+/* ---- sheet ---- */
+.sheet{background:var(--surface);border-left:1px solid var(--rule);border-right:1px solid var(--rule);
+  padding:3rem 3.4rem 5rem;min-height:100vh}
+/* ---- chapter cover band, after the v0.20 cover ---- */
+.cover{position:relative;margin:-3rem -3.4rem 2.4rem;padding:2.6rem 3.4rem 2.4rem;
+  background:var(--green);color:var(--cream);overflow:hidden}
+.cover .plate{position:absolute;inset:0;background:url("assets/clc-cover.jpg") center/cover no-repeat;
+  opacity:.20;filter:grayscale(.25)}
+.cover .frame{position:absolute;inset:.7rem;border:2px solid rgba(255,255,255,.40);
+  pointer-events:none}
+.cover > *:not(.plate):not(.frame){position:relative}
+.cover .eyebrow{font:600 .68rem/1 var(--sans);letter-spacing:.24em;text-transform:uppercase;
+  color:var(--gold-on-dark);margin-bottom:1rem}
+.cover .rule{display:flex;align-items:center;gap:.6rem;margin:.9rem 0 0;width:60%}
+.cover .rule i{display:block;width:5px;height:5px;background:var(--gold);transform:rotate(45deg)}
+.cover .rule b{flex:1;height:1px;background:rgba(255,255,255,.5)}
+h1{margin:0;font:600 2.5rem/1.12 var(--display);color:var(--cream);text-wrap:balance}
+.cover .subtitle{margin-top:.7rem;font:500 1.12rem/1.35 var(--display);font-style:italic;
+  color:var(--gold-on-dark)}
+.cover .byline{margin-top:1.1rem;font:500 .72rem/1 var(--sans);letter-spacing:.28em;
+  text-transform:uppercase;color:rgba(255,255,255,.85)}
+
+h2.sec{margin:2.6rem 0 .9rem;padding-bottom:.4rem;border-bottom:1px solid var(--rule);
+  font:600 1.32rem/1.3 var(--sans);letter-spacing:.02em;color:var(--ink-head);text-wrap:balance}
+h3.sec{margin:2rem 0 .6rem;font:600 1.08rem/1.35 var(--display);color:var(--oxblood);text-wrap:balance}
+h4.sec{margin:1.5rem 0 .5rem;font:600 .95rem/1.35 var(--sans);color:var(--ink-soft)}
+.sec .num{color:var(--gold-text);font-variant-numeric:tabular-nums}
+
+/* ---- paragraphs ---- */
+.para{position:relative;margin:0 0 1.05rem;padding-left:2.6rem;scroll-margin-top:5rem}
+.pnum{position:absolute;left:0;top:.28rem;width:2rem;text-align:right;
+  font:500 .68rem/1 var(--sans);color:#56676E;text-decoration:none;
+  font-variant-numeric:tabular-nums;transition:color .12s}
+.para:hover .pnum,.pnum:focus{color:var(--gold-text)}
+.para:target .ptext{background:rgba(67,101,46,.09);box-shadow:-.5rem 0 0 rgba(67,101,46,.09),.5rem 0 0 rgba(67,101,46,.09)}
+.ptext{max-width:34rem;text-align:left;text-wrap:pretty}
+.ptext em{font-style:italic}
+a.xref{color:var(--green);text-decoration:none;border-bottom:1px solid rgba(47,71,32,.32);
+  transition:border-color .12s,color .12s}
+a.xref:hover{color:var(--gold);border-bottom-color:var(--gold)}
+a.xref::after{content:"↗";font-size:.72em;vertical-align:.35em;margin-left:.1em;
+  color:var(--gold);opacity:.7}
+@media print{a.xref{border-bottom:0;color:inherit} a.xref::after{content:""}}
+.ptext ul.condlist{margin:.6rem 0 .6rem 1.15rem;padding:0;list-style:disc}
+.ptext ul.condlist li{margin:.42rem 0}
+.ptext ul.condlist strong{font-weight:600;color:var(--ink-head)}
+
+/* ---- figures ---- */
+figure{margin:2.2rem 0;max-width:none}
+img{max-width:100%;height:auto;display:block;border:1px solid var(--rule-faint)}
+figcaption{margin-top:.7rem;font:600 1.02rem/1.35 var(--display);color:var(--oxblood)}
+.fignote{margin:.5rem 0 0;font:italic 400 .82rem/1.5 var(--serif);color:var(--ink-mute)}
+.tablewrap{margin:1.8rem 0;max-width:none;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.tablewrap table{border-collapse:collapse;width:100%;min-width:34rem;
+  font:400 .84rem/1.5 var(--sans)}
+.tablewrap th{text-align:left;padding:.55rem .7rem;border-bottom:1.2pt solid var(--gold);
+  font:600 .74rem/1.4 var(--sans);color:var(--ink-head);vertical-align:bottom}
+.tablewrap td{padding:.5rem .7rem;border-bottom:1px solid var(--rule-faint);
+  vertical-align:top;color:var(--ink)}
+.tablewrap tr:last-child td{border-bottom:0}
+.tablewrap th strong,.tablewrap td strong{font-weight:600}
+figure.ornament{margin:2rem auto;max-width:16rem;opacity:.55}
+figure.ornament img{border:0}
+
+/* ---- footnotes: inline popover, print endnotes ---- */
+sup.fnref{line-height:0}
+sup.fnref a,button.fnbtn{font:600 .62rem/1 var(--sans);color:#fff;background:var(--green);
+  border:0;border-radius:2px;padding:.12rem .3rem;margin:0 .1rem;cursor:pointer;
+  text-decoration:none;vertical-align:super;font-variant-numeric:tabular-nums}
+button.fnbtn:hover,button.fnbtn[aria-expanded=true]{background:var(--gold)}
+.fnpop{position:absolute;z-index:60;max-width:min(30rem,88vw);background:#fff;
+  border:1px solid var(--gold);border-top:3px solid var(--gold);
+  box-shadow:0 6px 24px rgba(36,30,19,.22);padding:.8rem .95rem;
+  font:400 .84rem/1.5 var(--serif);color:var(--ink-soft);border-radius:2px}
+.fnpop .close{float:right;margin:-.3rem -.3rem 0 .5rem;border:0;background:none;
+  font:600 .95rem/1 var(--sans);color:var(--ink-mute);cursor:pointer}
+.pager{display:grid;grid-template-columns:1fr auto 1fr;gap:1rem;align-items:stretch;
+  margin:3rem 0 0;padding-top:1.6rem;border-top:1px solid var(--rule)}
+.pager a{display:flex;flex-direction:column;gap:.2rem;padding:.9rem 1rem;
+  text-decoration:none;color:var(--ink);border:1px solid var(--rule);
+  background:var(--surface);min-height:44px;justify-content:center;transition:border-color .15s}
+.pager a:hover{border-color:var(--gold-text)}
+.pg-next{text-align:right}
+.pg-dir{font:600 .6rem/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;
+  color:var(--gold-text)}
+.pg-ch{font:600 .84rem/1.3 var(--sans)}
+.pg-ti{font:400 .8rem/1.35 var(--serif);color:var(--ink-mute)}
+.pg-all{align-self:center;font:600 .64rem/1 var(--sans);letter-spacing:.12em;
+  text-transform:uppercase;color:var(--ink-2);white-space:nowrap;flex-direction:row}
+.pg-end{display:block}
+@media (max-width:640px){
+  .pager{grid-template-columns:1fr;gap:.5rem}
+  .pg-next{text-align:left}
+  .pg-all{order:3;justify-content:center}
+}
+@media print{.pager{display:none}}
+.notes{margin-top:3.5rem;border-top:1px solid var(--rule);padding-top:1.4rem}
+.notes h2{font:600 .72rem/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;
+  color:var(--ink-mute);margin:0 0 1rem}
+.notes ol{margin:0;padding-left:1.4rem}
+.notes li{margin:.45rem 0;font-size:.85rem;line-height:1.5;color:var(--ink-soft);
+  scroll-margin-top:5rem}
+.notes li:target{background:rgba(67,101,46,.10)}
+.backref{color:var(--gold-text);text-decoration:none;margin-right:.25rem}
+a.cite-url{color:var(--green);text-decoration:none;border-bottom:1px solid rgba(67,101,46,.3);
+  word-break:break-word}
+a.cite-url:hover{color:var(--gold);border-bottom-color:var(--gold)}
+@media print{a.cite-url{border-bottom:0;color:inherit}}
+a{color:var(--green)}
+a:hover{color:var(--gold)}
+
+/* ---- search ---- */
+mark{background:rgba(105,132,88,.38);color:inherit;padding:0 .08em}
+.nohit{display:none}
+#searchnote{font:500 .76rem var(--sans);color:var(--ink-mute);margin:1rem 0 0}
+
+/* ---- responsive ---- */
+@media (max-width:960px){
+  .shell{grid-template-columns:minmax(0,1fr)}
+  .sheet{min-width:0}
+  .sidebar{position:static;max-height:none;border-right:0;border-bottom:1px solid var(--rule);
+    display:none;background:#fff}
+  .sidebar.open{display:block}
+  #navtoggle{display:inline-block}
+  .sheet{padding:1.8rem 1.25rem 3.5rem;border:0}
+  .cover{margin:-1.8rem -1.25rem 1.8rem;padding:2rem 1.25rem 1.8rem}
+  .cover .rule{width:100%}
+  h1{font-size:1.95rem}
+  .masthead{gap:.6rem;padding:.55rem .8rem}
+  .masthead .work{font-size:.62rem;overflow:hidden;text-overflow:ellipsis}
+  .masthead form{flex:1;min-width:0}
+  #q{width:100%;max-width:none}
+  .para{padding-left:0}
+  .pnum{position:static;display:inline-block;width:auto;margin-right:.5rem;
+    text-align:left;color:var(--gold)}
+}
+
+@media (max-width:560px){
+  .masthead .work{display:none}
+}
+
+/* ---- print: return to the v0.20 page design ---- */
+@media print{
+  @page{size:Letter;margin:.85in}
+  body{background:#fff;font:400 10.4pt/1.62 var(--serif)}
+  .masthead,.sidebar,#searchnote,.fnpop,.crumb,.onthispage{display:none!important}
+  .shell{display:block;max-width:none}
+  .sheet{border:0;padding:0;min-height:0}
+  .ptext{text-align:justify;hyphens:auto}
+  .para{padding-left:2.2rem}
+  .pnum{color:#56676E}
+  h1,h2,h3,h4{break-after:avoid}
+  p,.para{orphans:2;widows:2}
+  sup.fnref a{background:none;color:var(--ink);padding:0;font-size:.7em}
+  button.fnbtn{display:inline!important;background:none;color:var(--ink);border:0;padding:0;font:inherit;font-size:.7em;vertical-align:super;min-width:0;height:auto}
+  .tablewrap{overflow:visible}
+  .tablewrap table{min-width:0;font-size:8.6pt}
+  .tablewrap thead{display:table-header-group}
+  .notes{break-before:page}
+  a{color:var(--ink);text-decoration:none}
+}
+</style>
+<link rel="stylesheet" href="../assets/css/codex-chrome.css">
+</head>
+<body>
+<header class="site-head site-head--static"><div class="in">
+  <a class="brand" href="../index.html"><b>JUSNREM Codex</b><span>Code, Law and Capital</span></a>
+  <nav aria-label="Site"><a href="../code-law-and-capital/" aria-current="page">Library</a><a href="../search.html">Search</a><a href="../authorities.html">Authorities</a><a href="../doctrines.html">Doctrines</a><a href="../map.html">Map</a></nav>
+</div></header>
+<header class="masthead">
+  <button id="navtoggle" aria-expanded="false" aria-controls="sidebar">Contents</button>
+  <a class="work" href="index.html">Code, Law <span>&amp;</span> Capital</a>
+  <form role="search" onsubmit="return false">
+    <label class="sr-only" for="q" hidden>Search this chapter</label>
+    <input id="q" type="search" placeholder="Search this chapter&hellip;" autocomplete="off">
+    <a class="allsearch" href="../search.html">All 26 &rarr;</a>
+  </form>
+</header>
+
+<div class="shell">
+  <nav class="sidebar" id="sidebar" aria-label="Codex contents">
+    <a class="up" href="../">&larr; JUSNREM Codex</a>
+    <h2>Code, Law and Capital</h2>
+    <ol class="worknav"><li class="pt"><span>Part 01 &middot; Foundations and the Governing Triad</span></li><li class="ch"><a href="chapter-01.html"><b>01</b> The Governing Thesis: Code, Law and Capital</a></li><li class="ch"><a href="chapter-02.html"><b>02</b> From Electronic Value to the Global Digital-Asset Order</a></li><li class="ch"><a href="chapter-03.html"><b>03</b> Pakistan’s Digital-Asset Order: From Perimeter Preservation to Statutory Recognition</a></li><li class="ch"><a href="chapter-04.html"><b>04</b> Code: Digital-Asset Technologies, Functions and Control</a></li><li class="ch here"><a href="chapter-05.html"><b>05</b> Law: Authority, Interpretation and the Digital Legal Order</a><ol class="seclist"><li class="toc-l2"><a href="#sx0">Contents</a></li><li class="toc-l2"><a href="#sx1">Chapter Summary</a></li><li class="toc-l2"><a href="#s5-1">5.1 What Counts as Law</a></li><li class="toc-l3"><a href="#s5-1-1">5.1.1 Constitution, statute, delegated legislation and binding judgment</a></li><li class="toc-l3"><a href="#s5-1-2">5.1.2 Policy, guidance, standards, websites and other non-equivalent materials</a></li><li class="toc-l2"><a href="#s5-2">5.2 Constitutional Authority and Legislative Competence</a></li><li class="toc-l3"><a href="#s5-2-1">5.2.1 Federal and provincial allocation</a></li><li class="toc-l3"><a href="#s5-2-2">5.2.2 Fundamental rights, legality and public power</a></li><li class="toc-l2"><a href="#s5-3">5.3 Legislative Form, Commencement, Savings and Transition</a></li><li class="toc-l3"><a href="#s5-3-1">5.3.1 Enactment, commencement and delegated authority</a></li><li class="toc-l3"><a href="#s5-3-2">5.3.2 Savings, accrued positions and prospective regulation</a></li><li class="toc-l2"><a href="#s5-4">5.4 Classification, Characterisation and Functional Regulation</a></li><li class="toc-l3"><a href="#s5-4-1">5.4.1 Classifying the asset and the activity</a></li><li class="toc-l3"><a href="#s5-4-2">5.4.2 Overlap and cumulative application</a></li><li class="toc-l2"><a href="#s5-5">5.5 Jurisdiction, Territory and Connecting Factors</a></li><li class="toc-l3"><a href="#s5-5-1">5.5.1 Territorial reach in networked markets</a></li><li class="toc-l3"><a href="#s5-5-2">5.5.2 Comparative law and domestic authority</a></li><li class="toc-l2"><a href="#s5-6">5.6 Rights, Reasons and Administrative Fairness</a></li><li class="toc-l3"><a href="#s5-6-1">5.6.1 Public power and affected rights</a></li><li class="toc-l3"><a href="#s5-6-2">5.6.2 Notice, hearing and reasons</a></li><li class="toc-l2"><a href="#s5-7">5.7 Evidence, Proof and Legal Truth</a></li><li class="toc-l3"><a href="#s5-7-1">5.7.1 Technical records as evidence</a></li><li class="toc-l3"><a href="#s5-7-2">5.7.2 Authenticity, integrity and chain of custody</a></li><li class="toc-l2"><a href="#s5-8">5.8 Pakistan’s Digital, Electronic and ICT Statutory Family</a></li><li class="toc-l3"><a href="#s5-8-1">5.8.1 Integration across general and sectoral laws</a></li><li class="toc-l3"><a href="#s5-8-2">5.8.2 Fragmentation, overlap and institutional handoffs</a></li><li class="toc-l2"><a href="#s5-9">5.9 Integration Principles</a></li><li class="toc-l3"><a href="#s5-9-1">5.9.1 A legal sequence for digital-asset questions</a></li><li class="toc-l3"><a href="#s5-9-2">5.9.2 The rule-of-law contribution</a></li><li class="toc-l2"><a href="#sx29">Chapter 5 Conclusion</a></li></ol></li><li class="ch"><a href="chapter-06.html"><b>06</b> Capital: Markets, Monetary Sovereignty and Distribution</a></li><li class="pt"><span>Part 02 &middot; Pakistan’s Digital and Virtual-Asset Legal Order</span></li><li class="ch"><a href="chapter-07.html"><b>07</b> Pakistan’s Digital, Electronic and ICT Legal Architecture</a></li><li class="ch"><a href="chapter-08.html"><b>08</b> The Virtual Assets Act 2026 and PVARA</a></li><li class="ch"><a href="chapter-09.html"><b>09</b> Market Entry, Existing Participants and Transitional Legality</a></li><li class="pt"><span>Part 03 &middot; Financial, Property, Integrity and Fiscal Order</span></li><li class="ch"><a href="chapter-10.html"><b>10</b> The Monetary and Financial Perimeter</a></li><li class="ch"><a href="chapter-11.html"><b>11</b> Property, Custody, Customer Assets, Insolvency and Market Conduct</a></li><li class="ch"><a href="chapter-12.html"><b>12</b> Financial Integrity, Sanctions and Evidentiary Enforcement</a></li><li class="ch"><a href="chapter-13.html"><b>13</b> Fiscal Order: Recognition, Taxation, Disclosure and Public Finance</a></li><li class="pt"><span>Part 04 &middot; Digital Systems, Institutions, Rights and Remedies</span></li><li class="ch"><a href="chapter-14.html"><b>14</b> Data, Cybersecurity, Digital Identity and Evidence</a></li><li class="ch"><a href="chapter-15.html"><b>15</b> Smart Contracts, DeFi, DAOs and Autonomous Systems</a></li><li class="ch"><a href="chapter-16.html"><b>16</b> Institutional Integrity, Federalism and Cross-Border Administration</a></li><li class="ch"><a href="chapter-17.html"><b>17</b> Enforcement, Tribunal, Courts and Constitutional Remedies</a></li><li class="pt"><span>Part 05 &middot; Comparative Digital-Asset Orders</span></li><li class="ch"><a href="chapter-18.html"><b>18</b> The United States: Markets, Enforcement and the Contest for Regulatory Authority</a></li><li class="ch"><a href="chapter-19.html"><b>19</b> The United Kingdom and European Legal Orders</a></li><li class="ch"><a href="chapter-20.html"><b>20</b> Asian and Asia-Pacific Digital-Asset Orders</a></li><li class="ch"><a href="chapter-21.html"><b>21</b> GCC and Middle Eastern Digital-Asset Orders</a></li><li class="ch"><a href="chapter-22.html"><b>22</b> ASEAN and Emerging Regional Models</a></li><li class="pt"><span>Part 06 &middot; Global Standards and International Law</span></li><li class="ch"><a href="chapter-23.html"><b>23</b> Global Standards and Transnational Regulatory Coordination</a></li><li class="ch"><a href="chapter-24.html"><b>24</b> Public International Law and Digital Assets</a></li><li class="ch"><a href="chapter-25.html"><b>25</b> Private International Law and Cross-Border Digital Assets</a></li><li class="pt"><span>Part 07 &middot; Building Pakistan’s Future Digital-Asset Order</span></li><li class="ch"><a href="chapter-26.html"><b>26</b> Building Pakistan’s Digital-Asset Order</a></li><li class="ch app"><a href="front-matter.html"><b>&mdash;</b> Front matter</a></li><li class="ch app"><a href="back-matter.html"><b>&mdash;</b> Back matter</a></li></ol>
+    <p id="searchnote" hidden></p>
+  </nav>
+
+  <main class="sheet">
+    <div class="cover">
+      <div class="plate" role="presentation"></div>
+      <div class="frame" role="presentation"></div>
+      <div class="eyebrow">Chapter Five &middot; Part 1</div>
+      <h1>Law: Authority, Interpretation and the Digital Legal Order</h1>
+      <div class="subtitle"></div>
+      <div class="rule"><i></i><b></b></div>
+      <div class="byline">Khurram Chughtai</div>
+    </div>
+    <nav class="crumb" aria-label="Breadcrumb">
+      <a href="../">Codex</a> <span>/</span>
+      <a href="index.html">Code, Law and Capital</a> <span>/</span>
+      <em>Chapter Five &middot; Part 1</em>
+    </nav>
+    <nav class="onthispage" aria-label="On this page">
+      <h2>On this page</h2>
+      <ol><li class="toc-l2"><a href="#sx0">Contents</a></li><li class="toc-l2"><a href="#sx1">Chapter Summary</a></li><li class="toc-l2"><a href="#s5-1">5.1 What Counts as Law</a></li><li class="toc-l3"><a href="#s5-1-1">5.1.1 Constitution, statute, delegated legislation and binding judgment</a></li><li class="toc-l3"><a href="#s5-1-2">5.1.2 Policy, guidance, standards, websites and other non-equivalent materials</a></li><li class="toc-l2"><a href="#s5-2">5.2 Constitutional Authority and Legislative Competence</a></li><li class="toc-l3"><a href="#s5-2-1">5.2.1 Federal and provincial allocation</a></li><li class="toc-l3"><a href="#s5-2-2">5.2.2 Fundamental rights, legality and public power</a></li><li class="toc-l2"><a href="#s5-3">5.3 Legislative Form, Commencement, Savings and Transition</a></li><li class="toc-l3"><a href="#s5-3-1">5.3.1 Enactment, commencement and delegated authority</a></li><li class="toc-l3"><a href="#s5-3-2">5.3.2 Savings, accrued positions and prospective regulation</a></li><li class="toc-l2"><a href="#s5-4">5.4 Classification, Characterisation and Functional Regulation</a></li><li class="toc-l3"><a href="#s5-4-1">5.4.1 Classifying the asset and the activity</a></li><li class="toc-l3"><a href="#s5-4-2">5.4.2 Overlap and cumulative application</a></li><li class="toc-l2"><a href="#s5-5">5.5 Jurisdiction, Territory and Connecting Factors</a></li><li class="toc-l3"><a href="#s5-5-1">5.5.1 Territorial reach in networked markets</a></li><li class="toc-l3"><a href="#s5-5-2">5.5.2 Comparative law and domestic authority</a></li><li class="toc-l2"><a href="#s5-6">5.6 Rights, Reasons and Administrative Fairness</a></li><li class="toc-l3"><a href="#s5-6-1">5.6.1 Public power and affected rights</a></li><li class="toc-l3"><a href="#s5-6-2">5.6.2 Notice, hearing and reasons</a></li><li class="toc-l2"><a href="#s5-7">5.7 Evidence, Proof and Legal Truth</a></li><li class="toc-l3"><a href="#s5-7-1">5.7.1 Technical records as evidence</a></li><li class="toc-l3"><a href="#s5-7-2">5.7.2 Authenticity, integrity and chain of custody</a></li><li class="toc-l2"><a href="#s5-8">5.8 Pakistan’s Digital, Electronic and ICT Statutory Family</a></li><li class="toc-l3"><a href="#s5-8-1">5.8.1 Integration across general and sectoral laws</a></li><li class="toc-l3"><a href="#s5-8-2">5.8.2 Fragmentation, overlap and institutional handoffs</a></li><li class="toc-l2"><a href="#s5-9">5.9 Integration Principles</a></li><li class="toc-l3"><a href="#s5-9-1">5.9.1 A legal sequence for digital-asset questions</a></li><li class="toc-l3"><a href="#s5-9-2">5.9.2 The rule-of-law contribution</a></li><li class="toc-l2"><a href="#sx29">Chapter 5 Conclusion</a></li></ol>
+    </nav>
+    <h2 id="sx0" class="sec lvl2">Contents</h2><h2 id="sx1" class="sec lvl2">Chapter Summary</h2><div class="para" id="p1"><a class="pnum" href="#p1" aria-label="Paragraph 1">1</a><div class="ptext">This chapter defines the digital legal order as a hierarchy of constitutional powers, statutes, delegated instruments, judgments and reviewable administrative decisions. It addresses commencement, savings, classification, cumulative perimeters, territorial connection, comparative reasoning, fundamental rights and electronic proof. Particular attention is given to the difference between enacted law and policy, guidance, websites or historical drafts.</div></div><div class="tablewrap"><table><tr><th><em>Law gives technological events public consequence only through a valid source, a competent decision-maker, proved facts, fair procedure and an available remedy.</em></th></tr></table></div><h2 id="s5-1" class="sec lvl2"><span class="num">5.1</span> What Counts as Law</h2><h3 id="s5-1-1" class="sec lvl3"><span class="num">5.1.1</span> Constitution, statute, delegated legislation and binding judgment</h3><div class="para" id="p2"><a class="pnum" href="#p2" aria-label="Paragraph 2">2</a><div class="ptext">Law is the second element, but it is not merely the text of the Virtual Assets Act. In this treatise, Law includes constitutional competence; Acts and historically relevant Ordinances; Rules, Regulations and other delegated instruments; binding judgments; institutional powers and limits; lawful appointments and delegations; administrative procedures; evidence; reasons; sanctions; remedies; and the practical routes through which rights and duties are contested. Law includes hierarchy and time: who may make a rule, through which instrument, from what date, subject to which superior norm and review.</div></div><div class="para" id="p3"><a class="pnum" href="#p3" aria-label="Paragraph 3">3</a><div class="ptext">This broader conception is necessary because enactment is not self-execution. Parliament may establish an Authority, define a perimeter and confer powers. The resulting order still depends on the Authority being lawfully constituted, its members appointed, its delegations made, its subordinate instruments issued within parent powers, its decisions reasoned, its data obtained lawfully and its sanctions applied with due process. It depends on coordination with institutions whose mandates remain in force. It depends on courts and tribunals being able to identify the controlling text and provide a remedy when authority is exceeded.</div></div><div class="para" id="p4"><a class="pnum" href="#p4" aria-label="Paragraph 4">4</a><div class="ptext">This is why instrument labels matter. An operative statute, a draft regulation, a historical Ordinance, a qualified unresolved gap and a status requiring verification instrument cannot be placed on the same plane. The distinction is part of the rule of law. A person cannot be legally held to a duty that has not lawfully commenced, although a published draft may justify preparation. Guidance cannot cure a missing statutory power. Review cannot operate coherently unless the source, form and hierarchy of asserted authority are known.</div></div><div class="para" id="p5"><a class="pnum" href="#p5" aria-label="Paragraph 5">5</a><div class="ptext">Law, finally, provides the framework for public reasons. Where the Constitution, a statute, applicable procedure or public-law doctrine requires reasons, the state must explain why a power applies, how evidence was assessed, what procedure was followed and where review lies. The precise content of that duty must be established for the decision in issue. Its purpose remains central: accountable legal intelligence must be capable of explanation and review rather than operating as opaque control.</div></div><h3 id="s5-1-2" class="sec lvl3"><span class="num">5.1.2</span> Policy, guidance, standards, websites and other non-equivalent materials</h3><div class="para" id="p6"><a class="pnum" href="#p6" aria-label="Paragraph 6">6</a><div class="ptext">The FSB&#x27;s first recommendation begins with appropriate powers, tools and resources; its second demands functionally comprehensive regulation consistent with institutional mandates; its third requires cooperation and coordination.<sup class="fnref"><a href="#fn1" id="fnref1">1</a></sup> Those propositions expose a basic distinction that this treatise will repeatedly enforce: legal power, institutional responsibility and operational capability are related but not identical. A regulator may possess power without staff, data or systems. An institution may have capacity without jurisdiction. Two bodies may each have legitimate powers whose interaction remains unresolved. An intelligent legal order makes those distinctions visible and supplies lawful connections between them.</div></div><div class="para" id="p7"><a class="pnum" href="#p7" aria-label="Paragraph 7">7</a><div class="ptext">Law also determines the conditions under which policy ambition becomes a public obligation. The Virtual Assets Act contains objectives concerning investor protection, market integrity, financial integrity, responsible innovation and investment.<sup class="fnref"><a href="#fn2" id="fnref2">2</a></sup> These objectives do not all operate in the same way. Some support interpretation; some guide administration; some require detailed Rules or Regulations; some depend on other institutions; and some may remain aspirations until resources and implementation instruments exist. Treating every objective as an immediately enforceable promise would be as misleading as treating it as empty rhetoric. The treatise must identify the legal form and evidential status of each claim.</div></div><h2 id="s5-2" class="sec lvl2"><span class="num">5.2</span> Constitutional Authority and Legislative Competence</h2><h3 id="s5-2-1" class="sec lvl3"><span class="num">5.2.1</span> Federal and provincial allocation</h3><div class="para" id="p8"><a class="pnum" href="#p8" aria-label="Paragraph 8">8</a><div class="ptext">Pakistan is a federation whose legislative competences are distributed, not presumed into a single national digital field. Article 142 gives Parliament exclusive authority over matters in the Federal Legislative List, concurrent authority with Provincial Assemblies over criminal law, criminal procedure and evidence, and leaves non-enumerated matters—subject to that concurrent field—to the Provinces. Article 143 makes a competent federal Act prevail over a repugnant provincial Act only to the extent of the repugnancy.<sup class="fnref"><a href="#fn3" id="fnref3">3</a></sup> “Digital”, “blockchain” and “virtual asset” are not self-executing heads of legislative competence. The pith and substance of the regulated matter and its connection to enumerated fields remain controlling.</div></div><div class="para" id="p9"><a class="pnum" href="#p9" aria-label="Paragraph 9">9</a><div class="ptext">There is a strong federal base for substantial parts of virtual-assets regulation. Part I of the Federal Legislative List includes communications; currency, coinage and legal tender; foreign exchange; the State Bank of Pakistan and banking; insurance; stock exchanges and futures markets whose objects and business are not confined to one Province; corporations with the specified federal connection; import, export and inter-provincial trade; relevant federal taxation; offences, inquiries and statistics connected to federal subjects; and incidental or ancillary matters. Part II includes all regulatory authorities established under federal law, national planning and national economic coordination, inter-provincial matters and coordination, and the Council of Common Interests itself.<sup class="fnref"><a href="#fn4" id="fnref4">4</a></sup></div></div><div class="para" id="p10"><a class="pnum" href="#p10" aria-label="Paragraph 10">10</a><div class="ptext">Those entries support national rules for fiat-referenced tokens, cross-border transfers, banking exposure, nationally operating exchanges and custodians, securities-like or futures activity, federal corporations, AML/CFT connections, and a federal licensing authority operating under competent legislation. They do not convert every consequence of blockchain use into an exclusively federal matter. Land and local property administration, provincial taxes on services, locally supplied services, provincial consumer remedies, aspects of electricity and environmental administration, and other residual fields may continue to apply according to their own constitutional and statutory bases. Registration by PVARA cannot itself displace a provincial permit, tax or remedy that remains constitutionally applicable.</div></div><div class="para" id="p11"><a class="pnum" href="#p11" aria-label="Paragraph 11">11</a><div class="ptext">Federalism is therefore an allocation and coordination discipline. Article 144 permits Parliament to legislate on a provincial field for one or more consenting Provinces, subject to the constitutional terms. Articles 146 and 147 allow conditional or unconditional entrustment of functions between Federation and Province, with the latter route requiring Provincial Assembly ratification within sixty days. Articles 148 and 149 govern compliance, provincial interests and specified federal directions. These are legal routes, not reasons to assume unlimited central authority.<sup class="fnref"><a href="#fn5" id="fnref5">5</a></sup></div></div><div class="para" id="p12"><a class="pnum" href="#p12" aria-label="Paragraph 12">12</a><div class="ptext">Article 151 adds a related national-market concern by protecting freedom of trade, commerce and intercourse throughout Pakistan while allowing Parliament to impose public-interest restrictions by law. A virtual-asset service delivered through a national interface may be technically accessible everywhere, but accessibility does not answer where the service, customer harm, tax event, electricity use, property transfer or enforcement act occurs. The strategy should adopt connecting factors for jurisdiction and cooperation rather than declaring every online act exclusively federal. A national rule may govern the federally regulated service while provincial law governs a cumulative local consequence.</div></div><h3 id="s5-2-2" class="sec lvl3"><span class="num">5.2.2</span> Fundamental rights, legality and public power</h3><div class="para" id="p13"><a class="pnum" href="#p13" aria-label="Paragraph 13">13</a><div class="ptext">Two constitutional planning institutions are especially relevant. The Council of Common Interests formulates and regulates policy for Part II of the Federal Legislative List and supervises and controls the related institutions; it is constitutionally composed, responsible to Parliament and subject to meeting and reporting duties. The National Economic Council reviews national economic conditions and formulates plans concerning financial, commercial, social and economic policy while attending to balanced development and regional equity.<sup class="fnref"><a href="#fn6" id="fnref6">6</a></sup> The National Digital Commission’s statutory composition—Prime Minister, Chief Ministers and principal federal economic, security and regulatory actors—creates an important whole-of-government forum. It does not replace the CCI or NEC where their constitutional functions are engaged.</div></div><div class="para" id="p14"><a class="pnum" href="#p14" aria-label="Paragraph 14">14</a><div class="ptext">This matters for digital-assets strategy in three ways. First, PVARA is a regulatory authority established under federal law, making the Part II architecture and CCI relationship a question that must be addressed, not ignored. Second, the National Digital Masterplan is national planning and includes finance and the digital economy, so constitutional planning institutions should be mapped into its approval and implementation path where their fields are engaged. Third, provincial participation in the Digital Commission is valuable but is not a legal substitute for provincial legislation, consent, entrustment, fiscal authority or the CCI’s constitutional jurisdiction.</div></div><div class="para" id="p15"><a class="pnum" href="#p15" aria-label="Paragraph 15">15</a><div class="ptext">The correct response is not to route every administrative detail through every intergovernmental body. It is to create a competence schedule. Each policy measure should identify its pith and substance, federal-list entry or provincial basis, implementing institution, territorial reach, provincial dependency, CCI or NEC relevance, and conflict rule. A national licensing rule and a provincial energy approval may then operate cumulatively. A genuine repugnancy can be analysed under Article 143. A shared programme can use consent or entrustment. The result is more executable than either central overclaim or federal paralysis.</div></div><div class="para" id="p16"><a class="pnum" href="#p16" aria-label="Paragraph 16">16</a><div class="ptext">Constitutional consequence. Pakistan may build a national virtual-assets perimeter, but it must do so through enumerated federal powers, constitutional planning institutions and lawful coordination with residual provincial fields. National importance is not an independent head of legislative competence.</div></div><h2 id="s5-3" class="sec lvl2"><span class="num">5.3</span> Legislative Form, Commencement, Savings and Transition</h2><h3 id="s5-3-1" class="sec lvl3"><span class="num">5.3.1</span> Enactment, commencement and delegated authority</h3><div class="para" id="p17"><a class="pnum" href="#p17" aria-label="Paragraph 17">17</a><div class="ptext">Legislation becomes part of the working legal order through form and time. An Act may commence on assent, publication or a date fixed by notification; delegated legislation must be made by the authorised institution, within the parent power and through the prescribed form. Publication establishes a public text, but it does not answer every question of commencement, territorial reach or application to prior conduct. Those questions must be resolved from the instrument itself, the parent Act, applicable interpretation law and constitutional requirements. A regulator&#x27;s website, press release or consultation paper may help readers locate or understand an instrument. It cannot supply a missing statutory power or silently amend the operative text.</div></div><div class="para" id="p18"><a class="pnum" href="#p18" aria-label="Paragraph 18">18</a><div class="ptext">For Pakistan&#x27;s virtual-assets order this discipline has immediate consequences. The Virtual Assets Act 2026 is the parent statute. The Pakistan Virtual Asset Regulatory Authority Regulations 2026 and the activity-specific Regulations, described by the Author as notified, are the present delegated baseline. Earlier drafts remain legislative history. Exact Gazette, S.R.O. and provision-level pinpoints for the final notified texts must be checked against authenticated copies before publication; that unresolved bibliographic task does not justify treating the former drafts as current law.</div></div><h3 id="s5-3-2" class="sec lvl3"><span class="num">5.3.2</span> Savings, accrued positions and prospective regulation</h3><div class="para" id="p19"><a class="pnum" href="#p19" aria-label="Paragraph 19">19</a><div class="ptext">Savings and transition provisions prevent legal change from being mistaken for legal erasure. They may preserve institutions, appointments, applications, proceedings, liabilities or instruments created under an earlier enactment. Their exact reach depends on text. A savings clause does not ordinarily create a licence that never existed, excuse prior unlawful conduct, or convert a provisional permission into an unconditional permanent entitlement. Nor does repeal necessarily extinguish accrued liabilities or pending proceedings where general interpretation rules or an express saving preserve them.</div></div><div class="para" id="p20"><a class="pnum" href="#p20" aria-label="Paragraph 20">20</a><div class="ptext">Transition should therefore be analysed claim by claim. The relevant questions are: what legal position existed immediately before the new regime; what provision preserves, terminates or modifies it; for how long; subject to what application or disclosure duty; and with what consequence for customers and third parties? This method is especially important for incumbent service providers and NOC holders. Continuity of a process is not the same as grandfathering of a substantive licence.</div></div><h2 id="s5-4" class="sec lvl2"><span class="num">5.4</span> Classification, Characterisation and Functional Regulation</h2><h3 id="s5-4-1" class="sec lvl3"><span class="num">5.4.1</span> Classifying the asset and the activity</h3><div class="para" id="p21"><a class="pnum" href="#p21" aria-label="Paragraph 21">21</a><div class="ptext">Digital-asset disputes often begin with a demand for a single noun: currency, commodity, security, property, payment instrument or data. Law frequently requires a more exact sequence. The asset must be described technically; the legal rights or expectations attached to it must be identified; the transaction must be characterised; and the actor&#x27;s function must be mapped to the statute whose conditions are said to apply. The same token may be held as investment property, transferred as consideration, used in a regulated service or offered through an arrangement that creates additional legal duties. Classification is context-sensitive without being arbitrary.</div></div><div class="para" id="p22"><a class="pnum" href="#p22" aria-label="Paragraph 22">22</a><div class="ptext">Functional regulation responds to conduct rather than branding. Custody turns on control of customer assets and keys; exchange turns on dealing or arranging; transfer services turn on transmitting value; an offer turns on how an interest is issued, promoted and sold; and a stable-value arrangement turns on reserve, redemption and payment features. The legal conclusion must follow the elements of the controlling provision. Market vocabulary can provide evidence, but it cannot replace the statutory test.</div></div><h3 id="s5-4-2" class="sec lvl3"><span class="num">5.4.2</span> Overlap and cumulative application</h3><div class="para" id="p23"><a class="pnum" href="#p23" aria-label="Paragraph 23">23</a><div class="ptext">Several perimeters may apply cumulatively. A PVARA licence addresses the virtual-asset activity within the Act. It does not, without an express legal rule, authorise deposit-taking, foreign-exchange business, payment-system operation, securities dealing, telecommunications activity or a provincial service that another law regulates. Conversely, a bank, securities intermediary or payment institution does not acquire permission for a specialised virtual-asset service merely from its existing status. Institutional coordination is required precisely because overlap is legally possible.</div></div><div class="para" id="p24"><a class="pnum" href="#p24" aria-label="Paragraph 24">24</a><div class="ptext">The disciplined response is not to choose one regulator by intuition. It is to identify the relevant function, legal element, competent institution and potential conflict. Where two duties can operate together, both should be observed. Where they cannot, the hierarchy, specific text, later enactment, constitutional allocation and any express coordination rule must be analysed. Legal certainty comes from stated reasons, not from pretending that digital activity belongs to a single field.</div></div><h2 id="s5-5" class="sec lvl2"><span class="num">5.5</span> Jurisdiction, Territory and Connecting Factors</h2><h3 id="s5-5-1" class="sec lvl3"><span class="num">5.5.1</span> Territorial reach in networked markets</h3><div class="para" id="p25"><a class="pnum" href="#p25" aria-label="Paragraph 25">25</a><div class="ptext">An interface accessible in Pakistan does not answer every jurisdictional question. Relevant connections may include the customer&#x27;s location, the provider&#x27;s establishment, solicitation directed at Pakistan, the place of management or control, custody of assets, the banking rail, the place of contractual performance, the location of systems or evidence, and the place where harm occurs. A statute may select some of these factors expressly. Courts and regulators must not invent unlimited extraterritoriality from the global character of a network.</div></div><div class="para" id="p26"><a class="pnum" href="#p26" aria-label="Paragraph 26">26</a><div class="ptext">Foreign providers create a practical enforcement problem but not a licence to abandon legality. Market-access conditions, local representation, information duties, cooperation arrangements, blocking or warning powers, and proceedings against locally reachable assets may each be available if supported by law. A proportionate approach distinguishes incidental overseas accessibility from sustained Pakistan-facing solicitation and service. It also preserves notice and a route to challenge territorial assertions.</div></div><h3 id="s5-5-2" class="sec lvl3"><span class="num">5.5.2</span> Comparative law and domestic authority</h3><div class="para" id="p27"><a class="pnum" href="#p27" aria-label="Paragraph 27">27</a><div class="ptext">Foreign statutes, judgments and regulatory practice can clarify design choices and reveal recurring risks. They are not operative Pakistani law. United States classifications arise from United States statutes, agency mandates and federal-state structures; European Union market rules arise from a supranational legal order; and specialised financial-centre regimes may rest on constitutional and institutional arrangements Pakistan does not share. Comparative reasoning is strongest when it isolates the function and rationale of a rule, then tests whether Pakistan has the competence, text and capability to adopt an equivalent.</div></div><h2 id="s5-6" class="sec lvl2"><span class="num">5.6</span> Rights, Reasons and Administrative Fairness</h2><h3 id="s5-6-1" class="sec lvl3"><span class="num">5.6.1</span> Public power and affected rights</h3><div class="para" id="p28"><a class="pnum" href="#p28" aria-label="Paragraph 28">28</a><div class="ptext">Licensing, inspection, data demands, asset restraints, administrative penalties and public warnings may affect property, business, privacy, reputation and access to justice. The precise constitutional right and permissible limitation depend on the measure. The recurring legal requirements are authority, a legitimate statutory purpose, rational connection, fair procedure and proportionality where the applicable doctrine requires it. Digital risk does not suspend those requirements; the speed and opacity of automated systems make them more important.</div></div><h3 id="s5-6-2" class="sec lvl3"><span class="num">5.6.2</span> Notice, hearing and reasons</h3><div class="para" id="p29"><a class="pnum" href="#p29" aria-label="Paragraph 29">29</a><div class="ptext">A fair process normally begins with intelligible notice of the case to be met, access to material sufficient to answer it, an unbiased decision-maker, a real opportunity to respond and a decision made under the correct legal standard. Urgent interim action may be justified where statute permits and risk demands, but urgency should be followed by prompt review. Reasons should identify the power, material facts, evidential assessment, response to central submissions, conclusion and available remedy. A template or unexplained risk score is not a substitute for an accountable decision.</div></div><div class="para" id="p30"><a class="pnum" href="#p30" aria-label="Paragraph 30">30</a><div class="ptext">Reasons also discipline inter-agency action. Where one body refers information and another imposes a consequence, the record should identify each institution&#x27;s legal capacity. Confidential intelligence may require protection, but secrecy cannot become a universal answer to legality, relevance and review. Courts and tribunals need a record capable of testing whether the decision-maker acted within power.</div></div><h2 id="s5-7" class="sec lvl2"><span class="num">5.7</span> Evidence, Proof and Legal Truth</h2><h3 id="s5-7-1" class="sec lvl3"><span class="num">5.7.1</span> Technical records as evidence</h3><div class="para" id="p31"><a class="pnum" href="#p31" aria-label="Paragraph 31">31</a><div class="ptext">Ledger entries, wallet addresses, transaction hashes, device images, exchange records, bank transfers and identity data can establish parts of an event. None is self-interpreting. A transaction hash may prove that a network accepted a state transition; it does not alone prove the human identity behind an address, beneficial ownership, lawful authority, contractual purpose or knowledge. Attribution requires a reasoned evidential chain linking technical facts to persons and legal elements.</div></div><h3 id="s5-7-2" class="sec lvl3"><span class="num">5.7.2</span> Authenticity, integrity and chain of custody</h3><div class="para" id="p32"><a class="pnum" href="#p32" aria-label="Paragraph 32">32</a><div class="ptext">Electronic evidence should be preserved with provenance: who acquired it, under what power or consent, by what method, at what time, with what integrity checks, and how it was stored and analysed. Screenshots and explorer pages may be useful leads, but reproducible queries, authenticated provider records, device evidence and documented forensic methods offer stronger foundations. Expert evidence should separate observation from inference and disclose material limitations, including address clustering assumptions and the possibility of compromised credentials.</div></div><div class="para" id="p33"><a class="pnum" href="#p33" aria-label="Paragraph 33">33</a><div class="ptext">Proof remains matched to the proceeding. A supervisory information request, an interim protective measure, an administrative penalty and a criminal conviction do not necessarily use the same threshold or allocation of burden. The regulator must identify the legal standard and evidence supporting each required element. Code can assist collection and analysis; law determines admissibility, weight, burden and consequence.</div></div><h2 id="s5-8" class="sec lvl2"><span class="num">5.8</span> Pakistan’s Digital, Electronic and ICT Statutory Family</h2><h3 id="s5-8-1" class="sec lvl3"><span class="num">5.8.1</span> Integration across general and sectoral laws</h3><div class="para" id="p34"><a class="pnum" href="#p34" aria-label="Paragraph 34">34</a><div class="ptext">The Digital Nation Pakistan Act 2025 does not merely establish another technology body. It creates a statutory planning system with three connected levels: the National Digital Commission, the Pakistan Digital Authority and the National Digital Masterplan. The Commission supplies political and intergovernmental direction and approval. The PDA supplies expert preparation, coordination, standards, monitoring and implementation. The Masterplan supplies the central framework to which identified entities and digital initiatives are to align.<sup class="fnref"><a href="#fn7" id="fnref7">7</a></sup></div></div><div class="para" id="p35"><a class="pnum" href="#p35" aria-label="Paragraph 35">35</a><div class="ptext">The Commission is chaired by the Prime Minister and includes all Provincial Chief Ministers; the federal ministers responsible for information technology, planning, finance, commerce, interior, economic affairs and information; senior leadership from FBR, NADRA, PTA, SECP and SBP; and the PDA Chairperson as secretary. This composition makes it capable of exposing conflicts across monetary, market, fiscal, identity, communications, security, economic and provincial institutions. Its functions include approval of the Masterplan and implementation plans, strategic direction and governance for the PDA, coordination, alignment directives, resource questions and responses to non-compliance or exceptions.</div></div><div class="para" id="p36"><a class="pnum" href="#p36" aria-label="Paragraph 36">36</a><div class="ptext">The PDA is a statutory body corporate, not a policy unit within a ministry. It develops, implements, monitors and updates the Masterplan; facilitates coordination; creates monitoring and evaluation; reviews digital public-entity projects; advises the concerned Division on laws, rules, regulations and policies; and carries assigned oversight and standard-setting responsibilities. Its virtual-assets and emerging-technology remit is expressly limited by the requirement to avoid overlap with another regulator’s mandate and conflict with existing law. That proviso is a rule of statutory conduct, not a courtesy.</div></div><div class="para" id="p37"><a class="pnum" href="#p37" aria-label="Paragraph 37">37</a><div class="ptext">Institutional capacity and accountability sit alongside mandate. The Act prescribes the PDA’s leadership structure and tenure, allows removal only through its stated route, establishes an Oversight Committee, and requires budget, audit and annual reporting. Those features should be read as governance controls, not administrative detail. A body able to set national standards, review public projects and report non-compliance needs declared conflicts, decision records, secure information governance, procurement discipline and performance measures that distinguish adoption from lawful outcome. Independence from ad hoc pressure and accountability for statutory performance are complementary.</div></div><div class="para" id="p38"><a class="pnum" href="#p38" aria-label="Paragraph 38">38</a><div class="ptext">Section 11 gives the Masterplan defined legal content. It is to be developed and proposed by the PDA and approved by the Commission. It must include a strategic framework; sectoral plans, including finance; a digital economy development plan; implementation plans stating projects, resources, timelines and risk-management strategies; technology standards and reference architectures; and governance frameworks. Development requires consultation with sector bodies, regulators, federal entities and Provincial Governments. Annual review and Commission-approved amendment preserve adaptation without allowing continual informal change.<sup class="fnref"><a href="#fn8" id="fnref8">8</a></sup></div></div><div class="para" id="p39"><a class="pnum" href="#p39" aria-label="Paragraph 39">39</a><div class="ptext">Section 12 then connects plan to administration. Identified entities are to align policies, operations and digital initiatives with the Masterplan and develop alignment plans. The PDA monitors compliance, reports, recommends corrective measures and may escalate non-compliance. Ministries, Divisions, departments and other bodies must cooperate within the Act. Sections 13–16 add fund, budget, audit and annual-report duties, including key performance indicators and Masterplan progress, and require public reporting through the website.</div></div><h3 id="s5-8-2" class="sec lvl3"><span class="num">5.8.2</span> Fragmentation, overlap and institutional handoffs</h3><div class="para" id="p40"><a class="pnum" href="#p40" aria-label="Paragraph 40">40</a><div class="ptext">The resulting public-power map is not a hierarchy in which the PDA commands every regulator. It is a set of legally bounded relationships.</div></div><div class="para" id="p41"><a class="pnum" href="#p41" aria-label="Paragraph 41">41</a><div class="ptext">See Figure 5.1 for the constitutional public-power map developed in the wider digital-order analysis.</div></div><figure><picture><source srcset="assets/figures/fdac83e0a3de9347.webp" type="image/webp"><img src="assets/figures/fdac83e0a3de9347.png" width="1586" height="992" loading="lazy" decoding="async" alt="Figure 5.1 — Constitutional public-power map"></picture><figcaption>Figure 5.1 — Constitutional public-power map</figcaption></figure><div class="para" id="p42"><a class="pnum" href="#p42" aria-label="Paragraph 42">42</a><div class="ptext">The arrows represent legally possible or required relations, not a transfer of jurisdiction. The CCI and NEC retain constitutional functions. Sector regulators retain their parent-statute mandates. Provincial participation in the Commission does not surrender provincial competence. Judicial review remains governed by the Constitution. And federal executive action still travels through Article 99 and the Rules of Business even when the policy subject is digital.</div></div><div class="para" id="p43"><a class="pnum" href="#p43" aria-label="Paragraph 43">43</a><div class="ptext">The Act also imposes a discipline of evidence. A Masterplan implementation claim should be supported by an approved plan, responsible entity, alignment instrument, funded project, milestone and monitoring record. Commission approval should be identifiable. Standards and directives should disclose their statutory basis, approvals, effective version and relationship to sectoral law. Without those records, institutional activity may be useful, but its legal status remains uncertain.</div></div><div class="para" id="p44"><a class="pnum" href="#p44" aria-label="Paragraph 44">44</a><div class="ptext">Constitutional consequence. The Digital Nation Act creates an approval, implementation and accountability chain. It coordinates power without amalgamating it. Its success depends on authenticated instruments, recorded allocations and measurable alignment—not on treating the PDA’s broad purpose as an unlimited regulatory mandate.</div></div><h2 id="s5-9" class="sec lvl2"><span class="num">5.9</span> Integration Principles</h2><h3 id="s5-9-1" class="sec lvl3"><span class="num">5.9.1</span> A legal sequence for digital-asset questions</h3><div class="para" id="p45"><a class="pnum" href="#p45" aria-label="Paragraph 45">45</a><div class="ptext">A coherent legal analysis can be stated as a sequence. First identify the technical event and actor. Second identify the asserted right, duty or public power. Third locate the controlling primary or delegated source and establish its status at the relevant time. Fourth apply classification, jurisdiction, evidence and procedural requirements. Fifth reconcile cumulative regimes and institutional mandates. Sixth state the consequence and available remedy. Uncertainty should be located at the step where it arises rather than converted into a general claim that the law is unclear.</div></div><h3 id="s5-9-2" class="sec lvl3"><span class="num">5.9.2</span> The rule-of-law contribution</h3><div class="para" id="p46"><a class="pnum" href="#p46" aria-label="Paragraph 46">46</a><div class="ptext">This sequence connects Code, Law and Capital. Code explains what occurred and where practical control sat. Law supplies authority, characterisation, procedure and remedy. Capital explains the economic stake and distribution of risk. The value of the method is not taxonomic elegance. It prevents a technical feature, regulatory objective or market claim from silently doing the work of a legal rule. Pakistan&#x27;s digital legal order will be credible when institutions can show the source, reasoning, evidence and review route for the consequences they impose.</div></div><h2 id="sx29" class="sec lvl2">Chapter 5 Conclusion</h2><div class="para" id="p47"><a class="pnum" href="#p47" aria-label="Paragraph 47">47</a><div class="ptext">The digital legal order is not a catalogue of statutes: it is a structure of authority, interpretation, rights, duties, evidence and remedies through which technological facts acquire legal consequence.</div></div>
+    <section class="notes" aria-label="Footnotes">
+      <h2>Footnotes</h2>
+      <ol><li id="fn1"><a class="backref" href="#fnref1" aria-label="Back to text">&#8593;</a> Financial Stability Board, <em>High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-asset Activities and Markets: Final Report</em> (17 July 2023) recs 1–3 &lt;<a class="cite-url" href="https://www.fsb.org/2023/07/high-level-recommendations-for-the-regulation-supervision-and-oversight-of-crypto-asset-activities-and-markets-final-report/" target="_blank" rel="noopener noreferrer">https://www.fsb.org/2023/07/high-level-recommendations-for-the-regulation-supervision-and-oversight-of-crypto-asset-activities-and-markets-final-report/</a>&gt; accessed 26 August 2026.</li><li id="fn2"><a class="backref" href="#fnref2" aria-label="Back to text">&#8593;</a> Virtual Assets Act 2026 (Act No XIII of 2026) (‘VAA’), <em>Gazette of Pakistan</em>, Extraordinary, Part I, 5 March 2026, 227, preamble and s 9(1).</li><li id="fn3"><a class="backref" href="#fnref3" aria-label="Back to text">&#8593;</a> Constitution of the Islamic Republic of Pakistan 1973 (‘Constitution’), arts 141–144; <em>Jawwad S Khawaja v Federation of Pakistan</em> (Constitution Petition Nos 24–28 and 30 of 2023, Supreme Court of Pakistan, 9 January 2024) PLD 2024 SC 337, para 64.</li><li id="fn4"><a class="backref" href="#fnref4" aria-label="Back to text">&#8593;</a> Constitution (n 3), Fourth Schedule, Federal Legislative List, Part I entries 7–10, 27–31, 43–55 and 56–59 as relevant, and Part II entries 6–8 and 13–18. The specific legal basis of any measure must be tested by its true subject and effect; the list is not a conclusion that every virtual-asset measure falls within every cited entry.</li><li id="fn5"><a class="backref" href="#fnref5" aria-label="Back to text">&#8593;</a> Constitution (n 3), arts 144 and 146–149.</li><li id="fn6"><a class="backref" href="#fnref6" aria-label="Back to text">&#8593;</a> Constitution (n 3), arts 153–156 and Fourth Schedule, Federal Legislative List, Part II entries 6–8 and 13–18.</li><li id="fn7"><a class="backref" href="#fnref7" aria-label="Back to text">&#8593;</a> Digital Nation Pakistan Act 2025 (Act No I of 2025), ss 3–12.</li><li id="fn8"><a class="backref" href="#fnref8" aria-label="Back to text">&#8593;</a> Digital Nation Pakistan Act 2025 (n 7), s 11(1)–(6). The Act’s definition of ‘Masterplan’ includes the strategic framework, sectoral plans, digital economy development plan, implementation plans and governance frameworks approved under s 11.</li></ol>
+    </section>
+    <nav class="pager" aria-label="Chapter navigation"><a class="pg-prev" href="chapter-04.html"><span class="pg-dir">&larr; Previous</span><span class="pg-ch">Chapter 4</span><span class="pg-ti">Code: Digital-Asset Technologies, Functions and Control</span></a><a class="pg-all" href="index.html">All chapters</a><a class="pg-next" href="chapter-06.html"><span class="pg-dir">&rarr; Next</span><span class="pg-ch">Chapter 6</span><span class="pg-ti">Capital: Markets, Monetary Sovereignty and Distribution</span></a></nav>
+  </main>
+</div>
+
+<script>
+const NOTES = {"fn1":"Financial Stability Board, <em>High-level Recommendations for the Regulation, Supervision and Oversight of Crypto-asset Activities and Markets: Final Report<\/em> (17 July 2023) recs 1–3 &lt;<a class=\"cite-url\" href=\"https://www.fsb.org/2023/07/high-level-recommendations-for-the-regulation-supervision-and-oversight-of-crypto-asset-activities-and-markets-final-report/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.fsb.org/2023/07/high-level-recommendations-for-the-regulation-supervision-and-oversight-of-crypto-asset-activities-and-markets-final-report/<\/a>&gt; accessed 26 August 2026.","fn2":"Virtual Assets Act 2026 (Act No XIII of 2026) (‘VAA’), <em>Gazette of Pakistan<\/em>, Extraordinary, Part I, 5 March 2026, 227, preamble and s 9(1).","fn3":"Constitution of the Islamic Republic of Pakistan 1973 (‘Constitution’), arts 141–144; <em>Jawwad S Khawaja v Federation of Pakistan<\/em> (Constitution Petition Nos 24–28 and 30 of 2023, Supreme Court of Pakistan, 9 January 2024) PLD 2024 SC 337, para 64.","fn4":"Constitution (n 3), Fourth Schedule, Federal Legislative List, Part I entries 7–10, 27–31, 43–55 and 56–59 as relevant, and Part II entries 6–8 and 13–18. The specific legal basis of any measure must be tested by its true subject and effect; the list is not a conclusion that every virtual-asset measure falls within every cited entry.","fn5":"Constitution (n 3), arts 144 and 146–149.","fn6":"Constitution (n 3), arts 153–156 and Fourth Schedule, Federal Legislative List, Part II entries 6–8 and 13–18.","fn7":"Digital Nation Pakistan Act 2025 (Act No I of 2025), ss 3–12.","fn8":"Digital Nation Pakistan Act 2025 (n 7), s 11(1)–(6). The Act’s definition of ‘Masterplan’ includes the strategic framework, sectoral plans, digital economy development plan, implementation plans and governance frameworks approved under s 11."};
+
+/* Footnotes as inline popovers, with the anchor link preserved underneath. */
+function upgradeFootnotes(root) {
+  root.querySelectorAll('sup.fnref > a').forEach(a => {
+    const id = (a.getAttribute('href') || '').slice(1);
+    if (!NOTES[id]) return;
+    const btn = document.createElement('button');
+    btn.className = 'fnbtn';
+    btn.type = 'button';
+    btn.textContent = a.textContent;
+    btn.setAttribute('aria-expanded', 'false');
+    btn.setAttribute('aria-label', 'Footnote ' + a.textContent);
+    btn.dataset.fn = id;
+    a.parentNode.replaceChild(btn, a);
+  });
+}
+upgradeFootnotes(document);
+
+let openPop = null;
+function closePop() {
+  if (!openPop) return;
+  openPop.btn.setAttribute('aria-expanded', 'false');
+  openPop.el.remove();
+  openPop = null;
+}
+document.addEventListener('click', e => {
+  const btn = e.target.closest('button.fnbtn');
+  if (!btn) { if (!e.target.closest('.fnpop')) closePop(); return; }
+  const wasOpen = openPop && openPop.btn === btn;
+  closePop();
+  if (wasOpen) return;
+  const pop = document.createElement('div');
+  pop.className = 'fnpop';
+  pop.innerHTML = '<button class="close" aria-label="Close">&times;</button>' + NOTES[btn.dataset.fn];
+  document.body.appendChild(pop);
+  const r = btn.getBoundingClientRect();
+  const top = r.bottom + window.scrollY + 6;
+  let left = r.left + window.scrollX - 20;
+  left = Math.max(10, Math.min(left, window.scrollX + document.documentElement.clientWidth - pop.offsetWidth - 10));
+  pop.style.top = top + 'px';
+  pop.style.left = left + 'px';
+  btn.setAttribute('aria-expanded', 'true');
+  openPop = { btn, el: pop };
+  pop.querySelector('.close').addEventListener('click', closePop);
+});
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closePop(); });
+window.addEventListener('resize', closePop);
+
+/* Sidebar: current-section highlight. */
+const links = [...document.querySelectorAll('.sidebar .seclist a')];
+const targets = links.map(a => document.getElementById(a.getAttribute('href').slice(1))).filter(Boolean);
+const spy = new IntersectionObserver(entries => {
+  entries.forEach(en => {
+    if (!en.isIntersecting) return;
+    links.forEach(l => l.classList.remove('here'));
+    const hit = links.find(l => l.getAttribute('href') === '#' + en.target.id);
+    if (hit) hit.classList.add('here');
+  });
+}, { rootMargin: '-64px 0px -75% 0px' });  /* px or % only; rem throws */
+targets.forEach(t => spy.observe(t));
+
+/* Mobile contents toggle. */
+const toggle = document.getElementById('navtoggle');
+toggle.addEventListener('click', () => {
+  const open = document.getElementById('sidebar').classList.toggle('open');
+  toggle.setAttribute('aria-expanded', String(open));
+});
+
+/* Search, scoped to this chapter only. */
+const paras = [...document.querySelectorAll('.para')];
+const originals = paras.map(p => p.querySelector('.ptext').innerHTML);
+const note = document.getElementById('searchnote');
+const q = document.getElementById('q');
+let timer;
+q.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(run, 140); });
+
+/* Wrap matches in the text nodes only, so tags and footnote buttons survive. */
+function highlight(el, term) {
+  const rx = new RegExp('(' + term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+  const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
+  const nodes = [];
+  for (let n = walker.nextNode(); n; n = walker.nextNode()) nodes.push(n);
+  let found = 0;
+  nodes.forEach(n => {
+    rx.lastIndex = 0;
+    if (!rx.test(n.nodeValue)) return;
+    rx.lastIndex = 0;
+    found++;
+    const frag = document.createDocumentFragment();
+    let last = 0, m;
+    while ((m = rx.exec(n.nodeValue)) !== null) {
+      frag.appendChild(document.createTextNode(n.nodeValue.slice(last, m.index)));
+      const mk = document.createElement('mark');
+      mk.textContent = m[0];
+      frag.appendChild(mk);
+      last = m.index + m[0].length;
+      if (m[0] === '') rx.lastIndex++;
+    }
+    frag.appendChild(document.createTextNode(n.nodeValue.slice(last)));
+    n.parentNode.replaceChild(frag, n);
+  });
+  return found > 0;
+}
+
+function run() {
+  const term = q.value.trim();
+  closePop();
+  paras.forEach((p, i) => {
+    const el = p.querySelector('.ptext');
+    el.innerHTML = originals[i];   // discards the upgraded footnote buttons,
+    upgradeFootnotes(el);          // so rebuild them on the restored markup
+    p.classList.remove('nohit');
+  });
+  if (term.length < 2) { note.hidden = true; return; }
+  let hits = 0;
+  paras.forEach(p => {
+    if (highlight(p.querySelector('.ptext'), term)) hits++;
+    else p.classList.add('nohit');
+  });
+  note.hidden = false;
+  note.textContent = hits
+    ? hits + ' paragraph' + (hits === 1 ? '' : 's') + ' matching \u201c' + term + '\u201d'
+    : 'No match in this chapter.';
+}
+</script>
+<script src="../assets/js/codex-config.js"></script>
+<script src="../assets/js/codex-auth.js"></script>
+<footer class="works-strip"><div class="in">
+  <h2>The works of the JUSNREM Codex</h2>
+  <div class="row"><a class="w here" href="../code-law-and-capital/" style="--acc:#43652E"><b>Code, Law and Capital</b><span>Digital assets and the emerging global legal order</span><i>Read &rarr;</i></a><a class="w" href="https://jus-automica.digital/" rel="noopener" style="--acc:#652E43"><b>JUS.automica</b><span>How law remains law when intelligence is distributed</span><i>Programme site &nearr;</i></a><div class="w" style="--acc:#2E4365"><b>The Constitution of Fiscal Order</b><span>Public finance and taxation in Pakistan</span><i>Forthcoming</i></div></div>
+  <p class="foot"><a href="../index.html">JUSNREM Codex home</a> &middot; <a href="../account.html">Account</a> &middot; Every work is open to read.</p>
+</div></footer>
+</body>
+</html>
