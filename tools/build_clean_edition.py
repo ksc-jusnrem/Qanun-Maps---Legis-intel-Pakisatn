@@ -870,6 +870,11 @@ def main() -> None:
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(render(doc, note_map), encoding="utf-8")
+    # figures go to files, not base64 in the page (see extract_figures.py)
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from extract_figures import extract_page, add_webp
+    extract_page(out_path.resolve())
+    add_webp(out_path.resolve())
 
     print(f"{src_path.name}: {len(src):,} bytes")
     print(f"{out_path.name}: {out_path.stat().st_size:,} bytes")
