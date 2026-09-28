@@ -11,7 +11,7 @@
   --ground:#EEF0F0; --surface:#FFFFFF; --ink:#111516; --ink-2:#3C484D; --ink-3:#56676E;
   --gold:#43652E; --gold-soft:rgba(67,101,46,.10); --rule:#CCD1D4; --rule-2:#DDE1E2;
   /* per-library accents, drawn from each work's own identity */
-  --clc:#43652E; --ja:#652E43; --cfo:#43652E; --reg:#698458;
+  --clc:#43652E; --ja:#652E43; --cfo:#2E4365; --reg:#698458;
   --sans:Aptos,"Segoe UI",system-ui,Inter,Helvetica,Arial,sans-serif;
   --serif:Georgia,"Iowan Old Style","Times New Roman",serif;
 }
@@ -71,7 +71,8 @@ a.work:hover{border-color:var(--accent,var(--gold));transform:translateX(2px)}
 .tag.live{border-color:var(--accent);color:var(--accent)}
 .work .go{margin-left:auto;font:600 .68rem/1 var(--sans);letter-spacing:.11em;
   text-transform:uppercase;color:var(--accent,var(--gold))}
-.work.soon{opacity:.86}
+.work.soon{opacity:.92}
+.work .go.muted{color:var(--ink-3)}
 
 /* ---------- governance ---------- */
 .rules{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:.1rem}
@@ -176,7 +177,7 @@ a{color:var(--ink)}
         </div>
       </a>
 
-      <div class="work soon" style="--accent:var(--ja)">
+      <a class="work soon" href="https://jus-automica.digital/" rel="noopener" style="--accent:var(--ja)">
         <div class="top">
           <h3>JUS.automica</h3>
           <span class="kind">Jurisprudential programme</span>
@@ -190,9 +191,9 @@ a{color:var(--ink)}
         <div class="meta">
           <span class="tag">In development</span>
           <span class="tag">Candidate volumes</span>
-          <span class="go"><a href="https://jus-automica.digital/" style="text-decoration:none;color:inherit">Programme site &nearr;</a></span>
+          <span class="go">Programme site &nearr;</span>
         </div>
-      </div>
+      </a>
       <div class="work soon" style="--accent:var(--cfo)">
         <div class="top">
           <h3>The Constitution of Fiscal Order</h3>
@@ -208,6 +209,7 @@ a{color:var(--ink)}
         <div class="meta">
           <span class="tag">In preparation</span>
           <span class="tag">Not yet released</span>
+          <span class="go muted">Forthcoming</span>
         </div>
       </div>
 

@@ -26,10 +26,10 @@ NAV = [
 PAGES = {
     "index.html": ("home", "Legal Intelligence Ecosystem", [
         ("#libraries", "Libraries"), ("#governance", "Governance"), ("#ecosystem", "Ecosystem")]),
-    "search.html": ("search", "Search", []),
-    "authorities.html": ("authorities", "Table of Authorities", []),
-    "map.html": ("map", "Cross-reference map", []),
-    "doctrines.html": ("doctrines", "Doctrine Register", []),
+    "search.html": ("search", "Search \u00b7 Code, Law and Capital", []),
+    "authorities.html": ("authorities", "Authorities \u00b7 Code, Law and Capital", []),
+    "map.html": ("map", "Map \u00b7 Code, Law and Capital", []),
+    "doctrines.html": ("doctrines", "Doctrine Register \u00b7 all works", []),
     "account.html": ("account", "Your account", []),
     "code-law-and-capital/index.html": ("library", "Code, Law and Capital", [
         ("#question", "The question"), ("#test", "The test"), ("#codex", "Chapters"),
@@ -39,6 +39,51 @@ PAGES = {
 HEADER_RE = re.compile(r'<header class="(?:masthead|masthead site-head)">.*?</header>\n?'
                        r'(?:<div class="site-sub">.*?</div></div>\n)?', re.S)
 Q_RE = re.compile(r'\s*(<input id="q"[^>]*>)')
+
+
+# Instruments built from one work only say so, so a reader does not mistake
+# them for the whole estate's.
+SCOPED = {
+    "search": "Searches <a href=\"code-law-and-capital/\">Code, Law and Capital</a> only",
+    "authorities": "Authorities cited in <a href=\"code-law-and-capital/\">Code, Law and Capital</a>",
+    "map": "Cross-references within <a href=\"code-law-and-capital/\">Code, Law and Capital</a>",
+    "doctrines": "Doctrines across all works &middot; ratified names and located candidates",
+}
+SCOPE_RE = re.compile(r'<p class="scope-line">.*?</p>\n', re.S)
+STRIP_RE = re.compile(r'<footer class="works-strip">.*?</footer>\n', re.S)
+
+WORKS = [  # (href from site root or absolute, title, line, action, accent, key)
+    ("code-law-and-capital/", "Code, Law and Capital",
+     "Digital assets and the emerging global legal order", "Read &rarr;", "#43652E", "clc"),
+    ("https://jus-automica.digital/", "JUS.automica",
+     "How law remains law when intelligence is distributed", "Programme site &nearr;", "#652E43", "ja"),
+    (None, "The Constitution of Fiscal Order",
+     "Public finance and taxation in Pakistan", "Forthcoming", "#2E4365", "cfo"),
+]
+
+
+def works_strip(base, here=None):
+    cards = []
+    for href, title, line, action, acc, key in WORKS:
+        cls = "w here" if key == here else "w"
+        inner = f"<b>{title}</b><span>{line}</span><i>{action}</i>"
+        if href is None:
+            cards.append(f'<div class="{cls}" style="--acc:{acc}">{inner}</div>')
+        else:
+            url = href if href.startswith("http") else base + href
+            ext = ' rel="noopener"' if href.startswith("http") else ""
+            cards.append(f'<a class="{cls}" href="{url}"{ext} style="--acc:{acc}">{inner}</a>')
+    return ('<footer class="works-strip"><div class="in">\n'
+            '  <h2>The works of the JUSNREM Codex</h2>\n'
+            '  <div class="row">' + "".join(cards) + '</div>\n'
+            f'  <p class="foot"><a href="{base}index.html">JUSNREM Codex home</a> &middot; '
+            f'<a href="{base}account.html">Account</a> &middot; Every work is open to read.</p>\n'
+            '</div></footer>\n')
+
+
+def with_strip(s, base, here=None):
+    s = STRIP_RE.sub("", s)
+    return s.replace("</body>", works_strip(base, here) + "</body>", 1)
 
 
 FONTS = ('<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700'
@@ -79,9 +124,14 @@ def run():
         old = m.group(0)
         q = Q_RE.search(old)
         new = header(key, sub, anchors, base)
+        s = SCOPE_RE.sub("", s)
+        if key in SCOPED:
+            new += f'<p class="scope-line">{SCOPED[key]}</p>\n'
         if q:  # page filter box moves out of the header, under it
             new += f'<div class="page-tools">{q.group(1)}</div>\n'
         s = s[:m.start()] + new + s[m.end():]
+        if key != "home":
+            s = with_strip(s, base, "clc" if key == "library" else None)
         s = with_assets(s, base, platform=True)
         s = re.sub(r"<body[^>]*>", f'<body data-page="{key}">', s, count=1)
         js = (f'<script src="{base}assets/js/codex-config.js"></script>\n'
@@ -117,6 +167,7 @@ def chapter_chrome(path):
     head = header("library", "Code, Law and Capital", [], "../", cls="site-head site-head--static")
     s = s.replace('<header class="masthead">', head + '<header class="masthead">', 1)
     s = with_assets(s, "../", platform=False)
+    s = with_strip(s, "../", "clc")
     path.write_text(s, encoding="utf-8")
     return True
 
