@@ -71,14 +71,17 @@ public by design; RLS is why that is safe. Do not disable it.
 **Authentication → URL Configuration**
 
 - **Site URL:** `https://www.jusnrem.legal`
-- **Redirect URLs**, add all three:
+- **Redirect URLs**, add all four:
   ```
   https://www.jusnrem.legal/account.html
   https://jusnrem.legal/account.html
+  https://*-khurramchughtae-7654s-projects.vercel.app/**
   http://127.0.0.1:8767/account.html
   ```
-  The last one lets sign-in be tested locally. Add the branch preview URL too once
-  Vercel is building it.
+  The third covers every Vercel preview of this project, e.g.
+  `jusnrem-digital-codex-git-5a180e-khurramchughtae-7654s-projects.vercel.app`,
+  so sign-in can be tested on a preview before it goes live. The last one
+  lets sign-in be tested locally.
 
 ## 4. Put the keys in the site
 
