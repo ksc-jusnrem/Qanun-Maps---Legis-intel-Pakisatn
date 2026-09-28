@@ -875,6 +875,8 @@ def main() -> None:
     from extract_figures import extract_page, add_webp
     extract_page(out_path.resolve())
     add_webp(out_path.resolve())
+    from unify_chrome import chapter_chrome
+    chapter_chrome(out_path.resolve())
 
     print(f"{src_path.name}: {len(src):,} bytes")
     print(f"{out_path.name}: {out_path.stat().st_size:,} bytes")

@@ -1,0 +1,20 @@
+/*
+ * One type system for the platform pages, matching the chapter edition.
+ * Linked after each page's own <style> by tools/unify_chrome.py, so these
+ * win on equal specificity. Not loaded on chapter pages, which set their own.
+ *
+ *   Archivo            interface, labels, running text on platform pages
+ *   Cormorant Garamond titles (the face of every chapter title)
+ *   Spectral           quoted text and snippets from the work
+ *
+ * All three are web fonts, so the site looks the same on every device.
+ * (Aptos, used before, exists only where Microsoft Office is installed.)
+ */
+:root{
+  --sans:Archivo,"Helvetica Neue",Arial,sans-serif;
+  --serif:Spectral,Georgia,"Times New Roman",serif;
+  --display:"Cormorant Garamond",Georgia,serif;
+}
+body{font-size:1rem}
+h1,[data-page=home] h2,[data-page=library] h2{font-family:var(--display);font-weight:500;font-size-adjust:.5;letter-spacing:-.005em}
+h1 em,h2 em{font-style:normal}

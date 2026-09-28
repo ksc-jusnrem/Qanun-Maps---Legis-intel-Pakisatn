@@ -4,14 +4,15 @@
  */
 .site-head{position:sticky;top:0;z-index:60;background:rgba(238,240,240,.96);
   backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-bottom:1px solid var(--rule,#CCD1D4)}
+.site-head--static{position:static;background:#EEF0F0}
 .site-head .in{max-width:74rem;margin:0 auto;padding:.65rem 1.4rem;display:flex;align-items:center;gap:1.4rem}
 .site-head .brand{text-decoration:none;color:var(--ink,#111516);line-height:1.15;flex:none}
-.site-head .brand b{display:block;font:600 .78rem/1 var(--sans,Aptos,"Segoe UI",system-ui,sans-serif);
+.site-head .brand b{display:block;font:600 .78rem/1 var(--sans,Archivo,"Helvetica Neue",Arial,sans-serif);
   letter-spacing:.19em;text-transform:uppercase}
-.site-head .brand span{display:block;margin-top:.22rem;font:400 .64rem/1 var(--sans,Aptos,"Segoe UI",system-ui,sans-serif);
+.site-head .brand span{display:block;margin-top:.22rem;font:400 .64rem/1 var(--sans,Archivo,"Helvetica Neue",Arial,sans-serif);
   letter-spacing:.13em;text-transform:uppercase;color:var(--ink-3,#56676E)}
 .site-head nav{margin-left:auto;display:flex;align-items:center;gap:1.3rem}
-.site-head nav a{font:500 .8rem/1 var(--sans,Aptos,"Segoe UI",system-ui,sans-serif);letter-spacing:.02em;
+.site-head nav a{font:500 .8rem/1 var(--sans,Archivo,"Helvetica Neue",Arial,sans-serif);letter-spacing:.02em;
   color:var(--ink-2,#3C484D);text-decoration:none;padding:.55rem 0;border-bottom:2px solid transparent}
 .site-head nav a:hover{color:var(--ink,#111516);border-bottom-color:var(--rule,#CCD1D4)}
 .site-head nav a[aria-current=page]{color:var(--ink,#111516);border-bottom-color:var(--gold,#43652E)}
@@ -21,7 +22,7 @@
 .site-sub{border-bottom:1px solid var(--rule,#CCD1D4);background:var(--surface,#fff)}
 .site-sub .in{max-width:74rem;margin:0 auto;padding:.5rem 1.4rem;display:flex;gap:1.2rem;
   overflow-x:auto;scrollbar-width:none}
-.site-sub a{font:500 .74rem/1 var(--sans,Aptos,"Segoe UI",system-ui,sans-serif);color:var(--ink-3,#56676E);
+.site-sub a{font:500 .74rem/1 var(--sans,Archivo,"Helvetica Neue",Arial,sans-serif);color:var(--ink-3,#56676E);
   text-decoration:none;white-space:nowrap;padding:.35rem 0}
 .site-sub a:hover{color:var(--ink,#111516)}
 .page-tools{max-width:74rem;margin:1.2rem auto 0;padding:0 1.4rem}
