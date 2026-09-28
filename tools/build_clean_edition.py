@@ -656,7 +656,7 @@ mark{{background:rgba(105,132,88,.38);color:inherit;padding:0 .08em}}
 @media print{{
   @page{{size:Letter;margin:.85in}}
   body{{background:#fff;font:400 10.4pt/1.62 var(--serif)}}
-  .masthead,.sidebar,#searchnote,.fnpop,button.fnbtn,.crumb,.onthispage{{display:none!important}}
+  .masthead,.sidebar,#searchnote,.fnpop,.crumb,.onthispage{{display:none!important}}
   .shell{{display:block;max-width:none}}
   .sheet{{border:0;padding:0;min-height:0}}
   .ptext{{text-align:justify;hyphens:auto}}
@@ -665,6 +665,7 @@ mark{{background:rgba(105,132,88,.38);color:inherit;padding:0 .08em}}
   h1,h2,h3,h4{{break-after:avoid}}
   p,.para{{orphans:2;widows:2}}
   sup.fnref a{{background:none;color:var(--ink);padding:0;font-size:.7em}}
+  button.fnbtn{{display:inline!important;background:none;color:var(--ink);border:0;padding:0;font:inherit;font-size:.7em;vertical-align:super;min-width:0;height:auto}}
   .tablewrap{{overflow:visible}}
   .tablewrap table{{min-width:0;font-size:8.6pt}}
   .tablewrap thead{{display:table-header-group}}
