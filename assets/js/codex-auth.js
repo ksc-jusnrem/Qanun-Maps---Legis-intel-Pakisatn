@@ -107,6 +107,7 @@ const CODEX_AUTH = (() => {
   async function mountHeader() {
     if (document.querySelector('.codex-acct')) return;
     const bar =
+      document.querySelector('.site-head .in') ||
       document.querySelector('.masthead nav') ||
       document.querySelector('.masthead .in') ||
       document.querySelector('.masthead form') ||

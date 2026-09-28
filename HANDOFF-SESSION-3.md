@@ -152,6 +152,7 @@ Products" page).
 python tools/build_apparatus.py    # authorities.html + search-index.json
 python tools/build_map.py          # map.html
 python tools/build_doctrines.py    # doctrines.html
+python tools/unify_chrome.py       # one shared header on every platform page (run last)
 python -m http.server 8767 --bind 127.0.0.1
 ```
 

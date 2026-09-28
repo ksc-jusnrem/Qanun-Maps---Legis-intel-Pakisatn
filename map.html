@@ -65,12 +65,12 @@ footer{padding:3rem 0;margin-top:2rem;border-top:1px solid var(--rule);font-size
 a{color:var(--green)}
 @media (max-width:720px){.masthead nav{display:none}}
 </style>
+<link rel="stylesheet" href="assets/css/codex-chrome.css">
 </head>
 <body>
-<header class="masthead"><div class="in">
+<header class="masthead site-head"><div class="in">
   <a class="brand" href="index.html"><b>JUSNREM Codex</b><span>Cross-reference map</span></a>
-  <nav><a href="code-law-and-capital/">The Codex</a><a href="search.html">Search</a>
-       <a href="authorities.html">Authorities</a></nav>
+  <nav aria-label="Site"><a href="code-law-and-capital/">Library</a><a href="search.html">Search</a><a href="authorities.html">Authorities</a><a href="doctrines.html">Doctrines</a><a href="map.html" aria-current="page">Map</a></nav>
 </div></header>
 
 <div class="wrap">
@@ -163,5 +163,7 @@ svg.querySelectorAll('.node').forEach(g => {
   g.addEventListener('focusout', off);
 });
 </script>
+<script src="assets/js/codex-config.js"></script>
+<script src="assets/js/codex-auth.js"></script>
 </body>
 </html>

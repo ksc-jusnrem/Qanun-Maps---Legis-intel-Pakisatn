@@ -256,6 +256,7 @@ td.pv .ct{display:block;margin-top:.25rem;font-size:.78rem;color:var(--ink-3)}
 footer{padding:3rem 0;margin-top:3rem;border-top:1px solid var(--rule);font-size:.8rem;color:var(--ink-3)}
 a{color:var(--green)}
 @media (max-width:760px){.masthead nav{display:none}td.nm,td.pv{max-width:none}}
+@media (max-width:760px){table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}}
 </style>
 </head>
 <body>

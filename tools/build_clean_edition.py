@@ -441,7 +441,7 @@ body{{margin:0;background:var(--backdrop);color:var(--ink);font:400 1.0625rem/1.
   padding:.6rem 1.1rem;font-family:var(--sans)}}
 .masthead .work{{font:600 .72rem/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;
   color:var(--cream);text-decoration:none;white-space:nowrap}}
-.masthead .work span{{color:var(--gold)}}
+.masthead .work span{{color:rgba(255,255,255,.72)}}
 .masthead form{{margin-left:auto;display:flex;align-items:center}}
 #q{{font:400 .82rem var(--sans);padding:.32rem .6rem;width:14rem;max-width:38vw;
   border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.10);
@@ -630,7 +630,8 @@ mark{{background:rgba(105,132,88,.38);color:inherit;padding:0 .08em}}
 
 /* ---- responsive ---- */
 @media (max-width:960px){{
-  .shell{{grid-template-columns:1fr}}
+  .shell{{grid-template-columns:minmax(0,1fr)}}
+  .sheet{{min-width:0}}
   .sidebar{{position:static;max-height:none;border-right:0;border-bottom:1px solid var(--rule);
     display:none;background:#fff}}
   .sidebar.open{{display:block}}
