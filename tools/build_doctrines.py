@@ -201,7 +201,7 @@ PAGE = """<!doctype html>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Doctrine Register &mdash; JUSNREM Codex</title>
 <meta name="description" content="Doctrines addressed independently of the works that state them, with honest status on every entry.">
-<link rel="canonical" href="https://www.jusnrem.legal/doctrines.html">
+<link rel="canonical" href="https://jusnrem.digital/doctrines.html">
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Cormorant+Garamond:wght@500;600&family=Spectral:wght@400&display=swap" rel="stylesheet">
 <style>
 :root{--ground:#EEF0F0;--surface:#FFFFFF;--ink:#111516;--ink-2:#3C484D;--ink-3:#56676E;--ink-head:#111516;

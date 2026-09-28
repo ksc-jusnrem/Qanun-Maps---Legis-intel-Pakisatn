@@ -121,7 +121,7 @@ PAGE = """<!doctype html>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Cross-reference map &mdash; JUSNREM Codex</title>
 <meta name="description" content="How the Codex cites itself: every internal cross-reference in the published text, drawn as an arc between chapters.">
-<link rel="canonical" href="https://www.jusnrem.legal/map.html">
+<link rel="canonical" href="https://jusnrem.digital/map.html">
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Cormorant+Garamond:wght@500;600&family=Spectral:wght@400&display=swap" rel="stylesheet">
 <style>
 :root{--ground:#EEF0F0;--surface:#FFFFFF;--ink:#111516;--ink-2:#3C484D;--ink-3:#56676E;

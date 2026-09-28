@@ -80,11 +80,11 @@ public by design; RLS is why that is safe. Do not disable it.
 
 **Authentication → URL Configuration**
 
-- **Site URL:** `https://www.jusnrem.legal`
+- **Site URL:** `https://jusnrem.digital`
 - **Redirect URLs**, add all four:
   ```
-  https://www.jusnrem.legal/account.html
-  https://jusnrem.legal/account.html
+  https://jusnrem.digital/account.html
+  https://www.jusnrem.digital/account.html
   https://*-khurramchughtae-7654s-projects.vercel.app/**
   http://127.0.0.1:8767/account.html
   ```

@@ -1,7 +1,7 @@
 # JUSNREM Codex
 
 The published record of a continuing inquiry into legal authority, institutional
-capability and remedy. Static site, deployed to **jusnrem.legal**.
+capability and remedy. Static site, deployed to **jusnrem.digital**.
 
 Part of the KSC.JUSNREM ecosystem.
 
@@ -44,7 +44,7 @@ Chapters are **generated**, never hand-edited in this repository.
 Editorial Reader (13 stages, marking, history)
         │
         ▼  tools/build_clean_edition.py
-Clean reading edition  ──►  this repository  ──►  jusnrem.legal
+Clean reading edition  ──►  this repository  ──►  jusnrem.digital
 ```
 
 The generator reads only the READ pane of a Reader file and discards the editorial
