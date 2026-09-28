@@ -17,6 +17,7 @@
  */
 
 window.CODEX_SUPABASE = {
-  url: 'YOUR_SUPABASE_PROJECT_URL',
-  anonKey: 'YOUR_SUPABASE_ANON_KEY',
+  url: 'https://epilcfzjrstrsregethd.supabase.co',
+  // publishable (browser-safe) key; RLS on public.readers is what protects data
+  anonKey: 'sb_publishable_egT8Zx4Iu0XTRgdwEdkO8A_0-Gpk3jF',
 };

@@ -1,5 +1,10 @@
 # Supabase setup — sign-in for the Codex
 
+> **Status (28 Sep 2026):** project `jusnrem-codex` (ref `epilcfzjrstrsregethd`,
+> London) is created, the readers table and its RLS policies are applied, and the
+> keys are in `assets/js/codex-config.js`. Remaining: step 3 (email confirmation and
+> URL configuration), which is done in the Supabase dashboard.
+
 Ten minutes, free tier, no card. Until step 4 is done the site behaves exactly as
 it does now: no sign-in link appears anywhere and nothing breaks.
 
@@ -45,12 +50,17 @@ create table public.readers (
 alter table public.readers enable row level security;
 
 -- A reader may read and write only their own row. Nobody can read the list.
-create policy "read own"   on public.readers for select using  (auth.uid() = id);
-create policy "insert own" on public.readers for insert with check (auth.uid() = id);
-create policy "update own" on public.readers for update using  (auth.uid() = id);
+create policy "read own"   on public.readers for select to authenticated
+  using ((select auth.uid()) = id);
+create policy "insert own" on public.readers for insert to authenticated
+  with check ((select auth.uid()) = id);
+create policy "update own" on public.readers for update to authenticated
+  using ((select auth.uid()) = id) with check ((select auth.uid()) = id);
 
 create or replace function public.touch_updated_at()
-returns trigger language plpgsql as $$
+returns trigger language plpgsql
+set search_path = ''
+as $$
 begin new.updated_at = now(); return new; end $$;
 
 create trigger readers_touch before update on public.readers
