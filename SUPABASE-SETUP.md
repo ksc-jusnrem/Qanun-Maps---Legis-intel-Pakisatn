@@ -1,9 +1,15 @@
 # Supabase setup — sign-in for the Codex
 
-> **Status (28 Sep 2026):** project `jusnrem-codex` (ref `epilcfzjrstrsregethd`,
+> **Status (29 Sep 2026):** project `jusnrem-codex` (ref `epilcfzjrstrsregethd`,
 > London) is created, the readers table and its RLS policies are applied, and the
-> keys are in `assets/js/codex-config.js`. Remaining: step 3 (email confirmation and
-> URL configuration), which is done in the Supabase dashboard.
+> keys are in `assets/js/codex-config.js`. The project has **no users yet and has
+> never received a sign-in request**.
+>
+> **Sign-in and registration will not work until step 3 is done.** Supabase's
+> default Site URL is `http://localhost:3000`: until it is changed, every sign-in
+> email sends the reader to localhost, and any site address missing from the
+> Redirect URLs list is silently swapped for that Site URL. Step 3 can only be done
+> in the Supabase dashboard.
 
 Ten minutes, free tier, no card. Until step 4 is done the site behaves exactly as
 it does now: no sign-in link appears anywhere and nothing breaks.
@@ -81,17 +87,35 @@ public by design; RLS is why that is safe. Do not disable it.
 **Authentication → URL Configuration**
 
 - **Site URL:** `https://jusnrem.digital`
-- **Redirect URLs**, add all four:
+- **Redirect URLs**, add all of these:
   ```
-  https://jusnrem.digital/account.html
-  https://www.jusnrem.digital/account.html
+  https://jusnrem.digital/**
+  https://www.jusnrem.digital/**
+  https://jusnrem-digital.vercel.app/**
   https://*-khurramchughtae-7654s-projects.vercel.app/**
-  http://127.0.0.1:8767/account.html
+  http://127.0.0.1:8767/**
   ```
-  The third covers every Vercel preview of this project, e.g.
-  `jusnrem-digital-codex-git-5a180e-khurramchughtae-7654s-projects.vercel.app`,
+  `/**` covers both `/account.html` and `/account` (Vercel's `cleanUrls` serves
+  the page at the latter). The third is the Vercel project's own production
+  address. The fourth covers every Vercel preview, e.g.
+  `jusnrem-digital-git-5a180e-khurramchughtae-7654s-projects.vercel.app`,
   so sign-in can be tested on a preview before it goes live. The last one
   lets sign-in be tested locally.
+
+**Authentication → Email Templates** — edit both **Confirm signup** (sent to a
+new reader) and **Magic Link** (sent to a returning one) so each also shows the
+six-digit code:
+
+```html
+<h2>Sign in to the JUSNREM Codex</h2>
+<p><a href="{{ .ConfirmationURL }}">Sign in</a></p>
+<p>Or enter this code on the sign-in page: <strong>{{ .Token }}</strong></p>
+```
+
+The account page accepts either. The code is the fallback for the two ways
+links fail with a senior readership: the email is opened on a different device,
+or an institutional mail scanner (Outlook Safe Links, Mimecast) follows the link
+first and uses it up — the reader then sees "link is invalid or has expired".
 
 ## 4. Put the keys in the site
 
@@ -119,8 +143,12 @@ python -m http.server 8767 --bind 127.0.0.1
 ```
 
 Open `http://127.0.0.1:8767/account.html`, enter your address, and follow the link
-in the email. You should return signed in, with your email and registration date
-shown, and be able to save a name and institution.
+in the email (or type the code). You should return signed in, with your email and
+registration date shown, and be able to save a name and institution. A new address
+is registered on first use; its row appears in `public.readers` straight away.
+
+If a link fails, the account page now says why (expired or used link, email rate
+limit, address not allowed) instead of silently showing the sign-in form again.
 
 ---
 

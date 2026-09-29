@@ -98,10 +98,10 @@ a{color:var(--green)}
     <!-- ── left: the form ───────────────────────────────────────────── -->
     <div>
       <div id="signin-card" class="card">
-        <h2>Sign in</h2>
+        <h2>Sign in or register</h2>
         <p class="sub">
-          Enter your email and we will send a single-use link. There is no password
-          to choose or remember.
+          Enter your email and we will send a single-use link. New readers are
+          registered on first use. There is no password to choose or remember.
         </p>
         <form id="signin-form" novalidate>
           <div class="field">
@@ -112,6 +112,14 @@ a{color:var(--green)}
           <button class="btn" id="send" type="submit">Send sign-in link</button>
         </form>
         <div class="msg" id="msg" role="status" aria-live="polite"></div>
+        <form id="code-form" novalidate hidden style="margin-top:1.3rem">
+          <div class="field">
+            <label for="code">Or enter the code from the email</label>
+            <input id="code" type="text" inputmode="numeric" autocomplete="one-time-code"
+                   pattern="[0-9]*" maxlength="10" placeholder="123456">
+          </div>
+          <button class="btn ghost" id="verify" type="submit">Sign in with code</button>
+        </form>
       </div>
 
       <div id="account-card" class="card" hidden>
@@ -195,6 +203,31 @@ a{color:var(--green)}
 const $ = (id) => document.getElementById(id);
 const show = (el, kind, text) => { el.className = 'msg show ' + kind; el.textContent = text; };
 
+let pendingEmail = '';
+let shown = false;
+
+async function showAccount(user) {
+  if (!user || shown) return;
+  shown = true;
+  $('signin-card').hidden = true;
+  $('account-card').hidden = false;
+  const created = user.created_at ? new Date(user.created_at).toLocaleDateString('en-GB',
+    { day: 'numeric', month: 'long', year: 'numeric' }) : '—';
+  $('acct-facts').innerHTML =
+    `<div class="acct-row"><dt>Email</dt><dd>${CODEX_AUTH.esc(user.email || '')}</dd></div>` +
+    `<div class="acct-row"><dt>Registered</dt><dd>${created}</dd></div>` +
+    `<div class="acct-row"><dt>Access</dt><dd>Open reader</dd></div>`;
+  const p = await CODEX_AUTH.profile();
+  if (p) {
+    $('fullname').value = p.full_name || '';
+    $('institution').value = p.institution || '';
+    $('interest').value = p.interest || '';
+  } else {
+    // first sign-in: create the reader's row so the registration is on record
+    CODEX_AUTH.saveProfile({}).catch((err) => console.warn('codex-auth: register', err.message));
+  }
+}
+
 (async function () {
   // Not configured yet: say so honestly rather than failing silently.
   if (!CODEX_AUTH.config()) {
@@ -205,29 +238,22 @@ const show = (el, kind, text) => { el.className = 'msg show ' + kind; el.textCon
     return;
   }
 
-  const user = await CODEX_AUTH.user();
-  if (user) {
-    $('signin-card').hidden = true;
-    $('account-card').hidden = false;
-    const created = user.created_at ? new Date(user.created_at).toLocaleDateString('en-GB',
-      { day: 'numeric', month: 'long', year: 'numeric' }) : '—';
-    $('acct-facts').innerHTML =
-      `<div class="acct-row"><dt>Email</dt><dd>${user.email}</dd></div>` +
-      `<div class="acct-row"><dt>Registered</dt><dd>${created}</dd></div>` +
-      `<div class="acct-row"><dt>Access</dt><dd>Open reader</dd></div>`;
-    const p = await CODEX_AUTH.profile();
-    if (p) {
-      $('fullname').value = p.full_name || '';
-      $('institution').value = p.institution || '';
-      $('interest').value = p.interest || '';
-    }
+  // Returned from a link that failed (expired, already used, not allowed).
+  const urlErr = CODEX_AUTH.urlError();
+  if (urlErr) {
+    show($('msg'), 'err', 'Sign-in did not complete. ' +
+      CODEX_AUTH.explain({ code: urlErr.code, message: urlErr.message }));
+    history.replaceState(null, '', location.pathname);
   }
+
+  CODEX_AUTH.onChange((event, s) => { if (s) showAccount(s.user); });
+  await showAccount(await CODEX_AUTH.user());
 })();
 
 $('signin-form').addEventListener('submit', async (e) => {
   e.preventDefault();
   const email = $('email').value.trim();
-  if (!email || !email.includes('@')) {
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
     show($('msg'), 'err', 'Enter a valid email address.');
     return;
   }
@@ -235,15 +261,36 @@ $('signin-form').addEventListener('submit', async (e) => {
   $('send').textContent = 'Sending…';
   try {
     await CODEX_AUTH.sendLink(email, '/account.html');
+    pendingEmail = email;
     show($('msg'), 'ok',
       'Check your email. We have sent a single-use sign-in link to ' + email +
-      '. It expires in one hour.');
-    $('signin-form').reset();
+      '. It expires in one hour. If you are new, the same email registers you. ' +
+      'Nothing there? Check your spam folder.');
+    $('code-form').hidden = false;
   } catch (err) {
-    show($('msg'), 'err', 'Could not send the link: ' + (err.message || 'unknown error') + '.');
+    show($('msg'), 'err', 'Could not send the link. ' + CODEX_AUTH.explain(err));
   } finally {
     $('send').disabled = false;
     $('send').textContent = 'Send sign-in link';
+  }
+});
+
+$('code-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const token = $('code').value.replace(/\s/g, '');
+  const email = pendingEmail || $('email').value.trim();
+  if (!email || !/^\d{6,10}$/.test(token)) {
+    show($('msg'), 'err', 'Enter the code from the email.');
+    return;
+  }
+  $('verify').disabled = true;
+  try {
+    const s = await CODEX_AUTH.verifyCode(email, token);
+    if (s) await showAccount(s.user);
+  } catch (err) {
+    show($('msg'), 'err', 'Could not sign in with that code. ' + CODEX_AUTH.explain(err));
+  } finally {
+    $('verify').disabled = false;
   }
 });
 
@@ -257,7 +304,7 @@ $('profile-form')?.addEventListener('submit', async (e) => {
     });
     show($('pmsg'), 'ok', 'Saved.');
   } catch (err) {
-    show($('pmsg'), 'err', 'Could not save: ' + (err.message || 'unknown error') + '.');
+    show($('pmsg'), 'err', 'Could not save. ' + CODEX_AUTH.explain(err));
   }
 });
 
