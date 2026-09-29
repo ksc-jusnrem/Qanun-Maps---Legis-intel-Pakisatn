@@ -16,6 +16,18 @@
 // resolve vendor/ next to this file, whatever page (and folder) loaded it
 const VENDOR_SRC = new URL('vendor/supabase.js', document.currentScript.src).href;
 
+// Supabase reports a failed or expired link in the URL (#error=...&error_description=...
+// or ?error=...). Read it before the client initialises and cleans the address bar,
+// so the account page can tell the reader why they are not signed in.
+const AUTH_URL_ERROR = (() => {
+  const params = new URLSearchParams(location.hash.slice(1) + '&' + location.search.slice(1));
+  if (!params.get('error') && !params.get('error_code')) return null;
+  return {
+    code: params.get('error_code') || params.get('error'),
+    message: (params.get('error_description') || params.get('error') || '').replace(/\+/g, ' '),
+  };
+})();
+
 const CODEX_AUTH = (() => {
   let client = null;
   let ready = null;
@@ -40,7 +52,10 @@ const CODEX_AUTH = (() => {
       s.src = VENDOR_SRC;
       s.onload = () => {
         client = window.supabase.createClient(c.url, c.anonKey, {
-          auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: true },
+          // implicit flow: the link works even when opened in a different browser
+          // or device from the one that requested it (PKCE would not)
+          auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: true,
+                  flowType: 'implicit' },
         });
         resolve(client);
       };
@@ -62,17 +77,57 @@ const CODEX_AUTH = (() => {
     return s ? s.user : null;
   }
 
-  /** Passwordless sign-in. Suits a scholarly readership: no password to manage,
-   *  and it verifies the address, which is what a reader list actually needs. */
+  /** Turn Supabase's terse errors into something a reader can act on. */
+  function explain(err) {
+    const code = (err && (err.code || err.error_code)) || '';
+    const msg = (err && err.message) || String(err || '');
+    const m = (code + ' ' + msg).toLowerCase();
+    if (m.includes('rate') && m.includes('limit') || err && err.status === 429)
+      return 'Too many sign-in emails have been sent in the last hour. Please wait a few minutes and try again.';
+    if (m.includes('signup') && m.includes('disabled') || m.includes('signups not allowed'))
+      return 'New registrations are not open at the moment. If you already have an account, use the address you registered with.';
+    if (m.includes('otp_expired') || m.includes('expired') || m.includes('invalid') && m.includes('token'))
+      return 'That sign-in link or code has expired or has already been used. Request a new one below.';
+    if (m.includes('redirect'))
+      return 'This address is not yet allowed to receive sign-in links. The site administrator needs to add it under Supabase → Authentication → URL Configuration.';
+    if (m.includes('failed to fetch') || m.includes('network'))
+      return 'Could not reach the sign-in service. Check your connection and try again.';
+    if (m.includes('email') && m.includes('invalid'))
+      return 'That email address was not accepted. Check it and try again.';
+    return msg || 'Unknown error';
+  }
+
+  /** Passwordless sign-in, which is also sign-up: a new address is registered on
+   *  first use. Suits a scholarly readership: no password to manage, and it
+   *  verifies the address, which is what a reader list actually needs. */
   async function sendLink(email, redirectPath) {
     const sb = await init();
     if (!sb) throw new Error('not-configured');
     const redirectTo = new URL(redirectPath || '/account.html', location.origin).href;
     const { error } = await sb.auth.signInWithOtp({
       email,
-      options: { emailRedirectTo: redirectTo },
+      options: { emailRedirectTo: redirectTo, shouldCreateUser: true },
     });
     if (error) throw error;
+  }
+
+  /** The same email carries a six-digit code (when the template includes
+   *  {{ .Token }}). Entering it avoids the two ways links fail: opening the email
+   *  on another device, and institutional mail scanners that "click" the link
+   *  first and use it up. */
+  async function verifyCode(email, token) {
+    const sb = await init();
+    if (!sb) throw new Error('not-configured');
+    const { data, error } = await sb.auth.verifyOtp({ email, token, type: 'email' });
+    if (error) throw error;
+    return data.session;
+  }
+
+  /** Run fn(event, session) whenever the sign-in state changes. */
+  async function onChange(fn) {
+    const sb = await init();
+    if (!sb) return;
+    sb.auth.onAuthStateChange((event, s) => setTimeout(() => fn(event, s), 0));
   }
 
   async function signOut() {
@@ -85,7 +140,8 @@ const CODEX_AUTH = (() => {
     const sb = await init();
     const u = await user();
     if (!sb || !u) return null;
-    const { data } = await sb.from('readers').select('*').eq('id', u.id).maybeSingle();
+    const { data, error } = await sb.from('readers').select('*').eq('id', u.id).maybeSingle();
+    if (error) console.warn('codex-auth: profile', error.message);
     return data || null;
   }
 
@@ -125,20 +181,32 @@ const CODEX_AUTH = (() => {
     const box = document.createElement('span');
     box.className = 'codex-acct';
     // chapter mastheads are the green band; everything else is cream
-    if (getComputedStyle(document.querySelector('.masthead')).backgroundColor
+    const head = document.querySelector('.masthead') || bar;
+    if (getComputedStyle(head).backgroundColor
         .replace(/\s/g, '').startsWith('rgb(35,59,44')) {
       box.classList.add('on-dark');
     }
     const base = location.pathname.includes('/code-law-and-capital/') ? '../' : '';
-    box.innerHTML = `<a href="${base}account.html">Sign in</a>`;
     bar.appendChild(box);
 
-    const u = await user();
-    if (u) {
-      box.innerHTML =
-        `<span class="who" title="${u.email}">${u.email}</span>` +
-        `<a href="${base}account.html">Account</a>`;
-    }
+    const render = (u) => {
+      if (u) {
+        const e = esc(u.email || '');
+        box.innerHTML =
+          `<span class="who" title="${e}">${e}</span>` +
+          `<a href="${base}account.html">Account</a>`;
+      } else {
+        box.innerHTML = `<a href="${base}account.html">Sign in</a>`;
+      }
+    };
+    render(null);
+    render(await user());
+    onChange((_event, s) => render(s ? s.user : null));
+  }
+
+  function esc(t) {
+    return String(t).replace(/[&<>"']/g, (ch) =>
+      ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[ch]);
   }
 
   if (document.readyState === 'loading') {
@@ -147,7 +215,8 @@ const CODEX_AUTH = (() => {
     mountHeader();
   }
 
-  return { init, session, user, sendLink, signOut, profile, saveProfile, config };
+  return { init, session, user, sendLink, verifyCode, onChange, signOut, profile,
+           saveProfile, config, explain, esc, urlError: () => AUTH_URL_ERROR };
 })();
 
 window.CODEX_AUTH = CODEX_AUTH;
