@@ -13,6 +13,9 @@
  * reader, never a control.
  */
 
+// resolve vendor/ next to this file, whatever page (and folder) loaded it
+const VENDOR_SRC = new URL('vendor/supabase.js', document.currentScript.src).href;
+
 const CODEX_AUTH = (() => {
   let client = null;
   let ready = null;
@@ -33,7 +36,8 @@ const CODEX_AUTH = (() => {
     }
     ready = new Promise((resolve) => {
       const s = document.createElement('script');
-      s.src = 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js';
+      // served from this site, not a CDN: one less thing that can be slow or blocked
+      s.src = VENDOR_SRC;
       s.onload = () => {
         client = window.supabase.createClient(c.url, c.anonKey, {
           auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: true },

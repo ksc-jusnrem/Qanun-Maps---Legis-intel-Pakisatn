@@ -16,9 +16,11 @@
   color:var(--ink-2,#3C484D);text-decoration:none;padding:.55rem 0;border-bottom:2px solid transparent}
 .site-head nav a:hover{color:var(--ink,#111516);border-bottom-color:var(--rule,#CCD1D4)}
 .site-head nav a[aria-current=page]{color:var(--ink,#111516);border-bottom-color:var(--gold,#43652E)}
-.site-head .codex-acct{margin-left:.4rem;padding:.45rem .8rem;border:1px solid var(--ink,#111516);
-  color:var(--ink,#111516)}
-.site-head .codex-acct:hover{background:var(--ink,#111516);color:#fff}
+.site-head .codex-acct{margin-left:.4rem;padding:0}
+.site-head .codex-acct a{display:inline-block;padding:.5rem .85rem;border:1px solid var(--ink,#111516);
+  color:var(--ink,#111516);text-decoration:none}
+.site-head .codex-acct a:hover{background:var(--ink,#111516);color:#fff;border-bottom-color:var(--ink,#111516)}
+.site-head .codex-acct .who{padding:.5rem .4rem .5rem 0}
 .site-sub{border-bottom:1px solid var(--rule,#CCD1D4);background:var(--surface,#fff)}
 .site-sub .in{max-width:74rem;margin:0 auto;padding:.5rem 1.4rem;display:flex;gap:1.2rem;
   overflow-x:auto;scrollbar-width:none}
