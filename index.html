@@ -292,7 +292,7 @@ footer a:hover{color:var(--ink)}
 
       <div class="hp" aria-hidden="true"><label for="website">Website</label><input id="website" name="website" type="text" tabindex="-1" autocomplete="off"></div>
 
-      <label class="check"><input type="checkbox" id="subscribe" name="subscribe" checked><span>Send me occasional updates about Code, Law and Capital, including publication dates.</span></label>
+      <label class="check"><input type="checkbox" id="subscribe" name="subscribe"><span>Send me occasional updates about Code, Law and Capital, including publication dates.</span></label>
 
       <button class="btn primary" id="send" type="submit">Register interest</button>
       <div class="msg" id="msg" role="status" aria-live="polite"></div>
@@ -325,10 +325,15 @@ footer a:hover{color:var(--ink)}
   var msg = document.getElementById('msg');
   var send = document.getElementById('send');
 
+  var state = 'ready';
+  var REQUEST_TIMEOUT_MS = 15000;
+
   function show(kind, text) { msg.className = 'msg show ' + kind; msg.textContent = text; }
 
   form.addEventListener('submit', function (e) {
     e.preventDefault();
+    // A disabled button alone does not guard keyboard or programmatic submits.
+    if (state !== 'ready') return;
     if (form.website.value) { show('ok', 'Thank you. Your interest has been registered.'); return; } // bot trap
 
     var name = form.full_name.value.trim();
@@ -348,19 +353,55 @@ footer a:hover{color:var(--ink)}
       message: form.message.value.trim() || null
     };
 
+    state = 'sending';
     send.disabled = true; send.textContent = 'Sending…';
-    fetch(ENDPOINT, {
-      method: 'POST',
-      headers: { 'apikey': KEY, 'Content-Type': 'application/json', 'Prefer': 'return=minimal' },
-      body: JSON.stringify(body)
-    }).then(function (r) {
-      if (!r.ok) throw new Error('status ' + r.status);
+    form.setAttribute('aria-busy', 'true');
+    show('', 'Sending your registration…');
+    var controller = new AbortController();
+    var timer;
+    var timeout = new Promise(function (_, reject) {
+      timer = setTimeout(function () {
+        reject(new Error('timeout'));
+        controller.abort();
+      }, REQUEST_TIMEOUT_MS);
+    });
+    // The API is insert-only. No idempotency contract is available in this repo.
+    // Aborting a request does not prove that the server did not save it.
+    Promise.race([Promise.resolve().then(function () {
+      return fetch(ENDPOINT, {
+        method: 'POST',
+        headers: { 'apikey': KEY, 'Content-Type': 'application/json', 'Prefer': 'return=minimal' },
+        body: JSON.stringify(body),
+        signal: controller.signal
+      });
+    }), timeout]).then(function (r) {
+      if (!r.ok) {
+        // Only explicit rejection responses allow another attempt. A timeout,
+        // conflict or server error needs verification before submitting again.
+        if ([400, 401, 403, 404, 405, 413, 415, 422, 429].indexOf(r.status) !== -1) {
+          state = 'ready';
+          send.disabled = false; send.textContent = 'Try again';
+          show('err', r.status === 429
+            ? 'Too many attempts. Please wait before trying again, or email contact@ksc-jusnrem.io.'
+            : 'The service rejected your registration. Your details are still here. Check them before trying again, or email contact@ksc-jusnrem.io if the problem continues.');
+          return;
+        }
+        throw new Error('unconfirmed status');
+      }
+      state = 'complete';
       form.reset();
-      show('ok', 'Thank you, ' + name.split(' ')[0] + '. Your interest has been registered. We will write to ' + email + ' as the editions approach publication.');
+      send.textContent = 'Registered';
+      show('ok', 'Thank you, ' + name.split(' ')[0] + '. Your interest has been registered. ' +
+        (body.subscribe
+          ? 'You have opted in to occasional updates at ' + email + '.'
+          : 'You have not subscribed to email updates.'));
     }).catch(function () {
-      show('err', 'Sorry, your registration could not be sent just now. Please try again, or email contact@ksc-jusnrem.io.');
-    }).then(function () {
-      send.disabled = false; send.textContent = 'Register interest';
+      state = 'unconfirmed';
+      send.textContent = 'Registration unconfirmed';
+      show('err', 'We could not confirm whether your registration was saved. Your details are still here. Please do not submit again yet: email contact@ksc-jusnrem.io to check, so we can avoid a duplicate registration.');
+    }).finally(function () {
+      clearTimeout(timer);
+      form.removeAttribute('aria-busy');
     });
   });
 })();
