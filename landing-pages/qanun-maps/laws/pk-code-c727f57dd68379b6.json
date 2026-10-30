@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-c727f57dd68379b6",
+  "title": "Supreme Court (Review of Judgments and Orders) Act, 2023",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5pkaw%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "658333e925f39824ee1f5964c9faa5133af067971ad67e0d76b97d79ef33c125",
+  "source_sha256": "658333e925f39824ee1f5964c9faa5133af067971ad67e0d76b97d79ef33c125",
+  "text_version_id": "law:pk-code-c727f57dd68379b6:sha256:658333e925f39824ee1f5964c9faa5133af067971ad67e0d76b97d79ef33c125",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 3 \r\n \r\n \r\n \r\n THE SUPREME COURT (REVIEW OF JUDGMENTS AND \r\nORDERS) ACT, 2023 \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n \r\n1. Short title, commencement and extent \r\n2. Enlargement of jurisdiction of the Supreme Court \r\n3. Larger Bench \r\n4. Right to appoint counsel \r\n5. Judgments and orders made prior to commencement of this Act \r\n6. Limitation \r\n7. Act to override other laws etc \r\n  \r\n \r\n\r\n \r\nPage 2 of 3 \r\n \r\nTHE SUPREME COURT (REVIEW OF JUDGMENTS AND \r\nORDERS) ACT, 2023 \r\nACT No. XXIII of 2023 \r\n[26th May, 2023] \r\nAn Act to facilitate and strengthen the Supreme Court of Pakistan in the exercise of its powers to \r\nreview its judgment and orders \r\nWHEREAS Article 188 of the Constitution of Pakistan empowers the Supreme Court, subject \r\nto the provision of any Act of Majlis-e-Shoora (Parliament) and any rules made by the Supreme Court, \r\nto review any judgment pronounced or any order made by it; \r\nAND WHEREAS to facilitate and strengthen the exercise of this power, it is necessary to \r\nenlarge the jurisdiction of the Supreme Court as expressly provided under Article 188; \r\nAND WHEREAS it is necessary  to ensure the fundamental right to justice by providing for \r\nmeaningful review of judgements and orders passed by the Supreme Court in exercise of its original \r\njurisdiction under Article 184; \r\nIt is hereby enacted as follows:__ \r\n1. Short title, commencement and extent. __ (1) This Act  shall  be called the Supreme \r\nCourt (Review of Judgments and Orders) Act, 2023. \r\n(2) It shall come into force at once. \r\n2. Enlargement of jurisdiction of the Supreme Court. — In case of judg ments and \r\norders of the Supreme Court in exercise of its original jurisdiction under Article 1 84 of the \r\nConstitution, the scope of review on both facts and law, shall be the same as an appeal under Article \r\n185 of the Constitution. \r\n3. Larger Bench.— A review petition shall be heard by a Bench larger than the Bench \r\nwhich passed the original judgment or order. \r\n4. Right to appoint counsel.__ The review petitioner shall have the right to appoint any \r\nadvocate of the Supreme Court of his choice for the review petition. \r\n5. Judgments and orders made prior to commencement of this Act.— The right to file \r\na review petition shall also be available to an aggrieved person  against whom an order has  been made \r\nunder-clause (3) of Article 184 of the Constitution, prior to the commencement of this Act: \r\nProvided that the review petition under this section shall be filed within sixty days of the \r\ncommencement of this Act. \r\n6. Limitation.__ A review petition may be filed within sixty days of  the passing of the \r\noriginal order. \r\n \r\nPage 3 of 3 \r\n \r\n7. Act to override other laws etc. — The provisions of thi s Act shall have effect \r\nnotwithstanding anything contained in any other law, rules or regulations for the time being in force \r\nor judgment of any court including the Supreme Court and a High Court.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-c727f57dd68379b6:sha256:658333e925f39824ee1f5964c9faa5133af067971ad67e0d76b97d79ef33c125:chars-0-1704:3f868f0baa532b014b764750014578d819bddb6735598ec768f0fc720101adf5",
+      "character_start": 0,
+      "character_end": 1704,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1706,
+      "passage_sha256": "3f868f0baa532b014b764750014578d819bddb6735598ec768f0fc720101adf5",
+      "reader_fragment": "p-0-1704-3f868f0baa532b01"
+    },
+    {
+      "passage_id": "law:pk-code-c727f57dd68379b6:sha256:658333e925f39824ee1f5964c9faa5133af067971ad67e0d76b97d79ef33c125:chars-1704-2925:b3f3f036d3ac297b79b955c86802c462db9ebcb6e8e241c63d9eb0e05c483dac",
+      "character_start": 1704,
+      "character_end": 2925,
+      "utf8_byte_start": 1706,
+      "utf8_byte_end": 2933,
+      "passage_sha256": "b3f3f036d3ac297b79b955c86802c462db9ebcb6e8e241c63d9eb0e05c483dac",
+      "reader_fragment": "p-1704-2925-b3f3f036d3ac297b"
+    }
+  ]
+}

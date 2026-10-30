@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-b8a053f889c251bc",
+  "title": "Pakistan International Airlines Corporation (Conversion) (Repeal) Ordinance, 2026",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tqZg%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "2c3759a7d71e8ec7c730af2400bf421212cdfa738e49ec1a3580da112a36af6f",
+  "source_sha256": "2c3759a7d71e8ec7c730af2400bf421212cdfa738e49ec1a3580da112a36af6f",
+  "text_version_id": "law:pk-code-b8a053f889c251bc:sha256:2c3759a7d71e8ec7c730af2400bf421212cdfa738e49ec1a3580da112a36af6f",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "ISLAMABAD, MONDAY, MAY 4, 2026 \r\nPART I \r\nActs, Ordinances, President’s Orders and Regulations \r\nGOVERNMENT OF PAKISTAN\r\nMINISTRY OF LAW AND JUSTICE \r\nIslamabad, the 3rd May, 2026 \r\nF. No. 2(1)/2026-Pub. The following Ordinance promulgated on 03rd\r\nMay, 2026 by the President is hereby published for general information:— \r\nORDINANCE NO. III OF 2026 \r\nAN \r\nORDINANCE \r\nto repeal the Pakistan International Airlines Corporation \r\n(Conversion) Act, 2016 \r\nWHEREAS, it is expedient to repeal the Pakistan International Airlines \r\nCorporation (Conversion) Act, 2016 (XV of 2016) in the manner and for the \r\npurposes hereinafter appearing; \r\nAND WHEREAS, the Senate and National Assembly are not in session, \r\nand the President of the Islamic Republic of Pakistan is satisfied that \r\ncircumstances exist which render it necessary to take immediate action;\r\n(451) \r\nPrice: Rs. 5.00 \r\n[10812(2026)Ex.Gaz.] \r\n452   THE  GAZETTE  OF  PAKISTAN,  EXTRA.,  MAY 4, 2026 [PART I \r\nNOW, THEREFORE,  in exercise of powers conferred by clause (1) of \r\nArticle 89 of the Constitution of the Islamic Republic of Pakistan, the President \r\nof the Islamic Republic of Pakistan is pleased to make and promulgate the \r\nfollowing Ordinance:— \r\n1. Short title and commencement .—(1) This Ordinance shall be\r\ncalled the Pakistan International Airlines Corporation (Conversion) (Repeal) \r\nOrdinance, 2026. \r\n(2) It shall come into force at once.\r\n2. Repeal of Act XV of 2016 .—(1) The Pakistan  International\r\nAirlines Corporation (Conversion) Act, 2016 (XV of 2016) is  hereby repealed \r\nexcept sub-section (1) of section 7 of the repealed Act. \r\n(2) Notwithstanding the  repeal  of  the  Pakistan  International  Airlines\r\nCorporation (Conversion) Act, 2016 (XV of 2016), the conversion of the \r\nPakistan International Airlines Corporation into a public company, all\r\norders made, actions taken, arrangements entered into, transfers effected, \r\nlicenses, permissions, sanctions, authorizations, concessions and approvals \r\ngranted and all proceedings continued under any of the powers conferred or \r\nexercised under the repealed Act, together with any right, privilege, obligation \r\nor llability acquired, accrued or incurred thereunder shall be deemed always \r\nto have been lawfully and validly made, taken, issued, vested or transferred and \r\nshall continue to be in force. \r\n(3) The particulars mentioned under \r\nsub-section (2) or in  any other  section of\r\nthis Ordinance  shall  not prejudice  the  general application  of  section  6 of  the\r\nGeneral Clauses Act, 1897 (X of 1897).\r\nASIF ALI ZARDARI, \r\nPresident. \r\n———— \r\nRAJA NAEEM AKBAR, \r\nSecretary. \r\nPRINTED BY THE MANAGER, PRINTING CORPORATION OF PAKISTAN PRESS, ISLAMABAD. \r\nPUBLISHED BY THE DEPUTY CONTROLLER, STATIONERY AND FORMS, UNIVERSITY ROAD, KARACHI.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-b8a053f889c251bc:sha256:2c3759a7d71e8ec7c730af2400bf421212cdfa738e49ec1a3580da112a36af6f:chars-0-1770:574d6c67fb09c68828ef464ddeb2d715870ba0e6e10aa14e64cfdfc5d4d3e105",
+      "character_start": 0,
+      "character_end": 1770,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1780,
+      "passage_sha256": "574d6c67fb09c68828ef464ddeb2d715870ba0e6e10aa14e64cfdfc5d4d3e105",
+      "reader_fragment": "p-0-1770-574d6c67fb09c688"
+    },
+    {
+      "passage_id": "law:pk-code-b8a053f889c251bc:sha256:2c3759a7d71e8ec7c730af2400bf421212cdfa738e49ec1a3580da112a36af6f:chars-1770-2797:5aa9c7590fda0da81427a90518b6b7a4dea687dda5e82b45563f32284fd46f77",
+      "character_start": 1770,
+      "character_end": 2797,
+      "utf8_byte_start": 1780,
+      "utf8_byte_end": 2815,
+      "passage_sha256": "5aa9c7590fda0da81427a90518b6b7a4dea687dda5e82b45563f32284fd46f77",
+      "reader_fragment": "p-1770-2797-5aa9c7590fda0da8"
+    }
+  ]
+}

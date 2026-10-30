@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-8e5f28db400e4d0b",
+  "title": "Land Reforms Regulation (Validation of Orders) Ordinance, 1978",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-cZqb-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "193d3c6b3f62ccaef4370d86ce36fd787b8c80818d1915f5c9addabcf96d9ac3",
+  "source_sha256": "193d3c6b3f62ccaef4370d86ce36fd787b8c80818d1915f5c9addabcf96d9ac3",
+  "text_version_id": "law:pk-code-8e5f28db400e4d0b:sha256:193d3c6b3f62ccaef4370d86ce36fd787b8c80818d1915f5c9addabcf96d9ac3",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\nTHE LAND REFORMS REGULATION (VALIDATION OF \r\nORDERS) ORDINANCE, 1978 \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title, extent and commencement \r\n2.  Validation \r\n \r\n \r\n  \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE LAND REFORMS REGULATION (VALIDATION OF ORDERS) \r\nORDINANCE, 1978. \r\n1ORDINANCE NO. XXIX OF 1978 \r\n[25th June, 1978] \r\nAn Ordinance to validate certain orders passed by the Chairman or a Member of the Federal Land \r\nCommission \r\nWHEREAS it is expedient to validate certain orders passed by the Chairman or a Member of \r\nthe Federal Land Commission;  \r\nAND WHEREAS the President is satisfied that circumstances exist which render it necessary \r\nto take immediate action;  \r\nNOW, THEREFORE, in pursuance of the Proclamation of the fifth day of July 1977 read with \r\nthe Laws (Continuance in Force) Order, 1977 ( C.M.L.A. Order No. 1 of 1977 ), and in exercise of all \r\npowers enabling him in that behalf the President is pleased to make and pro mulgate the following \r\nOrdinance:-  \r\n1. Short title, extent and commencement.___ (1) This Ordinance may called the Land Reforms \r\nRegulation (Validation of Orders) Ordinance, 1978.  \r\n(2) It extends to the whole of Pakistan.  \r\n(3) It shall come into force at once.  \r\n2. Validation. Notwithstanding any order or decision of any  court, any order passed by the \r\nChairman or by a Member of the Federal Land Commission at any time before the commencement of \r\nthis Ordinance and purporting to be in exercise of the authority conferred on the Chairman and \r\nMembers of the Commission by an order of the Federal Government under paragraph 29 of the Land \r\nReforms Regulation 1972, shall be deemed to have been validly passed and shall have, and shall be \r\ndeemed always to have had, effect accordingly.  \r\n \r\n___________ \r\n \r\n \r\n \r\n \r\nDate: 13-09-2024 \r\n_________________________________________________________________________________________________________________________ \r\n1It has been applied to the Provincially Administered Tribal Areas of Baluchistan, vide Notification No. 6207 BLR ___181, dated the 20th December, \r\n1978, see the Baluchistan Gazette, 1978, Ext., dated the 30th December, 1978 (No. 107).  \r\nIt has also been applied to the Provincially Administered Tribal Areas of N.W.F.P. by Notification No. 13/26 -HO (TA. III)/77, dated the 3rd February, \r\n1979, see the N.W.F.P, Gazette, Ext., 1979, dated the 6th March, 1979, p. 620.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-8e5f28db400e4d0b:sha256:193d3c6b3f62ccaef4370d86ce36fd787b8c80818d1915f5c9addabcf96d9ac3:chars-0-1795:f3e1029798ad77361bd26231a1856bfbcaeffc7dcbce695710cd97df38f60eec",
+      "character_start": 0,
+      "character_end": 1795,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1795,
+      "passage_sha256": "f3e1029798ad77361bd26231a1856bfbcaeffc7dcbce695710cd97df38f60eec",
+      "reader_fragment": "p-0-1795-f3e1029798ad7736"
+    },
+    {
+      "passage_id": "law:pk-code-8e5f28db400e4d0b:sha256:193d3c6b3f62ccaef4370d86ce36fd787b8c80818d1915f5c9addabcf96d9ac3:chars-1795-2409:2d8f273a96727bb10a0bcb249ac3a27959b143276594652d89502b63c07252c3",
+      "character_start": 1795,
+      "character_end": 2409,
+      "utf8_byte_start": 1795,
+      "utf8_byte_end": 2409,
+      "passage_sha256": "2d8f273a96727bb10a0bcb249ac3a27959b143276594652d89502b63c07252c3",
+      "reader_fragment": "p-1795-2409-2d8f273a96727bb1"
+    }
+  ]
+}

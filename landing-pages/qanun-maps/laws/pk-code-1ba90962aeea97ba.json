@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-1ba90962aeea97ba",
+  "title": "Railway Stores (Unlawful Possession) Ordinance, 1944",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-cJmX-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "9a349f807b29ddbbb745e51726b266694508a9a692c88c926be644d38bd14d27",
+  "source_sha256": "9a349f807b29ddbbb745e51726b266694508a9a692c88c926be644d38bd14d27",
+  "text_version_id": "law:pk-code-1ba90962aeea97ba:sha256:9a349f807b29ddbbb745e51726b266694508a9a692c88c926be644d38bd14d27",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n  \r\n \r\n \r\n \r\nTHE RAILWAY STORES (UNLAWFUL POSSESSION) \r\nORDINANCE, 1944 \r\n \r\n              \r\n \r\n \r\n \r\n   \r\nCONTENTS \r\n1.  Short title, extent and commencement \r\n2.  Definitions \r\n3.  Unlawful possession of railway Stores \r\n \r\n \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE RAILWAY STORES (UNLAWFUL POSSESSION) ORDINANCE, 1944. \r\n \r\nORDINANCE No. XIX OF 1944 \r\n[13th May, 1944]  \r\n \r\nAn Ordinance to make special provision for the punishment of the offence of unlawful possession of \r\nrailway stores. \r\n \r\n WHEREAS an emergency has arisen which renders it necessary to make special provision \r\nfor the punishment of the offence of unlawful possession of railway stores; \r\n \r\n Now, THEREFORE, in exercise of the powers conferred by sec tion 72 of the Government of \r\nIndia Act, as set out in the Ninth Schedule to the Government of India Act, 1935 (26 Geo. 5,c.2.), the \r\nGovernor General is pleased to make and promulgate the following Ordinance:⎯ \r\n \r\n 1. Short title, extent and commencement. ⎯(1) This Ordinance may be  called the Railway \r\nStores (Unlawful Possession) Ordinance, 1944. \r\n \r\n 1[(2) It extends to the whole of Pakistan.] \r\n \r\n (3) It shall come into force at once. \r\n \r\n 2. Definitions. In this Ordinance 2* * * “railway stores” includes any article used or intended \r\nto be used in the construction, operation or maintenance of a railway. \r\n \r\n 3. Unlawful possession of railway St ores. Whoever is found or is proved to have been in \r\npossession of any article of railway stores shall, if the Court sees reasonable grounds for believing \r\nsuch article to be or to have been the pro perty of the administration of any 2* railway, unless he \r\nproves that the article came into his possession lawfully, be punishable with imprisonment for a term \r\nwhich may extend to five years or with fine or with both. \r\n \r\n \r\n \r\n \r\n \r\n____________ \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nDate: 01-07-2024 \r\n \r\n1Subs. by the Central Laws (Statute Reform) Ordinance No XXI of 1960, s. 3 and 2nd Sch. (with effect from the 14th October, 1955).  \r\n2Omitted by A.O., 1961, Art.2 and Sch. (with effect from the 23rd March, 1956).",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-1ba90962aeea97ba:sha256:9a349f807b29ddbbb745e51726b266694508a9a692c88c926be644d38bd14d27:chars-0-1770:3b62b6b0ff6e6a09dfb70999af480634ad207c0730e4fd2a57761577e0ddd1b2",
+      "character_start": 0,
+      "character_end": 1770,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1778,
+      "passage_sha256": "3b62b6b0ff6e6a09dfb70999af480634ad207c0730e4fd2a57761577e0ddd1b2",
+      "reader_fragment": "p-0-1770-3b62b6b0ff6e6a09"
+    },
+    {
+      "passage_id": "law:pk-code-1ba90962aeea97ba:sha256:9a349f807b29ddbbb745e51726b266694508a9a692c88c926be644d38bd14d27:chars-1770-2122:fed70ddc2cdaebf11357e800813efaec0b4cf9e56891127c499a7ea6da2f1998",
+      "character_start": 1770,
+      "character_end": 2122,
+      "utf8_byte_start": 1778,
+      "utf8_byte_end": 2130,
+      "passage_sha256": "fed70ddc2cdaebf11357e800813efaec0b4cf9e56891127c499a7ea6da2f1998",
+      "reader_fragment": "p-1770-2122-fed70ddc2cdaebf1"
+    }
+  ]
+}

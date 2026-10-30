@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-142a673f71776f43",
+  "title": "Supreme Court and High Court (Extension of Jurisdiction to Federally Administered Tribal Areas) Act, 2018",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2NobZc%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "b06fdfd94ce0a22c527f58503c0600c3a68604cec81e530a1330cdec2a769894",
+  "source_sha256": "b06fdfd94ce0a22c527f58503c0600c3a68604cec81e530a1330cdec2a769894",
+  "text_version_id": "law:pk-code-142a673f71776f43:sha256:b06fdfd94ce0a22c527f58503c0600c3a68604cec81e530a1330cdec2a769894",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\n THE SUPREME COURT AND HIGH COURT (EXTENSION OF \r\nJURISDICTION TO FEDERALLY ADMINISTERED TRIBAL \r\nAREAS) ACT, 2018 \r\n \r\n \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n \r\n1. Short title and commencement \r\n2. Extension of jurisdiction of Supreme Court \r\n3. Extension of jurisdiction of High Court \r\n \r\n  \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE SUPREME COURT AND HIGH COURT (EXTENSION OF \r\nJURISDICTION TO FEDERALLY ADMINISTERED TRIBAL AREAS) \r\nACT, 2018 \r\nACT NO. X OF 2018 \r\n[17th April, 2018] \r\nAn Act to extend the jurisdiction of the Supreme Court of Pakistan and the Peshawar High Court \r\nto the Federally Administered Tribal Areas \r\nWHEREAS it is expedient to extend the jurisdiction of the Supreme Court of Pakistan and \r\nthe Peshawar High Court to the Federally Administered Tribal Areas; \r\nIt is hereby enacted as follows:⸻ \r\n1. Short title and commencement.⸻ (1) This Act may be called the Supreme Court and \r\nHigh Court (Extension of Jurisdiction to Federally Administered Tribal Areas) Act, 2018. \r\n(2) It shall come into force on such date or dates and in such Federally Administered \r\nTribal Areas or part thereof, as the Federal Government may, by notification in the official Gazette, \r\ndetermine from time to time. \r\n2. Extension of jurisdiction of Supreme Court .⸻ The Supreme Court of Pakistan \r\nshall have, in relation to the Federally Administered Tribal Areas, the same jurisdiction as it has \r\nin relation to the province of the Khyber Pakhtunkhwa. \r\n3. Extension of jurisdiction of High Court.⸻ The Peshawar High Court shall have, \r\nin relation to the Federally Administered Tribal Areas, the same jurisdiction as it has in relation to \r\nthe province of Khyber Pakhtunkhwa. \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nRGN. Dated. 20-05-2026",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-142a673f71776f43:sha256:b06fdfd94ce0a22c527f58503c0600c3a68604cec81e530a1330cdec2a769894:chars-0-1740:b06fdfd94ce0a22c527f58503c0600c3a68604cec81e530a1330cdec2a769894",
+      "character_start": 0,
+      "character_end": 1740,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1748,
+      "passage_sha256": "b06fdfd94ce0a22c527f58503c0600c3a68604cec81e530a1330cdec2a769894",
+      "reader_fragment": "p-0-1740-b06fdfd94ce0a22c"
+    }
+  ]
+}

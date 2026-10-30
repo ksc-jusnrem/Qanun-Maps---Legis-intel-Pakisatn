@@ -1,0 +1,921 @@
+PUNJAB PUBLIC FINANCIAL MANAGEMENT ACT 2022 
+(XXXVII of 2022) 
+CONTENTS 
+CHAPTER I 
+PRELIMINARY 
+1. Short title, extent and commencement. 
+2. Definitions. 
+3. Measures to be taken. 
+CHAPTER II 
+PLANNING, BUDGETING AND PERFORMANCE MANAGEMENT 
+4. Medium-term Planning and Budgeting. 
+5. Revenue. 
+6. Annual Budget Statement. 
+7. Performance reporting. 
+8. Expenditure from Provincial Consolidated Fund. 
+9. Withdrawal from Public Account. 
+10. Grants to be received or paid by the Government. 
+11. Grant-in-aid to be paid by the Government. 
+12. Supplementary Budget Statement and Excess Budget Statement. 
+13. Re-appropriation of funds. 
+14. Statement of Excess and Surrender. 
+15. Guidelines on Commitment Control System. 
+16. Assessment and upgradation of Public Financial Management (PFM) 
+System. 
+17. Public Financial Management Unit. 
+CHAPTER III 
+FISCAL RISK MANAGEMENT 
+18. Fiscal Risk Management Framework. 
+ 
+ 
+19. Fiscal risk statement. 
+20. Fiscal discipline. 
+21. Debt limits. 
+22. Compliance with Fiscal and debt provisions. 
+CHAPTER IV 
+DEBT MANAGEMENT 
+23. Authority to borrow or issue guarantees. 
+24. Purposes of borrowing. 
+25. Functions of Debt Management Unit. 
+26. Medium-Term Debt Management Strategy. 
+CHAPTER V 
+PUBLIC INVESTMENTS 
+27. Medium-term Planning for Public Investments. 
+28. Approval and monitoring of Public investment projects and programs. 
+29. Stock of public investments. 
+30. Framework for management of public investments. 
+CHAPTER VI 
+MANAGING RECEIPTS AND PAYMENTS 
+31. Custody of Provincial Consolidated Fund and the Public Account of the 
+Province. 
+32. Banking arrangements. 
+33. Sanctioning of expenditure from the Provincial Consolidated Fund. 
+34. Withholding of appropriations. 
+35. Cash management. 
+36. Special Purpose Fund. 
+37. Fund Management Company. 
+CHAPTER VII 
+ACCOUNTING AND FINANCIAL REPORTING 
+38. Accounts. 
+ 
+ 
+39. Chief Finance and Accounts Officer. 
+40. Internal Controls. 
+41. Budget Execution Report. 
+42. Financial Reports. 
+CHAPTER VIII 
+PUBLIC CORPORATIONS 
+43. Governance of public corporations. 
+44. Corporate Finance Unit. 
+CHAPTER IX 
+MISCELLANEOUS 
+45. Implementation. 
+46. Indemnity. 
+47. Removal of difficulty. 
+48. Power to make rules. 
+49. Power to make regulations. 
+50. Overriding effect. 
+TEXT 
+1PUNJAB PUBLIC FINANCIAL MANAGEMENT ACT 2022 
+(XXXVII of 2022) 
+[02 December 2022] 
+An 
+Act 
+to regulate financial affairs in the public sector and matters relating to the Provincial 
+Consolidated Fund and Public Account of the Punjab.  
+It is  necessary to regulate and  manage financial affairs in the public sector in a 
+comprehensive, efficient, transparent and sustainable manner contributing to long -
+term socio-economic stability and growth of the Province; to make provisions relating 
+to custody of the Provincial Consolidated Fund, the payment of moneys into that 
+Fund, the withdrawal of moneys therefrom, the custody of other moneys received by 
+or on behalf of the Government, their payment into and withdrawal from the Public 
+Account of the Punjab;  and to provide for the matters connected with or ancillary 
+thereto in pursuance of Article 119 of the Constitution of the Islamic Republic of 
+Pakistan.  
+Be it enacted by Provincial Assembly of the Punjab as follows: 
+CHAPTER I 
+PRELIMINARY 
+1. Short title, extent and commencement .− (1) This  Act may be cited as the 
+Punjab Public Financial Management Act 2022. 
+(2)  This Act extends to whole of the Punjab.  
+(3)  This Act shall come into force at once. 
+2. Definitions.− (1) In this Act: 
+(a) “appropriation” means an expenditure which is a part of the 
+Schedule of Authorized Expenditure authenticated under  Article 
+123 of the Constitution; 
+(b) "authorization" means authorization to withdraw moneys from 
+the Provincial Consolidated Fund and Public Account of the 
+Punjab against budgetary appropriations; 
+(c) “Constitution” means the Constitution of the Islamic Republic of 
+Pakistan;  
+(d) "financial propriety" means the compliance of this Act, rules and 
+regulations for ma intaining high standards of prudence, 
+vigilance, due diligence and ensuring value for money while 
+incurring expenditure and collecting Government receipts; 
+                                                           
+1This Act was passed by the Provincial Assembly of the Punjab on 21 November 2022; assented to by the Governor of the 
+Punjab on 30 September 2022; and, was published in the Punjab Gazette (Extraordinary), dated: 02 December 2022, pp. 2383-
+2396. 
+ 
+ 
+(e) “Finance Secretary” means Secretary to the Government, 
+Finance Department; 
+(f) "Government" means Government of the Punjab; 
+(g) “prescribed” means prescribed by the rules or the regulations 
+made under this Act; 
+(h) "re-appropriation" means the transfer of funds from one head of 
+account to another head of account within a budget grant; 
+(i) “regulations” means the regulations made under this Act;  
+(j) “rules” means the rules made under this Act; 
+(k) "tax expenditure" means the tax revenue which the Government 
+foregoes through the provisions of tax laws that allow 
+deductions, exclusions, exceptions, deferrals or preferential 
+rates; and 
+(l) "technical supplementary grant" means a re -allocation of funds 
+which does not impact the Government’s overall authorized 
+expenditure from the Provincial Consolidated Fund. 
+(2) An expression or a word used but  not defined in this Act, rules and 
+regulations made thereunder  shall have the same meaning as  assigned in the 
+Constitution, the Punjab Government Rules of Business 2011, Government Finance 
+Statistics Manual, Public Sector Debt Statistics: Guide for Compilers and Users and 
+any other relevant instrument. 
+3. Measures to be taken.− For regulation and management of public finances in 
+a comprehensive, efficient, transparent and sustainable manner, the Government 
+shall cause the following measures to be taken: 
+(a) adequate comprehensiveness of the Budget including the Budgets of 
+all relevant institutional units;  
+(b) clarity of description of functions, powers and performance indicators of 
+the institutional units performing functions for the Government; 
+(c) introduction of appropriate checks and balances in the public financial 
+management system; 
+(d) emphasis on medium -term planning and budgeting horizons, 
+frameworks, strategies, and evaluations; 
+(e) carrying out of regular reporting of financial statistics including public 
+debt, and fiscal risks in accordance with international standards; 
+(f) implementation of robust Fiscal Risk Management Framework and 
+keeping the Budget Deficit and Public Sector Debt within reasonable 
+limits; 
+(g) regular spend ing of a reasonable amount of resources on public 
+investments; 
+(h) formulation of a comprehensive policy for governance of public 
+corporations; and 
+ 
+ 
+(i) adoption of a balanced approach with realistic targets giving the 
+relevant institutional units the authority, me ans and resources to 
+achieve such targets while installing appropriate mechanisms for 
+rewarding good performance and addressing bad performance. 
+ 
+CHAPTER II 
+PLANNING, BUDGETING AND PERFORMANCE MANAGEMENT 
+4. Medium-term Planning and Budgeting .− (1) The Government shall adopt 
+planning and budgeting for a medium -term of three to five years to foster discipline 
+and consistency in financial management. 
+(2) During each financial year, the Finance Department shall prepare a 
+Medium-term Fiscal Framework and Budget Strategy encompassing at least the next 
+three financial years, and submit to the Government for approval. 
+(3) Upon approval, the Medium -term Fiscal Framework and Budget 
+Strategy shall be published on official website of the Finance Department. 
+(4) The timelines fo r preparation, submission and approval of 
+aforementioned documents shall be as prescribed.  
+(5) The Finance Department shall finalize the estimates to be included in 
+Medium-term Fiscal Framework and Budget Strategy in consultation with all 
+Departments of the G overnment, Planning and Development Board  and any other 
+public sector institution, whether federal or provincial, whose input, in the opinion of 
+the Finance Department, is important for this purpose. 
+(6) The Medium-term Fiscal Framework and Budget Strategy shall include: 
+(a) socio-economic objectives of the Governments and its policy 
+priorities and goals pertaining to important fiscal variables 
+including revenue, expenditure, budget balance and debt;  
+(b) policy targets and allocations expressed as percentage of Gross 
+Domestic Product ( GDP), percentage of total expenditure, 
+percentage of total debt or any other meaningful measure, 
+pertaining to the important fiscal variables and their major 
+components including tax and non -tax revenues, direct and 
+indirect taxes, user charges for certain services, operating 
+expenses, public investments, allocation of expenditure among 
+various functions of the Government, external and domestic 
+debt; 
+(c) baseline projections of the important fiscal variables; 
+(d) details of the major factors, con straints and assumptions 
+underlying the projections;  
+(e) details of relevant policies of the Government; 
+(f) Key Performance Indicators in the form of targeted outcomes 
+and outputs for each Department; 
+(g) single expenditure ceiling for each Department to achieve the  
+Key Performance Indicators; 
+ 
+ 
+(h) reconciliation of Expenditure Ceilings for Departments with 
+functional and economic classification; 
+(i) desired flexibility in the spending plans of Departments due to 
+unexpected shortfalls in Revenue or increases in Expenditure 
+resulting from various fiscal risks; and 
+(j) details and justification of significant gaps between the priorities, 
+goals, targets, or allocations in the current and the previous 
+Medium-term Fiscal Framework and Budget Strategy. 
+(7) For the purposes of formulatio n and execution of medium -term or 
+annual Budgets, each  Department shall represent, and be responsible for, all 
+institutional units under its administration, and the Government shall ensure that 
+every institutional unit forming part of the Government is re presented by a 
+Department. 
+5. Revenue.− (1) Every Department responsible for collecting tax or non -tax 
+revenue shall prepare and update on annual basis, a Business Plan to enforce the 
+relevant laws and collect the revenue in an efficient manner. 
+(2) The Business Plan shall encompass the next three financial years and 
+contain annual revenue targets and the key measures to achieve those targets.  
+(3) The Business Plan shall be in line with the Medium -term Revenue 
+Mobilization Strategy approved by the Govern ment in case of revenue sources 
+included in the Strategy.  
+(4) The relevant Departments shall, within three months of the close of 
+each financial year, submit a performance report to the Government mentioning the 
+performance relative to the targets set in the Business Plan and explain reasons for 
+deviations, if any, from the targets. 
+6. Annual Budget Statement .− (1) The Finance Department shall prepare the 
+Annual Budget Statement, containing the consolidated budget of all institutional units 
+that form part of t he Government, for the next financial year and submit it to the 
+Government. 
+(2) The Annual Budget Statement shall include: 
+(a) estimates of revenue and expenditure along with their 
+bifurcation on the basis of functional classification, economic 
+classification and Departments; 
+(b) estimates of Net Operating Balance, Primary Balance and 
+Budget Balance; and 
+(c) estimates of Net Borrowing / Net Lending and its bifurcation into 
+Net Acquisition of Financial Assets and Net Incurrence of 
+Liabilities. 
+(3) In addition to the Budget Esti mates for the next financial year, the 
+Annual Budget Statement shall also provide the Revised Estimates for the ongoing 
+financial year. 
+ 
+ 
+Explanation: The expression “actual figures” means the figures audited by 
+the Auditor General of Pakistan or, in case th e audit is still in process, provisional 
+figures as per the Integrated Financial Management Information System. 
+(4) Each Department shall be responsible for preparing, submitting and 
+negotiating the annual Budget in respect of all institutional units under its  
+administrative control. 
+(5) Each Department shall prepare its annual Budget estimates in line with 
+the expenditure ceilings approved in the Medium -term Fiscal Framework and Budget 
+Strategy. 
+(6) Each Department’s Key Performance Indicators and Budget estimates 
+shall be deliberated and finalized for submission to the Government, in such manner 
+as may be notified by the Finance Department.  
+7. Performance reporting.− (1) Within three months of the close of a financial 
+year, each Department shall submit a performance report to the Government. 
+(2) The performance report shall contain details of: 
+(a) of the actual results achieved during the financial year regarding 
+the outputs, outcomes, and key performance indicators agreed 
+at the time of finalization of the budget for that financial year; 
+and  
+(b) the targeted outputs, outcomes, and key performance indicators 
+achieved along with the reasons for gap between the targets 
+and actual results. 
+8. Expenditure from Provincial Consolidated Fund.− (1) Expenditure from the 
+Provincial Consolidated Fund shall include the following payments either as Charged 
+Expenditure or as Other Expenditure: 
+(a) expenses, other than investments, in connection with 
+Government operations; 
+(b) Investments in non-financial assets; 
+(c) acquisition of financial assets; and 
+(d) discharge of liabilities. 
+ (2) Other Expenditure includes all Expendi ture other than Charged 
+Expenditure as may be approved by the Government.  
+9. Withdrawal from Public Account .− Withdrawal from Public Account shall 
+include the following payments: 
+(a) expenses other than investments; 
+(b) investments in non-financial assets; 
+(c) acquisition of financial assets; and 
+(d) discharge of liabilities. 
+ 
+ 
+ 
+10. Grants to be received or paid by the Government .− (1) The Finance 
+Department shall prepare a Policy for providing grants to other governments and 
+foreign organizations and submit it to the Government for approval.  
+(2) The Policy shall include the grants payable to local governments of the 
+Punjab.  
+(3) The pro cess and timelines for preparation and approval of the Policy 
+shall be as prescribed. 
+(4) All authorizations and payments of grants to other governments and 
+foreign organizations shall be in accordance with the Policy.  
+(5) All Grants receivable by the Government from other governments or 
+international organizations shall be received by the Finance Department.  
+(6) Subject to approval of the Government, the Finance Secretary or any 
+other officer authorized by the Government may enter into agreements for the 
+purpose of providing and receiving grants from other governments and foreign 
+organizations.  
+(7) The Finance Department shall issue Guidelines for receipt of Grants 
+from other governments and foreign organizations by the Government for guidance 
+of all Departments. 
+ 
+11. Grant-in-aid to be paid by the Government .− (1) The Finance Department 
+shall prepare a Policy for providing grant-in-aid and submit it to the Government. 
+(2) The process and timelines for preparation and approval of the Policy 
+shall be as prescribed. 
+(3) All authorizations and payments of grant -in-aid shall be in accordance 
+with the Policy. 
+ 
+12. Supplementary Budget Statement and Excess Budget Statement .− (1) 
+The Government shall not authorize a Supplementary Expenditure unless it is 
+satisfied that adequate resources shall be available for this purpose.  
+(2) The Supplementary Expenditure Statement shall include reasons for 
+incurring the Supplementary Expenditure.  
+(3) The Excess Expenditure Statement shall include reasons for incurring 
+the Excess Expenditure and the measures to prevent such instances in future.  
+(4) The conditions, process and timelines pertaining to Supplementary 
+Budget Statement and Excess Budget Statement shall be as prescribed. 
+ 
+13. Re-appropriation of funds .− (1) The head of a Department or any other 
+officer authorized by him may sanction re -appropriation of funds pertaining to that 
+Department. 
+(2) Total amount re -appropriated by a Department during a finan cial year 
+shall not exceed 20% of the total Expenditure approved as part of the Budget 
+Estimate of that Department except under extraordinary circumstances and with prior 
+approval of the Finance Department. 
+ 
+ 
+(3) The conditions, process and timelines pertaining to re-appropriation of 
+funds shall be as prescribed.  
+ 
+14. Statement of Excess and Surrender .− (1) Each Department shall submit a 
+Statement of Excess and Surrender containing:  
+(a) anticipated expenditure in excess of the schedule of Authorized 
+Expenditure; or  
+(b) authorized Expenditure to be surrendered due to anticipated 
+savings during a financial year.  
+(2) The Statement shall include reasons for anticipation of excess 
+Expenditure or sur rendering a portion of the Authorized Expenditure, as the case 
+may be. 
+(3) The Finance Department shall, after obtaining further information that it 
+considers necessary, communicate Revised Budget Estimate for the financial year to 
+each Department. 
+(4) The conditi ons, process and timelines pertaining to Statement of 
+Excess and Surrender shall be as prescribed.  
+ 
+15. Guidelines on Commitment Control System.− The Finance Department 
+shall frame Guidelines related to multi-annual Commitment Control System. 
+ 
+16. Assessment and upgradation of Public Financial Management (PFM) 
+System.− (1) For continuous upgradation of the PFM System in line with the 
+international standards and best practices, the Finance Department shall carry out 
+an assessment of its Public Financial Management System in accordance with the 
+international Public Expenditure and Financial Accountability (PEFA) framework on a 
+regular basis.  
+(2) The assessment shall be carried out at least once in every four years 
+through a qualified and independent organization. 
+(3) The assessment report shall be presented to the Government a nd 
+shall, afterwards, be published on the website of the Finance Department. 
+ 
+17. Public Financial Management Unit.− The Public Financial Management Unit 
+(PFMU) established in the Finance Department shall perform the following functions:  
+(a) preparation of Me dium-term Fiscal Framework and Budget Strategy in 
+consultation with the relevant stakeholders; 
+(b) preparation of annual Fiscal Risk Statement including the statement of 
+compliance of the provisions of this Act; 
+(c) preparation of Medium -term Revenue Mobilization Strategy 
+encompassing next three financial years in consultation with relevant 
+stakeholders;  
+(d) preparation of Medium -term Expenditure Management Policy 
+encompassing next three financial years in consultation with relevant 
+stakeholders;  
+ 
+ 
+(e) monitoring the actua l results of the policies and frameworks and shall 
+publishing an annual progress report in this regard; 
+(f) preparation of a training and development plan for the staff of the 
+Finance Department, monitoring the implementation of the plan, and 
+publishing an annual report in this regard; and 
+(g) any other functions as prescribed under the rules or as assigned by the 
+Finance Secretary. 
+ 
+CHAPTER III  
+FISCAL RISK MANAGEMENT 
+18. Fiscal Risk Management Framework .− (1) The Finance Department shall 
+prepare a Fiscal Risk Management Framework, and submit it to the Government for 
+approval. 
+(2) The Finance Department may, from time to time, propose to the 
+Government, revisions in the Fiscal Risk Management Framework to enhance its 
+effectiveness for approval.  
+ 
+19. Fiscal risk sta tement.− (1) The Finance Department shall prepare a Fiscal 
+Risk Statement on annual basis, and submit it to the Government for approval. 
+(2) The Government may review approve the Fiscal Risk Statement, and 
+shall lay it before the Provincial Assembly along with the Annual Budget Statement. 
+(3) The Statement shall contain information on:  
+(a) major sources of risk that can result in significant deviations 
+between actual and expected fiscal outcomes; 
+(b) estimates of Tax Expenditure for the next financial year 
+prepared with t he assistance of all Departments and agencies 
+engaged in collection of taxes; 
+(c) fiscal risks posed by explicit as well as implicit contingent 
+liabilities; 
+(d) compliance status of fiscal and debt rules contained in this Act 
+along with the relevant figures, and, in case of non -compliance, 
+the reasons thereof; 
+(e) assessment of the implementation status and effectiveness of 
+the Fiscal Risk Management Framework; and 
+(f) measures needed to strengthen the management of fiscal risks. 
+ 
+20. Fiscal discipline .− The Government sha ll take appropriate measures to 
+maintain a balanced Budget over the long run by observing the following quantitative 
+limits:  
+(a) in any financial year, Net Investment in Non -financial Assets shall not 
+be less than 15% of average revenue of three preceding financial 
+years; and 
+ 
+ 
+(b) in any financial year, the Budget Deficit shall not exceed 10% of 
+average revenue of three preceding financial years.  
+ 
+21. Debt limits.− The Government shall take appropriate measures to keep the 
+Public Sector Debt and Guarantees by observing the following quantitative limits: 
+(a) stock of Public Sector Debt and Guarantees shall not, at any time, 
+exceed 200% of the avera ge revenue of three preceding financial 
+years; 
+(b) Government Debt and Guarantees shall not, at any time, exceed 160% 
+of the average revenue of three preceding financial years; 
+(c) public corporations Debt and Guarantees shall not, at any time, exceed 
+40% of the average revenue of three preceding financial years; and 
+(d) interest expense on Government Debt shall not, in any financial year, 
+exceed 12% of the average revenue of three preceding financial years. 
+22. Compliance with Fiscal and debt provisions .− (1) Complian ce with fiscal 
+and debt provisions laid down in this Act shall be monitored based on annual 
+accounts prepared by the Accountant General’s Office and audited by the Auditor 
+General’s Office after the end of a financial year. 
+(2) Breach of any of the Fiscal and Debt provisions for two consecutive 
+years shall be treated as non-compliance.  
+(3) In case of non -compliance, the Government shall make all reasonable 
+efforts to return to the compliant status within two financial years. 
+(4) The Government shall, at the time of presentation of Annual Budget 
+Statement before the Assembly, communicate the reasons for non -compliance and 
+the strategy and time frame for achieving compliance. 
+ 
+CHAPTER IV  
+DEBT MANAGEMENT 
+23. Authority to borrow or issue guarantees .− (1) The  authority to borrow or 
+give a guarantee shall vest in the Government.  
+(2) All Government borrowings and guarantees shall be executed by the 
+Finance Secretary or any other officer as the Government may specifically authorize 
+for the purpose. 
+24. Purposes of b orrowing.− The Government may borrow for all or any of the 
+following purposes: 
+(a) to finance the Budget deficit;  
+(b) to meet temporary cash or liquidity needs;  
+(c) to make investment in non-financial or financial assets; 
+(d) to repay, refinance, reschedule, restructure , prematurely retire or swap 
+existing debt; 
+ 
+ 
+(e) to pay a liability; and 
+(f) to on-lend the borrowed funds to any institutional unit forming part of 
+the Public Sector.  
+25. Functions of Debt Management Unit .− The Debt Management Unit 
+established in the Finance Department shall: 
+(a) prepare the Medium -Term Debt Management Strategy as required 
+under this Act; 
+(b) prepare Annual Borrowing Plan in consultation with the relevant 
+stakeholders and in conformity with the Medium -term Debt 
+Management Strategy; 
+(c) formulate and implement  a process for raising domestic debt through 
+various sources such as Government securities, bank loans etc. 
+subject to any modifications that may be made in the process from time 
+to time, with  prior approval of the Finance Secretary; 
+(d) prepare a Framework f or Management of Guarantees in consultation 
+with relevant stakeholders, with approval of the Government, for 
+issuance, valuation, and monitoring of Government Guarantees; 
+(e) undertake domestic borrowings through government securities, bank 
+loans or any other domestic borrowing instruments; 
+(f) undertake external borrowings through commercial sources including 
+debt securities such as bonds, sukuks, bank loans or any other 
+commercial borrowing instruments; 
+(g) coordinate with the Planning and Development Board (P&DB) in raising 
+external debt through multilateral or bilateral sources and provide 
+advice to P&DD on financial terms and conditions of external debt; 
+(h) advise the Finance Secretary in evaluation of requests for Government 
+Guarantees made by Public Corporations; 
+(i) maintain consistent and authenticated record of Government Debt and 
+Guarantees; 
+(j) prepare a comprehensive debt bulletin on semi -annual basis in 
+accordance with the international standards contained in ‘Public Sector 
+Debt Statistics: guide for compilers and use rs’ and in case the debt 
+statistics contained in the debt bulletin are not fully in accordance with 
+these standards, appropriate disclosures shall be made; 
+(k) monitor compliance with the Debt Rules provided in this Act; 
+(l) ensure that Debt Management Performance  Assessment (DeMPA) is 
+carried out in accordance with the international standards at least once 
+in four years; 
+(m) act as the investor relations office of the Finance Department in 
+matters pertaining to Government Debt and Guarantees; and 
+(n) perform any other function as may be prescribed. 
+ 
+ 
+ 
+26. Medium-Term Debt Management Strategy .− (1) The Finance Minister shall 
+approve a Medium -term Debt Management Strategy for managing the Government 
+debt, encompassing three financial years and update it on annual basis in line  with 
+the Medium-term Fiscal Framework and Budget Strategy. 
+(2) The Medium-term Debt Management Strategy shall provide for: 
+(a) debt portfolio of the Government;    
+(b) future borrowing requirements of the Government and key 
+features of the strategy to meet those requirements;  
+(c) identification of areas or sources of debt where the debt has 
+exceeded prudent limits and key features of the strategy to 
+partially or fully retire such debt to bring it within reasonable 
+limits;  
+(d) major risk exposures of the debt portfolio and the key elements 
+of the strategy to manage those risks including the following; 
+(i) average time to maturity of debt portfolio; 
+(ii) share of fixed rate and floating rate debt; and 
+(iii) share of debt and guarantees. 
+(e) any other factors that may affect the d ebt management strategy; 
+and 
+(f) the projections of key measures of debt burden including:  
+(i) Government Debt and Guarantees along with its 
+bifurcation into Domestic Debt and External Debt;  
+(ii) ratio of Government Debt and Guarantees to Revenue; 
+and 
+(iii) ratio of Government Debt Service to Revenue. 
+(3) The Medium -Term Debt Management strategy shall be published on 
+the  website of the Finance Department along with the Budget documents. 
+ 
+CHAPTER V 
+PUBLIC INVESTMENTS 
+27. Medium-term Planning for Public Investments.− (1) The Planning and 
+Development Board shall prepare a Growth Strategy for the province of Punjab, and 
+submit it to the Government for approval.  
+(2) The Growth Strategy shall contain the following: 
+(a) socio-economic targets to be achieved over the next three 
+financial years;  
+(b) key features of the strategy to achieve those targets;  
+(c) fair allocation of resources to strive for regional equalization and 
+balance in the distribution of resources; and 
+(d) sectoral /departmental plans for public investments to b e made 
+for this purpose. 
+ 
+ 
+(3) The process and timelines for preparation and approval of the Growth 
+Strategy shall be as prescribed. 
+(4) The Planning and Development Board shall notify guidelines to be 
+followed for timely preparation of Growth Strategy including the  sectoral plans, and 
+the Planning and Development Board may, from time to time, amend the process.  
+(5) The Departments shall prepare and update the medium -term Public 
+Investment Plans in consultation with the Planning and Development Board and 
+ensure that estimates of costs and revenues are prepared for each Public 
+Investment project or program included in such Plans. 
+ 
+28. Approval and monitoring of Public investment projects and programs .− 
+(1) All public investment projects and programs included in Annual Development 
+Plan of the Government in a financial year shall: 
+(a) be part of the respective sectoral or departmental plan approved 
+by the Government along with the Growth Strategy; and 
+(b) have undergone the process for appraisal and approval of public 
+investment projects.  
+(2) The Planning and Development Board shall prepare and notify  a 
+Planning Manual containing the criteria and process for appraisal, approval and 
+monitoring of public investment projects and programs for inclusion in Annual 
+Development Plan. 
+(3) The Planning Manual shall include the following: 
+(a) criteria for deciding whether to execute a project or program in 
+Public Private Partnership or Project Finance modes or as part 
+of the regular Public Investment plan; 
+(b) minimum projected financial rate of return at the time of 
+appraisal and approval; and 
+(c) mechanisms for monitoring and reporting of the actual financial 
+rate of return over the life of the project or program. 
+ 
+29. Stock of public investments .− (1) The Planning and Development Board 
+shall maintain stock of public investments made by the Government in non -financial 
+assets. 
+(2) For the purpose of subsection (1), the Planning and Development 
+Board shall maintain an Asset Register in electronic form.  
+(3) The Asset Register shall include the following in formation in respect of 
+individual non-financial assets during and up to the financial year and the flexibility to 
+aggregate the information for various categories of non-financial assets: 
+(a) acquisition of non-financial assets; 
+(b) disposal of non-financial assets; 
+(c) consumption of fixed capital in respect of non -financial assets; 
+and 
+(d) net investment in non-financial assets. 
+ 
+ 
+(4) The Planning and Development Board shall issue guidelines for 
+updating the Asset Register on a regular basis, and all Departments including other 
+institutional units of the Government shall follow such guidelines. 
+ 
+30. Framework for management of public investments.− (1) The Planning and 
+Development Board shall approve a Public Investment Management Framework 
+consisting of good practices in th ree key phases of public investment management 
+consisting of planning, budgetary allocation and implementation. 
+(2) Good practices mentioned in subsection (1) shall include: 
+(a) in planning phase:  
+(i) appropriate measures to evaluate the financial or 
+economic returns of public investments; 
+(ii)  provincial and sectoral planning, such as prioritization, 
+multi-year costing; 
+(iii)  coordination among entities, such as coordination 
+between provincial and local government institutions; 
+(iv)  project appraisal; and 
+(v)  alternative infrastructure financing, such as public private 
+partnerships; 
+(b) in budgetary allocation phase:  
+(i)  multi-year budgeting; 
+(ii)  budget comprehensiveness and unity; 
+(iii)  adequate budgeting for investment; 
+(iv)  adequate budgeting for maintenance; and 
+(v)  project selection; and 
+(c) in implementation phase: 
+(i) procurement; 
+(ii) availability of funding; 
+(iii) portfolio management; 
+(iv) project management; and 
+(v) monitoring of public assets. 
+(3) The Planning and Development Board shall, at least once in every four 
+years, carry out a Public Investment Management Assessment (PIMA) in 
+accordance with international standards.  
+(4) After the close of each financial year, the Planning and Development 
+Board shall submit an annual report to the Government in respect of public 
+investments in non-financial assets.  
+(5) The report shall include the following:  
+(a) stock of non-financial assets at the end of the financial year; 
+ 
+ 
+(b) trends in net investment in non-financial assets; and 
+(c) lessons learned and good practices introduced in management 
+of public investments. 
+ 
+CHAPTER VI 
+MANAGING RECEIPTS AND PAYMENTS 
+31. Custody of Provincial Consolidated Fund and the Public Account of the 
+Province.− (1) The  custody of the Provincial Consolidated Fund and the Public 
+Account of the Province shall vest in the Finance Department under the overall 
+supervision of the Government. 
+(2)  Profit accrued on Moneys, in addition to the Government Treasury or 
+State Bank of  Pakistan, placed in commercial bank accounts with the permission of 
+the Finance Department under this Act or the rules made thereunder, shall be 
+regulated by guidelines to be issued by Finance Department. . 
+ 
+32. Banking arrangements.− (1) The Government s hall maintain separate bank 
+accounts for the purpose of Provincial Consolidated Fund and Public Account with 
+the State Bank of Pakistan. 
+(2) A separate bank account for the purpose of Public Account shall be 
+opened within two year of commencement of this Act. 
+(3) After a separate bank account is opened: 
+(a) all future allocations pertaining to the Public Account shall be 
+transferred in this bank account; and 
+(b) a plan shall be approved and implemented by the Finance 
+Department to determine the outstanding liabilities paya ble from 
+the Provincial Consolidated Fund to the Public Account and pay 
+those liabilities by making transfers in the separate bank 
+account over a period not exceeding fifteen years. 
+(4) All accounts of the Government shall be operated by authorized 
+signatories as prescribed by the Finance Department. 
+(5) The Finance Department may, from time to time, open or allow any 
+Department or other Government Unit to open accounts with commercial banks 
+regulated by State Bank of Pakistan  under such conditions and process  as  may be 
+prescribed. 
+(6) All receipts and payments by the Government, shall be routed through 
+the bank account of Provincial Consolidated Fund, and such receipts and payments 
+which are not routed through the bank account, due to any reason whatsoever, shall 
+be recorded in the Government accounts as if these were received in, or paid from, 
+the Provincial Consolidated Fund, as the case may be.  
+ 
+33. Sanctioning of expenditure from the Provincial Consolidated Fund .− (1) 
+No Expenditure shall be made from the Provinc ial Consolidated Fund or Public 
+Account until it has been sanctioned by the Government or the Finance Department 
+as the case may be, and is part of: 
+ 
+ 
+(a) schedule of Authorized Expenditure;  
+(b) Supplementary Grant including Technical Supplementary Grant; 
+or 
+(c) re-appropriation. 
+(2) The unspent portion of Authorized Expenditure shall lapse at the close 
+of the relevant financial year. 
+ 
+34. Withholding of appropriations .− (1) The Finance Department may, 
+suspend, withdraw, limit or place conditions on any budget appropr iation or other 
+authority issued by it if it is satisfied that such action is required by reason of a 
+financial exigency or is in the public interest. 
+(2) The effect of such decisions shall be incorporated in Revised Budget 
+Estimates included as part of the subsequent Annual Budget Statement. 
+ 
+35. Cash management .− (1) The Finance Department shall maintain Cash 
+Management Framework for effective cash management for the Government.  
+(2) The Framework shall include the following: 
+(a) need, objectives, and constraints per taining to cash 
+management; 
+(b) roles and responsibilities of relevant government units or offices, 
+within or outside the Finance Department, pertaining to cash 
+management; 
+(c) average cash balances to be maintained to meet liquidity needs 
+of the Government; and 
+(d) minimum period for which cash flow and liquidity projections 
+shall be maintained.  
+(e) investment policy for prudent investment of cash balances in line 
+with the objectives and constraints pertaining to cash 
+management. 
+ 
+36. Special Purpose Fund.− (1) A Specia l Purpose Fund may be established by 
+the Government.  
+(2) In case a Special Purpose Fund is neither a public corporation nor is 
+owned by a public corporation: 
+(a) the Fund shall be a part of the Public Account; 
+(b) the moneys appropriated for the Fund shall be transfe rred to the 
+bank account maintained in State Bank of Pakistan for the 
+purpose of Public Account; 
+(c) the Government shall notify the purpose of the Fund, the 
+Department responsible for its management; 
+(d) the Government may notify dissolution of a fund if it is sa tisfied 
+that either: 
+ 
+ 
+i. the purpose for which the fund was established has been 
+fully served; or 
+ii. it is in the public interest to dissolve the fund. 
+(e) the Government shall approve Rules for management of Special 
+Purpose Funds including the treatment of their assets and 
+liabilities in case of dissolution; and 
+(f) separate policies may be framed, in line with the Rules, in 
+respect of individual Funds. 
+37. Fund Management Company .− (1) The Government shall set up a Fund 
+Management Company to manage all long-term funds established by the 
+Government, or any not -for-profit entity owned or controlled by the Government, for 
+various purposes such as pension funds, general provident funds,  endowment 
+funds, foundations etc. 
+(2) The Fund Management Company shall be a Non -banking Finance 
+Company regulated by the Securities and Exchange Commission of Pakistan 
+(SECP) and it shall obtain licenses to engage in Asset Management, Investment 
+Advisory and Pension Fund Management businesses. 
+(3) The Finance Department shall be the  Administrative Department of the 
+Fund Management Company. 
+(4) Any Department or not -for-profit entity responsible for oversight and 
+management of a long -term fund, shall enter into an Agreement with the Fund 
+Management Company for outsourcing of investment ma nagement services and the 
+Government may approve a Master Agreement for this purpose which shall contain 
+general clauses and allow separate investment policy for each fund. 
+ 
+CHAPTER VII 
+ACCOUNTING AND FINANCIAL REPORTING 
+38. Accounts.− The Accounts of the Government shall be kept by the Auditor 
+General under Articles 169 and 170 of the Constitution.  
+ 
+39. Chief Finance and Accounts Officer .− (1) A Finance and Accounts Unit 
+shall be established in each Department which shall be headed by a Chief Finance 
+and Accounts Officer. 
+(2) The Chief Finance and Accounts Officer shall be appointed on such 
+terms and conditions as may be prescribed.  
+(3) The Finance and Accounts Unit shall: 
+(a) prepare accounts and financial reports of the Department or a 
+regular basis; 
+(b) prepare the annual Budget of the Department; 
+(c) prepare the internal controls manual of the Department in line 
+with the guidelines for internal controls issued by the Finance 
+Department; 
+ 
+ 
+(d) implement internal controls to ensure financial propriety in the 
+Department; 
+(e) coordinate with Auditor General of Pakistan for the purpose of 
+Audit as mandated by the Constitution or any other law; and 
+(f) perform any other function assigned by the Department. 
+ 
+40. Internal Controls.− (1) The Finance Department shall issue Guidelines for 
+Internal Controls in all Departments and other institutional units forming part of the 
+Government. 
+(2) Every Department shall prepare Internal Controls Manual containing 
+internal control processes and procedures and such Internal Controls Manual shall 
+be in accordan ce with the Guidelines of Internal Controls issued under subsection 
+(1). 
+ 
+41. Budget Execution Report .− (1) The Finance Department shall prepare a 
+Budget Execution Report on semi -annual basis for first six months of the financial 
+year or the full financial year, as the case may be.  
+(2) The report shall contain: 
+(a) comparison of budgeted versus actual figures of Revenue, 
+Expenditure, Budget Balance and Net Borrowing / Net Lending 
+and their important sub-categories;  
+(b) computation of variance of actual figures relati ve to the 
+budgeted figures; and 
+(c) variance analysis containing explanation of the underlying 
+factors and developments contributing to the differences 
+between actual and budget figures. 
+(3) The Finance Department shall place the Report before the Government 
+for information and shall also publish it on its official website. 
+(4) Timelines and process for preparation and publishing of the Report 
+shall be as prescribed. 
+ 
+42. Financial Reports .− (1) The Government shall maintain high standards of 
+transparency and international comparability in its Financial Reports. 
+(2) The Finance Department shall issue Financial Reports on biannual 
+basis. 
+(3) The Finance Department shall place the annual Financial Reports 
+before the Government and subsequently publish these reports on its website. 
+(4) Timelines and process for preparation and publishing of the Financial 
+Reports shall be as prescribed. 
+(5) The Financial Reports published after three years of commencement of 
+this Act shall be in line with the international standards and guidelines laid down in 
+Government Finance Statistics Manual. 
+ 
+ 
+(6) The Finance Department shall, at least once in every five years, carry 
+out an assessment of the quality of the financial reports and the underlying statistics 
+according to international Data Quality Assessment Framework.  
+ 
+CHAPTER VIII  
+PUBLIC CORPORATIONS 
+43. Governance of public corporations.− (1) The Government shall constitute a 
+Committee for Governance of public corporations. 
+(2) The Committee shall:  
+(a) prepare the policy for Governance of public corporations for 
+consideration and approval of the Government; 
+(b) implement the Policy for Governance of Public Corporations; 
+and 
+(c) submit, within six months of the close of each financial year, an 
+Annual Report to the Government regarding the governance of 
+public corporations. 
+(3) The Policy shall include the following: 
+(a) criteria for establishment, dissolution, privatization or operation, 
+of for-profit or not-for-profit basis, of Public Corporations; 
+(b) criteria and process for appointment, removal and performance 
+evaluation of directors on the governing bodies, such as Board 
+of Directors, of Public Corporations; 
+(c) principles and guidelines for human resource management 
+policies of Public Corporations; 
+(d) principles and guidelines for performance management of Public 
+Corporations; 
+(e) standards and guidelines for compilation and reporting of 
+consolidated financial statements of various categories of, or all, 
+Public Corporations; and 
+(f) principles and guidelines for identification, disclosure and 
+management of risks faced by Publ ic Corporations that have, or 
+are likely to have, fiscal implications for the Government.  
+ 
+44. Corporate Finance Unit.− (1) The Corporate Finance Unit established in the 
+Finance Department shall: 
+(a) assist the Finance Department in evaluating requests of pub lic 
+corporations for financial support from the Government; 
+(b) review audited reports of public corporations and monitor 
+compliance or redressal of audit observations and 
+recommendations by public corporations;  
+ 
+ 
+(c) prepare and implement a mechanism for monitorin g compliance 
+of applicable laws, rules, regulations and policies by the public 
+corporations; 
+(d) maintain electronic database of data contained in quarterly 
+financial reports of public corporations and design and 
+implement a database management system for this purpose; 
+(e) prepare annual consolidated financial reports of all public 
+corporations, and various categories thereof, in line with good 
+international practice; and 
+(f) perform any other function assigned to it by the Finance 
+Department. 
+(2) The Corporate Finance Unit may obtain such information from a public 
+corporation on such format and in such manner as the Unit may think fit for effective 
+performance of its functions under this Act.  
+ 
+CHAPTER IX 
+MISCELLANEOUS 
+45. Implementation.− (1) Within six months of commencement of this Act , the 
+Finance Department shall prepare a plan for implementation of this Act.  
+(2) The plan shall ensure that the provisions of this Act are fully 
+implemented within three financial years following the year in which  this Act comes 
+into effect. 
+(3) The Finance Department shall take all the steps including issuance of 
+guidelines to other departments, necessary to execute the provisions of this Act. 
+ 
+46. Indemnity.− No suit, prosecution or other legal proceedings shall lie against 
+the Government or any of its offices or officers for any act or omission done in good 
+faith under this Act or the Rules framed under, or validated by, this Act.  
+ 
+47. Removal of difficulty .−  If  any difficulty arises in giving effect to any of the 
+provisions of this Act, the Government may make such order, not inconsistent with 
+the provisions of this Act, as it may consider necessary for removal of such difficulty.  
+ 
+48. Power to make rules.− (1) The Government may, by notification in the official 
+Gazette, make rules for carrying out the purposes of this Act 
+(2) The Treasury Single Account Rules shall be made within two year of 
+the commencement of this Act. 
+(3) All existing rules, regulation s, policies, processes and procedures 
+pertaining to Public Financial Management shall continue in force until altered, 
+amended or repealed. 
+(4) Without prejudice to the generality of subsection (3), the following rules 
+and the manual shall remain valid, an d shall be deemed to have been made under 
+this: 
+(a) the Punjab  Delegation of Financial Powers Rules, 2016; 
+ 
+ 
+(b) the Treasury Rules (Punjab) and Subsidiary Treasury Rules; 
+(c) the Punjab Financial Rules Vol. I and Vol II; 
+(d) Departmental Financial Rules (relating to the P ublic Works and 
+Forest Department); and 
+(e) the Punjab Budget Manual. 
+ 
+49. Power to make regulations .− Subject to this Act and the rules, the Finance 
+Department may, by notification in the official Gazette, make regulations for carrying 
+out the purposes of this Act.  
+ 
+50. Overriding effect .− In the event of any conflict or inconsistency between a 
+provision of this Act and a provision of any othe r law, the provision of this Act shall 
+prevail to the extent of such conflict or inconsistency.

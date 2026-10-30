@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-ee56479b9b642616",
+  "title": "MARTIAL LAW ORDER NO.1371 (REPEAL) ACT, 1989",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/XGkBMgcyBjI-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:39:51Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "1e8f092958fe44fee33d5c61bbae007417fd231bb0e76b08f93b7e44c26830ae",
+  "source_sha256": "1e8f092958fe44fee33d5c61bbae007417fd231bb0e76b08f93b7e44c26830ae",
+  "text_version_id": "law:punjab-code-ee56479b9b642616:sha256:1e8f092958fe44fee33d5c61bbae007417fd231bb0e76b08f93b7e44c26830ae",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE MARTIAL LAW ORDER No. 1371 (REPEAL) ACT, 1989  \r\n(VI of 1989) \r\nCONTENTS \r\n1. Short title and commencement. \r\n2. Repeal of M.L.O. No.1371. \r\n3. Repeal of Punjab Ordinance No.II of 1989. \r\nTEXT \r\n1\r\nTHE MARTIAL LAW ORDER No.1371 (REPEAL) ACT, 1989  \r\n(VI of 1989) \r\n[9th April, 1989] \r\nAn \r\nAct \r\nto repeal the Martial Law  Order No.1371, dated February 9, 1984 issued by MLA Zone \r\n‘A’ (Punjab) (Ban on Student Unions) \r\nPreamble.– Whereas it is expedient to repeal th e Martial Law Order No.1371, dated \r\nFebruary 9, 1984 issued by MLA Zone ‘A’ in the manner hereinafter appearing; \r\n It is hereby enacted as follows:– \r\n1. Short title and commencement .– (1) This Act may be called the Martial Law \r\nOrder No.1371 (Repeal) Act, 1989. \r\n (2) It shall come into force at once. \r\n2. Repeal of MLO No.1371.– The Martial Law Order No.1371 dated February 9, \r\n1984 issued by MLA Zone ‘A’ (Punjab) is hereby repealed. \r\n3. Repeal of Punjab Ordinance No.II of 1989 .– The Martial Law Order No.1371 \r\n(Repeal) Ordinance, 1989 (Punjab Ordinance No.II of 1989) is hereby repealed. \r\n                                                                 \r\n1This Act w as passed by the Punjab Assembly on 29th March, 1989; assented to by the Governor of the Punjab on 6th April, 1989; \r\nand, w as published in the Punjab Gazette (Extraordinary), dated 9th April, 1989, pages 949-A to 949-B.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-ee56479b9b642616:sha256:1e8f092958fe44fee33d5c61bbae007417fd231bb0e76b08f93b7e44c26830ae:chars-0-1378:1e8f092958fe44fee33d5c61bbae007417fd231bb0e76b08f93b7e44c26830ae",
+      "character_start": 0,
+      "character_end": 1378,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1400,
+      "passage_sha256": "1e8f092958fe44fee33d5c61bbae007417fd231bb0e76b08f93b7e44c26830ae",
+      "reader_fragment": "p-0-1378-1e8f092958fe44fe"
+    }
+  ]
+}

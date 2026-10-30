@@ -1,0 +1,33 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-8671018023d18188",
+  "title": "PUNJAB SHOPS AND ESTABLISHMENTS (SECURITY) ACT 1999",
+  "source_collection": "Punjab",
+  "content_kind": "source_notice",
+  "content_extent": "Stored source is a repeal note, not full historical Act text.",
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/Bj8HMAE3UGM-",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Stored source is a repeal note, not full historical Act text.",
+  "text_sha256": "99a878597a3a4fd86dbd115735c67a47bb0988d2042dfbb42015f0bb23cffd75",
+  "source_sha256": "99a878597a3a4fd86dbd115735c67a47bb0988d2042dfbb42015f0bb23cffd75",
+  "text_version_id": "law:punjab-code-8671018023d18188:sha256:99a878597a3a4fd86dbd115735c67a47bb0988d2042dfbb42015f0bb23cffd75",
+  "quality_flags": [
+    "source_contains_repeal_note_only"
+  ],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB SHOPS AND ESTABLISHMENTS (SECURITY) \r\nACT 1999\r\n(II of 1999)\r\nCONTENTS\r\n1. Short title and commencement\r\n2. Security of Establishments\r\n3. Penalties\r\n4. Rules\r\n5. Repeal\r\nTEXT\r\n1THE PUNJAB SHOPS AND ESTABLISHMENTS (SECURITY) ACT 1999\r\n(II of 1999)\r\n[4th February, 1999]\r\n1This Act was passed by the Punjab Assembly on 28th January, 1999; assented to by the Governor of the Punjab on 1st  \r\nFebruary, 1999; and, was published in the Punjab Gazette (Extraordinary), dated 4th February, 1999, page 263, which is  \r\nrepealed by the Punjab Security of Vulnerable Establishments Ordinance 2015 (I of 2015), w.e.f. 8.1.2015, s.20; and published  \r\nin the Punjab Gazette (Extraordinary), pages 2077-2081.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-8671018023d18188:sha256:99a878597a3a4fd86dbd115735c67a47bb0988d2042dfbb42015f0bb23cffd75:chars-0-707:99a878597a3a4fd86dbd115735c67a47bb0988d2042dfbb42015f0bb23cffd75",
+      "character_start": 0,
+      "character_end": 707,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 707,
+      "passage_sha256": "99a878597a3a4fd86dbd115735c67a47bb0988d2042dfbb42015f0bb23cffd75",
+      "reader_fragment": "p-0-707-99a878597a3a4fd8"
+    }
+  ]
+}

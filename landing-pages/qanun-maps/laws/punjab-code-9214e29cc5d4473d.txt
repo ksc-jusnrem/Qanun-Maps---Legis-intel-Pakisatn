@@ -1,0 +1,510 @@
+THE PUNJAB AGRICULTURE, FOOD AND DRUG 
+AUTHORITY ACT 2016 
+(XXXII of 2016) 
+CONTENTS 
+1. Short title, extent and commencement 
+2. Definitions 
+3. The Authority 
+4. Disqualification of the members 
+5. Functions 
+6. Allocation of laboratories 
+7. Director General 
+8. Experts 
+9. Expert opinion 
+10. Clarification of opinion 
+11. Re-examination of samples 
+12. Fund 
+13. Bank account 
+14. Budget and accounts 
+15. Audit 
+16. Appointment of employees 
+17. Public servants 
+18. Delegation of powers 
+19. Conflict of interest 
+20. Offence 
+21. Appeal 
+22. Recovery of dues 
+23. Annual performance report 
+24. Monitoring and evaluation 
+25. Other laws 
+26. Rules 
+27. Regulations 
+28. Repeal 
+ 
+TEXT 
+1
+THE PUNJAB AGRICULTURE, FOOD AND DRUG AUTHORITY ACT 2016 
+(XXXII of 2016) 
+[24 May 2016] 
+An 
+Act 
+to establish the Punjab Agriculture, Food and Drug Authority for forensic examination 
+and testing of fertilizer, pesticide, food and drug. 
+ The Punjab Agriculture, Food and Drug Authority  is being established f or 
+forensic examination and testing of fertilizer, pesticide, food and drug; to render an 
+expert opinion in respect of the ingredients and quality of fertilizer, pesticide, food or 
+drug; and, to deal with other related matters.  
+Be it enacted by the Provincial Assembly of the Punjab as follows: 
+1. Short title, extent and commencement.– (1) This Act may be cited as the 
+Punjab Agriculture, Food and Drug Authority Act 2016. 
+(2) It extends to whole of the Punjab. 
+(3) It shall come into force at once. 
+2. Definitions.– (1) In this Act: 
+(a) “Authority” means the Punjab Agriculture, Food and Drug Authority  
+established under section 3 of the Act; 
+2[(aa) “alternative medicine” means any preparation, substance, or system of 
+therapy and healing including but not limited to home opathic, herbal, 
+ayurvedic, siddha, unani, naturopathic, or traditional medicine, health -
+enhancing product and phytomedicine which has been derived from 
+plant, animal or mineral ingredient alone or its combination, intended 
+for human use and claiming thera peutic effect but does not contain 
+chemically defined synthetic ingredient; 
+(ab) “animal feed ” means any ingredient, mixture, or product prepared or 
+intended to be fed to animals such as livestock or poultry, whether 
+domesticated or captive, including feed  ingredient, compound feed, 
+feed additive, premix, concentrate, or carrier with nutrient substance 
+and includes any substance used for promoting animal health, growth, 
+or productivity through ingestion by the animal; 
+(ac) “biological medicine ” includes med icinal product whose active 
+substance is biological in origin and is produced from living organism, 
+cell, or tissue, or produced by biotechnology method including but not 
+limited to vaccine, blood -derived product, gene therapy, cell therapy, 
+                                                
+1This Act was passed by the Provincial Assembly of the Punjab on 18 May 2016; assented to by the Governor of the Punjab on 
+23 May 2016; and, was published in the Punjab Gazette (Extraordinary), dated: 24 May 2016, pp. 5485-5492. 
+2Inserted by the Punjab Agriculture, Food and Drug Authority (Am endment) Act 2025 (III of 2026); and published in the Punjab 
+Gazette (Extraordinary), dated 06 January 2026, pp. 3719-3722, s.2(a). 
+recombinant protein, monoclonal antibody, and which requires special 
+consideration for manufacturing, testing , and release beyond those 
+applicable to chemically synthesised substance; 
+(ad) “biomedical device ” includes any instrument, apparatus, implement, 
+machine, implant, reagent, software, material or other similar or related 
+article, whether used alone or in combination, intended by its 
+manufacturer principally for human being or animal for one or more of 
+the following specific medical purposes:  
+(i) diagnosis, preven tion, monitoring, treatment or alleviation of a 
+disease; 
+(ii) investigation, replacement, modification or support of the anatomy 
+or of a physiological process;  
+(iii) supporting or sustaining life and which does not primarily achieve 
+its principal intended action by pharmacological, immunological or 
+metabolic means, though it may be assisted in its function by  
+such means  or any other item which the Government may, by 
+notification in the official Gazette, declare as biomedical device;] 
+(b) “Code” means the Code of Criminal Procedure, 1898 (V of 1898);  
+3[(ba) “cosmetics” includes any substance or mixture of substances, 
+manufactured, sold or represented to be rubbed, poured, sprinkled, or 
+sprayed on, introduced into, or otherwise applied to, the human body or 
+any part thereof for cleansing, beautifying, promoting attractiveness, or 
+altering the appearance, and includes any article intended for use as a 
+component of a cosmetic but does not include a soap;] 
+(c) “concerned authority” includes an officer of the Gov ernment or a police 
+officer holding an inquiry or investigation; 
+(d) “Director General” means Director General of the Authority; 
+(e) “drug” means the drug as defined in the Drugs Act, 1976 (XXXI of 
+1976) and includes any material purported to be a drug; 
+(f) “employee” includes an expert, officer or official of the Authority; 
+(g) “expert” includes a foreign expert working in a forensic science facility 
+and whose evidence is admissible in the country of his origin; 
+(h) “fertilizer” means the fertilizer as def ined in the Punjab Fertilizers 
+(Control) Order, 1973 (VII of 1973) and includes any material purported 
+to be fertilizer; 
+(i) “food” means the food as defined in the Punjab Food Authority Act 
+2011 (XVI of 2011) or the Punjab Pure Food Ordinance , 1960 (VII of 
+1960) and includes any material purported to be food; 
+(j) “Government” means Government of the Punjab; 
+(k) “member” means a member of the Authority and includes the 
+Chairperson and Vice Chairperson of the Authority; 
+(l) “offence” means an act or omission made punishable under any law; 
+                                                
+3Inserted by the Punjab Agriculture, Food and Drug Authority (Amendment) Act 2025 (III of 2026); and published in the Punjab 
+Gazette (Extraordinary), dated 06 January 2026, pp. 3719-3722, s.2(b). 
+ 
+4[(la) “orthopaedic implant” means any biomedical device that is intended to 
+be placed into, or fixed onto human bone or join t tissue for the 
+purpose of supporting, reinforcing or substituting bone, joints or 
+related connect ive tissue and includes plates, screw, intramedullary 
+nail, joint prostheses, fixation device, spinal implant , and other similar 
+article;] 
+ (m) “pesticide” means the pesticide as defined in the Agricultural Pesticides 
+Ordinance, 1971 (II of 1971) and includes any material purported to be 
+pesticide; 
+(n) “police officer” means a police officer appointed under the Police Order, 
+2002 (22 of 2002), or any other person exercising the powers of a 
+police officer under any other law; 5[***] 
+(o) “prescribed” means prescribed by the rules or regulations6[;] 
+7[(oa) “raw material” means any substance, material, or component, whether 
+natural, processed, or partly processed, used in manufacturing, 
+processing, formulation, or preparation of a product, whether food, 
+drug, me dical device, cosmetics, animal feed, fertilizer, or any other 
+regulated goods, and which may affect the quality, safety, or fitness for 
+use of the finished product; 
+(ob) “soil” means the upper layer of the earth‟s crust comprising mineral 
+particles, organic matter, water, air, and living organism which serves 
+as natural medium for growth of a plant, supports terrestrial ecosystem, 
+and acts as a reservoir for water and nutrient and includes agricultural, 
+horticultural, and forest soil whether in natural, cu ltivated, or modified 
+form; and 
+(oc) “water contamination ” means the presence in surface water or 
+groundwater including irrigation water, drinking water or industrial 
+discharge receiving water of chemical, biological or physical 
+substance, element or compo und at concentration above permissible 
+limit under provincial or national water quality standards or which may 
+pose a risk to human health, animal health, environment or agricultural 
+productivity.] 
+(2) A word or an expression used in th e Act and not defined s hall mean 
+the same as in the Code. 
+3. The Authority .– (1) The Government shall, by notification, establish an 
+Authority to be called `the Punjab Agriculture, Food and Drug Authority‟. 
+(2) The Authority shall be a body corporate, having perpetual succession  
+and a common seal, with power to enter into contracts, acquire or dispose of 
+property, and may, by the said name, sue or be sued. 
+                                                
+4Inserted by the Punjab Agriculture, Food and Drug Authority (Amendment) Act 2025 (III of 2026);  and published in the Punjab 
+Gazette (Extraordinary), dated 06 January 2026, pp. 3719-3722, s.2(c). 
+5Omitted for the word "and"  by the Punjab Agriculture, Food and Drug Authority (Amendment) Act 2025 (III of 2026); and 
+published in the Punjab Gazette (Extraordinary), dated 06 January 2026, pp. 3719-3722, s.2(d).  
+6Substituted by the Punjab A griculture, Food and Drug Authority (Amendment) Act 2025 (III of 2026);  and published in the 
+Punjab Gazette (Extraordinary), dated 06 January 2026, pp. 3719-3722, s.2(d). 
+7Added by the Punjab Agriculture, Food and Drug Authority (Amendment) Act 2025 (III o f 2026); and published in the Punjab 
+Gazette (Extraordinary), dated 06 January 2026, pp. 3719-3722, s.2(e). 
+8
+[(3) The Authority shall consist of the Chairperson who shall be the Chief 
+Minister or a Minister nominated by the Chief Minister and the following members: 
+(a) Vice Chairperson; 
+(b) Minister for Primary and Secondary Healthcare or Advisor to the Chief 
+Minister for Primary and Secondary Healthcare; 
+(c) Minister for Agriculture; 
+(d) Minister for Food; 
+9[(e) Secretary to the Government, Home Department;] 
+ (f) Chairman, Planning and Development Board of the Government; 
+(g) Secretary to the Government, Finance Department; 
+(h) Secretary to the Government, Primary and Secondary Healthcare 
+Department; 
+(i) Secretary to the Government, S pecialized Healthcare and Medical 
+Education Department; 
+(j) Secretary to the Government, Agriculture Department; 
+(k) Secretary to the Government, Food Department; 
+(l) Director General, Punjab Forensic Science Agency; 
+(m) not more than five scientists inclu ding at least one female scientist, if 
+available, in the relevant field from public or private sector; and 
+(n) Director General (Member/Secretary). 
+(4) If a member mentioned at clauses (e), (f), (g), (h), (i), (j) or (k) of 
+subsection (3) is unable to attend a meeting for reasons beyond his control, he may 
+depute an officer of his department not below the rank of an Additional Secretary to 
+attend the meeting.]  
+(5) The Government shall appoint the Vice Chairperson and members, 
+other than the ex-officio members, for each term of three years. 
+(6) The Vice Chair person or a member, other than an ex-officio member, 
+shall not be appointed as a member for more than two consecutive terms. 
+(7) No act or proceedings of the Authority shall be invalid merely by reason 
+of any vacancy or defect in the constitution of the Authority. 
+(8) Seven members shall constitute the quorum for a meeting of the 
+Authority, and the decision of the Authority shall be taken in terms of the majority of 
+the members present and voting. 
+(9) The Authority shall meet at least once in three months. 
+(10) A meeting of the Authority shall be held on such date and time as the 
+Chairperson may determine. 
+                                                
+8Substituted by the Punjab Agriculture, Food and Drug Authority (Amendment) Act 2016 (XLIII of 2016),  and published in the 
+Punjab Gazette (Extraordinary), dated: 29 October 2016, pp. 2443-2444, s.2. 
+9Substituted by the Punjab Agriculture, Food and Drug Authority (Amendment) Act 2025 (III of 2026); and published in the 
+Punjab Gazette (Extraordinary), dated 06 January 2026, pp. 3719-3722, s.3. 
+(11) The Chairperson shall approve the agenda of a meeting of the 
+Authority. 
+(12) The Chairperson and , in his absence, the Vice Chairperson shall 
+preside a meeting of the Authority and in the absence of both, the meeting shall be 
+presided by the member nominated for the pu rpose by the Chairperson and if  not so 
+nominated, by the member elected to preside the meeting by the members present. 
+(13) The Director General shall maintain or cause to be maintained the 
+record of each meeting of the Authority, including the minutes of the meetings, in the 
+prescribed manner.  
+4. Disqualification of the members.– No person shall be appointed or continue 
+as the member, who:  
+(a) is or, at any time, has been convicted of an offence involving moral 
+turpitude; 
+(b) is or, at any time, has been adjudicated as an insolvent; or 
+(c) is found to be a lunatic or of unsound mind; or   
+(d) is in a situation of irreconcilable conflicting interest with the Authority.  
+5. Functions.– (1) The Authority may perform such functions and exercise such 
+powers as are necessary for carrying out the purposes of this Act.  
+(2) Without prejudice to the generality o f the functions mentioned in 
+subsection (1), the Authority shall: 
+10[(a) make policies for carrying out forensic examination and testing of 
+fertilizer, pesticide, food, drug, cosmetics, biomedical device, 
+alternative m edicine, biological m edicine, orthopaedic implant, animal 
+feed, soil, water contamination and associated raw materials, and 
+establish and manage the testing facilities for the purpose; 
+(b) accredit, in the prescribed manner, the facilities for forensic 
+examination and testing of fertilizer, pesticide, food, drug, cosmetics, 
+biomedical device, alternative medicine, biological medicine, 
+orthopaedic implant, animal feed, soil, water c ontamination and 
+associated raw materials; 
+ (c) provide expert opinion with regard to the forensic examination and 
+testing of fertilizer, pesticide, food, drug, c osmetics, biomedical 
+device, alternative medicine, biological medicine, orthopaedic implant, 
+animal feed, soil, water contamination and associated raw materials; 
+(d) procure, operate and maintain scientific instruments for forensic 
+examination and testing of fertilizer, pesticide, food, drug, cosmetics, 
+biomedical device, alternative m edicine, biological medicine, 
+orthopaedic implant, animal feed, soil, water c ontamination and 
+associated raw materials; 
+(e) propose advancement in forensic techniques and suggest the use of 
+suitable sc ientific instruments for forensic examination and testing of 
+fertilizer, pesticide, food, drug, cosmetics, biomedical device, 
+alternative m edicine, biological m edicine, orthopaedic implant, animal 
+                                                
+10Substituted by the Punjab Agriculture, Food and Drug Authority (Amendment) Act 2025 (III of 2026); and published in the 
+Punjab Gazette (Extraordinary), dated 06 January 2026, pp. 3719-3722, s.4. 
+feed, soil, water contamination and associated raw materials; 
+(f) seek information or clarification from the persons responsible for the 
+collection or handling of fertilizer, pesticide, food, drug, c osmetics, 
+biomedical device, alternative medicine, biological medicine, 
+orthopaedic implant, animal feed, soil, water c ontamination and 
+associated raw materials in the prescribed manner; 
+(g) approve procedures for collection, preservation and handling of 
+samples for forensic examination and testing of fertilizer, pesticide, 
+food, drug, c osmetics, biomedical device, alternative medicine, 
+biological medicine, orthopaedic implant, animal feed, s oil, water 
+contamination and associated raw materials; 
+(h) with the approval of the Director General, collect samples for 
+forensic examination and testing of fertilizer, pesticide, food, drug, 
+cosmetics, biomedical device, alternative medicine, biological 
+medicine, orthopaedic implant, animal feed, soil, water, and associated 
+raw m aterials from any manufacturer, distributor, retailer, wholesaler, 
+importer, exporter or reseller as per annual sampling regime or as the 
+need may be, to address public health challenges; 
+(i) maintain r ecord of forensic examination and testing of fertilizer, 
+pesticide, food, drug, cosmetics, biomedical device, alternative 
+medicine, biological medicine, orthopaedic implant, animal feed, soil, 
+water contamination and associated raw materials including the record 
+pertaining to the identity of the person connected with, or accused of, 
+an offence in the prescribed manner; (j) promote general awareness 
+on matters relating to forensic examination and testing of fertilizer, 
+pesticide, food and drug;  
+(j) promote general awareness on m atters relating to forensic 
+examination and testing of fertilizer, pesticide, food, drug, cosmetics, 
+biomedical device, alternative medicine, biological medicine, 
+orthopaedic implant, animal feed, soil, water c ontamination and 
+associated raw materials; 
+(k) specify the timelines for retention of samples and results of forensic 
+examination and testing of fertilizer, pesticide, food, drug, cosmetics, 
+biomedical device, alternative medicine, biological medicine, 
+orthopaedic implant, animal feed, soil, water c ontamination and 
+associated raw materials;] 
+(l) ensure complete ind ependence and impartiality of all the laboratories 
+administered or accredited by it; 
+(m) maintain its operational autonomy and neutrality and shall guard 
+against any extraneous or external interference or influence in the 
+discharge of its functions under the Act; 
+(n) undertake research and development in the relevant and allied fields; 
+(o) be responsible for obtaining and maintaining international accreditation 
+for its laboratories; and 
+(p) perform any other functions ancillary to the above functions or suc h 
+functions as the Government may, by notification, assign. 
+(3) The Authority shall be deemed as: 
+(a) a drug testing laboratory under the Drugs Act, 1976 (XXXI of 1976); 
+(b) a food laboratory for purposes of the Punjab Food Authority Act 2011 
+(XVI of 2011) or the Punjab Pure Food Ordinance, 1960 (VII of 1960); 
+(c) a fertilizer testing laboratory under the Punjab Fertilizers (Control) 
+Order, 1973 (VII of 1973); and 
+(d) a pesticides laboratory under the Agricultural Pesticides Ordinance, 
+1971 (II of 1971). 
+6. Allocation of laboratories.– The Government may, by notification, allocate a 
+laboratory or any testing or other facility of the Government connected with the 
+forensic examination and testing of fertilizer, pesticide, food or drug to the Authority 
+on such terms and conditions as the Government and the Authority may determine. 
+7. Director General .– (1) Subject to subsection (2), the Government shall 
+appoint the Director General from amongst a panel of qualified experts possessing 
+such qualifications and expe rience and selected in the prescribed manner and until 
+so prescribed, as the Government may determine. 
+(2) The Director General shall be an expert in one or more disciplines of 
+forensic science relevant to fertilizer, pesticide, food  or drug in accordance with the 
+prescribed standards. 
+(3) The Director General shall hold office for a renewable term of three 
+years. 
+(4) The Government shall determine the terms and conditions of service of 
+the Director General and they shall not be varied during his term of office. 
+(5) The Government may, after notice and inquiry in the prescribed 
+manner, remove the Director General during the tenure of his office on the ground of 
+inefficiency, corruption or inability to perform functions owing to medical or other 
+reasons. 
+(6) The Director General shall be the chief executive officer of the 
+Authority and, subject to the general supervision and direction of the Authority, shall 
+exercise such administrative and financial powers of the Authority as the Authority 
+may delegate to him or as may be prescribed. 
+8. Experts.– (1) The Authority, for the discharge of its functions under this Act, 
+may appoint experts in such manner and on such terms and conditions, including the 
+market-based salary, as it may, through regulations, determine.  
+(2) The Authority shall not appoint a person as expert unless he is 
+qualified to conduct forensic examination or testing of fertilizer, pesticide, food  or 
+drug. 
+(3) A person appointed by the Authority as an expert shall be deemed as:  
+(a) an expert appointed under section 510 of the Code; 
+(b) a person specially skilled in forensic examination or testing of fertilizer, 
+pesticide, food  or drug under Article 59 of the Qanun -e-Shahadat 
+Order, 1984 (X of 1984); 
+(c) a Government analyst under the Drugs Act, 1976  (XXXI of 1976) and 
+the Agricultural Pesticides Ordinance, 1971 (II of 1971); 
+(d) a public analyst under  the Punjab Food Authority Act 2011 (XVI of 
+2011) and the Punjab Pure Food Ordinance, 1960 (VII of 1960); and 
+(e) an Agricultural Chemist under the Punj ab Fertilizers (Control) Order, 
+1973 (VII of 1973). 
+(2) The Authority shall not entrust forensic examination or testing of 
+fertilizer, pesticide, food or drug to a person who has been convicted of an offence of 
+giving false evidence.  
+9. Expert opinion.– (1) A court, tribunal or concerned authority may send to the 
+Authority, a sample of fertilizer, pesticide, food  or drug connected with investigation 
+or proceedings before it for examination and expert opinion. 
+(2) The Authority shall authenticate and send the e xpert opinion to the 
+court, tribunal or concerned authority in the prescribed manner.  
+(3) The expert opinion shall carry the name and designation of the expert 
+who conducted the examination or test of fertilizer, pesticide, food or drug. 
+10. Clarification of opinion .– (1) If an expert opinion is not clear, the court, 
+tribunal or concerned authority may refer it to the Authority for clarification on a 
+specific question. 
+(2) The Authority shall, on receipt of the reference, send the clarification on 
+the question to the concerned court, tribunal or authority.  
+(3) If the condition of the sample of fertilizer, pesticide, food or drug or any 
+other fact does not allow submission of a clear answer to the question, the Authority 
+shall state its inability to answer the question. 
+11. Re-examination of samples .– (1) A person aggrieved by the opinion of the 
+expert, may for sufficient cause, submit for re -examination an application before the 
+court, tribunal or concerned authority before which the opinion is rendered or the 
+court or tribunal before which the opinion is submitted by the concerned authority. 
+(2) If the court, tribunal or concerned authority is satisfied that there are 
+sufficient grounds for reconsideration of the opinion, it may, for reasons to be 
+recorded in writing, direct the Authority to re -examine the sample of fertilizer, 
+pesticide, food or drug. 
+(3) The Director General shall, on receipt of the direction, constitute a 
+panel of three or more experts to re -examine the sample of fertilizer, pesticide, food 
+or drug or refer the same to any other forensic examination facility for examination 
+and opinion. 
+(4) The Director General shall submit the finding of the team of experts or 
+the forensic facility to the court, tribunal or the concerned authority. 
+12. Fund.– (1) There shall be established a F und to be known as the Punjab 
+Agriculture, Food and Drug Authority  Fund to be administered and controlled by the 
+Authority.  
+(2) The Fund shall consist of: 
+(a) funds provided by the Government or the Federal Government;  
+(b) loans or grants by the Government or the Federal Government;  
+(c) grants and loans negotiated and raised, or otherwise obtained, by the 
+Authority with the prior approval of the Government;  
+(d) fee, charges, rentals, fines and other moneys collecte d by the 
+Authority;  
+(e) income from the lease or sale of the property;  
+(f) funds from floating bonds, shares, debentures, certificates, or other 
+securities issued by the Authority; and  
+(g) all other sums received by the Authority. 
+(3) The Authority shal l meet all its expenses from the Fund and shall 
+exercise prudence in its expenditures from the Fund. 
+13. Bank account.– The Authority may open and maintain its accounts at such 
+scheduled banks as may be prescribed, and until so prescribed, as the Authority  
+may determine. 
+14. Budget and accounts.– (1) The Director General shall prepare the budget of 
+the Authority for each financial year commencing on first day of July of an year and 
+ending on thirtieth day of June of the succeeding year. 
+(2) The Director Gen eral shall place the budget for approval before the 
+Authority at least forty five days prior to the commencement of a financial year. 
+(3) The accounts of the Authority shall be maintained in such manner as 
+may be prescribed. 
+15. Audit.– (1) The Auditor Gen eral of Pakistan shall conduct audit of the 
+accounts of the Authority. 
+(2) The Authority shall appoint a firm of chartered accountants, which is 
+placed in category „A‟ by State Bank of Pakistan, for the annual audit of the accounts 
+of the Authority. 
+(3) The auditors appointed under subsection (2) shall submit the report to 
+the Authority and the Authority may take such action and make such decisions as 
+may be necessary in the light of the audit report. 
+16. Appointment of employees .– (1) Subject to the prior approval of the 
+Authority, the Director General may appoint such employees as may be necessary 
+for the efficient performance of functions of the Authority on such terms and 
+conditions and on such market based remuneration as the Authority may, through 
+regulations, prescribe. 
+(2) The Authority shall not transfer or lend any of its employees to any 
+other organization or the Government and shall not accept by transfer or on 
+deputation any officer or official of any such organization or the Government. 
+(3) A Go vernment agency including police and anti -corruption 
+establishment shall not initiate any enquiry or investigation against the official 
+conduct of any of the employees without prior approval or complaint of the Authority. 
+17. Public servants.– All persons acting or purporting to act in pursuance of any 
+provision of this Act, shall be deemed to be public servants within the meaning of 
+section 21 of the Pakistan Penal Code, 1860 (XLV of 1860). 
+18. Delegation of powers.– The Authority may delegate to the Direc tor General, 
+a committee of the Authority, a member or any employee of the Authority any of its 
+functions except the following functions: 
+(a) adaptation or amendment or repeal of regulations; 
+(b) approval of annual budget of the Authority; 
+(c) consideration and decision on the audit reports; 
+(d) approval of the standards and procedures for operation of the 
+Authority; and 
+(e) fill a vacancy in a committee of the Authority. 
+19. Conflict of interest .– (1) A member shall not, directly or indirectly, receive 
+any profit from his position as the member except the reasonable expenses incurred 
+by the member in the performance of duties under this Act.  
+(2) The pecuniary interests of the immediate family members or close 
+personal or business associates of a member sha ll also be considered to be the 
+pecuniary interest of the member. 
+(3) A member shall be in conflict of interest if the member: 
+(a) is an employee, or a paid consultant of a business entity that has, or of 
+a trade association of business entities that have,  a substantial interest 
+in any of the functions of the Authority; 
+(b) owns, controls, or has, directly or indirectly, more than ten per cent 
+equity in a business entity that has a substantial interest in any of the 
+functions of the Authority; 
+(c) receives more than twenty-five per cent of his individual income from a 
+business entity that has a substantial interest in any of the functions of 
+the Authority; and 
+(d) benefits either directly or indirectly, financially or otherwise, from being 
+the member. 
+(4) A member shall disclose a potential, real or perceived conflict of 
+interest as soon as he becomes aware of the potential conflict before the Authority or 
+any of its committees seized of the matter. 
+(5) If a member is not certain about the situation of the co nflict of interest, 
+the member shall place the matter before the Authority for advice and the decision of 
+the Authority on conflict of interest shall be final.  
+(6) A member shall not take part in the proceedings of the Authority in 
+which any question of conflict of interest of the member is on the agenda.  
+(7) The disclosure of conflict of interest and the decision of the Authority 
+shall be recorded in the minutes of the meeting. 
+20. Offence.– (1) If an employee knowingly or negligently renders false, inco rrect 
+or misleading opinion before a court, tribunal or the concerned authority, he shall be 
+punished with imprisonment which may extend to three years but which shall not be 
+less than one month and with fine which may extend to five hundred thousand 
+rupees but which shall not be less than twenty five thousand rupees. 
+(2) An offence under this section shall be triable by a Court of Sessions. 
+(3) The Court shall not take cognizance of an offence under this Act 
+except on a complaint in writing of the Director General in the prescribed manner.  
+21. Appeal.– A person aggrieved by an order or sentence passed by a Court of 
+Sessions under section 20 of this Act may, within thirty days, prefer an appeal to 
+Lahore High Court. 
+22. Recovery of dues.– (1) The Authority shall recover the fine, fee or any other 
+amount, imposed or levied under this Act, the rules or the regulations, as an arrear  
+of land revenue and, for the purpose, authorize an employee to exercise the powers 
+of Collector under the Punjab Land Revenue Act, 1967 (XVII of 1967).  
+(2) The fee charged under th e Act, the rules or the regulations shall be 
+deposited in the Fund of the Authority. 
+23. Annual performance report.– (1) The Authority shall prepare and forward to 
+the Government by 3 0th September each ye ar, the annual performance report 
+relating to performance of its functions with respect to forensic examination or testing 
+of samples of fertilizer, pesticide, food and drug during the preceding financial year. 
+(2) The Government shall, as soon as possible , submit the report before 
+the Provincial Assembly of the Punjab. 
+24.  Monitoring and evaluation .– (1) The Government shall, at least once in a 
+year, conduct or cause to be conducted, the performance audit of the Authority to 
+assess and evaluate the perfor mance of the Authority in accomplishing the 
+objectives of this Act.  
+(2) The Government shall evaluate the reports mentioned in subsection (1) 
+of section 23 and subsection (1) of this section and shall issue such directions to the 
+Authority as may be neces sary for accomplishing the objectives under th e Act and 
+the Authority shall implement the directions. 
+25. Other laws.– The provisions of this Act shall be read in conjunction with and 
+not in derogation from any other law for the time being in force but in case of any 
+inconsistency or conflict, the provisions of th e Act shall prevail to the extent of the 
+inconsistency or conflict. 
+26. Rules.– The Government may, by notification, make rules for carrying out the 
+purposes of this Act. 
+27. Regulations.– Subject to this Act and the rules, the Authority may frame 
+regulations to give effect to the provisions of the Act. 
+28. Repeal.– The Punjab Agriculture, Food and Drug Authority  Ordinance, 2016 
+(XI of 2016) is hereby repealed.

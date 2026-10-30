@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-fee5b42f04e034a1",
+  "title": "Cutchi Memons Act, 1938",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-b5%2Bb-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "bb2abc22d6042e2a36640380816c70f8f0f5c639553bc75af888e1c099a0eede",
+  "source_sha256": "bb2abc22d6042e2a36640380816c70f8f0f5c639553bc75af888e1c099a0eede",
+  "text_version_id": "law:pk-code-fee5b42f04e034a1:sha256:bb2abc22d6042e2a36640380816c70f8f0f5c639553bc75af888e1c099a0eede",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n  \r\n \r\n \r\n \r\n THE CUTCHI MEMONS ACT, 1938  \r\n \r\n \r\n              \r\n \r\n \r\n \r\n \r\n                                                         CONTENTS \r\n1.  Short title and commencement \r\n2.  Cutchi Memons to be governed in certain matters by Muslim Law \r\n3.  Savings \r\n4.  [Repeal] \r\n \r\n \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE CUTCHI MEMONS ACT, 1938 \r\n \r\n \r\nACT NO. X OF 1938 \r\n[8th April, 1938] \r\n \r\nAn Act to provide that all Cutchi Memons shall be governed in matters of succession and \r\ninheritance by the 1[Muslim] Law. \r\n \r\nWHEREAS it is expedient that all Cutchi Memons be gover ned in matters o f succession and \r\ninheritance by the 1[Muslim] Law;  \r\n \r\nIt is hereby enacted as follows:— \r\n \r\n1. Short title and commencement .—(1) This Act may be called the Cutchi Memons Act, \r\n1938. \r\n \r\n(2) It shall come into force on the 1st day of November, 1938. \r\n \r\n2. Cutchi Memons to be governed in certain matters by 1[Muslim] Law.—Subject to the \r\nprovisions of section 3, all Cutchi Mem ons shall, in matters of succession and inheritance, be \r\ngoverned by the 1[Muslim] Law. \r\n \r\n3. Saving.—Nothing in this Act shall affect any right or l iability acquired or incurred before \r\nits commencement, or any legal proceeding or remedy in respect of any such right or liability; and \r\nany such legal proceeding or remedy may be continued or enfor ced as if this Act had not been \r\npassed. \r\n \r\n4. 2[Repeal.]  \r\n \r\n___________ \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nDate: 01-08-2024 \r\n \r\n1Subs. by Federal Adaptation of Laws Order, 1975, (P. O. 4 of 1975) Art 2 and Table. \r\n2Rep. by the Repealing and Amending Act, 1942 (XXV of 1942), s.2 and First Schedule.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-fee5b42f04e034a1:sha256:bb2abc22d6042e2a36640380816c70f8f0f5c639553bc75af888e1c099a0eede:chars-0-1674:bb2abc22d6042e2a36640380816c70f8f0f5c639553bc75af888e1c099a0eede",
+      "character_start": 0,
+      "character_end": 1674,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1682,
+      "passage_sha256": "bb2abc22d6042e2a36640380816c70f8f0f5c639553bc75af888e1c099a0eede",
+      "reader_fragment": "p-0-1674-bb2abc22d6042e2a"
+    }
+  ]
+}

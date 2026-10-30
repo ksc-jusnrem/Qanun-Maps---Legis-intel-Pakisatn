@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-8d4e490f6f67232f",
+  "title": "PUNJAB BUS STANDS AND TRAFFIC CONTROL (LAHORE) ORDINANCE, 1963 (XIX OF 1963) (REPEAL) ACT 2011",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/ADVXYgA.UGc-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:52:06Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "fd7d1d846acffd82adccf708c704a2c8610de55afa09c20ce593c39ef0521143",
+  "source_sha256": "fd7d1d846acffd82adccf708c704a2c8610de55afa09c20ce593c39ef0521143",
+  "text_version_id": "law:punjab-code-8d4e490f6f67232f:sha256:fd7d1d846acffd82adccf708c704a2c8610de55afa09c20ce593c39ef0521143",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB BUS STANDS AND TRAFFIC CONTROL \r\n(LAHORE) ORDINANCE 1963 (XIX OF 1963) (REPEAL) ACT \r\n2011 \r\n(II of 2012) \r\nCONTENTS \r\n1. Short title and commencement. \r\n2. Repeal of Ordinance XIX of 1963. \r\nTEXT \r\n1\r\nTHE PUNJAB BUS STANDS AND TRAFFIC CONTROL (LAHORE) \r\nORDINANCE, 1963 (XIX of 1963) (REPEAL) ACT 2011 \r\n(II of 2012) \r\n[3rd January, 2012] \r\nAn \r\nAct \r\nto repeal the Punjab Bus Stands and Traffic Control (Lahore) Ordinance, 1963 (XIX \r\nof 1963). \r\nPreamble.– Whereas it is expedient to  repeal the Punjab Bus Stands and Traffic \r\nControl (Lahore) Ordinance, 1963 (XIX of 1963); \r\nIt is enacted as follows.– \r\n1. Short title and commencement.– (1) This Act may be called the Punjab Bus \r\nStands and Traffic Control (Lahore) Ordinance, 1963 (XIX of 196 3) (Repeal) Act \r\n2011. \r\n(2) It shall come into force at once. \r\n2. Repeal of Ordinance XIX of 1963 .– The Punjab Bus Stands and Traffic \r\nControl (Lahore) Ordinance, 1963 (XIX of 1963) is hereby repealed. \r\n                                                           \r\n1This Act was passed by the Punjab Assembly on 21 st  December 2011; assented to by the Governor of the Punjab on 31 st  \r\nDecember 2011; and published in the Punjab Gazette (Extraordinary), dated 3 January 2012, page 39117.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-8d4e490f6f67232f:sha256:fd7d1d846acffd82adccf708c704a2c8610de55afa09c20ce593c39ef0521143:chars-0-1257:fd7d1d846acffd82adccf708c704a2c8610de55afa09c20ce593c39ef0521143",
+      "character_start": 0,
+      "character_end": 1257,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1265,
+      "passage_sha256": "fd7d1d846acffd82adccf708c704a2c8610de55afa09c20ce593c39ef0521143",
+      "reader_fragment": "p-0-1257-fd7d1d846acffd82"
+    }
+  ]
+}

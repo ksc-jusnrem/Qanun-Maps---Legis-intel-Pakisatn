@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-0f379ce18952a1f0",
+  "title": "MEDICAL COLLEGES (GOVERNING BODIES) (PUNJAB REPEAL) ORDINANCE, 1970",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/UWRXYlNsAjA-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:39:59Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "23906dfaaf7df11c4147f0956556b324e8b9ff5b790d96dccd455d0a2466e6bb",
+  "source_sha256": "23906dfaaf7df11c4147f0956556b324e8b9ff5b790d96dccd455d0a2466e6bb",
+  "text_version_id": "law:punjab-code-0f379ce18952a1f0:sha256:23906dfaaf7df11c4147f0956556b324e8b9ff5b790d96dccd455d0a2466e6bb",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE MEDICAL COLLEGES (GOVERNING BODIES) \r\n(PUNJAB REPEAL) ORDINANCE, 1970 \r\n(VII of 1970) \r\nCONTENTS \r\n1. Short title, extent and commencement. \r\n2. Repeal of Ordinance XIII of 1961. \r\nTEXT \r\n1\r\nTHE MEDICAL COLLEGES (GOVERNING BODIES) (PUNJAB REPEAL) \r\nORDINANCE, 1970 \r\n(VII of 1970) \r\n[21st November, 1970] \r\nAn \r\nOrdinance \r\nto repeal the Medical Colleges (Governing Bodies) Ordinance, 1961, in its \r\napplication to the Province of the Punjab. \r\nPreamble.– WHEREAS it is expedient to r epeal the Medical Colleges (Governing \r\nBodies) Ordinance, 1961, in its application to the Province of the Punjab; \r\n NOW, THEREFORE, in pursuance of the Martial Law Proclamation of 25th  \r\nMarch, 1969, read with the Provisional Constitution Order, and in exercis e of all \r\npowers enabling him in that behalf, the Governor of the Punjab is pleased to make \r\nand promulgate the following Ordinance, namely:– \r\n1. Short title, extent and commencement .– (1) This Ordinance may be called \r\nthe Medical Colleges (Governing Bodies) (Punjab Repeal) Ordinance, 1970. \r\n (2) It extends to the whole of the Punjab. \r\n (3) It shall come into force at once. \r\n2. Repeal of Ordinance XIII of 1961 .– The Medical Colleges (Governing \r\nBodies) Ordinance, 1961, in its application to the Province of the Punj ab, is hereby \r\nrepealed. \r\n                                                           \r\n1This Ordinance was promulgated by the Governor of the Punjab on 20th November, 1970; published in the Punjab Gazette \r\n(Extraordinary), dated 21 st November, 1970, pages 513 -514; saved by Article 281 of the Interim Constitution of the  Islamic \r\nRepublic of Pakistan (1972); and, validated by the Validation of Laws Act, 1975 (LXIII of 1975).",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-0f379ce18952a1f0:sha256:23906dfaaf7df11c4147f0956556b324e8b9ff5b790d96dccd455d0a2466e6bb:chars-0-1717:23906dfaaf7df11c4147f0956556b324e8b9ff5b790d96dccd455d0a2466e6bb",
+      "character_start": 0,
+      "character_end": 1717,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1725,
+      "passage_sha256": "23906dfaaf7df11c4147f0956556b324e8b9ff5b790d96dccd455d0a2466e6bb",
+      "reader_fragment": "p-0-1717-23906dfaaf7df11c"
+    }
+  ]
+}

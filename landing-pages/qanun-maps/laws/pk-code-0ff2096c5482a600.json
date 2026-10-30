@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-0ff2096c5482a600",
+  "title": "Islamabad Capital Territory Shops, Business and Industrial Establishments (Security) Ordinance, 2000",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaaYw%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "b0d631c2ea43d2b301f5a2d12178b89a8d9e7c457439d7357eee2ef66fbc61b9",
+  "source_sha256": "b0d631c2ea43d2b301f5a2d12178b89a8d9e7c457439d7357eee2ef66fbc61b9",
+  "text_version_id": "law:pk-code-0ff2096c5482a600:sha256:b0d631c2ea43d2b301f5a2d12178b89a8d9e7c457439d7357eee2ef66fbc61b9",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 3 \r\n \r\n   \r\n \r\n \r\nTHE ISLAMABAD CAPITAL TERRITORY SHOPS, BUSINESS \r\nAND INDUSTRIAL ESTABLISHMENTS (SECURITY) \r\nORDINANCE, 2000 \r\n \r\n           \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title, extent and commencement \r\n2.  Definitions \r\n3.  Security of Establishment \r\n4.  Penalties \r\n5.  Power to make rules \r\n \r\n \r\n \r\n  \r\n \r\n \r\n\r\n \r\nPage 2 of 3 \r\n \r\nTHE ISLAMABAD CAPITAL TERRITORY SHOPS, BUSINESS AND \r\nINDUSTRIAL ESTABLISHMENTS (SECURITY)  \r\nORDINANCE, 2000 \r\nORDINANCE No. XXX of 2000 \r\n           [27th July, 2000] \r\nAn Ordinance to provide for the security of shops, business and industrial establishments in the \r\nIslamabad Capital Territory \r\n WHEREAS, it is expedient to provide for security of shops, business and industrial \r\nestablishments in the Islamabad Capital Territory and for matters ancillary thereto; \r\n AND WHEREAS the National Assembly and the Senate stand suspended in pursuance of the \r\nProclamation of Emergency of the fourteenth day of October, 1999, and the Provisional Constitution \r\nOrder No. 1 of 1999; \r\n AND WHEREAS the President is satisfied that circumstances exist which render it necessary \r\nto take immediate action; \r\n NOW, THEREFORE, in pursuance of the Proclamation of Emergency of the fourteenth day of \r\nOctober, 1999, and Provisional Constitution Order No. 1 of 1999, as well as Order No. 9 of 1999, and \r\nin exercise of all powers enabling him in that behalf, the President of the Islamic Republic of Pakistan \r\nis pleased to make and promulgate the following Ordinance:— \r\n 1. Short title, extent and commencement:___ (1) This Ordinance may be called the Islamabad \r\nCapital Territory Shops, Business and Industrial Establishments (Security) Ordinance, 2000.  \r\n (2) It extends to the whole of Islamabad Capital Territory. \r\n (3) It shall come into force at once. \r\n 2. Definitions:___ In this Ordinance,—  \r\n(a)     “establishment” includes— \r\n (i)      any bank, money changer or financial institution; and \r\n (ii)      any office, firm, company, institution, industrial unit, undertaking, \r\n shop or premises used for undertaking any business, trade, \r\n manufacture, calling, service, employment or occupation; and \r\n  (b)     “Government” means the Federal Government. \r\n 3. Security of Establishment :___ The Government may by order, published in the official \r\nGazette, provide for the regulation and enforcement of measures for the security of the property and \r\npersons connected with any establishment. \r\n \r\n \r\nPage 3 of 3 \r\n \r\n 4. Penalties:___ If any pe rson contravenes any order made under this Ordinance he shall be \r\npunished with imprisonment for a term which may extend to one month or with fine which may extend \r\nto fifteen thousand rupees, or with both. \r\n \r\n 5. Power to make rules:___ The Government may, by notification in the official Gazette, make \r\nrules for carrying out the purposes of this Ordinance. \r\n \r\n_____________",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-0ff2096c5482a600:sha256:b0d631c2ea43d2b301f5a2d12178b89a8d9e7c457439d7357eee2ef66fbc61b9:chars-0-1771:ccf034af07015a83b2a0c09743cbd4a71d601702a41d8907e20ea8ddd7c4ccde",
+      "character_start": 0,
+      "character_end": 1771,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1773,
+      "passage_sha256": "ccf034af07015a83b2a0c09743cbd4a71d601702a41d8907e20ea8ddd7c4ccde",
+      "reader_fragment": "p-0-1771-ccf034af07015a83"
+    },
+    {
+      "passage_id": "law:pk-code-0ff2096c5482a600:sha256:b0d631c2ea43d2b301f5a2d12178b89a8d9e7c457439d7357eee2ef66fbc61b9:chars-1771-2894:1f1209a37bc5cb744c06eb1d1682493723814a7323d609dc00f5d10f003f763c",
+      "character_start": 1771,
+      "character_end": 2894,
+      "utf8_byte_start": 1773,
+      "utf8_byte_end": 2908,
+      "passage_sha256": "1f1209a37bc5cb744c06eb1d1682493723814a7323d609dc00f5d10f003f763c",
+      "reader_fragment": "p-1771-2894-1f1209a37bc5cb74"
+    }
+  ]
+}

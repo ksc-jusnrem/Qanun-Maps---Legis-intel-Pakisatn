@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-b11ac6ac721c24ab",
+  "title": "Tribal Areas (Restoration of Judisdiction) Act, 1964",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-cJqW-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "53b01535cf95ac925328fba9a6a62d5aeb5a9a84fd27e93078eb0e96185167a4",
+  "source_sha256": "53b01535cf95ac925328fba9a6a62d5aeb5a9a84fd27e93078eb0e96185167a4",
+  "text_version_id": "law:pk-code-b11ac6ac721c24ab:sha256:53b01535cf95ac925328fba9a6a62d5aeb5a9a84fd27e93078eb0e96185167a4",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n  \r\n \r\n \r\nTHE TRIBAL AREAS (RESTORATION OF JURISDICTION) ACT, \r\n1964 \r\n \r\n              \r\n \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title and commencement \r\n2.  Restoration of jurisdiction of the Supreme Court and the High Court \r\n3.  Extension of limitation \r\n \r\n \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE TRIBAL AREAS (RESTORATION OF JURISDICTION) ACT, 1964 \r\nACT No. II OF 1964 \r\n                                                                  [7th April, 1964] \r\n \r\nAn Act to restore the jurisdiction of the Supreme Court and the High Court in relation to the Tribal \r\nAreas of the Quetta Division \r\n \r\n WHEREAS clause (5) of Article 223 of the Constitution pro vides that neither the Supreme \r\nCourt nor a High Court shall, unless the Central Legislature by law otherwise provides, exer cise any \r\njurisdiction under the Constitution in relation to a Tribal Area; \r\n \r\n AND WHEREAS before the commencement of the aforesaid clause the Supreme Court and \r\nthe High Court of West Pakistan exercised certain jurisdiction in relation to the Tribal Areas of the \r\nQuetta Division; \r\n \r\n AND WHEREAS it is expedient to restore that  jurisdiction to the Supreme Court and the \r\nHigh Court; \r\n \r\n It is hereby enacted as follows:— \r\n \r\n 1. Short title and commencement .—(1) This Act may be called the Tribal Areas (Restora -\r\ntion of Jurisdiction) Act, 1964. \r\n \r\n (2) It shall come into force at once and s hall be deemed to have taken effect on the tenth day \r\nof January, 1964. \r\n \r\n 2. Restoration of jurisdiction of the Supreme Court and the High Court. — The Supreme  \r\nCourt and the 1[High Court of Baluchistan] shall exercise in relation to the Tribal Areas of the Quetta \r\nDivision the same jurisdiction as was exercisable by 2[Supreme Court  or, as the case may be, the \r\nHigh Court of  West Pakistan] in relation to those areas before the commencement of the \r\nConstitution (First Amendment) Act, 1963 (I of 1964). \r\n \r\n 3. Exte nsion of limitation. —Notwithstanding anything contained in any other law for the \r\ntime being in force, if a period of limitation had begun to run from before the commencement of the \r\nConstitution (First Amendment) Act), 1963(I of 1964), in respect of any matter concerning which the \r\njurisdiction of the Supreme Court and the 1[High Court of Baluchistan] is created or restored by this \r\nAct then in com puting such period of limitation the period between the tenth day of January, 1964, \r\nand the date of the coming into force of this Act shall be excluded:  \r\n  \r\n Provided that no period of such limitation shall expire on a day earlier than the thirtieth day \r\nfrom such date. \r\n \r\n_______________ \r\n \r\n \r\n \r\nDate: - 21.03.2024 \r\n \r\n1Subs. by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and Sch. \r\n2Subs. by F.A.O., 1975 (P.O. No. 4 of 1975), Art. 2 and Sch.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-b11ac6ac721c24ab:sha256:53b01535cf95ac925328fba9a6a62d5aeb5a9a84fd27e93078eb0e96185167a4:chars-0-1784:7405b9a2864837fd75e9a3a7696a71d5809f26e8f13562c05a1e55f0f176ef7c",
+      "character_start": 0,
+      "character_end": 1784,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1790,
+      "passage_sha256": "7405b9a2864837fd75e9a3a7696a71d5809f26e8f13562c05a1e55f0f176ef7c",
+      "reader_fragment": "p-0-1784-7405b9a2864837fd"
+    },
+    {
+      "passage_id": "law:pk-code-b11ac6ac721c24ab:sha256:53b01535cf95ac925328fba9a6a62d5aeb5a9a84fd27e93078eb0e96185167a4:chars-1784-2846:db2cbceb14d197f675b41344650e236dddc8172c1391258cb1ed3109cacc07db",
+      "character_start": 1784,
+      "character_end": 2846,
+      "utf8_byte_start": 1790,
+      "utf8_byte_end": 2854,
+      "passage_sha256": "db2cbceb14d197f675b41344650e236dddc8172c1391258cb1ed3109cacc07db",
+      "reader_fragment": "p-1784-2846-db2cbceb14d197f6"
+    }
+  ]
+}

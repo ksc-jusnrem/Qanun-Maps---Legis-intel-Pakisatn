@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-eb85c5625c628a72",
+  "title": "Legal Tender (Inscribed Notes) Ordinance, 1977",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Fuap4%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "c2d98a07b6b9dff389d716fd145c957a85591a7403afcae4e38bd04983aa2e6e",
+  "source_sha256": "c2d98a07b6b9dff389d716fd145c957a85591a7403afcae4e38bd04983aa2e6e",
+  "text_version_id": "law:pk-code-eb85c5625c628a72:sha256:c2d98a07b6b9dff389d716fd145c957a85591a7403afcae4e38bd04983aa2e6e",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\n \r\nTHE LEGAL TENDER (INSCRIBED NOTES) ORDINANCE, 1977 \r\n \r\n \r\n \r\n    CONTENTS \r\n \r\n1.   Short title, extent and commencement \r\n2.  Definition \r\n3.  Certain bank notes to cease to be legal tender \r\n  \r\n \r\n \r\n\r\nPage 2 of 2 \r\n \r\nTHE LEGAL TENDER (INSCRIBED NOTES) ORDINANCE, 1977 \r\nORDINANCE No. XXII OF 1977 \r\n[26th May, 1977] \r\nAn Ordinance to provide that certain bank notes shall cease to be legal tender \r\nWHEREAS it is expedient to provide that certain bank notes shall cease to be legal tender; \r\nAND WHEREAS the National Assembly is not in session and the President is satisfied that \r\ncircumstances exist which render it necessary to take immediate action; \r\nNOW, THEREFORE, in exercise of the powers conferred by clause (1) of Article 89 of t he \r\nConstitution of the Islamic Republic of Pakistan, the President is pleased to make and promulgate the \r\nfollowing Ordinance:— \r\n1. Short title, extent and commencement.—(l) This Ordinance may be called the . \r\n(2) It extends to the whole of Pakistan.  \r\n(3) It shall come into force at once. \r\n2. Definition. In this Ordinance, “bank notes” shall have the same meaning as in the State Bank \r\nof Pakistan Act, 1956 (XXXIII of 1956) 1[, and shall include a Government of Pakistan one rupee \r\nnote]. \r\n3. Certain bank notes to cease to be legal tender.—(1) Notwithstanding anything contained \r\nin the State Bank of Pakistan Act, 1956 ( XXXIII of 1956), or in any other law for the time being in \r\nforce, a bank note of any denomination w hich bears written, stamped, embossed or inscribed upon it \r\nany words or visible representation intended to convey or capable of conveying a message of a \r\npolitical, religious or commercial character shall, on and from such day as the Federal Government \r\nmay, by notification in the official Gazette specify, cease to be legal tender; and the State Bank of \r\nPakistan shall, as from the day so specified, not be under any obligation to receive, exchange or refund \r\nthe value of, any such note 2[:] \r\n2[Provided that nothing in this section shall apply to a Bank note which bears upon it under a \r\ndirection of the Federal Government, any words or visible representation intended to convey or capable \r\nof conveying a message of a religious character.] \r\n(2) Any person in possession  of any bank note referred to in sub -section (1) may, before the \r\nday specified in the notification under that sub -section, tender for exchange such note at any office, \r\nbranch or agency, if any, of the State Bank of Pakistan, and any such office, branch or agency shall \r\nexchange the notes. \r\n \r\n \r\n1 Added by the Legal Tender (Inscribed Notes) (Amdt.) Ordinance, 1980 (23 of 1980), s. 2. (w.e.f. 23-5-77).  \r\n2  Subs. and added by the Legal Tender (Inscribed Notes) (Amdt.) Ordinance, 1981 (44 of 1981). s. 2.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-eb85c5625c628a72:sha256:c2d98a07b6b9dff389d716fd145c957a85591a7403afcae4e38bd04983aa2e6e:chars-0-1774:079019b84489ffd39974a252756af7cac9ea7af2b9b241eb261fb75475c27231",
+      "character_start": 0,
+      "character_end": 1774,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1784,
+      "passage_sha256": "079019b84489ffd39974a252756af7cac9ea7af2b9b241eb261fb75475c27231",
+      "reader_fragment": "p-0-1774-079019b84489ffd3"
+    },
+    {
+      "passage_id": "law:pk-code-eb85c5625c628a72:sha256:c2d98a07b6b9dff389d716fd145c957a85591a7403afcae4e38bd04983aa2e6e:chars-1774-2819:6a5d46b48423421d34542a0215604a192696dde21f15359d30bd5d80d613a45c",
+      "character_start": 1774,
+      "character_end": 2819,
+      "utf8_byte_start": 1784,
+      "utf8_byte_end": 2829,
+      "passage_sha256": "6a5d46b48423421d34542a0215604a192696dde21f15359d30bd5d80d613a45c",
+      "reader_fragment": "p-1774-2819-6a5d46b48423421d"
+    }
+  ]
+}

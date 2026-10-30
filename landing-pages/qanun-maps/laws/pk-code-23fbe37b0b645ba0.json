@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-23fbe37b0b645ba0",
+  "title": "High Treason (Punishment) Act, 1973",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bpuUY2Zp-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "a62b8c8e64e0473ff7a5ef57e7e8958239793c61caf5261ab300aec4735299af",
+  "source_sha256": "a62b8c8e64e0473ff7a5ef57e7e8958239793c61caf5261ab300aec4735299af",
+  "text_version_id": "law:pk-code-23fbe37b0b645ba0:sha256:a62b8c8e64e0473ff7a5ef57e7e8958239793c61caf5261ab300aec4735299af",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\nTHE HIGH TREASON (PUNISHMENT) ACT, 1973 \r\n \r\n \r\n \r\nCONTENTS \r\n \r\n1. Short title, extent and commencement \r\n2. Punishment for high treason, etc. \r\n3. Procedure \r\n  \r\n \r\n \r\n\r\n \r\n \r\nPage 2 of 2 \r\n \r\nTHE HIGH TREASON (PUNISHMENT) ACT, 1973 \r\nACT NO. LXVIII OF 1973 \r\n[26th September, 1973] \r\nAn Act to provide for the punishment of persons found guilty of acts of abrogation or \r\nsubversion of a Constitution or of high treason \r\nWHEREAS  it is necessary to provide for the punishment of persons found guilty of acts of \r\nabrogation or subversion of a Constitution or of high treason; \r\nIt is hereby enacted as follows :— \r\n1. Short title, extent and commencement.—(1) This Act may be called the High Treason \r\n(Punishment) Act, 1973. \r\n(2) It extends to the whole of Pakistan.  \r\n(3) It shall come into force at once. \r\n2. Punishment for high treason, etc.—A person who is found guilty— \r\n(a) of having committed an act of abrogation or subversion of a Constitution in \r\nforce in Pakistan at any time since the twenty-third day of March, 1956, or \r\n(b) of high treason as defined in Article 6 of the Constitution, shall be punishable \r\nwith death or imprisonment for life. \r\n3. Procedure.—No court shall take cognizance of an offence punishable under this Act \r\nexcept upon a complaint in writing made by a person authorised by the Federal Government in this \r\nbehalf. \r\n \r\n____________ \r\n \r\n \r\n \r\n \r\n \r\n \r\n RGN Date: 06-05-2024",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-23fbe37b0b645ba0:sha256:a62b8c8e64e0473ff7a5ef57e7e8958239793c61caf5261ab300aec4735299af:chars-0-1451:a62b8c8e64e0473ff7a5ef57e7e8958239793c61caf5261ab300aec4735299af",
+      "character_start": 0,
+      "character_end": 1451,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1461,
+      "passage_sha256": "a62b8c8e64e0473ff7a5ef57e7e8958239793c61caf5261ab300aec4735299af",
+      "reader_fragment": "p-0-1451-a62b8c8e64e0473f"
+    }
+  ]
+}

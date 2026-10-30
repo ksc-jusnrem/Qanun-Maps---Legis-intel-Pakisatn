@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-0e8c7864b63df1df",
+  "title": "PUBLIC GAMBLING (REPEAL) ACT, 1985",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VWBWZQEzBTE-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:49:26Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "fc329263e23d9a010e9e27eaea669032f97a779c8ee529584c5d65374e23a2fc",
+  "source_sha256": "fc329263e23d9a010e9e27eaea669032f97a779c8ee529584c5d65374e23a2fc",
+  "text_version_id": "law:punjab-code-0e8c7864b63df1df:sha256:fc329263e23d9a010e9e27eaea669032f97a779c8ee529584c5d65374e23a2fc",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUBLIC GAMBLING (REPEAL) ACT, 1985  \r\n(II of 1985) \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Repeal of Act III of 1867 \r\nTEXT \r\n1\r\nTHE PUBLIC GAMBLING (REPEAL) ACT, 1985  \r\n(II of 1985) \r\n[7th November, 1985] \r\nAn \r\nAct \r\nto repeal the Public Gambling Act, 1867 (Act III of 1867). \r\nPreamble.– WHEREAS it is expedient to repeal the Public Gambling Act, 1867 (III of \r\n1867); \r\n It is hereby enacted as follows:– \r\n1. Short title and commencement .– (1) This Act shall be called t he Public \r\nGambling (Repeal) Act, 1985. \r\n (2) It shall come into force at once. \r\n2. Repeal of Act III of 1867 .– The Public Gambling Act, 1867 (III of 1867) is \r\nhereby repealed. \r\n \r\n \r\n                                                 \r\n1This Act w as passed by the Punjab Assembly on 24th October 1985; assented to by the Governor of the Punjab on 7th \r\nNovember, 1985; and, w as published in the Punjab Gazette (Extraordinary), dated 7th November, 1985, Pages 5228 -A to \r\n5228-B.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-0e8c7864b63df1df:sha256:fc329263e23d9a010e9e27eaea669032f97a779c8ee529584c5d65374e23a2fc:chars-0-978:fc329263e23d9a010e9e27eaea669032f97a779c8ee529584c5d65374e23a2fc",
+      "character_start": 0,
+      "character_end": 978,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 986,
+      "passage_sha256": "fc329263e23d9a010e9e27eaea669032f97a779c8ee529584c5d65374e23a2fc",
+      "reader_fragment": "p-0-978-fc329263e23d9a01"
+    }
+  ]
+}

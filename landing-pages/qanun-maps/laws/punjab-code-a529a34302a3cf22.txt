@@ -1,0 +1,542 @@
+THE PUNJAB DEFAMATION ACT 2024 
+(II OF 2024) 
+CONTENTS 
+1. Short title, extent and commencement 
+2. Definitions 
+3. Defamation actionable 
+4. Defences 
+5. Absolute Privilege 
+6. Qualified Privilege 
+7. Act to override other laws 
+8. Establishment of Tribunal 
+9. Resignation and removal of Member 
+10. Powers and jurisdiction of the Tribunal 
+11. Procedure of Tribunal 
+12. No comment on pending proceedings 
+13. Leave to defend 
+14. Claim by or Against Female or a Member of a Minority Community 
+15. Preliminary Decree 
+16. Execution of Decree 
+17. Onus to prove 
+18. Ex-parte proceeding 
+19. Admissions 
+20. Penalties for false and frivolous claims 
+21. Consequences of proof of defamation 
+22. Code of Civil Procedure to apply 
+23. Qanun-e-Shahadat not to apply 
+24. Act not to prejudice action for criminal defamation 
+2 
+ 
+25. Limitation of actions 
+26. Appeal 
+27. Power to make Rules 
+28. Repeal   
+3 
+ 
+TEXT 
+THE PUNJAB DEFAMATION ACT 2024 
+(II of 2024) 
+[7th June, 2024] 
+An 
+Act 
+to make provisions in respect of defamation. 
+It is necessary to make provisions in respect of defamation and for matters 
+connected therewith and ancillary thereto. 
+Be it enacted by Provincial Assembly of the Punjab as follows:  
+1. Short title, extent and commencement.– (1) This Act may be cited as the 
+Punjab Defamation Act 2024. 
+ (2) It shall extend to whole of the Punjab. 
+ (3) It shall come into force at once. 
+2. Definitions.– In this Act: 
+(a) “Act” means the Punjab Defamation Act 2024; 
+(b) “broadcasting” or “broadcast” means the dissemination of writings, 
+signs, signals, pictures and sounds of all kinds, including any electronic 
+device, intended to be received by the public through social media 
+websites, applications and platforms (including but not limited to 
+Facebook, Instagram, X/twitter, WhatsApp, TikTok etc.), either directly 
+or through the medium of relay stations, by means of: 
+(i) a form of wireless radio-electric communication utilizing Hertzian 
+waves, including radio telegraph and radio telephone; or 
+(ii) cables, computers, wires, fiber-optic linkages or laser beams; or 
+(iii) any other electronic or information technology medium or 
+technology; 
+(c) “claim” means the claim in the form of a plaint or application instituted 
+before the Tribunal under section 11 hereof, for grant of decree for 
+damages and costs in favour of the Claimant and against the 
+Defendant;  
+(d) “Claimant” means the person who, being aggrieved of defamation, 
+institutes a claim before the Tribunal under this Act;  
+(e) “Code” means the Code of Civil Procedure 1908 (V of 1908); 
+(f) “Constitutional Office” means the President, Governor, Chief Justice of 
+Pakistan and Judges of the Supreme Court, Chief Justice and Judges 
+of the Lahore High Court, Prime Minister, leader of the Opposition in 
+National Assembly, Speaker of the National Assembly, Chairman of the 
+Senate, Chief Minister, leader of the Opposition in Provincial Assembly, 
+Speakers of Provincial Assemblies, Chairman and members of Election 
+Commission of Pakistan, the Auditor General of Pakistan, the 
+4 
+ 
+Chairman, Joint Chiefs of Staff Committee, the Chief of the Army Staff, 
+the Chief of the Naval Staff and the Chief of the Air Staff;  
+(g) “costs” mean and include the costs to be imposed and granted by the 
+Tribunal to the Parties to the proceedings under the Act; 
+(h) “defamation” means publication, broadcast or circulation of a false or 
+untrue statement or representation made orally or in writing or visual 
+form either by ordinary form or expression or by electronic or other 
+modern medium, means or devices or through social media or any 
+online or social media website, application or platform, which injures or 
+may have the effect of injuring the reputation of a person or tends to 
+lower him in the estimation of others, or ridicules him, or exposes him 
+to unjust criticism, disliking, contempt or hatred, and such defamation 
+shall also include comments, statements and representations targeted 
+towards certain genders and minorities as contained in section 14 of 
+this Act; 
+(i) “Defendant” means the person who has allegedly committed 
+defamation and against whom a claim has been filed by the Claimant 
+before the Tribunal;  
+(j) “editor” means a person having editorial or equivalent responsibility for 
+the content of the statement or the decision to publish or circulate it, 
+and also includes the operator or user of a social media account or 
+medium, as defined in clause (b) of this section; 
+(k) “General Damages” means damages to be granted by the Tribunal at 
+the time of granting preliminary decree, if the Defendant fails to obtain 
+leave to defend in terms of section 13 of this Act, with a minimum of 
+Rs. 3,000,000/- (Rupees Three Million); 
+(l) “Government” means Government of the Punjab; 
+(m) “Journalist” means any person who is professionally or regularly 
+engaged by a newspaper, magazine, news website or other news 
+broadcast medium (whether online or offline), and includes any person 
+who creates and uploads social media news or current affairs content 
+or otherwise has a substantial track record of freelancing for any 
+newspaper, magazine, news website or other news broadcast medium; 
+(n) “Member” means a Member of the Tribunal appointed under section 8 
+of this Act but does not include a specially nominated Single Bench of 
+the Lahore High Court; 
+(o) “newspaper” means a newspaper and includes a website, application 
+or other social media platform containing public news, intelligence or 
+occurrences or remarks or observations or containing only, or 
+principally, advertisements, printed or electronically or digitally issued 
+for distribution to the public and published or issued periodically or in 
+parts or numbers, and includes such other periodical works as the 
+Government may, by notification in the official Gazette, declare to be a 
+newspaper; 
+(p) “originator” means the initiator of the defamatory statement or any 
+other defamatory act; 
+5 
+ 
+(q) “Parties” means the parties to the proceedings before the Tribunal, i.e., 
+the Claimant and the Defendant;  
+(r) “prescribed” means prescribed by the rules made under this Act;  
+(s) “publication” means the communication of the words or visual 
+statement or representation to at least one person other than the 
+person defamed, and includes a newspaper or broadcast;  
+(t) “publisher” means a commercial publisher, that is, a person whose 
+business is to publicize or disseminate any material to the public or a 
+section of the public and who issues material containing the statement 
+in the course of that business; 
+(u) “Punitive Damages” means the damages in cases demonstrating 
+malice, bad-faith or repeated conduct by the Defendant, which may 
+extend up to ten (10) times the quantum of the General Damages; 
+(v) “rules” means the rules made under this Act. 
+(w) “Special Damages” means the damages to be granted after the final 
+conclusion of the proceedings, if the Claimant seeks to proceed further 
+with the case after issuance of the preliminary decree and has been 
+able to establish his/her claim for such damages, which shall be in 
+addition to the General Damages granted by the Tribunal; and 
+(x) “Tribunal” means the Punjab Defamation Tribunal constituted under 
+section 8 of this Act and shall also be used interchangeably for the 
+specially nominated Single Bench of the Lahore High Court where the 
+jurisdiction is invoked by the holder of a Constitutional Office under this 
+Act. 
+3. Defamation actionable.– Subject to the provisions of this Act and any other 
+law for the time being in force, defamation shall be a civil wrong and the person 
+defamed may initiate an action under this Act without proof of actual damage or loss 
+and, where defamation is proved, General Damages shall be presumed to have 
+been suffered by the person defamed. 
+4. Defences.– In defamation proceedings, a person shall have a defence if he 
+shows that: 
+(a) he was performing journalistic activities and broadcasted true news for 
+the information of the public; 
+(b) he was analyzing or discussing a situation in a fair and transparent 
+manner in the public interest through online platform;  
+(c) the matter commented on is fair and in the public interest and is an 
+expression of opinion and not an assertion of fact; 
+(d) the statement is based on truth; 
+(e) assent was given for the publication by the Claimant; 
+(f) the matter complained of was privileged communication such as 
+between lawyer and client or between persons having fiduciary 
+relations; and 
+6 
+ 
+(g) the matter is covered by absolute or qualified privilege. 
+5. Absolute Privilege.– Any publication of statement made in the Federal or 
+Provincial Legislatures, reports, papers, notes and proceedings ordered to be 
+published by either House of the Parliament or by the Provincial Assemblies, or is 
+part of judicial proceedings or record or any report, note or matter written or 
+published by or under the authority of the Government, shall have the protection of 
+absolute privilege. 
+Explanation.– In this section legislature includes a local legislature and court 
+includes any tribunal or body exercising judicial powers. 
+6. Qualified Privilege.– Any fair and accurate publication or broadcast of 
+parliamentary proceedings, or judicial proceedings which the public may attend and 
+statements made to the proper authorities in order to procure the redress of public 
+grievances shall have the protection of qualified privilege. 
+7. Act to override other laws.– The provisions of this Act shall have effect 
+notwithstanding anything inconsistent therewith contained in any other law for the 
+time being in force. 
+8. Establishment of Tribunal.– (1) The Government may, by notification in the 
+official Gazette, establish as many Tribunals as it considers necessary to exercise 
+jurisdiction under this Act and appoint a Member for each of such Tribunals and, 
+where it establishes more Tribunals than one, it shall specify in the notification the 
+territorial limits within which each of such Tribunals shall exercise its respective 
+jurisdiction under this Act.  
+ (2) A Member shall be appointed by the Government in consultation with 
+the Chief Justice of the Lahore High Court, and no person shall be appointed as a 
+Member unless he has been a Judge of the Lahore High Court; or is or has been a 
+District Judge or is an Advocate of Supreme Court of Pakistan, qualified to be 
+appointed as a Judge of the Lahore High Court. 
+ (3) For the purposes of sub-section (2), in order to achieve effective, 
+meaningful and purposive consensus, and to ensure transparency, the process for 
+appointment of the Member shall be as follows: 
+(a)  where the Member is to be appointed is from the judiciary, the Chief 
+Justice shall nominate three (3) qualified persons, and the Government 
+shall appoint one of such three as the Member. In case the 
+Government is not satisfied as to the qualification or suitability of any of 
+the three nominations, it shall return the recommendation with reasons 
+to be recorded in writing, whereupon the Chief Justice shall send a 
+fresh recommendation of three nominees, till a Member is appointed as 
+per the procedure prescribed herein;  
+(b)  where the Member is to be appointed is from the legal fraternity, the 
+Government shall nominate three (3) qualified persons, and the Chief 
+Justice shall approve one of such three as the Member. In case the 
+Chief Justice is not satisfied as to the qualification or suitability of any 
+of the three nominations, he shall return the recommendation with 
+reasons to be recorded in writing, whereupon the Government shall 
+7 
+ 
+send a fresh recommendation of three nominees, till a Member is 
+appointed as per the procedure prescribed herein. 
+(4) A Tribunal shall hold its sittings at such place within its territorial 
+jurisdiction as may be determined by the Government. 
+(5) A Member shall be initially appointed for a term of three years or till 
+reaching the retiring age, whichever is earlier, from the date on which he enters upon 
+office.  
+(6) The term of the office of the Members shall be subject to renewal after 
+every eighteen (18) months after evaluation of their performance by a Performance 
+Review Committee, to be constituted under the Rules. The Committee shall evaluate 
+the Members on the following touchstone: 
+(a)  adherence to statutory timelines;  50% 
+(b)  competence and fitness;   25% 
+(c)  integrity.     25%  
+(7) The retiring age of the Member, not being a serving District Judge, 
+shall be seventy (70) years. 
+(8) The salary, allowances and other terms and conditions of service of a 
+person appointed as a Member, including that of a serving District Judge while 
+discharging his duty as Member, shall be such as the Government may determine by 
+the Rules. In case of a serving District Judge, he will be entitled to such additional 
+allowances and benefits, which shall equate his benefits as that of any other Member 
+appointed by the Government in terms of this section and the Rules made under this 
+Act.  
+9. Resignation and removal of Member.– (1) A person, not being a serving 
+District Judge, appointed as a Member under section 8 may, by notice in writing 
+under his hand addressed to the Government, resign from his office. 
+ (2) A person appointed as a Member under section 8 may be removed 
+from the office by the Government prior to completion of his tenure, after seeking 
+consultation with the Chief Justice of the Lahore High Court. 
+10. Powers and jurisdiction of the Tribunal.– (1) Subject to the provisions of 
+this Act, a Tribunal shall, while exercising jurisdiction under this Act, have all the 
+powers as are vested in a civil court under the Code. 
+(2) A Tribunal shall in all matters with respect to which the procedure has 
+not been specifically provided in this Act or under the Rules, follow the procedure 
+laid down in the Code. 
+(3)  Subject to sub-sections (4) & (5), no other court or tribunal or 
+judicial/quasi-judicial forum, other than a Tribunal constituted under this Act, shall 
+have jurisdiction or may exercise any jurisdiction with respect to any matter to which 
+the jurisdiction of a Tribunal extends under this Act. 
+(4) For the purpose of any claim to be filed by the holder of a 
+Constitutional Office, the claim in terms of sub sections (2) & (3) of section 11 shall 
+be filed before the Lahore High Court, and the jurisdiction under this Act for such a 
+claim shall be exercised in the same manner as provided under this Act and the 
+8 
+ 
+Rules. For the purpose of this Act, a special Single Bench shall be nominated from 
+time to time by the Chief Justice of the Lahore High Court as a Special Bench at the 
+Principal Seat of the Lahore High Court, Lahore, notwithstanding any bar that may 
+otherwise exist on its territorial limits or jurisdiction.  
+(5) All proceedings pending in any court or tribunal under the Defamation 
+Ordinance, 2002 shall continue to be heard and disposed of by the same court 
+having jurisdiction under the said Ordinance, and all other remedies under the said 
+Ordinance shall be available in the same manner as were available before the 
+coming into force of this Act. 
+(6)  The Tribunal shall decide the case within one hundred and eighty (180) 
+days from the date of the first appearance of the Defendant. 
+(7) Notwithstanding anything contained in the Code or any other law for 
+the time being in force, the Tribunal shall have jurisdiction regarding any claim or 
+actionable wrong, which has either been disseminated, circulated, received, read or 
+viewed within the territorial precincts of Punjab or, as a result of such material being 
+published or broadcasted, a person who resides, works for gain or discharges his 
+functions/duties, either permanently or temporarily, within the territorial limits of 
+Punjab, has been defamed.  
+(8)  The Tribunal may grant pre-trial settlement opportunity to the Parties 
+by referring the matter for mediation to an accredited Alternate Dispute Resolution 
+(ADR) Centre in the District, if so consented to by both Parties. 
+(9) If the matter is referred to mediation in terms of sub-section (8) above, 
+the decision of the mediator shall be final.  
+(10)  The Tribunal may award actual costs, including counsels’ actual fee, 
+legal fees and expenses incurred, expenses relating to witnesses and other costs of 
+litigation, on the basis of sufficient and justifiable reasons. 
+11. Procedure of Tribunal.– (1) While deciding a case, the Tribunal shall, 
+subject to the provisions of this Act, adopt the summary procedure provided in Order 
+XXXVII of the Code. 
+(2) A Claimant may, within sixty days of the defamation or coming to his 
+notice or knowledge of such defamation, may institute a claim before the Tribunal by 
+presenting his claim in the form of a plaint or application, which shall be verified on 
+oath by the Claimant. 
+(3) In case of a claim, if so desired to be filed by the holder of a 
+Constitutional Office, the same may be filed through an authorized officer or 
+attorney, without there being a need for the holder of the Constitutional Office to put 
+up his appearance during the proceedings. Any statement made by the authorized 
+officer or attorney shall be deemed to be a statement of the holder of Constitutional 
+Office: 
+Provided that the any change of status or position of the holder of the 
+Constitutional Office or cessation of his position as such will not affect the 
+proceedings already initiated and the same shall continue and be concluded in the 
+same mode and manner, on the basis of such position, as it stood on the day when 
+the claim was filed.  
+9 
+ 
+ (4) The claim shall comprise of a concise statement of facts and damages 
+being sought, supported by statements in the form of affidavits of at-least two 
+witnesses along with all the relevant documents concerning the claim, including the 
+defamatory statement.  
+(5) Copies of the claim, affidavits and other relevant documents shall be 
+filed with the Tribunal in such numbers that there is one set of copies for each 
+Defendant and one extra copy. 
+(6) The claim shall specifically state the amount of General, Special and 
+Punitive Damages along-with costs sought by the Claimant. 
+ (7)  On a claim being presented to the Tribunal, summons in Form No. 4 in 
+Appendix 'B' to the Code or in such other form as may, from time to time, be 
+prescribed by the rules under this Act, shall be served on the Defendant through the 
+process-server of the Tribunal, by registered post, by email, SMS, WhatsApp, 
+courier, by publication in one English language and one Urdu language daily 
+newspaper of wide circulation, and to the extent practicable by the same mode, 
+medium or platform through which the defamatory material has been disseminated. 
+The service duly effected in any one of the aforesaid modes shall be deemed to be 
+valid service for purposes of this Act.  
+(8)  In the case of service of the summons through process-server, a copy 
+of the claim shall be attached therewith and in all other cases, the Defendant shall be 
+entitled to obtain a copy of the claim from the office of the Tribunal without making a 
+written application but against due acknowledgement.  
+12. No comment on pending proceedings.– (1) Notwithstanding anything to the 
+contrary in this Act or in any other law for the time being in force, no person 
+(including but not limited to, the parties to the proceedings before the Tribunal, their 
+counsel and legal advisers, witnesses, the member of the Tribunal, court staff, or any 
+other third person) shall be permitted to comment or make any statement relating to 
+any proceedings pending before the Tribunal under this Act. This clause shall apply 
+automatically from the inception till the final conclusion of the proceedings, and shall 
+not require any order to this effect being specifically passed by the Tribunal or any 
+other authority. 
+  (2)  Any person who is found in violation of the prohibition imposed by sub-
+section (1) by the Tribunal, whether on the application of any person or on its own 
+motion, shall be liable to pay an initial fine of Rs. 50,000/- (Rupees Fifty Thousand) 
+for each violation, along with an additional Rs. 10,000/- (Rupees Ten Thousand) for 
+each day that the said violation continues. In case of more than one violation, the 
+fines so prescribed shall be payable each violation separately. 
+  (3)  No defense whatsoever, such as fair comment, discussion in the public 
+interest, an expression of opinion or fact, comment made in good faith, ignorance of 
+law, etc., shall be available to any person for violation of sub-section (1). 
+13. Leave to defend.– (1) In any case in which the summons have been served 
+on the Defendant as provided for in sub-section (7) of section 11, the Defendant 
+shall not be entitled to defend the claim unless he obtains leave to defend from the 
+Tribunal as hereinafter provided; and, in default of his doing so, the allegations of 
+fact in the claim shall be deemed to be admitted and the Tribunal shall forthwith pass 
+10 
+ 
+a preliminary decree of General Damages in favour of the Claimant on the basis 
+thereof or such other material as the Tribunal may require in the interest of justice. 
+ (2) The Defendant shall file the application for leave to defend within thirty 
+days of the date of first appearance before Tribunal, either personally or through a 
+counsel/attorney having been instructed to appear on the date of hearing mentioned 
+on any one of the modes of service laid down in sub-section (7) of section 11. 
+ (3) The application for leave to defend shall be in the form of a written 
+statement and shall contain a concise statement of rebuttal of the averments of the 
+claim and must contain substantial questions of law as well as fact in respect of 
+which, in the opinion of the Defendant, evidence needs to be recorded.  
+(4)  The application for leave to defend may also contain the amount of 
+Punitive Damages, if the Defendant wishes to claim such damages on the grounds 
+of claim being false, vexatious, baseless and mala fide. 
+ (5)  The application for leave to defend shall be accompanied by all the 
+documents which, in the opinion of the Defendant, support the substantial questions 
+of law and fact raised by him. 
+ (6) The Claimant shall be given an opportunity of filing a reply to the 
+application for leave to defend, in the form of a replication. 
+ (7)  On the date of filing of the leave to defend, the Tribunal shall, set down 
+three dates of hearing of the choice of the Defendant or his counsel, affording 
+opportunity of hearing to the Parties for deciding the application for leave to defend; 
+provided, however, that these three dates of hearing shall remain confined so as to 
+ensure that the application for leave to defend is decided within the stipulated period 
+of thirty (30) days from the date of filing of the leave to defend, and this period shall 
+not be extended under any circumstances nor shall the Tribunal grant any 
+unnecessary adjournments during the course of the proceedings.  
+(8) The Tribunal shall grant the Defendant leave to defend the claim if, 
+upon consideration of the contents of the claim, the application for leave to defend 
+and the reply thereto, it is of the view that substantial questions of law and fact have 
+been raised in respect whereof evidence needs to be recorded.  
+(9)  While granting leave under sub-section (8), the Tribunal may impose 
+such conditions as it may deem appropriate in the circumstances of the case, 
+including conditions as to deposit of cash or furnishing of security. 
+(10) Where the application for leave to defend is accepted, the Tribunal 
+shall treat the application as a written statement. 
+(11)  Where the application for leave to defend is rejected or where a 
+Defendant fails to fulfill the conditions attached to the grant of leave to defend, the 
+Tribunal shall forthwith pass a preliminary decree of General Damages against such 
+Defendant. 
+(12) After the passing of the preliminary decree, the Tribunal shall fix the 
+next date of hearing, within fourteen (14) days of the date of issuance of the 
+preliminary decree, as a date for the settlement of further claim of damages and 
+costs between the Parties. 
+(13) In case the settlement as provided in sub-section (12) fails and 
+Claimant seeks to pursue the case over and above the preliminary decree passed in 
+11 
+ 
+the form of General Damages, the proposed issues along with the list of witnesses, 
+documents and other material sought to be produced through process of the Tribunal 
+shall be filed without fail by the Parties on next date of hearing fixed by the Tribunal, 
+which date shall not be beyond fourteen (14) days, following the date fixed for 
+settlement in terms of sub section (12). 
+(14)  On the next date of hearing, following the date fixed for the 
+proceedings in terms of sub-section (12), the Tribunal shall schedule the trial 
+proceedings and fix a maximum of three dates of hearing, within a total period of 
+thirty (30) days, for each of the Parties for production of their evidence.  
+(15)  The affidavit of the witnesses filed by the respective Parties may be 
+treated as witness’s statement in chief, if the witness concerned does not wish to 
+make an oral statement before the Tribunal. 
+14. Claim by or Against Female or a Member of a Minority Community.– (1) 
+In case a female or member of a minority community is victim of defamation and 
+seeks to lodge his claim in terms of sub sections (2) & (3) of section 11 or where the 
+defendant of a claim under sub sections (2) & (3) of section 11 is a female or 
+member of Minority Community, such claimant or defendant, as the case may be, 
+request to seek the provision of services of an attorney/advocate/pleader and 
+considering such request, such facility shall be made available by the office of the 
+District Attorney, for the purpose of proceedings before the Tribunal and by the office 
+of the Advocate General for the purpose of proceedings before the High Court. 
+(2) In case of actionable defamation pertaining gender sensitive or minority 
+community related defamation, the request for in camera proceedings may be made, 
+which will be decided by the Tribunal on the basis of merits of each case.  
+15. Preliminary Decree.– (1) In case of failure of the Defendant to obtain leave to 
+defend, the Tribunal shall forthwith pass the preliminary decree for General 
+Damages. 
+ (2) The preliminary decree passed under sub-section (1) shall, for all 
+purposes (including appeal and execution), be deemed to be a decree passed under 
+this Act, and any amount covered thereby or recovered in execution thereof shall be 
+adjusted at the time of the final decree: 
+Provided that it shall be open to the Tribunal, notwithstanding the pendency of 
+any appeal, to modify in part or in whole or reverse the terms of the preliminary 
+decree at the time of the final disposal of the claim, and pass such order as it may 
+deem just and proper: 
+Provided further that neither the Tribunal nor the Lahore High Court shall stay 
+execution of a preliminary decree unless the judgment-debtor deposits in cash with 
+the Tribunal the decretal amount and the Tribunal, in lieu of such cash, shall accept 
+no surety or guarantee. 
+16. Execution of Decree.– (1) Upon pronouncement of preliminary decree, the 
+claim to that extent shall automatically stand converted into execution proceedings 
+without the need to file a separate application for execution and no fresh notice need 
+be issued to the Defendant/judgment-debtor in this regard.  
+12 
+ 
+ (2)  A separate file shall be construed for the purpose of the remaining 
+claim, if so desired to be proceeded with by the Claimant, and any final judgment or 
+decree, if so passed, shall merge in the preliminary decree: 
+Provided that if the record of the claim is summoned at any stage by the 
+Lahore High Court for purposes of hearing an appeal under section 26 or otherwise, 
+copies of the decree and other documents shall be retained by the Tribunal for the 
+purpose of continuing the execution proceedings. 
+ (3) The decree passed by the Tribunal shall be executed in accordance 
+with the provisions of the Code or any other law for the time being in force or in such 
+manner as the Tribunal may, at the request of the decree-holder, consider 
+appropriate, including recovery as arrears of land revenue, and arrest and detention 
+of the judgment-debtor. 
+ (4) The Tribunal may seek the services and assistance of law enforcement 
+agencies, including the Punjab Police, in exercise of powers conferred under this 
+section. 
+(5) Notwithstanding anything contained in the Code or any other law for 
+the time being in force:  
+(a) the Tribunal shall follow the summary procedure for purposes of 
+investigation of claims and objections in respect of the attachment or 
+sale of any asset or property of the judgment-debtor for the purpose of 
+satisfaction of the decree, and shall conclude such Investigation within 
+thirty (30) days of filing of such claims or objections; and 
+(b) if the claim or objection are found by the Tribunal to be mala fide or 
+filed merely to delay the sale of the property or asset, it may impose a 
+penalty up to twenty percent (20%) of the sale price of the property 
+upon such judgment-debtor. 
+17. Onus to prove.– Notwithstanding anything contained in this Act, the Claimant 
+shall not be bound to establish his reputation, but it shall be sufficient if he proves 
+any damage, over and above the General Damages to his reputation against the 
+Defendant. 
+18. Ex-parte proceeding.– (1) Notwithstanding anything contained in the Code 
+or any other law time being in force, if the Defendant does not appear, or 
+intentionally avoids to appear before the Tribunal, the Tribunal shall, after having 
+been satisfied that the Defendant has willfully avoided the service of the notice or 
+opted not to appear, may pass such ex-parte order or judgment as it may deem 
+appropriate.  
+ (2) The ex-parte order or judgment passed under sub-section (1) shall not 
+be appealable, but may be set aside by the Tribunal on application by the Defendant, 
+along with leave to defend, within thirty (30) days of the passing of such ex-parte 
+order or within thirty (30) days of coming into knowledge of such order, as the case 
+may be. 
+(3) For an application for setting aside an ex-parte order or judgment, the 
+Defendant shall be liable to furnish sufficient security, equivalent to the amount of the 
+decree, to the satisfaction of the Tribunal, and shall have to set up sufficient cause 
+13 
+ 
+that he did not have knowledge of passing of such order or judgment, or was 
+prevented from appearing before the Tribunal: 
+Provided that no notice or stay on an application under sub-section (2) shall 
+be issued, unless the sufficient security, as ordered in terms of sub-section (3), is 
+furnished by the Defendant. 
+19. Admissions.– The Tribunal may, in the interest of expeditious disposal and to 
+reduce the contested issues and costs of litigation, grant an opportunity to the 
+Parties to recourse to Order XII of the Code. 
+20. Penalties for false and frivolous claims.– In case of false, frivolous and 
+vexatious claims, the Tribunal shall order Punitive Damages against the Claimant, as 
+provided under this Act. 
+21. Consequences of proof of defamation.– (1) Where defamation is proved to 
+have occurred, the Tribunal may pass an order directing the Defendant to tender an 
+unconditional apology, if acceptable to the Claimant, and direct the same to be 
+published in the same manner and with the same prominence as the defamatory 
+statement was made, and pay the damages in terms of this Act. 
+ (2) Where defamation is proved to have occurred, the Tribunal may, in 
+addition to the damages that are decreed and/or direction for tendering an apology, 
+also issue a direction to the relevant regulatory authority to suspend or block the 
+social media account of the Defendant, or any other medium or platform covered by 
+this Act through which the defamatory content was disseminated. 
+22. Code of Civil Procedure to apply.– The Code of Civil Procedure, 1908 (V of 
+1908), apply to the proceedings under this Act, where no specific procedure of 
+provision is supplied under this Act. 
+23. Qanun-e-Shahadat not to apply.– The Qanun-e-Shahadat 1984 (P.O. No.10 
+of 1984) shall not apply to the proceedings under the Act. 
+24. Act not to prejudice action for criminal defamation.– Nothing in this Act 
+shall prejudice any action for criminal libel or slander under any law for time being in 
+force. 
+25. Limitation of actions.– A claim shall be instituted under the Act within sixty 
+(60) days after defamation came to the notice or knowledge of the person so 
+defamed. 
+26. Appeal.– Any person aggrieved by the final judgment and decree of the 
+Tribunal or by the High Court in terms of sub section 4 of section 10, may file an 
+appeal to the Lahore High Court within thirty (30) days from passing of such 
+judgment and decree and such an appeal shall be heard and decided by a bench of 
+two judges the Lahore High Court within sixty (60) days: 
+Provided that no appeal shall lie against any interlocutory order of the 
+Tribunal: 
+ Provided further that no stay order shall be granted, staying the proceedings 
+of the Tribunal and in case of an appeal against a preliminary or final decree, the 
+14 
+ 
+operation of the decree or execution proceedings shall only be stayed on the deposit 
+of the equivalent amount with the Registrar of the Lahore High Court, which amount 
+shall be placed in a profit bearing scheme till the final disposal of the appeal.  
+27. Power to make Rules.– The Government may, by notification in the official 
+Gazette, make rules to carry out the purpose of this Act. 
+28. Repeal.– Subject to the provisions contained in this Act, the Defamation 
+Ordinance, 2002 is hereby repealed.

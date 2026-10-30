@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-c2540076ed44b08b",
+  "title": "PUNJAB LAND REVENUE (ABOLITION) ACT 1998",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/V2JTYQs~Bz4-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:57:43Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "776ac43dd99f5261dc669e4a792605598c4fe2a38699553faf97ec5fb29beeda",
+  "source_sha256": "776ac43dd99f5261dc669e4a792605598c4fe2a38699553faf97ec5fb29beeda",
+  "text_version_id": "law:punjab-code-c2540076ed44b08b:sha256:776ac43dd99f5261dc669e4a792605598c4fe2a38699553faf97ec5fb29beeda",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB LAND REVENUE (ABOLITION) ACT 1998 \r\n(II of 1998) \r\nCONTENTS \r\n1. Short title, extent and commencement \r\n2. Abolition of land revenue \r\n3. Saving \r\n \r\n \r\n1\r\nTHE PUNJAB LAND REVENUE (ABOLITION) ACT 1998 \r\n(II of 1998) \r\n[24th February, 1998] \r\nAn \r\nAct \r\nto abolish land revenue in the Province of the Punjab. \r\nPreamble.– Whereas it is expedient to abolish land revenue in the Province of the \r\nPunjab; \r\n It is hereby enacted as follows:- \r\n1. Short title, extent and commencement. – (1) This Act may be called the \r\nPunjab Land Revenue (Abolition) Act, 1998. \r\n (2) It extends to the whole of the Province of the Punjab. \r\n (3) It shall come into force at once and shall be deemed to have taken \r\neffect on and f rom the date the Punjab Land Revenue (Abolition) Ordinance 1997 \r\n(XXXI of 1997) stands rep ealed under Article 128 of the C onstitution of the Islamic \r\nRepublic of Pakistan. \r\n2. Abolition of land revenue. – Notwithstanding anything to the contrary \r\ncontained in the Punjab Land Revenue Act, 1967 (XVII of 1967) or any other law for \r\nthe time being in force, no land revenue, as defined in the Punjab Land Revenue \r\nAct, 1967 (XVII of 1967), shall be charged as from Rabi 1996-97 and where the \r\nsame has already been assessed for the said harvest, it shall not be recovered. \r\n3. Saving.– Nothing contained in this Act shall be construed to affect the liability \r\nof any person to pay the land revenue which had become due before Rabi 1996-97 \r\nor the assessment, charge and collection of the land revenue for the period before \r\nRabi 1996-97 which shall continue to be done under the provisions of the Punjab \r\nLand Revenue Act, 1967 (XVII of 1967). \r\n                                                 \r\n1This Act was passed by the Punjab Assembly on 6th February, 1998; assented to by the Governor of the Punjab on 19th \r\nFebruary, 1998; and was published in the Punjab Gazette (Extraordinary), dated 24th February, 1998, page 197. \r\nTEXT",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-c2540076ed44b08b:sha256:776ac43dd99f5261dc669e4a792605598c4fe2a38699553faf97ec5fb29beeda:chars-0-1734:6193d191af7c02d8a4e95e72f6d2e2bfec5f7cffc484ac9ce6adc87a9fdab4e1",
+      "character_start": 0,
+      "character_end": 1734,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1742,
+      "passage_sha256": "6193d191af7c02d8a4e95e72f6d2e2bfec5f7cffc484ac9ce6adc87a9fdab4e1",
+      "reader_fragment": "p-0-1734-6193d191af7c02d8"
+    },
+    {
+      "passage_id": "law:punjab-code-c2540076ed44b08b:sha256:776ac43dd99f5261dc669e4a792605598c4fe2a38699553faf97ec5fb29beeda:chars-1734-1969:4908f9da1dbcf9aaa88a1954ec5c9a4f1ee7d117eb5c726b79924d3fb9b554a7",
+      "character_start": 1734,
+      "character_end": 1969,
+      "utf8_byte_start": 1742,
+      "utf8_byte_end": 1977,
+      "passage_sha256": "4908f9da1dbcf9aaa88a1954ec5c9a4f1ee7d117eb5c726b79924d3fb9b554a7",
+      "reader_fragment": "p-1734-1969-4908f9da1dbcf9aa"
+    }
+  ]
+}

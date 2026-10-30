@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-e3a66ada03d70cb2",
+  "title": "Federal Court (Repeal) Act, 2014",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2FqZp8%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "b06389d925c77e75f9e10753f6f22525a2bfbf4b6ef4e769284964c8e0dca127",
+  "source_sha256": "b06389d925c77e75f9e10753f6f22525a2bfbf4b6ef4e769284964c8e0dca127",
+  "text_version_id": "law:pk-code-e3a66ada03d70cb2:sha256:b06389d925c77e75f9e10753f6f22525a2bfbf4b6ef4e769284964c8e0dca127",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n THE FEDERAL COURT(REPEAL) ACT, 2014 \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n \r\n1. Short title and commencement \r\n2. Repeal of Act XXV of 1937  \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE FEDERAL COURT(REPEAL) ACT, 2014 \r\nACT NO. II OF 2014 \r\n[10th June, 2014] \r\nAn Act to repeal the Federal Court Act, 1937 \r\nWHEAREAS it is expedient to repeal the Federal Court Act, 1937 (XXV of 1937), for the \r\npurposes hereinafter appearing; \r\nIt is hereby enacted as follows:__ \r\n1. Short title and commencement .__ (1) This Act may be called the Federal \r\nCourt(Repeal) Act, 2014. \r\n(2) It shall come into force at once. \r\n2. Repeal of Act XXV of 1937.__ The Federal Court Act, 1937 (XXV of 1937), is hereby \r\nrepealed.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-e3a66ada03d70cb2:sha256:b06389d925c77e75f9e10753f6f22525a2bfbf4b6ef4e769284964c8e0dca127:chars-0-704:b06389d925c77e75f9e10753f6f22525a2bfbf4b6ef4e769284964c8e0dca127",
+      "character_start": 0,
+      "character_end": 704,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 704,
+      "passage_sha256": "b06389d925c77e75f9e10753f6f22525a2bfbf4b6ef4e769284964c8e0dca127",
+      "reader_fragment": "p-0-704-b06389d925c77e75"
+    }
+  ]
+}

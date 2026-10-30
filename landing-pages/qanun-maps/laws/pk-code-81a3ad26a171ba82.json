@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-81a3ad26a171ba82",
+  "title": "Removal from Service (Special Powers) (Repeal) Act, 2010",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2FsaZ0%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "8e21400aabd685f015bf12d608f190cbb25f0a8b50349d633afa79fa6adea932",
+  "source_sha256": "8e21400aabd685f015bf12d608f190cbb25f0a8b50349d633afa79fa6adea932",
+  "text_version_id": "law:pk-code-81a3ad26a171ba82:sha256:8e21400aabd685f015bf12d608f190cbb25f0a8b50349d633afa79fa6adea932",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\nTHE REMOVAL FROM SERVICE (SPECIAL POWERS) (REPEAL) \r\nACT, 2010 \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title, extent and commencement \r\n2.  Repeal \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE REMOVAL FROM SERVICE (SPECIAL POWERS) (REPEAL) ACT, \r\n2010 \r\n [5th March, 2010] \r\nACT No. Ill of 2010 \r\nAn Act to repeal the Removal from Service (Special Powers) Ordinance, 2000 (XVII of 2000) \r\n WHEREAS it is expedient to repeal the Removal from Service (Special Powers) Ordinance, 2000 \r\n(XVII of 2000), for the purpose hereinafter appearing: \r\n It is hereby enacted as follows:— \r\n 1. Shor t title , extent and commencement. —(1) This  Act may be  called the Removal from \r\nService (Special Powers) (Repeal) Act, 2010 \r\n (2) It extends to the whole of Pakistan. \r\n (3) It shall come into force at once. \r\n 2. Repeal.—(1) The Removal from Service (Special Powers) Ordinance, 2000 (XVII of 2000) is \r\nhereby repealed, hereinafter referred to as the repealed Ordinance. \r\n (2) All proceedings pending under the repealed Ordinance or the rules made thereunder \r\nimmediately before the commencement of this Act against any person whether in government service \r\nor corporation service shall continue under the repealed Ordinance or the rules made thereunder. \r\n (3) Subject to sub-section (2), on the repeal of the said Ordinance, all disciplinary matters relating \r\nto persons in government service, to whom the Civil Servants Act, 1973 (LXXI of 1973) and the \r\nGovernment Servants (Efficiency and Discipline) Rules, 1973, apply, shall be governed under the \r\naforesaid Act and the rules made thereunder and persons in corporation service shall be governed under \r\nthe law applicable to them and rules and by-laws made thereunder. \r\n______ \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nRGN Date: 12-03-2025",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-81a3ad26a171ba82:sha256:8e21400aabd685f015bf12d608f190cbb25f0a8b50349d633afa79fa6adea932:chars-0-1798:cdcadac57ec08d7b61391e4d7372e180cfa4d21afea7952931d3b962d618143f",
+      "character_start": 0,
+      "character_end": 1798,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1804,
+      "passage_sha256": "cdcadac57ec08d7b61391e4d7372e180cfa4d21afea7952931d3b962d618143f",
+      "reader_fragment": "p-0-1798-cdcadac57ec08d7b"
+    },
+    {
+      "passage_id": "law:pk-code-81a3ad26a171ba82:sha256:8e21400aabd685f015bf12d608f190cbb25f0a8b50349d633afa79fa6adea932:chars-1798-1833:3c24b31f8cf21ed7687d71191c811cf834dd29565277a63276ed73d369760f93",
+      "character_start": 1798,
+      "character_end": 1833,
+      "utf8_byte_start": 1804,
+      "utf8_byte_end": 1839,
+      "passage_sha256": "3c24b31f8cf21ed7687d71191c811cf834dd29565277a63276ed73d369760f93",
+      "reader_fragment": "p-1798-1833-3c24b31f8cf21ed7"
+    }
+  ]
+}

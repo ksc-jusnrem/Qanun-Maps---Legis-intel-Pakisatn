@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-b70c34fbdb0bb92a",
+  "title": "Exit from Pakistan (Control) Ordinance, 1981",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bZ%2BY-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "227e64a0fe9730ef514eadbc2fe7ca9c638b36ac237f20b8845ab02a09285bfc",
+  "source_sha256": "227e64a0fe9730ef514eadbc2fe7ca9c638b36ac237f20b8845ab02a09285bfc",
+  "text_version_id": "law:pk-code-b70c34fbdb0bb92a:sha256:227e64a0fe9730ef514eadbc2fe7ca9c638b36ac237f20b8845ab02a09285bfc",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 3 \r\n \r\n \r\n \r\n \r\nTHE EXIT FROM PAKISTAN (CONTROL) ORDINANCE, 1981. \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title, extent and commencement \r\n2.  Power to prohibit exit from Pakistan \r\n3.  Review \r\n4.  Punishment \r\n5.  Power to make rules \r\n \r\n \r\n \r\n\r\n \r\nPage 2 of 3 \r\n \r\nTHE EXIT FROM PAKISTAN (CONTROL) ORDINANCE, 1981. \r\nORDINANCE No. XLVI OF 1981 \r\n[31st December, 1981] \r\nAn Ordinance to provide for the control of exit of certain persons from Pakistan. \r\n  WHEREAS it is expedient to provide for the control of exit of certain persons from Pakistan; \r\n  AND WHEREAS  the President is sat isfied that circumstances exist which render it \r\nnecessary to take immediate action;  \r\nNOW, THEREFORE, in pursuance of the Proclamation of the fifth day of July, 1977, read \r\nwith the Provisional Constitution Order, 1981 (C.M.L.A. Order No. 1 of 1981), and in exercise of all \r\npowers enabling him in that behalf, the President is pleased to make and promulgate the following \r\nOrdinance: \r\n1. Short title, extent and commencement .— (1) This Ordinance may be called the Exit \r\nfrom Pakistan (Control) Ordinance, 1981. \r\n  (2) It extends to the whole of Pakistan. \r\n  (3) It shall come into force at once. \r\n2. Power to prohibit exit from Pakistan .— (1) The Federal Government may, by order, \r\nprohibit any person or class of persons from proceeding from Pakistan to a destination outside \r\nPakistan, notwithstanding the fact that such person is in possession of valid travel documents.  \r\n(2) Before making an order under sub -section (1), it shall not be necessary to afford an \r\nopportunity of showing cause against the order. \r\n  (3) If, while making an order under sub-section (1) it appears to the Federal Government that \r\nit will not be in the public interest to specify the grounds on which the order is proposed to be made, \r\nit shall not be necessary for the Federal Government to specify such grounds.  \r\n3. Review. —(1) Any person aggrieved by an order of the Federal Gover nment under \r\nsub-section (1) of s ection 2 may, within fifteenth days  of the making of the order, make a \r\nrepresentation to the Federal Govern ment for a review of the order, setting out i n the representation \r\nthe grounds on which he seeks the review. \r\n  (2) The Federal Government may, after giving the person making a representation an \r\nopportunity of being heard, make such order as it may deem fit. \r\n(3) Subject to the order of the Federal Gove rnment in review, an order under sub -section (1) \r\nof section 2 shall be final and shall not be called in question before any court or other authority. \r\n  4. Punishment.— Whoever contravenes, or attempts or conspires to contravene, or abets the \r\ncontravention of, any order made under sub -section (1) of section 2 shall be punishable with \r\nimprisonment for a term which may extend to five years. \r\n \r\nPage 3 of 3 \r\n \r\n5. Power to make rules .—The Federal Government may, by noti fication in the official \r\nGazette, make rules for carrying out the purposes of this Ordinance.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-b70c34fbdb0bb92a:sha256:227e64a0fe9730ef514eadbc2fe7ca9c638b36ac237f20b8845ab02a09285bfc:chars-0-1729:1678473e3a50210d7570ddd3efe024c9c04eaba94f98bac630312f832bc51726",
+      "character_start": 0,
+      "character_end": 1729,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1733,
+      "passage_sha256": "1678473e3a50210d7570ddd3efe024c9c04eaba94f98bac630312f832bc51726",
+      "reader_fragment": "p-0-1729-1678473e3a50210d"
+    },
+    {
+      "passage_id": "law:pk-code-b70c34fbdb0bb92a:sha256:227e64a0fe9730ef514eadbc2fe7ca9c638b36ac237f20b8845ab02a09285bfc:chars-1729-3022:668dfecfa717282387b56b3defb0d840da777a030787afd96bdc24b4641718ee",
+      "character_start": 1729,
+      "character_end": 3022,
+      "utf8_byte_start": 1733,
+      "utf8_byte_end": 3032,
+      "passage_sha256": "668dfecfa717282387b56b3defb0d840da777a030787afd96bdc24b4641718ee",
+      "reader_fragment": "p-1729-3022-668dfecfa7172823"
+    }
+  ]
+}

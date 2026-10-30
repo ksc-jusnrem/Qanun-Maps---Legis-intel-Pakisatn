@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-055b5dffbe5e4378",
+  "title": "Cotton Cloth and Yarn (Contracts) Ordinance, 1944",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-cJmW-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "fc75ba80649620364c86757a517fca0fd655fcfd692a4f55f08686e666895a5b",
+  "source_sha256": "fc75ba80649620364c86757a517fca0fd655fcfd692a4f55f08686e666895a5b",
+  "text_version_id": "law:pk-code-055b5dffbe5e4378:sha256:fc75ba80649620364c86757a517fca0fd655fcfd692a4f55f08686e666895a5b",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n  \r\n \r\n \r\n \r\nTHE COTTON CLOTH AND YARN (CONTRACTS) ORDINANCE, \r\n1944 \r\n \r\n              \r\n \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n \r\n1.  Short title, extent and commencement \r\n2.  Sales in pursuance of contracts \r\n \r\n  \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE COTTON CLOTH AND YARN (CONTRACTS) ORDINANCE, 1944. \r\n \r\nORDINANCE No. II OF 1944 \r\n[13th January, 1944]  \r\n \r\nAn Ordinance to regulate the prices which may be charged in sales of cotton cloth and yarn under \r\ncontracts. \r\n \r\n WHEREAS an emergency has arisen which makes it necessary to regulate the prices which \r\nmay be charged in sales of cotton cloth and yarn under contracts; \r\n \r\n Now, THEREFORE, in exercise of the powers conferred by section 72 of the Government of \r\nIndia Act, as set out in the Ninth Schedule to the Government of India Act, 1935  (26 Geo 5,c.2), the \r\nGovernor-General is pleased to make and promulgate the following Ordinance:__   \r\n \r\n 1. Short title , extent and commencement .__(1) This Ordinance may be called the Cotton \r\nCloth and Yarn (Contracts) Ordinance, 1944. \r\n \r\n  1[(2) It extends to the whole of Pakistan.] \r\n \r\n (3) It shall come into force at once. \r\n \r\n 2. Sales in pursuance of contracts .__(1) Where after the making of any contract for the sale \r\nof cotton cloth or cotton yarn by one wholesale dealer to another or by a wholesale dealer to a retail \r\ndealer the maximum prices ex-factory and retail at whic h such cloth or yarn may be sold have been \r\nfixed by an order ma de under the Cotton Cloth and Yarn (Control) Order, 1943, then, \r\nnotwithstanding anything to the contrary in such contract, when any delivery takes place in \r\npursuance of that contract on or afte r the date of the said order, the maximum price which may be \r\ncharged for such cloth or ya rn shall not in any case exceed the maximum retail price fixed by the \r\nsaid order, nor shall if in the case of a first or any subsequent sale after delivery from the \r\nmanufacturer exceed by more than a percentage to be fixed in this behalf by the Textile Commis -\r\nsioner the price paid on the occasion of the last preceding transfer, or, if the said order has fixed a \r\nmaximum price in respect of such sale, that maximum price; and where, in pursuance of any such \r\ncontract, the buyer has paid a price exceeding that laid down in this section, whether voluntarily or in \r\nexecution of a decree  passed by a Court or otherwise,  he shall be entitled to receive from the seller \r\nany sum so paid in excess. \r\n \r\n (2) The provisions of this section apply to contracts made whether before or after the \r\ncommencement of this Ordinance, and to sales made in pursuance of any such contract on or after \r\nthe 15th day of August, 1943. \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nDate: 01-07-2024 \r\n \r\n1Subs. by the Central Laws (Statute Reform) Ordinance No. XXI of 1960, s. 3 and 2nd Sch. (with effect from the 14th October, 1955).",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-055b5dffbe5e4378:sha256:fc75ba80649620364c86757a517fca0fd655fcfd692a4f55f08686e666895a5b:chars-0-1740:36e3b37196a9897321e388aa4f6c9141b6431e68b14ba4d8f4cda18c350ccdaf",
+      "character_start": 0,
+      "character_end": 1740,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1740,
+      "passage_sha256": "36e3b37196a9897321e388aa4f6c9141b6431e68b14ba4d8f4cda18c350ccdaf",
+      "reader_fragment": "p-0-1740-36e3b37196a98973"
+    },
+    {
+      "passage_id": "law:pk-code-055b5dffbe5e4378:sha256:fc75ba80649620364c86757a517fca0fd655fcfd692a4f55f08686e666895a5b:chars-1740-2878:e34acd5f517a392f4d963d48f0e2d3a2a4d80eb707a62c5c5a53002e7b1e4162",
+      "character_start": 1740,
+      "character_end": 2878,
+      "utf8_byte_start": 1740,
+      "utf8_byte_end": 2878,
+      "passage_sha256": "e34acd5f517a392f4d963d48f0e2d3a2a4d80eb707a62c5c5a53002e7b1e4162",
+      "reader_fragment": "p-1740-2878-e34acd5f517a392f"
+    }
+  ]
+}

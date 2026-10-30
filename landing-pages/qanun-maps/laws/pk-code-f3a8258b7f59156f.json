@@ -1,0 +1,42 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-f3a8258b7f59156f",
+  "title": "West Pakistan Agricultural Development Finance Corporation (Recovery of Arrears) Act, 1958",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tlbQ%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified. Owned source PDF itself omits short-title words in section 1(1); headings and substantive provisions remain. This is not merely an extraction loss; neither source nor text silently repaired.",
+  "text_sha256": "fb7372e36698606d0ca5b8dca7e7ea7f863bf831b54f284708d40155bf61c626",
+  "source_sha256": "fb7372e36698606d0ca5b8dca7e7ea7f863bf831b54f284708d40155bf61c626",
+  "text_version_id": "law:pk-code-f3a8258b7f59156f:sha256:fb7372e36698606d0ca5b8dca7e7ea7f863bf831b54f284708d40155bf61c626",
+  "quality_flags": [
+    "short_title_clause_omission_present_in_source_pdf"
+  ],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\nTHE WEST PAKISTAN AGRICULTURAL DEVELOPMENT FINANCE \r\nCORPORATION (RECOVERY OF ARREARS) ACT, 1958 \r\n \r\n \r\n \r\n \r\n \r\n \r\nCONTENTS \r\nPreamble \r\n1. Short title, extent and commencement \r\n2. Pledging of property to the Corporation and recovery of its dues \r\n3. Repeal of West Pakistan Ordinance XII of 1957 \r\n  \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE WEST PAKISTAN AGRICULTURAL DEVELOPMENT FINANCE \r\nCORPORATION (RECOVERY OF ARREARS) ACT, 1958 \r\nWEST PAKISTAN ACT No. XVIII of 1958 \r\n[17th April, 1958] \r\nAN  \r\nACT \r\nto provide facilities to the Agricultural Development Finance Corporation for recovering its dues. \r\nPreamble. WHEREAS it is necessary to provide facilities to the Agricultural Development \r\nFinance Corporation for recovering its dues; \r\n(2) It is hereby enacted as follows:__ \r\n1. Short title, extent and commencement. (1) This Act may be called the . \r\n1[(2) It shall extend to the whole of the Province of West Pakistan, except the Tribal Areas.] \r\n(3) It shall come into force at once. \r\n2. Pledging of property to the Corporation and recovery of its dues . (1) Notwithstanding \r\nanything contained in any other law for the time being in force it shall be lawful for any agricultural \r\nconcern, as defined in the Agricultural Development Finance Corporation Act, 1952  (VII of 1952)  \r\n(hereinafter called the said Act) to pledge, mortgage, hypothecate or assign to the Agricultural \r\nDevelopment Finance Corporation (hereinafter called the Corporation) established under the said Act, \r\nany movable or immovable pro perty, in order to secure a loan advanced or to be advanced by the \r\nCorporation under the said Act. \r\n(2) The Corporation shall, in accordance with the provisions of the said Act, be competent to \r\ndeal with and recover its dues by disposal of any property,  pledged, mortgaged, hypothecated or \r\nassigned as aforesaid and nothing contained in any other law shall affect the rights or powers of the \r\nCorporation conferred on it under the provisions of the said Act, or affect anything done or purported \r\nto be done thereunder. \r\n3. Repeal of West Pakistan Ordinance XII of 1957 . The West Pakistan Agricultural \r\nDevelopment Finance Corporation (Recovery of Arrears) Ordinance, 19571 is hereby repealed. \r\n \r\n_______ \r\n \r\nRGN Date: 24-07-2025 \r\n1Subs. by the West Pakistan Laws (Extension to Karachi) Ordinance, 1964 (VII of 1964, s. 2 and Sch.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-f3a8258b7f59156f:sha256:fb7372e36698606d0ca5b8dca7e7ea7f863bf831b54f284708d40155bf61c626:chars-0-1747:6bcfa27bc3bbd0474e6c4ea5bb4397e2fc629ca025108bf4e83c3fc2b2e91b1e",
+      "character_start": 0,
+      "character_end": 1747,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1747,
+      "passage_sha256": "6bcfa27bc3bbd0474e6c4ea5bb4397e2fc629ca025108bf4e83c3fc2b2e91b1e",
+      "reader_fragment": "p-0-1747-6bcfa27bc3bbd047"
+    },
+    {
+      "passage_id": "law:pk-code-f3a8258b7f59156f:sha256:fb7372e36698606d0ca5b8dca7e7ea7f863bf831b54f284708d40155bf61c626:chars-1747-2395:a9e84274a1e8c527c9dbcdf01e56283537a3d8905abfcff42279a8a5700778db",
+      "character_start": 1747,
+      "character_end": 2395,
+      "utf8_byte_start": 1747,
+      "utf8_byte_end": 2395,
+      "passage_sha256": "a9e84274a1e8c527c9dbcdf01e56283537a3d8905abfcff42279a8a5700778db",
+      "reader_fragment": "p-1747-2395-a9e84274a1e8c527"
+    }
+  ]
+}

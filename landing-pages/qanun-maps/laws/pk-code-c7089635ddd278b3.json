@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-c7089635ddd278b3",
+  "title": "Islambad Capital Territory Local Government Elections Ordinance, 2002",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Fta5o%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "d026cd41663ddb966dbcdbefbfac884c1bbbde34645109dce058aa11bc2bb3ec",
+  "source_sha256": "d026cd41663ddb966dbcdbefbfac884c1bbbde34645109dce058aa11bc2bb3ec",
+  "text_version_id": "law:pk-code-c7089635ddd278b3:sha256:d026cd41663ddb966dbcdbefbfac884c1bbbde34645109dce058aa11bc2bb3ec",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE ISLAMBAD CAPITAL TERRITORY LOCAL GOVERNMENT ELECTIONSORDINANCE, 2002\r\nCONTENTS\r\nPREAMBLE.\r\n1 Short title, extent and commencement\r\n2 Amendment of section 15, ordinance lvii of 2002\r\n3 Amendment of section 18, ordinance lvii of 2002\r\nPage 1 of 3\r\n \r\nISLAMABAD CAPITAL TERRITORY LOCAL GOVERNMENT ELECTIONS(AMENDMENT) ORDINANCE, 2002.\r\nORDINANCE CII OF 2002\r\nAn Ordinance to amend the Islamabad Capital Territory Local Government ElectionsOrdinance, 2002.\r\nWHEREAS  it is expedient  to amend  the  Islamabad  Capital  Territory  Local  GovernmentElections Ordinance, 2002 (LVII of 2002), for the purposes hereinafter appearing:\r\nAND WHEREAS the President is satisfied that circumstances exist which render it necessary totake immediate action;\r\nNOW, THEREFORE, in pursuance of the Proclamation of Emergency of the Fourteenth day ofOctober; 1999, the Provisional Constitution Order No. 1 of 1999, read with the ProvisionalConstitution (Amendment) Order No.9 of 1999, and in exercise of all powers enabling him in that behalf,  the  President  of  the  Islamic  Republic  of  Pakistan  is  pleased  to  make  and promulgatethe following Ordinance:\r\n1.  Short  title,  extent  and  commencement.__(1)  This  Ordinance  may  be  called  theIslamabad Capital Territory Local Government Elections (Amendment) Ordinance, 2002.\r\n(2) It shall come into force at once and shall be deemed to have taken effect on the 2nd October,2002.\r\n2. Amendment of section 15, Ordinance LVII of 2002.­­­In the Islamabad Capital TerritoryLocal Government Elections Ordinance, 2002 (LVII of 2002), hereinafter referred to as the saidOrdinance; in section 15, for clause (e) the following shall be substituted, namely:\r\n\"(e) is at least  a graduate  possessing  a bachelor  degree  in any  discipline  or any  degreerecognized as equivalent under any law for the time being in force, for contesting electionof a Nazim or Naib Nazim;\"\r\n3. Amendment of section 18, Ordinance LVII of 2002.­­­In the said Ordinance, in section 18, insubsection (1), in the first proviso, for the figure \"2004\" the figure \"2005\" shall be substituted.\r\n_____\r\nPage 2 of 3\r\nPage 3 of 3",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-c7089635ddd278b3:sha256:d026cd41663ddb966dbcdbefbfac884c1bbbde34645109dce058aa11bc2bb3ec:chars-0-1694:f7319ca5de7d279f6ddeb76dcb94057f08b9035fa783051a8b5e553f7c37f78b",
+      "character_start": 0,
+      "character_end": 1694,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1948,
+      "passage_sha256": "f7319ca5de7d279f6ddeb76dcb94057f08b9035fa783051a8b5e553f7c37f78b",
+      "reader_fragment": "p-0-1694-f7319ca5de7d279f"
+    },
+    {
+      "passage_id": "law:pk-code-c7089635ddd278b3:sha256:d026cd41663ddb966dbcdbefbfac884c1bbbde34645109dce058aa11bc2bb3ec:chars-1694-2135:5f96d04372bb38f848993bc8a5829adc10966edbf63a59e63542aa99afdb82f0",
+      "character_start": 1694,
+      "character_end": 2135,
+      "utf8_byte_start": 1948,
+      "utf8_byte_end": 2465,
+      "passage_sha256": "5f96d04372bb38f848993bc8a5829adc10966edbf63a59e63542aa99afdb82f0",
+      "reader_fragment": "p-1694-2135-5f96d04372bb38f8"
+    }
+  ]
+}

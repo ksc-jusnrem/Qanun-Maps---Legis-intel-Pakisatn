@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-f5d38e858da102e4",
+  "title": "WEST PAKISTAN FOODSTUFFS (CONTROL) (PUNJAB AMENDMENT AND VALIDATION) ORDINANCE, 1971",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/AzZQYgI0Ajo-",
+  "version": null,
+  "source_snapshot": "2026-08-06T17:06:05Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "2db2318e92e2b90f05cfc0e5df5417ae48d4badbd8dbac2de5101ab8ff546aa1",
+  "source_sha256": "2db2318e92e2b90f05cfc0e5df5417ae48d4badbd8dbac2de5101ab8ff546aa1",
+  "text_version_id": "law:punjab-code-f5d38e858da102e4:sha256:2db2318e92e2b90f05cfc0e5df5417ae48d4badbd8dbac2de5101ab8ff546aa1",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE WEST PAKISTAN FOODSTUFFS (CONTROL) \r\n(PUNJAB AMENDMENT AND VALIDATION) ORDINANCE, \r\n1971 \r\n(XXVII of 1971) \r\nCONTENTS \r\n1. Short title and extent \r\n2. Amendment of section 3 of W.P. Act XX of 1958 \r\n3. Validation \r\nTEXT \r\n1\r\nTHE WEST PAKISTAN FOODSTUFFS (CONTROL) (PUNJAB AMENDMENT \r\nAND VALIDATION) ORDINANCE, 1971 \r\n(XXVII of 1971) \r\n[13th December, 1971] \r\nAn \r\nOrdinance \r\nfurther to amend the West Pakistan Foodstuffs (Control) Act, 1958, in its application \r\nto the Province of the Punjab, and to validate certain charges levied thereunder \r\nPreamble.– WHEREAS it is expedient further to amend the West Pakistan \r\nFoodstuffs (Control) Act 1958, in its application to the Province of the Punjab and t o \r\nvalidate the levying of certain charges in the manner hereinafter appearing; \r\n NOW, THEREFORE, in pursuance of the Martial Law Proclamation of 25th \r\nMarch, 1969, read with the Provincial Constitution Order, and in exercise of all powers \r\nenabling him in tha t behalf, the Governor of the Punjab is pleased to make and \r\npromulgate the following Ordinance:- \r\n1. Short title and extent.– (1) This Ordinance may be called the West Pakistan \r\nFoodstuffs (Control) (Punjab Amendment and Validation) Ordinance, 1971. \r\n (2) It extends to whole of the Punjab. \r\n2. Amendment of section 3 of W.P. Act XX of 1958 .– In the West Pakistan \r\nFoodstuffs (Control) Act, 1958, in its application to the Province of the Punjab, \r\nhereinafter referred to as the said Act, in sub -section (2) of section 3, after clause (f) \r\nand before clause (g) the following sub -clause shall be added and shall be deemed \r\nalways to have been so added:- \r\n “(ff) for levying fees or charges to meet the expenses incurred by \r\nGovernment on the administration of this Act.” \r\n3. Validation.– Notwithstanding anything contained in any law for the time being \r\nin force or any judgment, decree or order of any court or other authority or any \r\nproceeding pending before any court or other authority, any charge levied, collected \r\nor realized before the promulgation of this Ordinance, on or from sugar mills, situated \r\nin the areas now forming the Province of the Punjab, as departmental charge shall \r\nbe deemed to have been validly levied, collected or realised, as the case may be, \r\nunder a notified ord er issued under clause (ff) of sub -section (2) of section 3 of the \r\nsaid Act, as added by this Ordinance, and where any such charge has not been \r\npaid, collected or realised before the coming into force of this Ordinance, the same \r\nshall be recoverable as arrears of land revenue.” \r\n                                                 \r\n1This Ordinance was promulgated by the Governor of the Punjab, on 12th December, 1971; published in the Punjab Gazette \r\n(Extraordinary), dated 13th December, 1971, pages 1571 -C to 1571-D; saved by Article 281 of the Interim Constituti on of the \r\nIslamic Republic of Pakistan (1972); and, validated by the Validation of Laws Act, 1975 (LXIII of 1975).",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-f5d38e858da102e4:sha256:2db2318e92e2b90f05cfc0e5df5417ae48d4badbd8dbac2de5101ab8ff546aa1:chars-0-1763:f3006516171a442bc0dfe6b2cddb7e16b6824c885702ade428d75a52249ffb6c",
+      "character_start": 0,
+      "character_end": 1763,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1773,
+      "passage_sha256": "f3006516171a442bc0dfe6b2cddb7e16b6824c885702ade428d75a52249ffb6c",
+      "reader_fragment": "p-0-1763-f3006516171a442b"
+    },
+    {
+      "passage_id": "law:punjab-code-f5d38e858da102e4:sha256:2db2318e92e2b90f05cfc0e5df5417ae48d4badbd8dbac2de5101ab8ff546aa1:chars-1763-2987:2337a74b2b739f8ebeff5182f09104f2a38ad81322a80dcfcbd3d32f4a9ca77b",
+      "character_start": 1763,
+      "character_end": 2987,
+      "utf8_byte_start": 1773,
+      "utf8_byte_end": 3001,
+      "passage_sha256": "2337a74b2b739f8ebeff5182f09104f2a38ad81322a80dcfcbd3d32f4a9ca77b",
+      "reader_fragment": "p-1763-2987-2337a74b2b739f8e"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-235d3c20fa50f831",
+  "title": "Private Military Organizations (Abolition and Prohibition) Act, 1973",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bpuUZWJs-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "e6af43cf68fdf97e3c634ecda109b5aa874c3d6dcb1271d6d0c676111c435944",
+  "source_sha256": "e6af43cf68fdf97e3c634ecda109b5aa874c3d6dcb1271d6d0c676111c435944",
+  "text_version_id": "law:pk-code-235d3c20fa50f831:sha256:e6af43cf68fdf97e3c634ecda109b5aa874c3d6dcb1271d6d0c676111c435944",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 3 \r\n \r\n \r\n \r\nTHE PRIV ATE MILITARY ORGANISATIONS (ABOLITION \r\nAND PROHIBITION) ACT, 1974 \r\n \r\n  \r\n       \r\n        CONTENTS \r\n1.  Short title, extent and commencement \r\n2.  Power to declare organisation illegal \r\n3.  Punishment for forming private military organisation, etc. \r\n4.  Power to make rules \r\n5.  [Omitted] \r\n \r\n \r\n  \r\n\r\n \r\nPage 2 of 3 \r\n \r\nTHE PRIV ATE MILITARY ORGANISATIONS (ABOLITION AND \r\nPROHIBITION) ACT, 1973 \r\nACT NO. IV OF 1974 \r\n[24th December, 1973] \r\nAn Act to abolish, and provide a penalty for the formation of, certain organisations prohibited by the \r\nConstitution \r\nWHEREAS Article 256 of the Constitution of the Islamic Republic of Pakistan prohibits the \r\nformation of a private organisation capable of functioning as a military organisation and declares such \r\norganisation illegal; \r\nAND WHEREAS it is necessary to abolish, and provide a penalty for the formation of, such \r\norganisation; \r\nIt is hereby enacted as follows:— \r\n1. Short title, extent and commencement .___(1) This Act may be called the Private Military \r\nOrganisations (Abolition and Prohibition) Act, 1973. \r\n(2) It extends to the whole of Pakistan. \r\n(3) It shall come into force at once. \r\n2. Power to declare organisation illegal.___(1) If the Federal Government is satisfied that any \r\nprivate organisation is capable of functioning as a military organisation in violation of the prohibition \r\nin Article 256 of the Constitution, the Federal Government may, by notification published in the official \r\nGazette, direct that the organisation shall stand abolished forthwith. \r\n(2) Every such notification shall specify the grounds on which it is issued: \r\nProvided that nothing in this sub-section shall require the Federal Government to disclose any \r\nfact which it considers to be against the public interest to disclose. \r\nExplanation.— For the purposes of this section and section 3, an organisation shall be deemed \r\nto be capable of functioning as a military organisation if it is organised, trained or equipped so as to be \r\ncapable of being employed for the use or display of physical force in promoting or attaining any object. \r\n3. Punishment for forming private military organisation, etc. ___Whoever— \r\n(a)  forms, organises, trains or equips a private organisation capable of functioning \r\nas a military organisation, or is a member or adherent, or takes part in the \r\nactivities, of any such organisation; or \r\n  \r\n \r\nPage 3 of 3 \r\n \r\n \r\n (b)  is a member or adherent, or takes part in the activities, of any organisation in \r\nrespect of which a notification under section 2 has been issued; \r\nshall be punishable with imprisonment for a term which may extend to five years and with fine. \r\n4. Power to make rules . ___The Federal Government may, by notification in the official \r\nGazette, make rules to carry out the purposes of this Act. \r\n5. 1[Omitted] \r\n \r\n___________ \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nRGN Date: 21-05-2024 \r\n1Omitted by Federal Laws (Revision and Declaration) Ordinance No. XXVII of 1981, sch.II.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-235d3c20fa50f831:sha256:e6af43cf68fdf97e3c634ecda109b5aa874c3d6dcb1271d6d0c676111c435944:chars-0-1765:2e0823e73ef45cbb8300398a096cfe9e59fa42bb143e548d70ea8d1d572722b7",
+      "character_start": 0,
+      "character_end": 1765,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1767,
+      "passage_sha256": "2e0823e73ef45cbb8300398a096cfe9e59fa42bb143e548d70ea8d1d572722b7",
+      "reader_fragment": "p-0-1765-2e0823e73ef45cbb"
+    },
+    {
+      "passage_id": "law:pk-code-235d3c20fa50f831:sha256:e6af43cf68fdf97e3c634ecda109b5aa874c3d6dcb1271d6d0c676111c435944:chars-1765-3060:faa22405aa3a5c12cb5a31d024b8c4abd1d8e6ff7de353d08f11e2d4d2f0898b",
+      "character_start": 1765,
+      "character_end": 3060,
+      "utf8_byte_start": 1767,
+      "utf8_byte_end": 3066,
+      "passage_sha256": "faa22405aa3a5c12cb5a31d024b8c4abd1d8e6ff7de353d08f11e2d4d2f0898b",
+      "reader_fragment": "p-1765-3060-faa22405aa3a5c12"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-ac81468ede8e2534",
+  "title": "BAHAWALPUR COTTON CONTROL (VALIDATION OF LEVY OF FEES) ORDINANCE, 1967",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VmNWY1NmUGU-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:18:20Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "3434dfab423cc7df3854729435dcb6d539b82e7590454749ff00573b9848aa3a",
+  "source_sha256": "3434dfab423cc7df3854729435dcb6d539b82e7590454749ff00573b9848aa3a",
+  "text_version_id": "law:punjab-code-ac81468ede8e2534:sha256:3434dfab423cc7df3854729435dcb6d539b82e7590454749ff00573b9848aa3a",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE BAHAWALPUR COTTON CONTROL (VALIDATION OF \r\nLEVY OF FEES) ORDINANCE, 1967 \r\n(I of 1967) \r\nCONTENTS \r\n1. Short title and extent. \r\n2. Validation of levy of fees, etc. from occupiers of cotton factories, etc. \r\n \r\nTEXT \r\n1\r\nTHE BAHAWALPUR COTTON CONTROL (VALIDATION OF LEVY OF \r\nFEES) ORDINANCE, 1967 \r\n(I of 1967) \r\n[23 May 1967] \r\nAn \r\nOrdinance \r\nto validate the levy, charging, collection and realization of fees under the Bahawalpur \r\nCotton (Control) Act, 1949, from the occupiers of cotton factories, cotton dealers and \r\nmanagers of companies. \r\nPreamble.– WHEREAS it is expedient to validate the levy, charging, collection and \r\nrealization of fees under the Bahawalpur Cotton (Control) Act, 1949, from the \r\noccupiers of cotton ginni ng, cotton pressing and cotton seed oil factories, cotton \r\ndealers and managers of companies in certain areas of West Pakistan, for the period \r\nfrom 27th November, 1949 to 8th May, 1954; \r\n AND, WHEREAS, the Provincial Assembly of West Pakistan is not in sessi on \r\nand the Governor of West Pakistan is satisfied that circumstances exis t which render \r\nimmediate legislation necessary; \r\n NOW, THEREFORE, in exercise of the powers conferred on him by clause (1) \r\nof Article 79 of the Constitution, the Governor of West Pakis tan is pleased to make \r\nand promulgate the following Ordinance:– \r\n1. Short title and extent .– (1) This Ordinance may be called the Bahawalpur \r\nCotton Control (Validation of Levy of Fees) Ordinance, 1967. \r\n (2) It extends to the Districts of Bahawalpur, Bahawal nagar and Rahimyar \r\nKhan. \r\n2. Validation of levy of fees, etc. from occupie rs of cotton factories, etc .– \r\nNotwithstanding anything contained in clause (p) of section 30 of the Bahawalpur \r\nCotton (Control) Act, 1949, before its amendment by the Bahawalpur Cotto n \r\n(Control) (Amendment) Act, 1954, or any judgment or decree of any Court , the fees \r\nlevied, charged, collected or realized from the occupiers of cotton ginning, cotton \r\npressing or cotton seed oil factories, cotton dealers or managers of companies for \r\nthe p eriod from 27 th November, 1949 to 8 th May, 1954, in accordance with the \r\nprovisions of the said clause (p) as substituted by the Bahawalpur Cotton (Control) \r\n(Amendment) Act, 1954, shall be deemed to have been validly levied, charged, \r\ncollected or realised, as the case may be, and where any such fees have not been \r\npaid or realize d before the coming into force of this Ordinance, the same shall be \r\nrecoverable in accordance with the provisions of the said clause (p) as substituted by \r\nthe Bahawalpur Cotton (Control) (Amendment) Act, 1954. \r\n \r\n1This Ordinance was promulgated by the Governo r of West Pakistan on February  6, 1967, published in the Gazette of West \r\nPakistan (Extraordinary), dated May 23, 1967, pp. 1415-A-1415-B; and approved by the Provincial Assembly of West Pakistan \r\non May 23, 1967, under clause (3) of Article 79 of the Constitution of the Islamic Republic of Pakistan (1962).",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-ac81468ede8e2534:sha256:3434dfab423cc7df3854729435dcb6d539b82e7590454749ff00573b9848aa3a:chars-0-1734:4bbffcef51504a230fbe9363ac1a3d75a4780e431467407bb242ff72450f2034",
+      "character_start": 0,
+      "character_end": 1734,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1742,
+      "passage_sha256": "4bbffcef51504a230fbe9363ac1a3d75a4780e431467407bb242ff72450f2034",
+      "reader_fragment": "p-0-1734-4bbffcef51504a23"
+    },
+    {
+      "passage_id": "law:punjab-code-ac81468ede8e2534:sha256:3434dfab423cc7df3854729435dcb6d539b82e7590454749ff00573b9848aa3a:chars-1734-2990:127924d60aa3a30c3bfd8a30dbeb5adb71b7d8dc62db0decb5860915b573bd4b",
+      "character_start": 1734,
+      "character_end": 2990,
+      "utf8_byte_start": 1742,
+      "utf8_byte_end": 2998,
+      "passage_sha256": "127924d60aa3a30c3bfd8a30dbeb5adb71b7d8dc62db0decb5860915b573bd4b",
+      "reader_fragment": "p-1734-2990-127924d60aa3a30c"
+    }
+  ]
+}

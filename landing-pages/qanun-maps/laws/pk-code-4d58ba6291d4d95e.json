@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-4d58ba6291d4d95e",
+  "title": "Dormant Funds (Administration) Act, 1966",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-cJuU-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "926f7eaba3ba6774caccd708e3e8e86f1e720a7f0159a1cd05e6fc11886f6169",
+  "source_sha256": "926f7eaba3ba6774caccd708e3e8e86f1e720a7f0159a1cd05e6fc11886f6169",
+  "text_version_id": "law:pk-code-4d58ba6291d4d95e:sha256:926f7eaba3ba6774caccd708e3e8e86f1e720a7f0159a1cd05e6fc11886f6169",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\n THE DORMANT FUNDS (ADMINISTRATION) ACT, 1966 \r\n \r\n \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Vesting of dormant funds in the President and their utilisation \r\nSCHEDULE \r\n \r\n  \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE DORMANT FUNDS (ADMINISTRATION) ACT, 1966 \r\nACT No. XX OF 1966 \r\n[19th December, 1966] \r\nAn Act to provide for the administration of certain dormant funds and matters connected therewith \r\nWHEREAS certain funds raised by public subscriptions and donations have bee n lying \r\ndormant ; \r\nAND WHEREAS it is expedient to make provision for the administration and proper utilization \r\nand disposal of those funds ; \r\nAND WHEREAS the national interest of Pakistan in relation to the achievement of uniformity \r\nwithin the meaning of clause (2) of Article 131 of the Constitution requires Central Legislation in the \r\nmatter ; \r\nIt is hereby enacted as follows :— \r\n1. Short title and commencement .__ (1) This Act may be called the Dormant Funds \r\n(Administration) Act, 1966. \r\n(2)  It shall come into force at once. \r\n2. Vesting of dormant funds in the President and their utilisation. — (1) \r\nNotwithstanding anything contained in any other law or instrument, the funds specified in the \r\nSchedule, together with interest and profit accruing thereon, shall vest forthwith in the President. \r\n(2) The amounts in the aforesaid funds, other than that in the Palestine Aid Fund, shall be \r\ntransferred to the President ’s Relief Fund instituted on the 16th May, 1965, and shall be utilised for \r\npurposes of relief or for purposes as nearly as possible, to those for which they were raised. \r\n(3) The amount in the Palestine Aid Fund shall be utilised for the Palestine cause. \r\n___________ \r\n \r\nTHE SCHEDULE \r\nName of the Fund Rs. \r\n(1) Quaid­e­Azam Bihar Relief Fund 41,82,659.33 \r\n(2) Palestine Aid Fund 7,06,151.36 \r\n(3) Prime Minister's Refugee Hut Building Fund 3,09,254.30 \r\n(4) Pakistan Fund 6,00,000.00 \r\n(5) Muslim League Fund (India) 6,00,000.00 \r\nRGN Date:-29.03.2024",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-4d58ba6291d4d95e:sha256:926f7eaba3ba6774caccd708e3e8e86f1e720a7f0159a1cd05e6fc11886f6169:chars-0-1764:37cdfb45c1456b7c7897d07afaf33ccf1b191af9f3a12e9587db855870798da9",
+      "character_start": 0,
+      "character_end": 1764,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1773,
+      "passage_sha256": "37cdfb45c1456b7c7897d07afaf33ccf1b191af9f3a12e9587db855870798da9",
+      "reader_fragment": "p-0-1764-37cdfb45c1456b7c"
+    },
+    {
+      "passage_id": "law:pk-code-4d58ba6291d4d95e:sha256:926f7eaba3ba6774caccd708e3e8e86f1e720a7f0159a1cd05e6fc11886f6169:chars-1764-2009:f76ed97077e3d43fa425713243e500532159cc62f2151bbd088b9d01dda02313",
+      "character_start": 1764,
+      "character_end": 2009,
+      "utf8_byte_start": 1773,
+      "utf8_byte_end": 2020,
+      "passage_sha256": "f76ed97077e3d43fa425713243e500532159cc62f2151bbd088b9d01dda02313",
+      "reader_fragment": "p-1764-2009-f76ed97077e3d43f"
+    }
+  ]
+}

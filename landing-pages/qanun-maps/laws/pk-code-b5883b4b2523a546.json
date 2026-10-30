@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-b5883b4b2523a546",
+  "title": "West Pakistan Agricultural Bank (Recovery of Dues) Ordinance, 1959",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tlbw%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "8f8df401e6f1fdeefefd05781af56c6ab85ef17b22de4747a8d5bc4a8df7f14d",
+  "source_sha256": "8f8df401e6f1fdeefefd05781af56c6ab85ef17b22de4747a8d5bc4a8df7f14d",
+  "text_version_id": "law:pk-code-b5883b4b2523a546:sha256:8f8df401e6f1fdeefefd05781af56c6ab85ef17b22de4747a8d5bc4a8df7f14d",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\nTHE WEST PAKISTAN AGRICULTURAL BANK (RECOVERY OF \r\nDUES) ORDINANCE, 1959 \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n \r\nPreamble \r\n1. Short title and extent \r\n2.  Pledging of property to the Bank and recovery of its dues \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE WEST PAKISTAN AGRICULTURAL BANK (RECOVERY OF \r\nDUES) ORDINANCE, 1959 \r\nWEST PAKISTAN ORDINANCE No. VII of 1959 \r\n[24th March, 1959] \r\nAN \r\nORDINANCE \r\nto provide facilities to the Agricultural Bank for recovering its dues. \r\nPreamble. WHEREAS it is expedient to provide facilities to the Agricultural Bank for \r\nrecovering its dues; \r\nNOW, THEREFORE, in pursuance of the Presidential Proclamation of the seventh day of \r\nOctober, 1958, and in exercise of all powers enabling him in that behalf, the Governor of West Pakistan \r\nis pleased to make and promulgate the following Ordinance:__ \r\n1. Short title and extent . (1) This Ordinance may be called the West Pakistan Agricultural \r\nBank (Recovery of Dues) Ordinance, 1959. \r\n1[(2) It extends to the whole of 2[Pakistan].] \r\n2. Pledging of property to the Bank and recovery of its dues. (1) Notwithstanding anything \r\ncontained in any other law for the time being in force, it shall be lawful for any agriculturist or co -\r\noperative society as defined in section 2 of the Agricultural Bank Act, 1957  (XXIII of 1957)  \r\n(hereinafter called the said A ct), or other body corporate of which the majority of members are \r\nagriculturists to pledge, mortgage, hypothecate or assign to the Agricultural Bank (hereinafter called \r\nthe Bank) established under the said Act, any movable or immovable property, in order t o secure a \r\nloan advanced or to be advanced by the Bank under the said Act. \r\n(2) The Bank shall, in accordance with the provisions of the said Act, be competent to recover \r\nits dues by disposal of any property pledged, mortgaged, hypothecated or assigned as a foresaid and \r\nnothing contained in any other law shall affect the rights or powers of the Bank conferred on it under \r\nthe provisions of the said Act, or affect anything done or purported to be done thereunder. \r\n \r\n \r\n \r\n \r\n \r\nRGN Dated: 01-08-2025 \r\n1Subs. by the West Pakistan Laws (Extension to Karachi) Ordinance, 1964 (VII of 1964), s.2 and Sch. \r\n2Subs. by the Federal Adaptation of Laws Order, 1975 (P.O. 4 of 1975), Art.2 and Sch.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-b5883b4b2523a546:sha256:8f8df401e6f1fdeefefd05781af56c6ab85ef17b22de4747a8d5bc4a8df7f14d:chars-0-1711:4168241c9b6c0dbd2e4447c91c347844f9dc9a9558a8b6122c16b51ea2d61811",
+      "character_start": 0,
+      "character_end": 1711,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1711,
+      "passage_sha256": "4168241c9b6c0dbd2e4447c91c347844f9dc9a9558a8b6122c16b51ea2d61811",
+      "reader_fragment": "p-0-1711-4168241c9b6c0dbd"
+    },
+    {
+      "passage_id": "law:pk-code-b5883b4b2523a546:sha256:8f8df401e6f1fdeefefd05781af56c6ab85ef17b22de4747a8d5bc4a8df7f14d:chars-1711-2335:d4b2c008f0b0bb116c6056ebe3e5e2085c16e01dedabedef564b263019b260de",
+      "character_start": 1711,
+      "character_end": 2335,
+      "utf8_byte_start": 1711,
+      "utf8_byte_end": 2335,
+      "passage_sha256": "d4b2c008f0b0bb116c6056ebe3e5e2085c16e01dedabedef564b263019b260de",
+      "reader_fragment": "p-1711-2335-d4b2c008f0b0bb11"
+    }
+  ]
+}

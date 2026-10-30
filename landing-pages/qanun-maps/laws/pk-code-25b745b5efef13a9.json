@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-25b745b5efef13a9",
+  "title": "Discontinuance of Medical Reimbursement Act, 1972",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bpuUY2Nx-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "d7d8d77b8ee28ae7f4bda72dd5e50ba2922a54924a57bebb4710999b868f4e75",
+  "source_sha256": "d7d8d77b8ee28ae7f4bda72dd5e50ba2922a54924a57bebb4710999b868f4e75",
+  "text_version_id": "law:pk-code-25b745b5efef13a9:sha256:d7d8d77b8ee28ae7f4bda72dd5e50ba2922a54924a57bebb4710999b868f4e75",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\nTHE DISCONTINUANCE OF MEDICAL REIMBURSEMENT ACT, \r\n1972 \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title, extent and commencement \r\n2.  Discontinuance of reimbursement of medical expenses \r\n3.  Supply of medicines under certain conditions \r\n4.  [Omitted] \r\n \r\n \r\n  \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE DISCONTINUANCE OF MEDICAL REIMBURSEMENT ACT, 1972 \r\nACT No. XXV OF 1972 \r\n[25th September, 1972]  \r\n An Act for the discontinuance of reimbursement of medical expenses incurred by \r\nGovernment servants and certain other employees \r\n WHEREAS it is expedient to discontinue reimbursement of medical expenses incurred by \r\nGovernment servants and employees of other bodies in the manner hereinafter appearing;  \r\n AND WHEREAS the Proclamation of Emergency referr ed to in  clause (8) of Article 139 of \r\nthe Interim Constitution of the Islamic Republic of Pakistan is in force;  \r\nIt is hereby enacted as follows:― \r\n 1. Short title, extent and commencement. —(1) This Act may be called the Discontinuance \r\nof Medical Reimbursement Act, 1972.  \r\n(2) It extends to the whole of Pakistan.  \r\n (3) It shall come into force at once and shall be deem ed to have taken effect on the 1st day of \r\nJuly, 1972.  \r\n (4) It shall apply to—  \r\n(i)  all employees of the Federal and Provincial Governments whether serving in \r\nconnection with affairs of the Federation or of a Provi nce or on deputation to \r\npublic corporations or statutory bodies; and  \r\n(ii)  all other employees of public corporations and statutory bodies.  \r\n 2. Discontinuance of reimbursement of medical expenses. Notwithstanding anything \r\ncontained in any law, rule, order or any instrument or contract, but subject to the provisions of section \r\n3, no employee to whom this Act applies shall be entitled to claim re imbursement for any medicine \r\npurchased by him for the treatment of himself or any member of his family, whether the medicines are \r\nprescribed by the authorised medical attendant or other medical authority.  \r\n 3. Supply of medicines under certain conditions. An employee to whom this Act applies \r\nmay be allowed to get medicines prescribed for him or any member of his family by the authorised \r\nmedical attendant in accordance with any rules or orders made by his employer and within the limits \r\nof the funds allocated  for the purpose in the budget of the department or body under which he is \r\nemployed.  \r\n 4. 1[Omitted]  \r\n \r\nRGN Date:-23.04.2024 \r\n 1Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and Sch., II.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-25b745b5efef13a9:sha256:d7d8d77b8ee28ae7f4bda72dd5e50ba2922a54924a57bebb4710999b868f4e75:chars-0-1713:c5353fbc8d4a1313b59d55ec113ba9cd316e4e48180ef42685b9354d2c53593c",
+      "character_start": 0,
+      "character_end": 1713,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1719,
+      "passage_sha256": "c5353fbc8d4a1313b59d55ec113ba9cd316e4e48180ef42685b9354d2c53593c",
+      "reader_fragment": "p-0-1713-c5353fbc8d4a1313"
+    },
+    {
+      "passage_id": "law:pk-code-25b745b5efef13a9:sha256:d7d8d77b8ee28ae7f4bda72dd5e50ba2922a54924a57bebb4710999b868f4e75:chars-1713-2550:6e61ba8b1b3ea2e6d0d06b2bec05061d9edcbd00fc52efd278f4652da4b460a9",
+      "character_start": 1713,
+      "character_end": 2550,
+      "utf8_byte_start": 1719,
+      "utf8_byte_end": 2556,
+      "passage_sha256": "6e61ba8b1b3ea2e6d0d06b2bec05061d9edcbd00fc52efd278f4652da4b460a9",
+      "reader_fragment": "p-1713-2550-6e61ba8b1b3ea2e6"
+    }
+  ]
+}

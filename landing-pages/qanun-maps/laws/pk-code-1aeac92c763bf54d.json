@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-1aeac92c763bf54d",
+  "title": "Government Trading Taxation Act, 1926",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-ap6a-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "8545c5edcfea12ce461f2ad03872a862bde046596fe1c898d07057c716ab7f76",
+  "source_sha256": "8545c5edcfea12ce461f2ad03872a862bde046596fe1c898d07057c716ab7f76",
+  "text_version_id": "law:pk-code-1aeac92c763bf54d:sha256:8545c5edcfea12ce461f2ad03872a862bde046596fe1c898d07057c716ab7f76",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n  \r\n \r\n \r\n \r\n \r\n \r\nTHE GOVERNMENT TRADING TAXATION ACT, 1926 \r\n \r\n \r\n \r\nCONTENTS \r\n \r\n1.  Short title and commencement \r\n \r\n2.  Liability of Provincial Governments to taxation in respect of trading operations \r\n  \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\n \r\nPage 2 of 2 \r\n \r\nTHE GOVERNMENT TRADING TAXATION ACT, 1926 \r\n \r\nACT No. III OF 1926 \r\n \r\n[24th February, 1926] \r\n \r\nAn Act to determine the liability of certain Governments to taxation in 1[Pakistan] in respect \r\nof trading operations. \r\n \r\n  WHEREAS it is expedient to determine the liability to taxation for the time being in force in \r\n1[Pakistan] of 3[* * *] 4[the Government of a Province of Pakistan] in respect of any trade or business \r\ncarried on by or on behalf of such Government; \r\n \r\n It is hereby enabled as follow:⸻ \r\n \r\n 1. Short title and commencement .___(1) This Act may be called the Government Tradin g \r\nTaxation Act, 1926. \r\n \r\n (2) It shall come into force on such date as the 5[Federal Government] may, by notification in \r\nthe 6[official Gazette], appoint. \r\n \r\n  2[2. Liability of Provincial Government s to taxation in respect of trading \r\noperations.⸻Where a trade or business of any kind is carried on by or on behalf of the Government \r\nof a Province outside that Province, that Government shall, in respect of the trade or business and all \r\noperations connected therewith and all income arising in connection therewi th and all property \r\noccupied for the purposes thereof, b e liable to taxation under the I ncome Tax Ordinance , 1979  \r\n(XXXI of 1979), in the same manner and to the same extent as in the like case a company would  be \r\nliable.] \r\n \r\n__________ \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nDate: 24-03-2025 \r\n 1Subs. by the Central Laws (Statute Reform) Ordinance, 1960 (XXI of 1960), s. 3 and 2nd Sch. (with effect from the 14th of October, 1955).  \r\n 2Subs. by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and Sch., II. \r\n 3Omitted by the Central Adaptation of Laws Order, 1964 (P. O. No. 1 of 1964), s. 2 and Sch.  \r\n 4Ins. by the Finance Act, 1956 (I of 1956), s. 12. \r\n 5Subs, by the Federal Adaptation of Laws Order, 1975 (P. O. No. 4 of 1975), Art. 2 and Table. \r\n 6Subs. by Adaptation Order, 1937.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-1aeac92c763bf54d:sha256:8545c5edcfea12ce461f2ad03872a862bde046596fe1c898d07057c716ab7f76:chars-0-1727:57a1da57b94469cfd78d54ef95a46f4157787ab63c46e17238ec87034ec78134",
+      "character_start": 0,
+      "character_end": 1727,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1731,
+      "passage_sha256": "57a1da57b94469cfd78d54ef95a46f4157787ab63c46e17238ec87034ec78134",
+      "reader_fragment": "p-0-1727-57a1da57b94469cf"
+    },
+    {
+      "passage_id": "law:pk-code-1aeac92c763bf54d:sha256:8545c5edcfea12ce461f2ad03872a862bde046596fe1c898d07057c716ab7f76:chars-1727-2260:5176b3aa4b863f97cc981667aff80a1055145a8ceadf12552c0fa918223ae505",
+      "character_start": 1727,
+      "character_end": 2260,
+      "utf8_byte_start": 1731,
+      "utf8_byte_end": 2264,
+      "passage_sha256": "5176b3aa4b863f97cc981667aff80a1055145a8ceadf12552c0fa918223ae505",
+      "reader_fragment": "p-1727-2260-5176b3aa4b863f97"
+    }
+  ]
+}

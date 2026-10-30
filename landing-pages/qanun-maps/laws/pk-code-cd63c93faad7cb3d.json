@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-cd63c93faad7cb3d",
+  "title": "United Nations (Security Council) Act, 1948",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npappm-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "12adf96f3e88f54ed174c0c903fff25d7439ff0a0df023fdec021b9f80daf43b",
+  "source_sha256": "12adf96f3e88f54ed174c0c903fff25d7439ff0a0df023fdec021b9f80daf43b",
+  "text_version_id": "law:pk-code-cd63c93faad7cb3d:sha256:12adf96f3e88f54ed174c0c903fff25d7439ff0a0df023fdec021b9f80daf43b",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE UNITED NATIONS (SECURITY COUNCIL) ACT, 1948 \r\n(ACT XIV of 1948) \r\n \r\n  \r\n \r\nCONTENTS \r\n \r\n1.   Short title. \r\n2.  Measures under Art. 41 of the Charter of the United Nations. \r\n3.  Indemnity. \r\n4.  Power to Make Rules. \r\n5.  Delegation. \r\nUpdated till 15.10.2021 \r\n \r\n \r\n \r\nTHE UNITED NATIONS (SECURITY COUNCIL) ACT, 1948. \r\n \r\n1ACT NO. XIV OF 1948 \r\n \r\n[11th June, 1948] \r\n \r\nAn Act to enable effect to be given to certain provisions of the Charter of the United Nations. \r\n \r\nWHEREAS; It is expedient to enable effect to be given to certain provisions of the  Charter of the \r\nUnited Nations; It is hereby enacted as follows:― \r\n \r\n1. Short title.―This Act may be called the United Nations (Security Council) Act, 1948. \r\n \r\n2. Measures under Art. 41 of the Charter of the United Nations. ― If, under Article 41 of the \r\nCharter of the United Nations signed at San Francisco on the 26th  day of June 1945, the Security \r\nCouncil of the United Nations calls upon the 2[Federal Government] to apply any measures, not \r\ninvolving the use of armed force, to give effect  to any decision of that Council, the 2[Federal \r\nGovernment] may, by order published in    the official Gazette, make such provisions (including \r\nprovisions having extra-territorial operation) as appear to it necessary or expedient for enabling those \r\nmeasures to be effectively applied.3[* * * * * * *]  \r\n \r\n4[3.Indemnity.―No suit, prosecution or other legal proceedings shall lie against any person in \r\nrespect of anything which is in good faith done or intended to be done under this Act. \r\n \r\n4. Power to make rules.―The Federal Government may, by notification in the official Gazette, \r\nmake rules for carrying out the purposes of this Act. \r\n \r\n5. Delegation.―The Federal Government may, by order, delegate to a Pakistani person, entity \r\nor authority, subject to such conditions as may be specified therein, all or any of the powers exercisable \r\nby it under this Act.] \r\n \r\n \r\n \r\n__________ \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n1For Statement of Objects and Reasons, see Gazette of India, 1947, Pt., V.p.271 \r\n \r\nThis Act has been applied to Baluchistan, see Gaz. of P., 1953, Pt. I,p. 8 and also applied in the Federated Areas of  Baluchistan, see Gaz. of P.1953, Pt. I, p. \r\n152. It has also been extended to the Leased Areas of Baluchistan, see the Leased Areas (Law) Order, (G.G.O.3 of 1950.) \r\n \r\n2Subs. By F.A.O 1975, Art. 2 and Table, for “Central Government”. \r\n \r\n3Omitted vide amendment United Nations (Security Council) (Amendment) Act, 2020 dated 31 July 2020 (ACTXXI  of 2020) “and without prejudice to the \r\ngenerality of the foregoing power, provision may be made for the punishment of persons offending against the order”. \r\n \r\n4Inserted vide amendment United Nations (Security Council) (Amendment) Act, 2020(ACTXXI of 2020 dated 31 July 2020",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-cd63c93faad7cb3d:sha256:12adf96f3e88f54ed174c0c903fff25d7439ff0a0df023fdec021b9f80daf43b:chars-0-1728:e1aaf8f58714bcfd6277a7637bdb08cc8faad3c015c937c294b80da9e7ded6ef",
+      "character_start": 0,
+      "character_end": 1728,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1738,
+      "passage_sha256": "e1aaf8f58714bcfd6277a7637bdb08cc8faad3c015c937c294b80da9e7ded6ef",
+      "reader_fragment": "p-0-1728-e1aaf8f58714bcfd"
+    },
+    {
+      "passage_id": "law:pk-code-cd63c93faad7cb3d:sha256:12adf96f3e88f54ed174c0c903fff25d7439ff0a0df023fdec021b9f80daf43b:chars-1728-2829:6fb24cb1bfb329f6ee09909a24e537bc56e508e41ac9fbb40f58e426c63b075d",
+      "character_start": 1728,
+      "character_end": 2829,
+      "utf8_byte_start": 1738,
+      "utf8_byte_end": 2849,
+      "passage_sha256": "6fb24cb1bfb329f6ee09909a24e537bc56e508e41ac9fbb40f58e426c63b075d",
+      "reader_fragment": "p-1728-2829-6fb24cb1bfb329f6"
+    }
+  ]
+}

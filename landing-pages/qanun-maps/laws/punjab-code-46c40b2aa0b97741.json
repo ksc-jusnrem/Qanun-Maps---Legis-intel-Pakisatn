@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-46c40b2aa0b97741",
+  "title": "PUNJAB FINANCE ACT 1999",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BjMCMFZiV2I-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:55:28Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "20f8649de9ee86fa47785a7832b8bee274ca266eb21f4128f338e04343f497cc",
+  "source_sha256": "20f8649de9ee86fa47785a7832b8bee274ca266eb21f4128f338e04343f497cc",
+  "text_version_id": "law:punjab-code-46c40b2aa0b97741:sha256:20f8649de9ee86fa47785a7832b8bee274ca266eb21f4128f338e04343f497cc",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB FINANCE ACT 1999 \r\n(IX of 1999) \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Amendment of Act II of 1899 \r\n3. Amendment of Act XV of 1977 \r\n \r\nTEXT \r\n1\r\nTHE PUNJAB FINANCE ACT 1999 \r\n(IX of 1999) \r\n[26th June, 1999] \r\nAn \r\nAct \r\nto reduce the rates of stamp duty and revise certain taxes in the Punjab. \r\nPreamble.– Whereas it is expedient to reduce the rates of stamp duty and revise \r\ncertain taxes in the Punjab; \r\n It is hereby enacted as follows:– \r\n1. Short title and commencement .– (1) This Act may be called the Punjab \r\nFinance Act 1999. \r\n (2) It shall come into force on and from the first day of July 1999. \r\n2. Amendment of Act II of 1899 .– In the Stamp Act, 1899 (II of 1899), in \r\nSchedule– \r\n (1) in Article 23, for sub -articles (a), (b) and (c), the following shall be \r\nsubstituted– \r\n“(a) in the case of \r\nagricultural land \r\nfour rupees for every one hundred rupees \r\nor part thereof of the value of the land; \r\n(b) in the case of \r\nimmovable property in \r\nan urban area \r\nfive rupees for every one hundred rupees \r\nor part thereof of the value of the property; \r\nand \r\n(c) in any other case four rupees for every one hundred rupees \r\nor part thereof of the value of the \r\nproperty.”; \r\n (2) in Article 31– \r\n(i) in sub-article (b), for the words “Eight rupees”, the words “Five \r\nrupees” shall be substituted; and \r\n(ii) in sub -article (c), for the words “Five rupees”, the words “Four \r\nrupees” shall be substituted.”; and \r\n (3) in Article 33– \r\n(i) in sub-article (a), in clause (ii), for the words “Five rupees”, the \r\nwords “Four rupees” shall be substituted; \r\n                                                           \r\n1This Act was passed by the Punjab Assembly on 24th June, 1999; assented to by the Acting Governor of the Punjab on 25th \r\nJune, 1999; and, was published in the Punjab Gazette (Extraordinary), dated 26th June, 1999, pages 755 to 756. \r\n(ii) in sub-article (b), in clause (ii), for the words “Seven rupees”, the \r\nwords “Four rupees” shall be substituted; and \r\n(iii) in sub -article (c), for the words “Six rupees”, the words “Four \r\nrupees” shall be substituted. \r\n3. Amendment of Act XV of 1977 .– In the Punjab Finance Act, 1977 (XV of \r\n1977), in the Second Schedule, for the existing serial numbers 1 and 1 -A, the  \r\nfollowing shall be substituted– \r\n“S.No. Class of Persons Rate of tax per \r\nannum \r\n1 2 3 \r\n1. Companies registered under the Companies Ordinance, \r\n1984 with paid up capital– \r\n \r\n  (i) not exceeding rupees 10 million Rs.10,000.00 \r\n \r\n(ii) exceeding rupees 10 million but not \r\nexceeding rupees 25 million \r\nRs.30,000.00 \r\n \r\n(iii) exceeding rupees 25 million but not \r\nexceeding rupees 50 million \r\nRs.70,000.00 \r\n \r\n (iv) exceeding rupees 50 million Rs.1,00,000.00”.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-46c40b2aa0b97741:sha256:20f8649de9ee86fa47785a7832b8bee274ca266eb21f4128f338e04343f497cc:chars-0-1792:629a2b80f321a63ea4ad8464bdc1cb32aa21b48b73ca5ce8ef7619a6d5ece696",
+      "character_start": 0,
+      "character_end": 1792,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1838,
+      "passage_sha256": "629a2b80f321a63ea4ad8464bdc1cb32aa21b48b73ca5ce8ef7619a6d5ece696",
+      "reader_fragment": "p-0-1792-629a2b80f321a63e"
+    },
+    {
+      "passage_id": "law:punjab-code-46c40b2aa0b97741:sha256:20f8649de9ee86fa47785a7832b8bee274ca266eb21f4128f338e04343f497cc:chars-1792-2762:978239f5c2604a3449874971a5c06dba10529dc22e22628c5fefa02650e521e1",
+      "character_start": 1792,
+      "character_end": 2762,
+      "utf8_byte_start": 1838,
+      "utf8_byte_end": 2834,
+      "passage_sha256": "978239f5c2604a3449874971a5c06dba10529dc22e22628c5fefa02650e521e1",
+      "reader_fragment": "p-1792-2762-978239f5c2604a34"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-e7293b28a41b6244",
+  "title": "SETTLEMENT COMMISSIONERS (VALIDATION OF ORDERS) (REPEAL) ACT 2012",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VmMHMgY5UmM-",
+  "version": null,
+  "source_snapshot": "2026-08-06T17:02:47Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "25d41f953cb95192e6bd8dcb16e8e3496bed494a0ebf00844e0b03d760830736",
+  "source_sha256": "25d41f953cb95192e6bd8dcb16e8e3496bed494a0ebf00844e0b03d760830736",
+  "text_version_id": "law:punjab-code-e7293b28a41b6244:sha256:25d41f953cb95192e6bd8dcb16e8e3496bed494a0ebf00844e0b03d760830736",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE SETTLEMENT COMMISSIONERS (VALIDATION OF \r\nORDERS) (REPEAL) ACT 2012\r\n(XXXIX of 2012)\r\nCONTENTS\r\n1. Short title and commencement\r\n2. Repeal of Act VI of 1972\r\nTEXT\r\nTHE SETTLEMENT COMMISSIONERS (VALIDATION OF ORDERS) \r\n(REPEAL) ACT 2012\r\n(XXXIX of 2012)\r\n[22nd June, 2012]\r\nAn\r\nAct\r\nto repeal the Settlement Commissioners (Validation of Orders) Act, 1972.\r\nPreamble.–Whereas  it  is  expedient  to  repeal  the  Settlement  Commissioners \r\n(Validation of Orders) Act, 1972 (VI of 1972);\r\nIt is enacted as follows:–\r\n1. Short  title  and  commencement.–  (1)  This  Act  may  be  cited  as  the \r\nSettlement Commissioners (Validation of Orders) (Repeal) Act 2012.\r\n2. Repeal of Act VI of 1972 .– The Settlement Commissioners (validation of  \r\nOrders) Act, 1972 (VI of 1972) is hereby repealed.\r\n(2) Notwithstanding  the  repeal  of  the  Settlement  Commissioners  \r\n(Validation of Orders) Act, 1972 (VI of 1972), any action taken or order made under  \r\nthat Act shall be deemed to have been taken or made under this Act.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-e7293b28a41b6244:sha256:25d41f953cb95192e6bd8dcb16e8e3496bed494a0ebf00844e0b03d760830736:chars-0-1023:25d41f953cb95192e6bd8dcb16e8e3496bed494a0ebf00844e0b03d760830736",
+      "character_start": 0,
+      "character_end": 1023,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1031,
+      "passage_sha256": "25d41f953cb95192e6bd8dcb16e8e3496bed494a0ebf00844e0b03d760830736",
+      "reader_fragment": "p-0-1023-25d41f953cb95192"
+    }
+  ]
+}

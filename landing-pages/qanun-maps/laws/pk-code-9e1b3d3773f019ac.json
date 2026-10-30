@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-9e1b3d3773f019ac",
+  "title": "Pakistan International Airlines Corporation (Conversion) (Repeal) Act, 2026",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tqZw%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "d5c17d89b1f64a53d6500e78f60625fba6cd368b92d322c237b402f774b46472",
+  "source_sha256": "d5c17d89b1f64a53d6500e78f60625fba6cd368b92d322c237b402f774b46472",
+  "text_version_id": "law:pk-code-9e1b3d3773f019ac:sha256:d5c17d89b1f64a53d6500e78f60625fba6cd368b92d322c237b402f774b46472",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\nTHE PAKISTAN INTERNATIONAL AIRLINES CORPORATION \r\n(CONVERSION) (REPEAL) ACT, 2026 \r\n \r\nCONTENTS \r\n1.  Short title and commencement \r\n2.  Repeal of Act XV of 2016 \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE PAKISTAN INTERNATIONAL AIRLINES CORPORATION \r\n(CONVERSION) (REPEAL) ACT, 2026 \r\nACT NO. XXXVIII OF 2026 \r\n[12th June, 2026] \r\nAN \r\nACT \r\nto repeal the Pakistan International Airlines Corporation (Conversion) Act, 2016 \r\nWHEREAS it is expedient to repeal the Pakistan International Airlines Corporation (Conversion) \r\nAct, 2016 (XV of 2016) in the manner and for the purposes hereinafter appearing; \r\nIt is hereby enacted as follows:— \r\n1. Short title and commencement.—(1) This Act shall be called the Pakistan International Airlines \r\nCorporation (Conversion) (Repeal) Act, 2026. \r\n(2) It shall come into force at once. \r\n2. Repeal of Act XV of 2016. —(1) The Pakistan International Airlines Corporation (Conversion) \r\nAct, 2016 (XV of 2016), except sub-section (1) of section 7 is hereby repealed. \r\n(2) Notwithstanding the repeal of the Pakistan International Airlines Corporation (Conversion) Act, \r\n2016 (XV of 2016), the conversion of the Pakistan International Airlines Corporation into a p ublic \r\ncompany, all orders made, actions taken, arrangements entered into, transfers effected, licenses, \r\npermissions, sanctions, authorizations, concessions and approvals granted and all proceedings continued \r\nunder any of the powers conferred or exercised u nder the aforementioned Act of 2016, together with any \r\nright, privilege, obligation or liability acquired, accrued or incurred thereunder shall be deemed always to \r\nhave been lawfully and validly made, taken, issued, vested or transferred and shall continue to be in force. \r\n(3) The particulars mentioned under sub -section (2) or in any other section of this Act shall not \r\nprejudice the general application of section 6 of the General Clauses Act, 1897 (X of 1897). \r\n \r\n____________ \r\n \r\n \r\n  \r\n \r\n RGN Dated: 16-06-2026",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-9e1b3d3773f019ac:sha256:d5c17d89b1f64a53d6500e78f60625fba6cd368b92d322c237b402f774b46472:chars-0-1759:4f92b628920f0327d489ff5b112e830f38d52e032c672fa0466516457aa1a2a6",
+      "character_start": 0,
+      "character_end": 1759,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1765,
+      "passage_sha256": "4f92b628920f0327d489ff5b112e830f38d52e032c672fa0466516457aa1a2a6",
+      "reader_fragment": "p-0-1759-4f92b628920f0327"
+    },
+    {
+      "passage_id": "law:pk-code-9e1b3d3773f019ac:sha256:d5c17d89b1f64a53d6500e78f60625fba6cd368b92d322c237b402f774b46472:chars-1759-2008:7cd17eccfbf4a347072f53d5e059466ed3d8ccdea0e47fcf009fd029d3f315d6",
+      "character_start": 1759,
+      "character_end": 2008,
+      "utf8_byte_start": 1765,
+      "utf8_byte_end": 2014,
+      "passage_sha256": "7cd17eccfbf4a347072f53d5e059466ed3d8ccdea0e47fcf009fd029d3f315d6",
+      "reader_fragment": "p-1759-2008-7cd17eccfbf4a347"
+    }
+  ]
+}

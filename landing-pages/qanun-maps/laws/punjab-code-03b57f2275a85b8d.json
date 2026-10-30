@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-03b57f2275a85b8d",
+  "title": "EX-EMPLOYEES OF THE FORMER GOVERNMENT OF EAST PAKISTAN (APPOINTMENT TO PROVINCIAL POSTS) ACT 1986",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/V2JWZQo~Bj4-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:32:57Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "d3bb31b90d5e7f84a61db14fb6b00941aaec297aebb5b275a3d845d2931255ed",
+  "source_sha256": "d3bb31b90d5e7f84a61db14fb6b00941aaec297aebb5b275a3d845d2931255ed",
+  "text_version_id": "law:punjab-code-03b57f2275a85b8d:sha256:d3bb31b90d5e7f84a61db14fb6b00941aaec297aebb5b275a3d845d2931255ed",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE EX-EMPLOYEES OF THE FORMER GOVERNMENT OF \r\nEAST PAKISTAN (APPOINTMENT TO PROVINCIAL POSTS) \r\nACT, 1986 \r\n(I of 1986) \r\nCONTENTS \r\n1. Short title, extent and commencement \r\n2. Definitions \r\n3. Appointment \r\n4. Seniority \r\n5. Pension \r\nTEXT \r\n1\r\nTHE EX-EMPLOYEES OF THE FORMER GOVERNMENT OF EAST \r\nPAKISTAN (APPOINTMENT TO PROVINCIAL POSTS) ACT , 1986 \r\n(I of 1986) \r\n[10th March, 1986] \r\nAn \r\nAct \r\nto provide for the appointment and conditions of service of former employees of the \r\nGovernment of East Pakistan to posts under the Government of the Punjab. \r\nPreamble.– WHEREAS it is expedient to provide for the appointment and conditions \r\nof service of former employees of the Government of East Pakistan to posts under \r\nthe Government of the Punjab; \r\n It is hereby enacted as follows:– \r\n1. Short title, extent and commencement .– (1) This Act may be called the Ex-\r\nemployees of the former Government of East Pakistan (Appointment to Provincial \r\nPosts) Act, 1986. \r\n (2) It extends to the whole of the Punjab. \r\n (3) It shall come into force at once and shall be deemed  to have taken \r\neffect on the sixteenth day of December, 1971. \r\n2. Definitions.– In this Act, unless there is anything repugnant in the subject or \r\ncontext:– \r\n(a) “employee” means an ex -employee of the former Government of East \r\nPakistan who repatriated or migr ated from East Pakistan to Pakistan \r\nduring the period commencing on the 16th December, 1971 and \r\nending on the 31st December, 1974, in consequence of occupation of \r\nthe territory by enemy troops or establishment of Bangladesh; \r\n(b) “former post” means the pos t which was held by an employee at the \r\ntime of his repatriation or migration under clause (a); \r\n(c) “Grade” means the Grade of the National Pay Scale in which a post or \r\ngroup of posts is placed; and \r\n(d) “post” means a post in a service of the Punjab Provinc e or a post in \r\nconnection with the affairs of the Punjab. \r\n3. Appointment.– An employee may, with the approval of the competent \r\nauthority, be appointed to an existing or supernumerary post in the grade, as far as \r\npracticable, equivalent to the scale of the former post of such employee from the \r\ndate he holds such post. \r\n                                                                 \r\n1This Act w as passed by the Punjab Assembly on 17th Februar y, 1986; assented to by the Governor of the Punjab on 10th \r\nMarch, 1986; and, w as published in the Punjab Gazette (Extraordinary), dated 10th March, 1986, Pages 531-C to 531-D. \r\nExplanation.– In this section, “competent authority”, in relation to a post means the \r\nauthority competent under the Punjab Civil Servants Act, 1974 (Act VIII of 1974) to \r\nmake appointment to that post. \r\n4. Seniority.– The service rendered under the former Government of East \r\nPakistan by an employee shall count towards seniority in the Grade of the post to \r\nwhich he may be appointed under section 3. \r\n5. Pension.– The service rendered under the former Government of East \r\nPakistan which qualified for pension under that Government by an employee who is \r\nappointed to a post, shall count for the purposes of pension under the Government \r\nof the Punjab.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-03b57f2275a85b8d:sha256:d3bb31b90d5e7f84a61db14fb6b00941aaec297aebb5b275a3d845d2931255ed:chars-0-1789:a40bc0a1a1006256ac64e4d4741d7d4edb0152eb6f88546ffdaee8740eb948fc",
+      "character_start": 0,
+      "character_end": 1789,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1811,
+      "passage_sha256": "a40bc0a1a1006256ac64e4d4741d7d4edb0152eb6f88546ffdaee8740eb948fc",
+      "reader_fragment": "p-0-1789-a40bc0a1a1006256"
+    },
+    {
+      "passage_id": "law:punjab-code-03b57f2275a85b8d:sha256:d3bb31b90d5e7f84a61db14fb6b00941aaec297aebb5b275a3d845d2931255ed:chars-1789-3183:79676de033f01a7ac24130e333db3cc07492b38a0c55d680ce2906467d2b7868",
+      "character_start": 1789,
+      "character_end": 3183,
+      "utf8_byte_start": 1811,
+      "utf8_byte_end": 3221,
+      "passage_sha256": "79676de033f01a7ac24130e333db3cc07492b38a0c55d680ce2906467d2b7868",
+      "reader_fragment": "p-1789-3183-79676de033f01a7a"
+    }
+  ]
+}

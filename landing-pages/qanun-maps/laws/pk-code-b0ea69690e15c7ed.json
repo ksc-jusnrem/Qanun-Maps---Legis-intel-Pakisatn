@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-b0ea69690e15c7ed",
+  "title": "Provincial Service Tribunals (Extension of Provisions of the Constitution) Act, 1974",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bpuUZWNo-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "4d419471d178eeea8853b38f1bde5365f34afe7af83bef064416dde7525b8188",
+  "source_sha256": "4d419471d178eeea8853b38f1bde5365f34afe7af83bef064416dde7525b8188",
+  "text_version_id": "law:pk-code-b0ea69690e15c7ed:sha256:4d419471d178eeea8853b38f1bde5365f34afe7af83bef064416dde7525b8188",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n  \r\n \r\n \r\n \r\nTHE PROVINCIAL SERVICE TRIBUNALS (EXTENSION OF \r\nPROVISIONS OF THE CONSTITUTION) ACT, 1974 \r\n \r\n              \r\n \r\n \r\nCONTENTS \r\n1.   Short title and commencement \r\n2.  Provisions of Article 212 (2) to extend to Provincial Service Tribunals \r\n \r\n \r\n \r\n \r\n\r\nPage 2 of 2 \r\n \r\nTHE PROVINCIAL SERVICE TRIBUNALS (EXTENSION OF PROVISIONS OF THE \r\nCONSTITUTION) ACT, 1974 \r\n \r\n1ACT NO. XXXII OF 1974 \r\n \r\n          [2nd May, 1974] \r\n \r\nAn Act to extend the provisions of clause (2) of Article 212 of the Constitution to the Provincial \r\nService Tribunals. \r\n \r\n WHEREAS the Provincial Assemblies for 2[Balochistan] the North-West Frontier Province, \r\nthe Punjab and Sind have made in the form of resolutions the request that the provisions  of clause  \r\n(2)  of Article  212  of the  Constitution  of the  Islamic  Republic  of Pakistan be extended to the \r\nService Tribunals respectively established under Acts of those Assemblies; \r\n \r\n AND WHEREAS it  is expedient to extend the said provisions to the said Service \r\nTribunals; \r\n \r\n It is hereby enacted as follows:— \r\n \r\n 1.  Short title and commencement. —(1)  This  Act  may  be  called  the Provincial Service \r\nTribunals (Extension of Provisions of the Constitution) Act, 1974.  \r\n \r\n (2) It shall come into force at once. \r\n \r\n 2. Provisions of Article 212 (2) to extend to Provincial Service Tribunals . The provisions  \r\nof clause  (2)  of Article 212  of the  Constitution  of the  Islamic Republic of Pakistan shall extend to \r\nthe Service Tribunals respectively established under Acts of the 3[Provincial Assemblies for \r\nBalochistan,] the North-West Frontier Province, the Punjab and Sind. \r\n____________ \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n         Last Uploaded on 2.11.2023 \r\n \r\n1For Statement of Objects and Reasons see Gaz. of P. 1974, Ext., Pt. III, p. 562. \r\n2Ins. by the Provincial Service Tribunal (Extension of Provisions of the Constitution) (Amdt.) Act, 1976 (34 of 1976) s. 2. \r\n3Subs. by the Provincial Service Tribunals (Extension of Provisions of the Constitution) (Amdt.) Act. 1976 (34 of 1976). s. 3. For “Provincial \r\nAssemblies”.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-b0ea69690e15c7ed:sha256:4d419471d178eeea8853b38f1bde5365f34afe7af83bef064416dde7525b8188:chars-0-1782:57a7a062df53eef9eae767834f9daf145a250d170d48b95538798ce5b9507c9e",
+      "character_start": 0,
+      "character_end": 1782,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1786,
+      "passage_sha256": "57a7a062df53eef9eae767834f9daf145a250d170d48b95538798ce5b9507c9e",
+      "reader_fragment": "p-0-1782-57a7a062df53eef9"
+    },
+    {
+      "passage_id": "law:pk-code-b0ea69690e15c7ed:sha256:4d419471d178eeea8853b38f1bde5365f34afe7af83bef064416dde7525b8188:chars-1782-2149:b44f5b91649a4aa9ab4e599d0dc35a96c7e45abbd7c1274687c6f84031fbfe70",
+      "character_start": 1782,
+      "character_end": 2149,
+      "utf8_byte_start": 1786,
+      "utf8_byte_end": 2157,
+      "passage_sha256": "b44f5b91649a4aa9ab4e599d0dc35a96c7e45abbd7c1274687c6f84031fbfe70",
+      "reader_fragment": "p-1782-2149-b44f5b91649a4aa9"
+    }
+  ]
+}

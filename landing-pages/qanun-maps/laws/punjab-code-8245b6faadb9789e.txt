@@ -1,0 +1,677 @@
+THE PUNJAB FERTILIZERS CONTROL ACT 2025 
+(XLIII of 2025) 
+CONTENTS 
+1. Short title, extent and commencement 
+2. Definitions 
+3. Controller, Additional Controller, Deputy Controller and Assistant Controller 
+4. Inspection committees 
+5.  Registration Committee 
+6. Licensing 
+7. Cancellation of license 
+8. Appeal against cancellation of license 
+9. Change in license 
+10. Restrictions and prohibitions 
+11. Licensing of a dealer and sub-dealer 
+12.  Cancellation of license of a dealer and sub-dealer 
+13. Fixing of maximum quantity which may be held or sold 
+14. Notification of prices 
+15. Marking of prices and exhibiting price lists 
+16. Power to order sale 
+17. Restriction on movement 
+18. Track and trace a fertilizer 
+19. Issuance of receipt 
+20. Refusal to sell 
+21. Declaration of godowns, storehouses or warehouses etc. 
+22. Maintenance of record 
+23. Packing and labeling 
+24. Security features 
+25. Powers of the Controller 
+26.  Powers of the Additional Controller (Field) 
+27.  Powers of the Additional Controller (Technical) 
+28. Powers of the Additional Controller 
+29. Powers of the Deputy Controller 
+30.  Powers of the Assistant Controller 
+31. Procedure of Sampling 
+32. Government Fertilizer Testing Laboratories and analytical methodologies 
+33. Report of result of analysis 
+34. Appeal against analysis 
+35. Disposal of expired, fake, adulterated and sub-standard fertilizer 
+36. Offences and penalties 
+37. Fee 
+38. Delegation of powers 
+39. Cognizance of offences 
+40. Obstruction to lawful authority 
+41. Indemnity 
+42. Rules 
+43. Removal of difficulties 
+44. Right to appeal 
+45. Provisions of the Act 
+46. Repeal and savings 
+ 
+ 
+  
+TEXT 
+1
+THE PUNJAB FERTILIZERS CONTROL ACT 2025 
+(XLIII of 2025) 
+[29th May, 2025] 
+An 
+Act 
+to provide for regulation and control of fertilizer in the Punjab. 
+It is necessary to provide for the regulation and control of the manufacture, supply, 
+importation, distribution, dealership, quality standards, pricing, licensing, advertising, 
+transportation, storage, sale, monitoring, and disposal of fertilizers in the P unjab, ensure 
+availability of quality fertilizers for agricultural purposes and the matters ancillary thereto 
+and connected therewith.  
+Be it enacted by Provincial Assembly of the Punjab as follows: 
+1. Short title , extent  and commencement.– (1) This Act may be cited  as the 
+Punjab Fertilizers Control Act 2025. 
+ (2) It extends to whole of the Punjab. 
+ (3) It shall come into force at once. 
+2. Definitions.– In the Act: 
+(a) “Act” means the Punjab Fertilizers Control Act 2025; 
+(b) “Additional Controller ” means the Additional Controller as provided under 
+section 3 of the Act; 
+(c) “Additional Secretary (Task Force) ” means the Additional Secretary (Task 
+Force), Government of the Punjab, Agriculture Department; 
+(d) “adulterated” denotes a fertilizer wherein the nutritional stre ngth of an 
+ingredient is less than 69.9%, falling within the range of up to 30% of the 
+approved limit for active ingredients or viable cells count specified in the 
+applicable standard; 
+(e) “Assistant Controller ” means the Assistant Controller as provided under  
+section 3 of the Act; 
+(f) “batch” means an identifiable quantity of fertilizer manufactured and 
+processed under uniform conditions in a single lot; 
+(g) “bio-fertilizer” means the product containing carrier based, either solid or 
+liquid, living microorganisms whic h are agriculturally useful in terms of 
+nitrogen fixation, phosphorus solubilization or nutrients mobilization, to 
+increase the productivity of the soil or crop; 
+(h) “bio-stimulants” mean a product that is applied to plants or soil to enhance 
+plant growth, development, and includes, but is not limited to, plant growth 
+promoters, plant growth regulators, soil microorganisms, amino acids, 
+humic-acids, fulvic-acids, seaweed extracts, and other naturally occurring 
+substances that improve plant nutrition and stress tolerance; 
+(i) “brand” means the trade name applied by a manufacturer or importer to the 
+fertilizer; 
+                                                           
+1This Act was passed by Provincial Assembly of the Punjab on 21 May 2025; and was assented to by Governor of the Punjab on 29 
+May 2025; and was published in the Punjab Gazette (Extraordinary), dated: 29 May 2025, pp. 4791-4803. 
+(j) “Controller" means the Controller as provided under section 3 of the Act; 
+(k) “crop supplements ” means any material, substance or mixture of 
+substances, other than  major fertilizer, that is manufactured, sold, or 
+represented for use in the improvement of the physical condition of soils or 
+to aid plant growth or crop yields; 
+(l) “dealer” means a person or an association of persons carrying on the 
+business of selling any brand of fertilizer whether on wholesale or on retail 
+having license from the Deputy Controller; 
+(m) “Department” means Agriculture Department of the Government; 
+(n) “Deputy Controller” means the Deputy Controller as provided under section 
+3 of the Act; 
+(o) “distributor” means a person, or an association of persons engaged in the 
+distribution of a fertilizer; 
+(p) “essential plant nutrient elements ” include carbon, hydrogen, oxygen, 
+nitrogen phosphorus, potassium, sulphur, calcium, magnesium, boron, 
+copper, iron, manganese, zinc, molybdenum and chlorine; 
+(q) “expired” means a fertilizer of which validity date mentioned by the 
+manufacturer, where applicable, has passed; 
+(r) “fake” means a fertilizer whose nutritional strength is below 30% of the 
+approved limit for active ingredient o r viable cells count given in the 
+applicable standard or any fertilizer that does not conform to parameter 
+beyond chemical criteria; 
+(s) “fertilizer” means any material, organic or inorganic, or mixture used to 
+supply one or more of the essential plant nutrien t elements; and includes, 
+within its scope, bio -fertilizer, bio -stimulant, crop supplement, soil 
+conditioner, and soil and water amendment; 
+(t) “Form” means a Form as prescribed under the Act; 
+(u) “Government” means Government of the Punjab;  
+(v) “importer” means a pe rson or an association of persons importing into 
+Pakistan whether under an import license or otherwise, any brand of 
+fertilizer from outside Pakistan and includes a buying agent, an indenter 
+and a manufacturer’s agent; 
+(w) “major fertilizer ” means solid fertil izer material containing anyone, two, or 
+three macronutrients such as Nitrogen, Phosphorus and Potash; 
+(x) “manufacturer” means a person, or an association of persons engaged in 
+manufacturing or production of fertilizer; 
+(y) “marking” refers to any written or grap hic information that is printed on or 
+attached to a fertilizer container, bag, or other retail package, if present; 
+(z) “misbranded” means an unauthorized utilization of already notified product 
+with approved label having certain nomenclature that possesses th e ability 
+to differentiate one company's product from another as per approved 
+standards; 
+(aa) “mislabeled” means a fertilizer that is not marketed in accordance with the 
+label as per the notified standard; 
+(bb) “notified” means notified by the Controller under the Act; 
+(cc) “packing” refers to the package or container, along with specified pack size 
+outlined in the respective standard for any fertilizer; 
+(dd) “person” means a natural person or legal entity and includes an individual, 
+or association of individuals, firm, partne rship, society, group, a public or 
+private limited company, corporation, cooperative society or any other body 
+corporate; 
+(ee) “prescribed” means prescribed by the rules made or framed under the Act; 
+(ff) “producer” means a person engaged in the manufacturing or production of 
+a fertilizer; 
+(gg) “PSQCA” means Pakistan Standards and Quality Control Authority; 
+(hh) “rules” means the rules made under the Act; 
+(ii) “soil conditioner” means a product applied to soil to modify its 
+characteristics, including but not limited to its struc ture, water -holding 
+capacity, aeration, pH balance, nutrient availability, and microbial activity; 
+(jj) “special circumstances” means when supply of fertilizer is short and 
+demand is high in the market; 
+(kk) “standard fertilizer” means any material, organic or inorg anic, or mixture 
+used to supply one or more of the essential plant nutrient elements whose 
+specifications are established by PSQCA and adapted by the Additional 
+Controller (Technical); 
+(ll) “standard operating procedure” means the standard operating procedures 
+under section 25 of the Act; 
+(mm) “standard” means specifications established by PSQCA; 
+(nn) “sub-dealer” means a person, having license from the Deputy Controller, 
+who receives fertilizer from the dealer with acknowledgment and sells it 
+directly to farmers; 
+(oo) “sub-standard fertilizer ” means a fertilizer whose nutritional strength falls 
+below 95% up to 70% of the approved limit for active ingredient or viable 
+cells count given in the applicable standard; 
+(pp) “unlicensed fertilizer” means a fertilizer that is not manufactured, imported, 
+distributed, stored, sold or offered for sale in conformity with the prescribed 
+license as stipulated under the Act; and 
+(qq) “water conditioner”  means a product added to water to alter its 
+characteristics, including but not limited to its pH bala nce, hardness, 
+alkalinity and turbidity, with the intention of making the water more suitable 
+for irrigation. 
+3. Controller, Additional Controller, Deputy Controller and Assistant 
+Controller.– (1) The Secretary of the Department  shall be the Controller for the 
+purposes of the Act. 
+ (2) The Director of Agriculture (Extension) Hqrs, Punjab shall be the Additional 
+Controller (Field) at provincial level for the purposes of the Act. 
+ (3) The Chief Scientist, Soil Fertility Research In stitute, Punjab, shall be the 
+Additional Controller (Technical) at provincial level for the purposes of the Act. 
+ (4) The Director of Agriculture (Extension) /Divisional Incharge , shall be the 
+Additional Controller at Division level for the purposes of the Act.  
+ (5) The Deputy Director Agriculture  (Extension)/District Incharge  shall be the 
+Deputy Controller at District level for the purposes of the Act. 
+ (6) The Assistant Director Agriculture (Extension)/Tehsil Incharge shall be the 
+Assistant Controller at Tehsil level for the purposes of the Act. 
+4. Inspection committees.– The Controller may , by an order , in writing, constitute 
+one or more inspection committees at provincial level and one inspection committee in 
+each division to carry out the purposes of the Act. 
+5.  Registration Committee.– The Controller may, by an order , in writing, constitute 
+registration committee at provincial level to carry out the purposes of the Act. 
+6. Licensing.– (1) No person shall manufacture, import, distribute, store, sell and 
+offer for sale any fertilizer without obtaining a license under the Act. 
+ (2) An application, on a format as may be prescribed, for grant of license as 
+manufacturer, importer, distributor, after fulfilling such conditions and on payment of such 
+fee, as may be prescribed and complete in all respects, shall be submitted to the 
+Additional Controller (Technical) through an online process or by hand. 
+ (3) The office of Additional Con troller (Technical) shall , after receipt of the 
+application under sub-section (2), process it in the manner as may be prescribed. 
+ (4) If the application is found complete in all respects, the Additional Controller 
+(Technical) shall forward the same to the inspection committee for inspection of the unit 
+or site, as the case may be,  as provided in the application , in such manner  as may be 
+prescribed. 
+ (5) The inspection committee, after conducti ng inspection, shall submit its 
+report along with its recommendations, to the Additional Controller (Technical) within 
+such period as may be prescribed.  
+(6) An applicant aggrieved of the recommendations of the inspection 
+committee may, within seven days of the receipt of such recommendations, file a 
+representation before the Additional Controller ( Field) who may, if considers suitable, 
+direct re -inspection of the unit or site, as the case may be, by another inspection 
+committee and t he recommendations of such inspection committee , after its re -
+inspection, shall be final. 
+ (7) On receipt of the report of the inspection committee, the Additional 
+Controller (Technical), shall  forward the case to the registration  committee for 
+consideration of the case.  
+(8) On the recommendations of registration committee, the Additional 
+Controller (Technical) shall issue the license in favor of the applicant for a period of three 
+years which may be renewed for another term of th ree years subject to fulfilling of such 
+terms and conditions and on payment of such fee as may be prescribed. 
+ (9) In case the license is refused, a representation, within a period of ten days 
+of such refusal, may be filed before the Additional Secretary (Task Force) who shall, after 
+hearing the applicant and perusing the relevant record, pass a speaking order which 
+shall be final. 
+7. Cancellation of license.– (1) The Additional Controller (Technical), on his own or 
+on a report or application received by  him, finds that violation of any provision of the A ct 
+or the rules made thereunder  has been made, may issue a notice to  the violator to  
+remove the violation within one month.  
+(2) If the manufacturer, importer or distributor fails to remove the violation 
+within the given period, the Additional Controller (Technical) may, after affording an 
+opportunity of being heard, cancel the license of such manufacturer, importer or 
+distributor. 
+8. Appeal against cancellation of license.– (1) A manufacturer, importer or 
+distributor whose license has been cancelled under the Act,  may file an appeal, within 
+ten days of such cancellation, to the Additional Secretary (Task Force) , who shall pass 
+appropriate order thereupon.  
+ (2) An appeal against the order of the Additional Secretary (Task Force) may be 
+filed before the C ontroller who shall, after hearing of the applicant and perusing the 
+relevant record, pass speaking order which shall be final. 
+9. Change in license.– (1) A manufacturer, importer or distributor who intends to 
+change the particulars given in the license, shall apply to Additional Controller 
+(Technical), in such manner and on payment of such fee as may be prescribed. 
+(2) In case the change in the license is ref used, the aggrieved may, within ten 
+days of such refusal, file an appeal to the Additional Secretary (Task Force) who shall, 
+after affording an opportunity of being heard, pass appropriate order thereupon  which 
+shall be final. 
+10. Restrictions and prohibitions.– (1) No manufacturer , importer, distributor, 
+dealer and sub-dealer shall manufacture, import, distribute, deal, store, supply, offer for 
+sale or use any fertilizer which is fake or adulterated or substandard or unlicensed, or 
+misbranded or mi slabeled or underweight or expired or tampered or hazardous or 
+dangerous or harmful to human health, safety or environment. 
+ (2) No manufacturer, importer, distributor, dealer and sub-dealer shall dispose 
+of, or cause to be disposed of, any fertilizer, whether by way of burial, burning, dumping, 
+or otherwise, unless such disposal  is in full compliance with such  procedure as may be 
+prescribed. 
+(3) No manufacturer, importer, distributor, dealer and sub-dealer shall destroy, 
+obliterate, damage, alter, or cause to be destroyed, obliterated, damaged any label or 
+sign affixed to a container or package of fertilizer or alter any marking or indication of the 
+price or sell on higher price or use license other than the purpose provided in the license. 
+(4) No manufacturer, importer, distributor, dealer and sub-dealer shall engage 
+in the sale or  offer for sale any fertilizer unless such fertilizer is labeled and marked in 
+such manner as may be prescribed , including but not limited to the requirements 
+pertaining to labeling and marking of containers or packages, disclosure of net weight or 
+volume, declaration of nutrient content, warning and caution statements and conformity 
+with other prescribed labeling and marking requirements.  
+(5) No manufacturer, importer, distributor, dealer and sub -dealer shall 
+manufacture, import, distribute , deal, sale  or offer for sale  agricultural grade gypsum 
+below minimum purity of seventy percent and a mesh size of not less than thirty and 
+such gypsum shall not be manufa ctured or imported or distributed or dealt with , sold or 
+offered for sale in a granular form. 
+11. Licensing of a dealer and sub-dealer.– (1) No dealer and sub-dealer shall deal 
+in any fertilizer without obtaining a license as a dealer or sub-dealer, as the case may be, 
+from Deputy Controller of the respective District, in such  manner, upon payment of such 
+fee and on such terms and  conditions as may be prescribed.  
+ (2) The Deputy Controller, after such further enquiry, if any, as he may 
+consider necessary, is satisfied that the requisite requirements have been complied with, 
+may issue a license to the applicant as a dealer or sub -dealer, as the case may be, for a 
+period of three years which may be renewed for a further period of three year , subject to 
+payment of such fee and on such terms and conditions as may be prescribed.  
+ (3) In case application for grant of a license or renewal, as the case may be, is 
+rejected, such rejection shall contain  reasons and the same shall be communicated to 
+the applicant. 
+ (4) The applicant, whose application is rejected under the Act, may  within ten 
+days of communication of such rejection, prefer an appeal as may be prescribed. 
+12.  Cancellation of  license of a dealer and sub-dealer.– (1) If a dealer or sub -
+dealer licensed under the Act, is found guilty of malpractices involving adulteration or any 
+other activity rep ugnant to the provisions of the  Act, the Deputy Controller may, after 
+affording an opportunity of being heard, by an order in writing stating the reasons thereof, 
+cancel the license. 
+ (2) The person whose license has been cancelled may file an  appeal to the 
+Additional Controller within thirty days of the receipt of such cancellation. 
+ (3) An appeal against the order of the Additional Controller may be filed before 
+the Additional Secretary (Task Force) who shall, after hearing of the applicant and 
+perusing the relevant record, pass speaking order thereupon which shall be final.  
+13. Fixing of maximum quantity which may be held or sold.– The Controller may, 
+by an order  in writing,  in respect of any f ertilizer as and when required  in special 
+circumstances, fix the maximum quantity which may be held or sold by manufacturer, 
+importer, distributor, dealer and sub-dealer. 
+14. Notification of prices.– The Deputy Controller may, by an order in writing, notify 
+maximum price of any brand of  fertilizer in his territorial jurisdiction and no person shall 
+sell such fertilizer at a price higher than the notified price  and such price list shall be 
+exhibited at a prominent place in the premises of sale point. 
+15. Marking of prices and exhibiting price lists .– The Controller may, in writing , 
+direct any importer, manufacturer, distributor, dealer and sub -dealer to mark fertilizer 
+exposed or intended for sale with the sale price or to exhibit on his premises a price list 
+of fertilizer held by him for sale and m ay further give directions regarding the manner of 
+sale. 
+16. Power to order sale .– The Controller may , by an order in writing, direct a ny 
+manufacturer, importer, distributor, dealer and sub-dealer to store,  sell or offer for sale 
+fertilizer in special circumstances. 
+17. Restriction on movement.– The Controller may impose restrictions on movement 
+of fertilizer within or outside the district or province of the Punjab in special 
+circumstances. 
+18. Track and trace a fertilizer.– (1) The Department shall, for ensuring the 
+authenticity and origin of a fertilizer, establish a track and trace system and monitor to 
+ensure compliance: 
+Provided that until the trac k and trace system is established by the Department, 
+the information shall be shared manually in such manner and form as may be prescribed. 
+ (2) A manufacturer, importer, distributor, dealer and sub -dealer shall enter the 
+details of the fertilizer stock in the track and trace system established by the Department 
+and non-compliance thereto shall be treated as violation of the provisions of the Act. 
+19. Issuance of receipt.– A manufacturer, importer, distributor, dealer and sub -
+dealer shall issue a receipt on each sale of  fertilizer to the purchaser and such receipt, 
+either system generated or in a manual form, shall contain details of the sale with full 
+address of the purchaser.  
+20. Refusal to sell .– Subject to the provision s of section 13 of th e Act, no 
+manufacturer, importer, dealer  and sub-dealer shall , with previous authorization of the 
+Controller, refuse to sell to any person any fertilizer. 
+21. Declaration of godowns, storehouses or warehouses etc.– (1) Every 
+manufacturer, importer, distributor, dealer and sub -dealer holding stock of fertilizer shall, 
+after the commencement of the Act, submit to the Deputy Controller a declaration  of the 
+place where such stock of fertilizer is kept or stored.  
+ (2) When any such importer, manufacturer, distributor, dealer and sub-dealer or 
+other person as aforesaid , desires to change the place of stock of fertilizer after he had 
+made declaration under sub-section (1), shall bring to the notice of the Deputy Controller 
+his intention to change the place at least one month before or after such change. 
+22. Maintenance of record.– Every manufacturer, importer, distributor , dealer and 
+sub-dealer shall maintain and furnish record  of all sale and purchase  of fertilizer in such 
+form as may be prescribed.  
+23. Packing and labeling.– (1) The package or container of fertilizer shall be such as 
+is suitable for its storage and transportatio n and shall be of such material  which does not 
+adulterate or deteriorate the fertilizer. 
+ (2) No person shall sell or offer for sale or hold in stock for sale any fertilizer 
+unless it is labeled as under: 
+(a) Brand name:   
+(b) Category:   
+(c) PS /  Reference 
+No. 
+ 
+(d) License No.  
+(e) Composition: Nutrients 
+(%) 
+W/W 
+(for 
+solid) 
+W/V 
+(for Liquid) 
+Nutrients (%) W/W 
+(for 
+solid) 
+W/V 
+(for 
+Liquid) 
+ (i) 
+(ii) 
+  (iii) 
+(iv) 
+ 
+  
+(f) Net weight: 
+(g) Name & address of manufacturer or importer: 
+(h) Name & Address of distributor: 
+(i) Batch No. with date: (as prescribed) 
+24. Security features.– (1) Quick response code and human readable alphanumeric 
+code shall be affixed  on bag or container  to help trace the origin of the fertilizer and 
+provide contact information of manufacturer or importer or distributor.  
+ (2) Covert security feature shall be affixed  on bag or container  as a  hidden 
+feature that requires an electronic handheld device for verification, aiding field inspectors 
+in detecting counterfeit products.  
+25. Powers of the Controller.– The Controller shall have powers to: 
+(a) overall monitor and enforce the standards , mechanisms, methodologies of 
+production and test regarding fertilizer for the purposes of the Act; 
+(b) monitor the availability, pricing, quality and licensing of fertilizer; 
+(c) take appropriate measures to ensure supply, quality and fair pricing of 
+fertilizer; 
+(d) hear appeals against orders passed by the  Additional Secretary (Task 
+Force); 
+(e) exercise the powers  of Additional Controller, Additional Controller (Field), 
+Additional Controller (Technical), Deputy Controller and Assistant 
+Controller under the Act; and 
+(f) issue guidelines or stand ard operating procedures for the purposes of the 
+Act subject to the provisions of the Act, rules made thereunder. 
+26.  Powers of the Additional Controller (Field ).– The Additional Controller (Field)  
+shall have powers to: 
+(a) require the requisite information from a fertilizer manufacturer, importer or 
+distributor under the Act; 
+(b) draw sample of fertilizer throughout the province as and when required; 
+(c) hear appeals against orders passed by the  Director of Agriculture 
+(Extension)/Divisional Incharge; 
+(d) hear appeal against recommendations of inspection committee  as 
+prescribed; 
+(e) exercise all powers of Deputy Controller and Assistant Controller; and 
+(f) perform such other duties as may be assigned by the Controller.  
+27.  Powers of the Additional Controller  (Technical).– The Additional Controller 
+(Technical) shall have powers to: 
+(a) grant, renew, cancel or withdraw license of fertilizer under the Act; 
+(b) monitor the manufacturing unit for production, quality assurance and 
+warehouse as and when required; 
+(c) monitor the Government Fertilizer Testing L aboratories as and when 
+required for transparency and traceability of test result;     
+(d) extend expert opinion regarding production and analysis methodologies; 
+(e) obtain retesting of fertilizer sample  as and when required for verification of 
+test results of the laboratories; 
+(f) conduct field trials of new products as and when required  for evaluation 
+purposes; 
+(g) exercise all powers of Deputy Controller; and 
+(h) perform such other duties as may be assigned by the Controller. 
+28. Powers of the Additional Controller.– The Additional Controller shall have 
+powers to: 
+(a) require information from a fertilizer manufacturer, importer, distributor , 
+dealer and sub-dealer under the Act; 
+(b) draw sample of fertilizer throughout the division as and when required; 
+(c) hear appeal against the order  passed by the Deputy Controller  and 
+Assistant Controller; 
+(d) exercise all powers of Deputy Controller; and 
+(e) perform such other duties as may be assigned by the Controller. 
+29. Powers of the Deputy Controller.– (1) The Deputy Controller shall have powers 
+to: 
+(a) issue license to fertilizer dealers and sub-dealers in the respective District; 
+(b) notify maximum price of fertilizer in the respective district; 
+(c) inspect fertilizer unit, warehouse, and other related infrastructure; and 
+(d) perform such other duties as may be assigned by the Controller. 
+(2)  In addition to the above, the Deputy Controller may exercise the powers of 
+an Assistant Controller for carrying out the purposes of the Act.  
+30.  Powers of the Assistant Controller.– The Assistant Controller shall have 
+powers to:  
+(a) require any person to give such information as he possesses with respect 
+to any business in fertilizer carried on by that person or any other person; 
+(b) inspect or cause to be inspected any book or other document belonging to 
+or under the control of any person and shall provide the copy and get 
+receiving for the concrete evidence; 
+(c) enter, search and seal  any premises , seal or  seize any unlicensed  or 
+misbranded fertilizer, material, articles, record, or equipment to which the 
+offence relates or found in such premises;  
+(d) dispose of any fertilizer, material, article, or thing seized, under clause (c) 
+or under the Act or rules made thereunder; 
+(e) apply for police assistance in case of any hindrance and the police officer 
+to whom he applies shall provide such assistance as may be  necessary for 
+the purpose of sealing or seizing in prescribed form or taking into 
+possession any fertilizer, sample of fertilizer, material, articles, record, or 
+thing; 
+(f) take sample of fertilizer as per procedure given under the Act; 
+(g) initiate legal action against a manufacturer, importer, distributor, dealer, 
+sub-dealer, or any other individual based on the test results of a fertilizer 
+sample received from the Government Fertilizer Testing Laboratory  under 
+the Act; and 
+(h) exercise such other powers as may be necessary for carrying into effect 
+the provisions of the Act or rules made there under. 
+31. Procedure of Sampling .– (1) Where the Deputy Controller or Assistant 
+Controller, as the case may be,  takes a sample of a fertilizer for the purpose of test or 
+analysis, he shall intimate , in writing , on prescribed Form to the person f rom whose 
+possession he takes  and, in the presence of such person, unless he willfully absents 
+himself, shall divide the sample into three portions in the sampling bottles and effectively 
+seal and suitably mark the same and permit such person to add his own seal and mark 
+to all or any of the portions so sealed and marked. 
+ (2)  Where the quantity of fertilizer is less than one liter or one kilo gram in a 
+sealed container of fertilizer , the Controller  or any officer authorized by him shall take 
+three of the sealed containers of fertilizer after suitably marking the same and  sealing 
+them. 
+ (3)  The Deputy Controller or Assistant Controller, as the case may be,  or any 
+officer authorized by him  shall, forthwith, send the sampling bottles or the sealed 
+containers of fertilizer in the following manners: 
+(a) first portion of the sample to the Government  Fertilizer Testing Laboratory 
+in the Punjab for test and analysis; 
+(b) second portion of the sample to the Provincial Reference Fertilizer Testing 
+Laboratory; and 
+(c) third portion of the sample to the person from whom he takes it that may be 
+utilized as may be prescribed.  
+ (4) The sampling bottles or the sealed containers of fertilizer  shall be in sealed 
+packet together with copies of the memorandum in prescribed Form, placed in an outer 
+cover, by registered post or through a special messenger. 
+ (5) The packet as well as the outer cover shall be marked with a distinguishing 
+number. 
+ (6) A copy of the memorandum in prescribed Form and a special impression of 
+the seal used to seal the packet shall be sent together with the sample. 
+ (7) On receipt of the packet, it shall be open ed by the Chief Scientist or the 
+Principal Scientist, as the case may be, or an officer authorized by him who shall record 
+the condition of the seal on the packet. 
+32. Government Fertilizer Testing Laboratories and analytical methodologies .– 
+(1) The soil and water testing laboratories for research at divisional level shall serve as 
+Government Fertilizer Testing Laboratories.  
+ (2) The laboratory of the Punjab Agriculture, Food  and Drug Authority shall 
+function as the Provincial Reference Fertilizer Te sting Laboratory, until so operated , the 
+Provincial Reference Fertilizer Testing Laboratory in Raiwind, Lahore, shall function as 
+the Provincial Reference Fertilizer Testing Laboratory. 
+ (3) The Additional Controller (Technical) shall notify the methods of analysis of 
+fertilizer which shall be applied by the Government Fertilizer Testing L aboratories and 
+private sector’s laboratories for monitoring the quality of fertilizers.   
+33. Report of result of analysis.– (1) After the test or analysis ha s been completed, 
+the Chief Scientist or Principal Scientist of the laboratory  or an officer authorized by him 
+shall forthwith supply to the concerned officer an analysis report of the result of the test 
+or analysis.  
+ (2) The report of the test or analysis shall be signed by the Chief Scientist or the 
+Principal Scientist himself or an authorized officer and such report shall be conclusive 
+proof of the particulars stated therein.  
+ (3) The concerned officer shall deliver one copy of the report received by him to 
+the person from whose possession the sample was taken and send one copy to Chief 
+Scientist, Soil Fertility Research Institute, Punjab, Lahore.  
+34. Appeal against analysis .– (1) Any person aggrieved by report  may file appeal, 
+against the analysis conducted by the Government Fertilizer Testing L aboratory, within 
+thirty days of the delivery of report to him, before the Additional Secretary (Task Force) in 
+the prescribed Form.  
+ (2) An onus to prove the analysis incorrect shall be on an aggrieved person and 
+in case of re-analysis, the prescribed fee shall be charged.  
+ (3) In case , the sample is declared as sub-standard by the Government 
+Fertilizer Testing Laboratory, legal action shall be initiated after reanalysis of the second 
+portion of sample by the Provincial Reference Fertilizer Testing Laboratory whereas in 
+cases of declaration of sample by the  Government F ertilizer Testing L aboratory as 
+adulterated or fake, FIR shall be lodged abruptly. 
+ (4) The report of re -analysis shall be conclusive evidence of the facts stated 
+therein. 
+35. Disposal of expired , fake, adulterated and sub -standard fertilizer.– (1) Any 
+fertilizer, which is found fake or expired, shall be  recalled, buried , burnt, dumped or 
+disposed of in such manner as may be prescribed. 
+ (2) Any fertilizer, which is found adulterated or sub-standard, shall be disposed 
+of in such manners as may be prescribed. 
+36. Offences and penalties.– (1) Whoever manufactures, produces, formulates, 
+imports, repacks, transports, distributes, sells, offers for sale, holds in stock for sale or 
+advertises for sale of any or all of the following category of fertilizers shall be punished: 
+(a) in case of offence relating to a fake or unlicensed fertilizer: 
+(i) with imprisonment for a term which may extend to four years, but not 
+less than two years and with fine which may extend to two million 
+rupees, but not less than one million rupees , in case of commission 
+of the first offence; 
+(ii) with imprisonment for a term which may extend to five years, but not 
+less than two years and with fine which may extend to four million 
+rupees, but not less than two million rupees, in case of commission 
+of the second offence; and 
+(iii) with imprisonment for a t erm which may extend to seven years, but 
+not less than three years  and with fine which may extend to four 
+million but shall not less than two million rupees and cancellation of 
+license for every subsequent offence; 
+(b) in case of offence relating to an adulterated fertilizer: 
+(i) with imprisonment for a term which may extend to three years, but 
+not less than one year and with fine which may extend to one and a 
+half million rupees, but not less than half million rupees, in case of 
+commission of the first offence; 
+(ii) with imprisonment for a term which may extend to six years, but not 
+less than two years and with fine which may extend to three million 
+rupees, but which shall not be less than one million rupees, in case 
+of commission of the second offence; and 
+(iii) with imprisonment for a term which may extend to six years, but not 
+less than three years and with fine which may extend to three million 
+but not less than one million rupees and cancellation of license for 
+every subsequent offence; 
+(c) in case of offence relating to a substandard fertilizer: 
+(i) with fine which may extend to one million rupees, but not less than 
+half million rupees in case of commission of the first offence;  
+(ii) with fine which may extend to two million rupees but not less than 
+one million rupees,  in case of commission of the second offence, if 
+committed within three years from the first offence; and  
+(iii) with fine which may extend to two million  rupees but not less than 
+one million rupees and cancellation of license for every subsequent 
+offence, if committed within three years from the first offence; 
+(d) in case of offence relating to mislabeled fertilizer: 
+(i) with fine which may extend to two million rupees, but not less than 
+one million rupees in case of commission of the first offence; and 
+(ii) with fine which may extend to two million rupees but not less than 
+one million rupees and cancellation of license for every subsequent 
+offence; and 
+(e) in case of offence relating to misbranded fertilizer: 
+(i) with fine which may extend to two million rupees, but not less than 
+one million rupees in case of commission of the first offence; and 
+(ii) with fine which may extend to two million rupees but not less than 
+one million rupees and  cancellation of license for every subsequent 
+offence. 
+ (2) Whoever manufactures or imports or distributes or sells  fertilizer in 
+contravention of the Act or unlawfully uses lic ense number shall be liable to punishment 
+with imprisonment for a term which may extend to six months  and with fine which may 
+extend to two million rupees but not less than one million rupees or with both. 
+ (3) Whoever sells or offers for sale an expired fertilizer or fertilizer for more 
+than the price marked or impressed on the bag, box, pack, packet par cel, or anything 
+containing the fertilizer shall be liable to punishment with imprisonment for a term which 
+may extend to six months  and with fine which may extend to one million  rupees but not 
+less than half million rupees or with both. 
+ (4) Whoever stores, sells, offers for sale or runs business of sale of a fertilizer 
+without a valid license of dealership shall be liable to punishment with imprisonment for a 
+term which may extend to six months  and with fine which may extend to five hundred 
+thousand rupees but not less than one hundred thousand rupees or with both. 
+ (5) In case of any offenc e concerning to infringement of packing and marking, 
+the offender shall be liable to punishment with imprisonment for a term which may extend 
+to six months with and a fine may be imposed  up to one million rupees but not less than 
+half a million rupees or with both. 
+ (6) In case of any offence  concerning infringement of underweight , the 
+offender shall be liable to punishment with imprisonment for a term which may extend to 
+six months and with fine which may extend to five hundred thousand rupees but not less 
+than one hundred thousand rupees or with both. 
+ (7) Whoever sells or offers f or sale a fertilizer containing a hazardous or 
+dangerous or harmful to human health, safety, or environment , shall be liable to 
+punishment with imprisonment for a term which may extend to six months  and with fine 
+which may extend to one million rupees but not less than half million rupees or with both. 
+ (8) Any person who sells or offers for sale a fertilizer and is found guilty of 
+destroying, obliterating, damaging, altering, or causing to be destroyed, obliterated, 
+damaged, any label or sign affixed to a container or package of fertilizer, or alters any 
+marking or indication of the price, shall be liable to a fine not less than five hundred 
+thousand rupees but not more than one million rupees. 
+ (9) A person who contravenes sub-section (5) of section 10 of the Act by 
+selling or offering for sale agricultural grade gypsum that does not conform to the 
+prescribed standards, including a minimum purity of seventy percent and a mesh size of 
+not less than thirty or gypsum in a granular form, shall commit an offence punishable with 
+a fine of not less than one million rupees but not exceeding two million rupees. 
+ (10) A person who violates or fails to comply with the requirements for the 
+disposal of fertilizer, including burial, burning, dumping, or any other means, unless such 
+disposal is done strictly in accordance with the prescribed procedure, shall be guilty of an 
+offence punishable with a fine not less than five hundred thousand rupees  but not more 
+than one million rupees. 
+ (11) Whoever contravenes or fails to comply with any of the provisions of the 
+Act for which no other penalty is provided, shall be punished with fine which may extend 
+to one hundred thousand rupees but not less than fifty thousand rupees. 
+37. Fee.– The fee  required under the Act shall be paid in such manner as may be 
+prescribed and which shall be non-refundable. 
+38. Delegation of powers.– The Controller may, by notification in the official Gazette, 
+direct that all or any of his powers under th e Act shall, in such circumstances and under 
+such conditions, if any, as may be specified in the direction, be exercised by any officer 
+or authority subordinate to him. 
+39. Cognizance of offences .– (1) The offences under sub-sections 1(a) and 1(b) of 
+section 36 shall be cognizable and all other offences shall be non-cognizable.  
+(2) No Court shall take cognizance of a n on-cognizable offence under the  Act 
+except on a complaint under the Code of Criminal Procedure 1898 (V of 1898) by any 
+officer authorized by the Controller.  
+(3) The Court of competent jurisdiction shall try the offences u nder the Act in 
+accordance with the procedure laid down in the Code  of Criminal Procedure 1898  (V of 
+1898). 
+40. Obstruction to lawful authority .– (1) Anyone who deliberately obstructs, 
+hinders, or in any manner opposes any aut hority in the execution of its  duties under the 
+Act shall be subject to maximum imprisonment of six months and fine not less than one 
+hundred thousand rupees. 
+(2) For each subseque nt similar offenc e, a minimum fine of two hundred 
+thousand rupees, along with cancellation of the licence, shall be imposed. 
+41. Indemnity.– No suit, prosecution or other legal proceedings shall lie against any 
+person for anything which is done in good faith or intended to be done in good faith 
+under the Act and rules made thereunder. 
+42. Rules.– The Government may, by notification in the official Gazette, make rules  
+for carrying out the purposes of the Act. 
+43. Removal of difficulties .– If any difficulty arises in giving effect to any of the 
+provisions of the  Act, the Government may by an order  give such directions not 
+inconsistent with provisions of the Act as it thinks fit for removing such difficulty. 
+44. Right to appeal.– (1) An order of Assistant Controller shall be appealable 
+before the Deputy Controller. 
+ (2) An order of Deputy Controller shall be appealable before the Additional 
+Controller/Director of Agriculture (Extension)/Divisional Incharge. 
+ (3) An order of the Additional  Controller, Additional Controller (Field) and 
+Additional Controller (Technical) shall be appealable before the Additional Secretary 
+(Task Force). 
+ (4) An order of the Additional Secretary (Task Force)  shall be appealable 
+before the Controller. 
+45. Provisions of the Act .– The provisions of the Act shall be in addition to, and not 
+in derogation of the provisions of any other law for the time being in force. 
+46. Repeal and savings.– (1) The Punjab Fertilizers (Control) Order, 1973 (VII of 
+1973) is hereby repealed. 
+ (2) Clause (j) of sub -section (2) of section 3 and entry No. 40 of the Schedule 
+to the Punjab Essential Articles (Control) Act, 1973 (XVII of 1973) are hereby repealed. 
+ (3) Notwithstanding the repeal of the Punjab Fertilizers (Control) Order, 1973 
+(VII of 1973), any act, proceeding, action or notification passed, taken or issued under 
+the repealed Order and Act shall, so far as it is not inconsis tent with the provisions of the 
+Act, be deemed to have been pa ssed, taken or issued under the  Act and shall continue 
+to have force unless it is superseded by an y act, proceeding, action or notification under 
+the Act.  
+ (4) An offence committed in relation to a fertilizer under the Punjab Essential 
+Articles (Control) Act, 1973 (XVII of 1973), if being investigated, prosecuted or tried, shall 
+continue to be investigated prosecuted or tried as if the Punjab Essential Articles 
+(Control) Act, 1973 has not been repealed.

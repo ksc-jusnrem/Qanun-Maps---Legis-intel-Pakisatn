@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-41af4798eab0f25c",
+  "title": "DERA GHAZI KHAN EXCLUDED AREA ELECTORAL LAWS REGULATION, 1950",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BjMFMgo0UWU-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:31:48Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "e8347a27ba09345592d35a01f67043da0bf34dccaf48c723d8a6894fc47d3931",
+  "source_sha256": "e8347a27ba09345592d35a01f67043da0bf34dccaf48c723d8a6894fc47d3931",
+  "text_version_id": "law:punjab-code-41af4798eab0f25c:sha256:e8347a27ba09345592d35a01f67043da0bf34dccaf48c723d8a6894fc47d3931",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE DERA GHAZI KHAN EXCLUDED AREA ELECTORAL \r\nLAWS REGULATION, 1950 \r\n(I of 1950) \r\nCONTENTS \r\n1. Short title, Extent and Commencement. \r\n2. Application of certain Rules. \r\n \r\n \r\n \r\n \r\n \r\nTEXT \r\n1\r\nTHE DERA GHAZI KHAN EXCLUDED AREA ELECTORAL LAWS \r\nREGULATION, 1950 \r\n(I of 1950) \r\n[9 September 1950] \r\n1. Short title, Extent and Commencement.– (1) This Regulation may be called \r\nthe Dera Ghazi Khan Excluded Area Electoral Laws Regulation, 1950\r\n2\r\n. \r\n (2) It shall extend to the Excluded Are a\r\n3\r\n in the Punjab province situated to \r\nthe west of the Dera Ghazi Khan district. \r\n (3) It shall come into force with immediate effect. \r\n2. Application of certain Rules .– All Rules\r\n4\r\n framed under the Government of \r\nIndia Act, 1935, in connection with elections to the Punjab Legislative Assembly shall \r\napply to the Excluded Area in the Punjab province situated to the west of the Dera \r\nGhazi Khan district. \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n                                                           \r\n1This Regulation for the peace and good Government of the Excluded Area in the Punjab Province s ituated to the West of the \r\nDera Ghazi Khan district having been made by the Governor of the Punjab and having received the assent of the Governor  \r\nGeneral on August 23, 1950, having the force of law under sub -section (2) of section 92 of the Government of I ndia Act, 1935, \r\npublished for general information in the Punjab Gazette (Extraordinary), dated September 9, 1950, p. 197.  \r\n2Also see the Dera Ghazi Khan Excluded Area Laws Regulation, 1950 (II of 1950), infra. \r\n3It was declared in the Ministry of States and  Frontier Regions vide Notification No. D .2162-F/50, dated April  17, 1950, \r\npublished in the Gazette of Pakistan (Extraordinary), dated April 17, 1950, p. 287. \r\n4For Rules, see the Punjab Legislative Assembly Electoral  Rules, 1950, issued vide Notification N o. 2632-Elections, published \r\nin the Punjab Gazette (Extraordinary), dated December 23, 1950, pp. 289 -344, also see the Punjab Legislative Assembly \r\nElectoral Manual, 1951 Edition . Also see Home Department Notification No. 2052 -50/Elec., dated September 9, 1 950, \r\npublished in the Punjab Gazette (Extraordinary), dated September 9, 1950, p. 198.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-41af4798eab0f25c:sha256:e8347a27ba09345592d35a01f67043da0bf34dccaf48c723d8a6894fc47d3931:chars-0-1727:6dff6b38d5baa8df872d00027846860386db264613edc27a8797e4804b01364f",
+      "character_start": 0,
+      "character_end": 1727,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1731,
+      "passage_sha256": "6dff6b38d5baa8df872d00027846860386db264613edc27a8797e4804b01364f",
+      "reader_fragment": "p-0-1727-6dff6b38d5baa8df"
+    },
+    {
+      "passage_id": "law:punjab-code-41af4798eab0f25c:sha256:e8347a27ba09345592d35a01f67043da0bf34dccaf48c723d8a6894fc47d3931:chars-1727-2264:f66ec2b0d344f0390fba19ab22d8cc8c2cdee16c7481d7d7e9b690ffd3cdb9f3",
+      "character_start": 1727,
+      "character_end": 2264,
+      "utf8_byte_start": 1731,
+      "utf8_byte_end": 2268,
+      "passage_sha256": "f66ec2b0d344f0390fba19ab22d8cc8c2cdee16c7481d7d7e9b690ffd3cdb9f3",
+      "reader_fragment": "p-1727-2264-f66ec2b0d344f039"
+    }
+  ]
+}

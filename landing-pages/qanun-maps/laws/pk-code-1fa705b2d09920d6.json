@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-1fa705b2d09920d6",
+  "title": "West Pakistan Departmental Inquiries (Powers) Act, 1958",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tmaw%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "9453f80c02d2bebf28587eacf3cbbf1169f9741df86ff86ea7396b0a0a09cbc4",
+  "source_sha256": "9453f80c02d2bebf28587eacf3cbbf1169f9741df86ff86ea7396b0a0a09cbc4",
+  "text_version_id": "law:pk-code-1fa705b2d09920d6:sha256:9453f80c02d2bebf28587eacf3cbbf1169f9741df86ff86ea7396b0a0a09cbc4",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\nTHE WEST PAKISTAN DEPARTMENTAL INQUIRIES (POWERS) \r\nACT, 1958 \r\n \r\n \r\n \r\n \r\n \r\n \r\nCONTENTS \r\nPreamble \r\n1. Short title and extent \r\n2. Power to summon witnesses and to compel production of documents \r\n3. Penalties \r\n4. Repeal \r\n \r\n  \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE WEST PAKISTAN DEPARTMENTAL INQUIRIES (POWERS) \r\nACT, 1958 \r\nWEST PAKISTAN ACT No. XLV of 1958 \r\n[20th September, 1958] \r\nAN \r\nACT \r\nto confer powers for compelling attendance of witnesses and production of documents on officers \r\nconducting departmental inquiries against Government servants in the Province of West Pakistan. \r\nPreamble. WHEREAS it is expedient to confer powers to compel attendance of witnesses and \r\nproduction of documents on officers conducting departmental inquiries against Government servants \r\nin the Province of West Pakistan; \r\nIt is hereby enacted as follows:__ \r\n1. Short title and extent. (1) This Act may be called the West Pakistan Departmental Inquiries \r\n(Powers) Act, 1958. \r\n1[(2) It extends to the whole of the Province of West Pakistan, except the Tribal Areas.] \r\n2. Power to summon witnesses and to compel production of documents . An officer \r\nconducting a departmental inquiry against a Government servant under any rules for the time being in \r\nforce, may exercise the same powers for compelling the attendance of witnesses 2[,] production of \r\ndocuments 2[and issuing commissions for the e xamination of witnesses] as are exercisable by a civil \r\ncourt under the Code of Civil Procedure, 1908 (V of 1908): \r\nProvided that the process issued by the officer conducting the departmental inquiry shall be \r\nserved and executed by the civil court having jurisdiction in the place where the witness or the person \r\nin possession of the document, as the case may be, resides. \r\n3. Penalties. Any person disobeying a process issued by an officer in exercise of the powers \r\nconferred by section 2 shall be liable to the same penalties to which he would have been liable if he \r\nhad disobeyed a process issued by the civil court. \r\n4. Repeal. The West Pakistan Departmental Inquiries (Powers) Ordinance, 1958  (West \r\nPakistan Ordinance No. XV of 1958), is hereby repealed. \r\n \r\n \r\nRGN Date: 22-08-2025 \r\n1Subs. by the West Pakistan Laws (Extension to Karachi) Ordinance, 1964 (VII of 1964), s. 2 and Sch. \r\n2Replaced and Ins. by Ordinance No. XI of 1961, s. 2.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-1fa705b2d09920d6:sha256:9453f80c02d2bebf28587eacf3cbbf1169f9741df86ff86ea7396b0a0a09cbc4:chars-0-1740:da511aa5cae854c0fd80490fc8cd0f755f3422715b817950250326bed5b1a2e0",
+      "character_start": 0,
+      "character_end": 1740,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1740,
+      "passage_sha256": "da511aa5cae854c0fd80490fc8cd0f755f3422715b817950250326bed5b1a2e0",
+      "reader_fragment": "p-0-1740-da511aa5cae854c0"
+    },
+    {
+      "passage_id": "law:pk-code-1fa705b2d09920d6:sha256:9453f80c02d2bebf28587eacf3cbbf1169f9741df86ff86ea7396b0a0a09cbc4:chars-1740-2383:28137db85d6100b05c29f2c905d9a099cfa8846d988a23f85052bc31637c5d0d",
+      "character_start": 1740,
+      "character_end": 2383,
+      "utf8_byte_start": 1740,
+      "utf8_byte_end": 2383,
+      "passage_sha256": "28137db85d6100b05c29f2c905d9a099cfa8846d988a23f85052bc31637c5d0d",
+      "reader_fragment": "p-1740-2383-28137db85d6100b0"
+    }
+  ]
+}

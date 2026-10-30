@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-be6f1c95938831ee",
+  "title": "PUNJAB MUSLIM PERSONAL LAW (SHARIAT) APPLICATION (REMOVAL OF DOUBTS) ORDINANCE, 1972",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BzJTYQI1VGI-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:58:57Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "8b78d82a98bfd903ca0f5296ee0a4d1584e902540d1a6c2e1b9feb83ade5fb54",
+  "source_sha256": "8b78d82a98bfd903ca0f5296ee0a4d1584e902540d1a6c2e1b9feb83ade5fb54",
+  "text_version_id": "law:punjab-code-be6f1c95938831ee:sha256:8b78d82a98bfd903ca0f5296ee0a4d1584e902540d1a6c2e1b9feb83ade5fb54",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB MUSLIM PERSONAL LAW (SHARIAT) \r\nAPPLICATION (REMOVAL OF DOUBTS) ORDINANCE, 1972 \r\n(IX of 1972) \r\nCONTENTS \r\n1. Short title, extent and commencement \r\n2. Removal of doubts \r\nTEXT \r\n1\r\nTHE PUNJAB MUSLIM PERSONAL LAW (SHARIAT) APPLICATION \r\n(REMOVAL OF DOUBTS) ORDINANCE, 1972 \r\n(IX of 1972) \r\n[12th April, 1972] \r\nAn \r\nOrdinance \r\nto make provision for removal of doubts in regard to the termination of limited estates \r\nin respect of immovable property held by Muslim females under the Customary Law. \r\nPreamble.– WHEREAS doubts have arisen in regard to the termination of limited \r\nestates in respect of immovable property held by Muslim females under the \r\nCustomary Law; \r\n AND, WHEREAS it is expedient to remove such doubts; \r\n NOW, THEREFORE, in pursuance of the Martial Law Proclamation of 25th \r\nMarch, 1969, read with the Proclamation of 20th December, 1971 and the \r\nProvisional Constitution Order, and in exercise of all powers enabling him in that \r\nbehalf, the Governor of the Punjab is pleased to make and promulgate the following \r\nOrdinance:- \r\n1. Short title, extent and commencement .– (1) This Ordinance may be called \r\nthe Punjab Muslim Personal Law (Shariat) Application (Removal of Doubts) \r\nOrdinance, 1972. \r\n (2) It extends to whole of the Punjab. \r\n (3) It shall come into force at once and shall be deemed to have taken \r\neffect from the 31st day of December, 1962. \r\n2. Removal of doubts .– (1) Notwithstanding anything contained in the West \r\nPakistan Muslim Personal Law (Shariat) Application Act, 1962  (West Pakistan Act V \r\nof 1962), the West Pakistan Muslim Personal (Shariat) (Amendment) Ordinance, \r\n1963 (West Pakistan Ordinance XXXIX of 1963), the West Pakistan Muslim Personal \r\nLaw (Shariat) Application (Amendment) Act, 1964 (West Pakistan Act XXVIII of \r\n1964) or any other law, or any decree, judgement, or order of any court or other \r\nauthority, or any proceedings pending before any court or other authority, the limited \r\nestates in respect of immovable property held by Muslim females under the \r\nCustomary Law shall be deemed to have been terminated with effect from 31st day \r\nof December, 1962. \r\n (2) All decrees, judgements or orders passed in any suit, appeal or other \r\nproceedings by any court or other authority which are inconsistent with the \r\nprovisions of sub -section (1) shall be of no legal effect and such suits, appeals or \r\nother proceedings shall be decided afresh on the application of any person affected \r\nby such decree, judgement or order. \r\n                                                 \r\n1This Ordinance was promulgated by the Governor of the Punjab on 12th A pril, 1972; published in the Punjab Gazette \r\n(Extraordinary), dated 12th April, 1972, pages 511 to 512; saved and validated by Articles 268 and 269 of the Constitution of  \r\nthe Islamic Republic of Pakistan (1973).",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-be6f1c95938831ee:sha256:8b78d82a98bfd903ca0f5296ee0a4d1584e902540d1a6c2e1b9feb83ade5fb54:chars-0-1727:9760e757d464825856466d865ddf17a04722d02a8732df0541247417de3b3d3c",
+      "character_start": 0,
+      "character_end": 1727,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1733,
+      "passage_sha256": "9760e757d464825856466d865ddf17a04722d02a8732df0541247417de3b3d3c",
+      "reader_fragment": "p-0-1727-9760e757d4648258"
+    },
+    {
+      "passage_id": "law:punjab-code-be6f1c95938831ee:sha256:8b78d82a98bfd903ca0f5296ee0a4d1584e902540d1a6c2e1b9feb83ade5fb54:chars-1727-2862:2501092b32f92b6cf6475b07bee531e052628262c0be207848821e000d27ace7",
+      "character_start": 1727,
+      "character_end": 2862,
+      "utf8_byte_start": 1733,
+      "utf8_byte_end": 2868,
+      "passage_sha256": "2501092b32f92b6cf6475b07bee531e052628262c0be207848821e000d27ace7",
+      "reader_fragment": "p-1727-2862-2501092b32f92b6c"
+    }
+  ]
+}

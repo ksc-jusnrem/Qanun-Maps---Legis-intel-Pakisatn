@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-a1bb86f65b94f80e",
+  "title": "EXIT FROM PAKISTAN (CONTROL) ORDINANCE, 1981",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VmBRZQQxUmc-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:33:07Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "c9815d1bff3dd884601308afd2a7a0e5e77172caac6e5ca6d6d6c220499f32d0",
+  "source_sha256": "c9815d1bff3dd884601308afd2a7a0e5e77172caac6e5ca6d6d6c220499f32d0",
+  "text_version_id": "law:punjab-code-a1bb86f65b94f80e:sha256:c9815d1bff3dd884601308afd2a7a0e5e77172caac6e5ca6d6d6c220499f32d0",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE EXIT FROM PAKISTAN (CONTROL) ORDINANCE, 1981 \r\n(XLVI of 1981) \r\nCONTENTS \r\n1. Short title, extent and commencement \r\n2. Power to prohibit exit from Pakistan \r\n3. Review \r\n4. Punishment \r\n5. Power to make rules \r\n \r\nTEXT \r\nTHE EXIT FROM PAKISTAN (CONTROL) ORDINANCE, 1981 \r\n(XLVI of 1981) \r\n[21st December, 1981] \r\nAn \r\nOrdinance \r\nto provide for the control of exit of certain persons from Pakistan. \r\nWhereas it is expedient to provide for the control of exit of certain persons from \r\nPakistan. \r\nAnd whereas the President is satisfied that circumstances exist which render it \r\nnecessary to take immediate action: \r\nNow, therefore, in pursuance of t he Proclamation of the Fifth day of July, 1977, \r\nread with the Provisional Constitution Order, 1981 (CMLA Order No 1 of 1981) and in \r\nexercise of all powers enabling him in that behalf, the President is pleased to make and \r\npromulgate the following Ordinance:– \r\n1. Short title, extent and commencement .– (1) This Ordinance may be called the \r\nExit from Pakistan (Control) Ordinance, 1981. \r\n(2) It extends to the whole of Pakistan. \r\n(3) It shall come into force at once. \r\n2. Power to prohibit exit from Pakistan .– (1) The Federal Government may, by \r\norder, prohibit any person or class of persons from proceeding from Pakistan to a \r\ndestination outside Pakistan, notwithstanding the fact that such person is  in possession \r\nof valid travel documents. \r\n(2) Before making an order under sub -section (1), the Federal Government \r\nshall not be necessary to afford an  opportunity of showing cause to the person against \r\nthe order. \r\n(3) If, while making an order under sub -section (1) it appear to the Federal \r\nGovernment that it will not be in t he public interest to specify th e ground on which the \r\norder is proposed to be made, it shall not be necessary for the Federal Government to \r\nspecify such grounds. \r\n3. Review.–  (1) Any pers on aggrieved by an order of the Federal Government \r\nunder sub-section (1) of section 2 may, within fifteen days of the making of the order, \r\nmake a representation to the Federal Government for a review of the order, setting out \r\nin the representation the grounds on which he seeks the review. \r\n(2) The Federal Government may, after giving the person making a \r\nrepresentation an opportunity of being heard, make such order as it may deem fit. \r\n(3) Subject to the order of the Federal Government in review, an order unde r \r\nsub-section (1) of section 2 shall be final and shall not be called in question before any \r\ncourts or other authority. \r\n4. Punishment.–  Whoever contravenes, or attempts or conspires to contravene, or \r\nabets the contravention of, any order made under sub -section (1) of section 2 shall be \r\npunishable with imprisonment for a term which may extend to five years. \r\n5. Power to make rules .–  The Federal Government may, by notification in the \r\nofficial Gazette, make rules for carrying out the purposes of this Ordinance.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-a1bb86f65b94f80e:sha256:c9815d1bff3dd884601308afd2a7a0e5e77172caac6e5ca6d6d6c220499f32d0:chars-0-1773:c82f0c101c89295198e79d62bf5607d9269407c56a57e722ce7b54d0cc1b125c",
+      "character_start": 0,
+      "character_end": 1773,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1779,
+      "passage_sha256": "c82f0c101c89295198e79d62bf5607d9269407c56a57e722ce7b54d0cc1b125c",
+      "reader_fragment": "p-0-1773-c82f0c101c892951"
+    },
+    {
+      "passage_id": "law:punjab-code-a1bb86f65b94f80e:sha256:c9815d1bff3dd884601308afd2a7a0e5e77172caac6e5ca6d6d6c220499f32d0:chars-1773-2966:ee8468b68942e060187ec3c7ab8d3135d6edeafe5112b7bfba5c18a7cd115725",
+      "character_start": 1773,
+      "character_end": 2966,
+      "utf8_byte_start": 1779,
+      "utf8_byte_end": 2978,
+      "passage_sha256": "ee8468b68942e060187ec3c7ab8d3135d6edeafe5112b7bfba5c18a7cd115725",
+      "reader_fragment": "p-1773-2966-ee8468b68942e060"
+    }
+  ]
+}

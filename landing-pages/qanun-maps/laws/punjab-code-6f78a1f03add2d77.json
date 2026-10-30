@@ -1,0 +1,33 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-6f78a1f03add2d77",
+  "title": "BAHAWALPUR STATE COURT OF WARDS ACT 1942",
+  "source_collection": "Punjab",
+  "content_kind": "source_notice",
+  "content_extent": "Stored source is a repeal note, not full historical Act text.",
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/UmQHMwUxVGA-",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Stored source is a repeal note, not full historical Act text.",
+  "text_sha256": "f2240e35d26ac20f65ac04afc2c40bf4d8057001b333a46adb78c5c605f8c347",
+  "source_sha256": "f2240e35d26ac20f65ac04afc2c40bf4d8057001b333a46adb78c5c605f8c347",
+  "text_version_id": "law:punjab-code-6f78a1f03add2d77:sha256:f2240e35d26ac20f65ac04afc2c40bf4d8057001b333a46adb78c5c605f8c347",
+  "quality_flags": [
+    "source_contains_repeal_note_only"
+  ],
+  "encoding": "UTF-8",
+  "text": "TEXT \r\n1\r\nTHE BAHAWALPUR STATE COURT OF WARDS ACT, 1942 \r\n                                                 \r\n1Repealed by the Punjab Laws (Amendment) Act 2011 (VI of 2011),  w.e.f. 20.4.2011  (notification published in the Punjab \r\nGazette (Extraordinary),  dated 16.4.2011, page 4081 , s.10 ; and published in the Punj ab Gazette (Extraordinary),dated \r\n14.4.2011, pages 4043-4047",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-6f78a1f03add2d77:sha256:f2240e35d26ac20f65ac04afc2c40bf4d8057001b333a46adb78c5c605f8c347:chars-0-381:f2240e35d26ac20f65ac04afc2c40bf4d8057001b333a46adb78c5c605f8c347",
+      "character_start": 0,
+      "character_end": 381,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 381,
+      "passage_sha256": "f2240e35d26ac20f65ac04afc2c40bf4d8057001b333a46adb78c5c605f8c347",
+      "reader_fragment": "p-0-381-f2240e35d26ac20f"
+    }
+  ]
+}

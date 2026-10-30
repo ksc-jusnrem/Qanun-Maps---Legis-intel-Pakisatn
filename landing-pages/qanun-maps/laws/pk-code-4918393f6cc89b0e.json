@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-4918393f6cc89b0e",
+  "title": "Jute (Repeal) Ordinance, 1983",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bpua-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "e73b06d79413d850a2127620b7fdfe42939d820bf87e7d4d504a71c0288506f3",
+  "source_sha256": "e73b06d79413d850a2127620b7fdfe42939d820bf87e7d4d504a71c0288506f3",
+  "text_version_id": "law:pk-code-4918393f6cc89b0e:sha256:e73b06d79413d850a2127620b7fdfe42939d820bf87e7d4d504a71c0288506f3",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\nTHE JUTE (REPEAL) ORDINANCE, 1983 \r\n \r\n \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Repeal \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\n \r\n \r\n \r\nTHE JUTE (REPEAL) ORDINANCE, 1983. \r\nORDINANCE No. XXXI OF 1983 \r\n \r\n[22nd December, 1983]  \r\n \r\nAn Ordinance to repeal the Jute Ordinance, 1962. \r\n  \r\nWHEREAS it is expedient to repeal the Jute Ordinance, 1962 (LXXIV of 1962). \r\n  \r\nAND WHEREAS the President is satisfied that circumstances exist which render it necessary to \r\ntake immediate action; \r\n  \r\n NOW, THEREFORE, in pursuance of the Proclamation of the fifth day of July, 1977, \r\nand in exercise of all powers enabling him in that behalf, the President is pleased to make and \r\npromulgate the following Ordinance:—  \r\n \r\n1. Short title and commencement. __(1) This Ordinance may be called the Jute (Repeal) \r\nOrdinance, 1983. \r\n \r\n (2) It shall come into force at once. \r\n  \r\n 2. Repeal. The Jute Ordinance, 1962 (LXXIV of 1962), is hereby repealed.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-4918393f6cc89b0e:sha256:e73b06d79413d850a2127620b7fdfe42939d820bf87e7d4d504a71c0288506f3:chars-0-1057:e73b06d79413d850a2127620b7fdfe42939d820bf87e7d4d504a71c0288506f3",
+      "character_start": 0,
+      "character_end": 1057,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1059,
+      "passage_sha256": "e73b06d79413d850a2127620b7fdfe42939d820bf87e7d4d504a71c0288506f3",
+      "reader_fragment": "p-0-1057-e73b06d79413d850"
+    }
+  ]
+}

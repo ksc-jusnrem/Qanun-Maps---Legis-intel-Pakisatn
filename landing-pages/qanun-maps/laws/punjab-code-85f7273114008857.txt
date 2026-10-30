@@ -1,0 +1,906 @@
+CONTENTS 
+1. Short title and extent. 
+2. Definitions. 
+Procedure and Preliminary Investigations 
+3. Application for concession. 
+4. Contents of application. 
+5. Preliminary investigations. 
+Orders Authorizing the Construction 
+of Aerial Ropeways 
+6. Publication of proposed order authorizing construction and contents of 
+such orders. 
+7. Final order. 
+8. Cessation of powers given by an order. 
+9. Further order. 
+Inspection of Aerial Ropeways 
+10. Inspection of aerial ropeways before opening. 
+11. Appointment of Inspector. 
+12. Powers of Inspector. 
+13. Facilities to be afforded to Inspector. 
+Construction and Maintenance 
+of Aerial Ropeways 
+14. Authority of promoter to execute all necessary works. 
+15. Temporary entry upon land for repairing or preventing accident. 
+16. Removal of obstructions. 
+17. Orders of Collector subject to revision by Provincial Government. 
+THE PUNJAB AERIAL ROPEWAYS ACT, 1926 
+(V of 1926) 
+Working of Aerial Ropeways 
+18. Promoter may fix rates. 
+19. Duty of promoter to work aerial ropeway without partiality. 
+20. Reporting of accidents. 
+21. Power to close and re-open aerial ropeways. 
+Discontinuance of Aerial Ropeways 
+22. Cessation of powers of promoter on discontinuance of aerial ropeway. 
+23. Powers of Provincial Government to remove aerial ropeway on 
+cessation of promoter’s powers. 
+Purchase of Aerial Ropeways 
+24. Power of Provincial Government and local authorities to purchase aerial 
+ropeways. 
+25. Power of promoter to sell when option to purchase not exercised and 
+order revoked by consent. 
+Inability or Insolvency of Promoter 
+26. Proceedings in case of inability or insolvency of promoter. 
+Bye-laws 
+27. Power of promoter to make bye-laws. 
+Supplementary Provisions 
+28. Returns.  
+29. Protection of roads, railways, tramways and waterways.  
+30. Acquisition of land on behalf of a promoter.  
+31. Notification of claims to refunds of overcharges and to co mpensation 
+for losses.  
+Rules by the Provincial Government 
+32. Power of Provincial Government to make rules.  
+Offences, Penalties and Arrest 
+33. Failure of promoter to comply with Act.  
+34. Unlawfully obstructing promoter’s servant in discharge of his duty.  
+35. Unlawfully interfering with aerial ropeway.  
+36. Punishments for acts or attempts ten ding to endanger safety of persons 
+travelling or being upon aerial ropeways.  
+37. Arrest for offences against certain sections and procedure thereupon.  
+TEXT 
+12
+THE PUNJAB AERIAL ROPEWAYS ACT, 1926 
+(V of 1926) 
+[18 May 1926] 
+An 
+Act 
+to authorize, facilitate, and regulate the construction and working of aerial ropeways in the 
+Punjab. 
+Preamble.– WHEREAS it is expedient to authorize, facilitate, and regulate the construction 
+and working of aerial ropeways in the Punjab and whereas the previous sanction of the 
+Governor-General to the passing of this Act has been obtained , i t is hereby enacted as 
+follows:– 
+1. Short title and extent.– (1) This Act may be called the Punjab Aerial Ropeways Act, 
+1926. 
+(2) It extends to the Punjab. 
+2. Definitions.– In this Act unless there is anything repugnant in the subject or 
+context:–  
+(1) “Aerial Ropeway” means an aerial ropeway (or any portion thereof) for the 
+public carriage of passengers, animals or goods, and includes all ropes, posts, ca rriers, 
+stations, offices, warehouses, workshops, machinery and other works used for the purposes 
+of, or in connection with, and all land appurtenant to, such aerial ropeway; 
+(2) “Carrier” means any vehicle or receptacle hung or suspended from, or hauled 
+by, a rope and used for the carriage of passengers, animals, or goods or for any other 
+purpose in connection with the working of an aerial ropeway; 
+(3) “Circle” in relation to a local authority means the area within the control of that 
+authority; 
+(4) “Inspector” means an Inspector of aerial ropeways appointed under this Act; 
+(5) “Order” means an order authorizing the construction of an aerial ropeway 
+under this Act, and includes a further order substituted for, or amending, extending or 
+revoking that order; 
+(6) “Post” means a post, trestle, standard, strut, stay, or other contrivance or part 
+of a contrivance for carrying, suspending or supporting a rope; 
+(7) “Prescribed” means prescribed by rules made by the 
+3
+[Provincial Government] 
+under section 32; 
+(8) “Promoter” means– 
+                                                           
+1For Statement of Objects and Reasons, see Gazette of India, 1924, Part. V, at p. 115; and for report of Select Committee, see 
+ibid., 1925, Part V, at p . 59. This Act has  been extended to the Leased Areas of Baluchistan, see the Leased Areas (Laws) 
+Order, 1950 (G.G.O. III of 1950); and applied in the Federated Areas of Baluchistan, see Gazette of India, 1937, Part I, at p . 
+1499. This Act was published in the Gazette of India, Part IV, dated 21.3.1925, at pp. 19-21. 
+2For Statement of Objects and Reasons, see Punjab Gazette, December 18, 1925, Pt. V, pp. 358-360; for Select Committee’s 
+Report, see ibid., 1926, Pt. V, pp. 62 -79; and for Proceedings in Council, see Punjab Legislative Council, Debates, Vol. VIII-B, 
+p. 1831 and Vol. IX-A, pp. 705 and 845. This Act received the assent of the Governor of the Punjab on March  27, 1926; that of 
+the Governor-General on May 2, 1926; and, published in the Punjab Gazette (Extraordinary), dated May 21, 1926, pp. 450-458. 
+3Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations. 
+(i) the 
+1
+[Provincial Government], 
+(ii) a local authority, 
+(iii) any person, 
+(iv) any company incorporated under the 
+2
+[*] Companies Act, 1913
+3
+, or 
+(v) any railway company as defined in the 
+4
+[*] Railway Act, 1890
+5
+, in whose favour 
+an order ha s been made under section 7, or on whom the rights and liabilities 
+conferred and imposed on the promoter by this Act, and by rules and orders 
+made under this Act, as to the construction, maintenance and use of an aerial 
+ropeway, have devolved; 
+(9) “Rate” includes any fare, charge or other payment for the carriage of 
+passengers, animals or goods; 
+(10) “Rope” includes any cable, wire, rail, or way, whether flexible or rigid , for 
+suspending, carrying or hauling a carrier, if any part of such cable, wire, rail, or 
+way, is carried overhead and is suspended from or supported on posts. 
+Procedure and Preliminary Investigations 
+3. Application for concession.– Every application by an intending promoter other than 
+the 
+6
+[Provincial Government] in regard to a proposed aerial ropeway  for permission to 
+undertake the necessary preliminary investigations shall be submitted to the 
+7
+[Provincial 
+Government]. 
+4. Contents of application.– Every such application shall include– 
+(a) a description of the undertaking and of the route to be followed by the proposed 
+aerial ropeway; 
+(b) a description of the system of construction and management and the 
+advantages to the community to be expected from the aerial ropeway; 
+(c) an approximate estimate of the cost of construction thereof; 
+(d) a statement of the estimated working expenses and profits expected; 
+(e) a statement of the maximum and minimum rates proposed to be charged; 
+(f) such maps, plans, sections, diagrams and other information as the 
+8
+[Provincial 
+Government] may require in order to form an idea of the proposal. 
+5. Preliminary investigations.– Subject to the provisions of this Act and of section 4 of 
+the Land Acquisition Act, 1894
+9
+, the 
+1
+[Provincial Government] may, 
+2
+[***], accord sanction to 
+                                                           
+1Ibid. 
+2Omitted the word “Indian” by the Punjab Laws (Adaptation, Revision and Repeal) Act, 1954 (XV of 1955), vide Notification No. 
+825-Leg., published in the  Punjab Gazette (Extraordinary), dated January 21, 19 55, pp. 87-108, s. 3 read with  Second 
+Schedule.  
+3VII of 1913. 
+4Omitted the word “Indian” by the Punjab Laws (Adaptation, Revision and Repeal) Act, 1954 (XV of 1955), vide Notification No.  
+825-Leg., published in the Punjab Gazette (Extraordinary), dated January 21, 1955, p p. 87 -108, s. 3 read with  Second 
+Schedule. 
+5IX of 1890. 
+6Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations. 
+7Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations. 
+8Ibid. 
+9I of 1894. 
+the promoter to make such surveys, as may be necessa ry, and require him to submit such 
+detailed estimates, plans, sections, specifications, and such further information as it may 
+deem necessary for the full consideration of the proposal.  The promoter shall not in any 
+event be entitled to claim any compensat ion 
+3
+[from the 
+4
+[Government]] for any expense 
+incurred under this section. 
+Orders Authorizing the Construction of Aerial Ropeways 
+6. Publication of proposed order authorizing construction and contents of such 
+orders.– (1) The 
+5
+[Provincial Government] may, on application made by any promoter and 
+after due consideration of the details supplied in accordance with section 5, publish in the 
+official Gazette a draft of the proposed order authorizing the construction of an aerial 
+ropeway within any specified area or along any specified route by or on behalf of such 
+promoter, subject to such restrictions and conditions as the 
+6
+[Provincial Government] may 
+deem proper. 
+(2) A notice shall be published with the draft stating that any objection or 
+suggestion which any pe rson may desire to make with respect to the proposed order will, if 
+submitted to the 
+7
+[Provincial Government] on or before a date to be specified in the notice, 
+be received and considered. 
+(3) The 
+8
+[Provincial Government] shall cause public notice of the i ntention to 
+make the order to be given at convenient places within the said area, or along the said route 
+and shall, so far as may be conveniently possible, cause a like notice to be served on every 
+owner or occupier of land over which such route lies, and  shall consider any objection or 
+suggestion with respect to the proposed order which may be received from any person 
+within a date to be specified in such notice. 
+(4) The draft of the proposed order may specify– 
+(i) a time within which the capital required  for the construction of the aerial 
+ropeway shall be raised; 
+(ii) a time within which the construction shall be commenced; 
+(iii) a time within which the construction shall be completed; 
+(iv) the condition under wh ich a concession, guarantee, or  financial 
+assistance may be given by the 
+9
+[Provincial Government] or a local 
+authority to the promoter; 
+(v) the rights of purchase by the 
+10
+[Provincial Government] or a local 
+authority; 
+(vi) the rules regarding audit and accounts; 
+                                                                                                                                                                                     
+1Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations. 
+2Omitted the words “in its discretion” by the Order ibid., Article 3 read with Schedule VI. 
+3Substituted for the words “from the Government” by the Order ibid. 
+4Substituted for the word “Government” by the West Pakistan Laws (Adaptation) Order, 1964, published in the Gazette of West 
+Pakistan (Extraordinary), dated June 3, 1964, pp. 1805-1849, s. 2(1). 
+5Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Law s) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations. 
+6Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Laws) Or der, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations. 
+7Ibid. 
+8Ibid. 
+9Ibid. 
+10Ibid. 
+ (vii) the rules regarding arbitration for the settlement of disputes; 
+(viii) the specifications relating to the structur al designs, quality of material , 
+factors of safety, method of computing stresses and other such 
+technical details as may be considered necessary; 
+1
+[(ix) the rules relating to the construction of the aerial ropeway over roads 
+and other public ways of communication, 
+2
+[* * *]]; 
+(x) the conditions under which the promoter may sell or transfer his rights to 
+the 
+3
+[Provincial Government], or to a local authority, or person; 
+(xi) the conditions under which the aerial ropeway may be taken over by the 
+4
+[Provincial Government] to be worked by itself or by a local authority or 
+by a person other than the promoter; 
+ (xii) the motive power to be used on the aerial ropeway and the conditions, if 
+any, on which such power may be used; 
+(xiii) the minimum headway to be maintained under different parts of the 
+rope; 
+(xiv) the points under the aerial ropeway at which bridges or guards shall be 
+constructed and maintained; 
+ (xv) the traffic which  may be carried on the ropeway, the traffic which the 
+promoter shall be bound to carry, and the traffic which he may refuse to 
+carry; 
+(xvi) the maximum and minimum rates that may be charged by the promoter, 
+and the circumstances in which and the manner in whic h these rates 
+may be revised by the 
+5
+[Provincial Government]; 
+ (xvii) the amount of security, if any, to be deposited by the promoter in the 
+event of his application being granted; and 
+(xviii) such other matters as the 
+6
+[Provincial Government] may deem 
+necessary. 
+7. Final order.– (1) If, after considering any objections or suggestions which may have 
+been made in respect to the draft on or before the specified date, the 
+7
+[Provincial 
+Government] is of opinion that the application should be granted, with or wi thout 
+modification, or subject or not to any restriction or condition, it may make an order 
+accordingly. 
+(2) Every order authorising the construction of an aerial ropeway shall be 
+published in the official Gazette, and such publication shall be conclusive proof that the order 
+has been made as required by this section. 
+                                                           
+1Inserted by the Government of India (Adaptation of Indian Laws) Order, 1937, pu blished in the Gazette of India 
+(Extraordinary), dated April 1, 1937, pp. 75-344, Article 3 read with Schedule VI. 
+2Omitted the words “except railways as defined by the Government of India Act, 1935, and with previous sanction of the Central 
+Government, ov er such railways” by the West Pakistan Laws (Adaptation) Order, 1964, published in the Gazette of West 
+Pakistan (Extraordinary), dated June 3, 1964, pp. 1805-1849, s. 2(1). 
+3Substituted for the words “Local Government” by the Government of India (Adaptatio n of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations. 
+4Ibid. 
+5Ibid. 
+6Ibid. 
+7Ibid. 
+8. Cessation of powers given by an order .– If a promoter authorized by an order to 
+construct an aerial ropeway does not, within the time specified in the order, 
+(a) succeed in raising the full  amount of capital required for the completion of the 
+aerial ropeway; or 
+(b) make, in the opinion of the 
+1
+[Provincial Government], substantial progress with 
+the construction of the aerial ropeway; or 
+(c) complete the construction thereof;  the powers given to the promoter by such 
+order shall, unless the 
+2
+[Provincial Government] prolongs the time so specified, 
+cease to be exercised. 
+9. Further order.– (1) The  
+3
+[Provincial Government] 
+4
+[* * *]  may, on the application of 
+the promoter, revoke, amend, or extend the order by a further order. 
+(2) An application for a further order shall be made in the same manner, and 
+subject to the same conditions, as an application for an order. 
+(3) If the 
+5
+[Provincial Government] grants the application it shall make the further 
+order in the same manner as an order, except that the rights, powers and authorities asked 
+for in the said application shall not be increased, modified or restricted by the further order 
+without the consent in writing of the promoter. 
+Inspection of Aerial Ropeways 
+10. Inspection of aerial ropeways before opening .– (1) No aerial ropeway shall be 
+opened for any kind of traffic until the 
+6
+[Provincial Government] has by order sanctioned the 
+opening thereof for that purpose. The sanction of the 
+7
+[Provincial Government] under this 
+section shall not be given until an Inspector has reported in writing to the 
+8
+[Provincial 
+Government]– 
+(a) that he has made a careful inspection of the aerial ropeway and 
+appurtenances; 
+(b) that the moving and fixed dimensions and other conditions prescribed under 
+the order have been complied with; 
+(c) that the aerial ropeway is sufficiently equipped for the traffic for which it is 
+intended; 
+(d) that the bye -laws and working rules prescribed by section 27 and 32 have 
+been duly made, appro ved, and promulgated in the manner prescribed in 
+those sections; and  
+(e) that in his opinion the aerial ropeway is fit for public traffic and can be used 
+without danger to the public using it, or to the person employed thereon, or to 
+the general public. 
+                                                           
+1Substituted for the words “Local Government” by the Governm ent of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations.  
+2Ibid.  
+3Ibid.  
+4Omitted the words “in its discretion” by the Order ibid., Article 3 read with Schedule VI. 
+5Substituted for the words “Local Government” by the Order ibid., Article 4(1) read with Table of General Adaptations.  
+6Ibid.  
+7Substituted for the words “Local Government” by the Government of India (Adaptation  of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations.  
+8Ibid.  
+(2) The provisions of sub -section (1) shall extend to the opening of additional 
+sections of the aerial ropeway, to deviation lines, and to any alteration or reconstruction 
+materially affecting the structural character of any work to which the provisions of sub-
+section (1) apply or are extended by this sub-section. 
+11. Appointment of Inspector .– (1) The 
+1
+[Provincial Government] may appoint 
+Inspectors of aerial ropeways and may fix the fees to be charged to promoters for the 
+performance by Inspectors of their duties under this Act. 
+(2) It shall be the duty of such Inspectors from time to time to inspect aerial 
+ropeways and to determine whether they are maintained in a fit condition and worked with 
+due regard to the convenience and safety of the public, and cons istently with the provisions 
+of this Act. 
+12. Powers of Inspector.– An Inspector shall, for the purpose of any of the duties which 
+he is authorized or required to perform under this Act, be deemed to be a public servant, as 
+defined in the 
+2
+[Pakistan] Penal Code, and shall for that purpose have such powers as may 
+be prescribed 
+3
+[by the Provincial Government] under clause (a) of sub -section (2) of section 
+32. 
+13. Facilities to be afforded to Inspector .– The promoter and his  servants and agents 
+shall afford to the Inspector all reasonable facilities for performing the duties and exercising 
+the powers imposed and conferred upon him by this Act or by rules made thereunder. 
+Construction and Maintenance of Aerial Ropeways 
+14. Authority of promoter to execute all necessary works.– (1) Subject to the 
+provisions of, and to the rules made under  this Act, and, in the case of immovable property 
+not belonging to the promoter, to the provisions of any enactment for the time being in force 
+for the acquisition of land for public purposes and for companies, a promoter may– 
+(a) make such survey as he thinks necessary; 
+(b) place and maintain posts in or upon any immovable property; 
+(c) suspend and maintain a rope over, along or across any immovable property; 
+(d) make such bridges , culverts, drains, embankments and roads as may be 
+necessary; 
+(e) erect and construct such machinery, offices, stations, warehouses and other 
+buildings, works, and conveniences as may be necessary; and 
+(f) do all other acts necessary for constructing, mai ntaining, altering, repairing and 
+using the aerial ropeway: 
+Provided that a promoter may take any action under clause (b) or clause (c) of this 
+sub-section, notwithstanding the objection of the owner or occupier of the property affected 
+thereby, if the Col lector, after giving such owner and occupier by notice in writing an 
+opportunity of being heard, by an order in writing permits such action. 
+(2) When making an order under the proviso to sub -section (1), the Collector 
+shall fix the amount of compensation, or of annual rent, or of both, which should, in his 
+                                                           
+1Ibid.  
+2Substituted for the word “Indian” by the Punjab Laws (Adaptation, Revis ion and Repeal) Act, 1954 (XV of 1955), vide 
+Notification No. 825-Leg., published in the Punjab Gazette (Extraordinary), dated January 21, 1955, pp. 87 -108, s. 3 read with 
+Second Schedule.  
+3Substituted for the words “by Government” by the Government of In dia (Adaptation of Indian Laws) Order, 1937, published in 
+the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 3 read with Schedule VI. 
+opinion, be paid by the promoter to the owner of the property affected thereby, or, in the 
+case of immovable property, to the owner or occupier thereof, or any person interested 
+therein and the amount to be paid to each. 
+15. Temporary entry upon land for repairing or preventing accident .– (1) Subject to 
+the rules made under this Act a promoter or his duly authorized servant or agent may at any 
+time for the purpose of examining, repairing, or altering an ae rial ropeway, or of preventing 
+any accident, enter upon any immovable property adjoining such aerial ropeway, and may 
+do all such works as may be necessary for such purposes. 
+(2) In the exercise of the powers conferred by sub-section (1) the promoter or his 
+duly authorized servant or agent, as the case may be, shall cause as little damage as 
+possible, and compensation shall be paid by him for any damage so caused; and in the case 
+of any dispute as to the amount of such compensation, the matter shall be refe rred to the 
+decision of the Collector. 
+16. Removal of obstructions .– (1) Where any tree standing or lying near an aerial 
+ropeway, or where any structure or other object which has been placed or has fallen near an 
+aerial ropeway subsequent to the issue of a n order under section 7 in regard to such aerial 
+ropeway, interrupts or interferes with, or is likely to interrupt or interfere with the construction, 
+maintenance, alteration, or use of the aerial ropeway, the Collector may, on the application 
+of the promoter, cause the tree, structure or object to be removed or otherwise dealt with as 
+he thinks fit. For the purpose of this sub -section the expression “tree” shall be deemed to 
+include any shrub, hedge, jungle growth or other plant. 
+(2) When disposing of an a pplication under sub -section (1) the Collector shall 
+award to the person interested such compensation as the Collector deems reasonable, and 
+the Collector may recover such amount from the promoter as if it were an arrear of land 
+revenue. 
+17. Orders of Coll ector subject to revision by 
+1
+[Provincial Government ].– No suit 
+shall lie, in respect of any matter referred to in the proviso to sub -section (1) of section 14 in 
+sub-section (2) of section 14, section 15, or in sub -section (1) of section 16, but every ord er 
+made by a Collector under any of those sections, and every award made by him under sub -
+section (2) of section 16, shall be subject to revision by the 
+2
+[Provincial Government] except 
+in the case of an award of compensation made by the Collector on accoun t of action taken 
+under clause (c) of sub-section (1) of section 14, which award shall be subject to revision by 
+the District Judge. 
+ 
+3
+[Provided that no order in revision under this section shall be passed unless the 
+person to be affected thereby is afforded an opportunity of being heard.] 
+Working of Aerial Ropeways 
+18. Promoter may fix rates.– The promoter shall, for the purposes of working an aerial 
+ropeway, and subject to such maximum and minimum rates as may be prescribed or 
+ordered, have power from time to time to fix the rates for the carriage of passengers, animals 
+or goods on the aerial ropeway. 
+                                                           
+1Substituted for the words “Local Government” by the Government of India (Adaptation of Indian  Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations. 
+2Ibid.  
+3Added by the Punjab Aerial Ropeways (Amendment) Ordinance, 1985 (XI of 1985), published in  the Gazette of Punjab 
+(Extraordinary), dated February 23, 1985, s. 2. 
+19. Duty of promoter to work aerial ropeway without partiality .– No promoter shall 
+make or give any undue or unreasonable preference or advantage to or in fa vour of any 
+particular person or any particular description of traffic in any respect whatsoever, or subject 
+any particular person or any particular description of traffic to any undue or unreasonable 
+prejudice or disadvantage in any respect whatsoever. 
+20. Reporting of accidents.– When any of the following accidents occur in the course of 
+working an aerial ropeway, namely,– 
+(a) any accident attended with loss of human life or serious physical injury to any 
+human being, or with serious injury to property; 
+(b) any accident of a description usually attended with loss of human life or with 
+serious physical injury as aforesaid, or with serious injury to property; 
+(c) any accident of any other description which the 
+1
+[Provincial Government] may 
+specify in this beh alf by notifi cation in the official Gazette; the promoter shall, 
+without unnecessary delay, send notice of the accident to the 
+2
+[Provincial 
+Government] and to the Inspector ; and the promoter’s servant in charge of the 
+station on the aerial ropeway nearest to the place at which the accident 
+occurred, or, where there is no station, the promoter’s servant in charge of the 
+section of the aerial ropeway on which the accident occurred, shall, with the 
+least possible delay, give notice of the accident to the Magis trate of the District 
+in which the accident occurred and to the Officer in charge of the Police Station 
+within the local limits of which it occurred, or to such other Magistrate and 
+Police Officer as the 
+3
+[Provincial Government] may appoint in this behalf,  and 
+shall also, if the accident is attended with loss of human life or serious physical 
+injury to any human being, send information to the nearest dispensary. 
+21. Power to close and re -open aerial ropeways .– (1) If after inspecting any aerial 
+ropeway opened to public traffic, an Inspector is of opinion that the aerial ropeway or any 
+specified part thereof cannot be used without danger to the public, or is no longer in a fit 
+state for the carriage of any specified class of traffic, he shall state that opinion, together with 
+the grounds therefor, to the 
+4
+[Provincial Government]; and the 
+5
+[Provincial Government], after 
+such further enquiry, if any, as it may think fit , may thereupon order that, for reasons to be 
+set forth in the order, the aerial ropeway, or t he part thereof so specified, be closed to all 
+traffic or to any specified class of traffic: 
+Provided that, in any case of extreme urgency, the Inspector may order the 
+suspension of the working of the aerial ropeway or any part thereof which he considers 
+necessary, pending the orders of the 
+6
+[Provincial Government]. 
+(2) When under sub -section (1) an aerial ropeway or any part thereof has been 
+closed to any traffic, it shall not be re -opened to such traffic until it has been inspected, and 
+its reopening sanctioned, in the prescribed manner. 
+Discontinuance of Aerial Ropeways 
+                                                           
+1Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations.  
+2Ibid.  
+3Ibid.  
+4Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations.  
+5Ibid.  
+6Ibid.  
+22. Cessation of powers of promoter on discontinuance of aerial ropeway .– If, at 
+any time after the opening of an aerial ropeway, it is proved to the satisfaction of the 
+1
+[Provincial Government] that the promoter has discontinued the working of the aerial 
+ropeway or of any part thereof, without a reason sufficient, in the opinion of the 
+2
+[Provincial 
+Government], to warrant such discontinuance, the 
+3
+[Provincial Government] may, if it thinks 
+fit, declare by notification in the official Gazette, that the powers of the promoter in respect of 
+such aerial ropeway or part thereof shall, from such date as it may determine, be at an end; 
+and thereupon the said powers shall cease and determine. 
+Explanation.– The working of an aerial ropeway shall be deemed to have been 
+discontinued if it has ceased for the period determined in the order published under section 
+7, or, if the period has not been so determined, for a period of three months. 
+23. Powers of 
+4
+[Provincial Government] to remove aerial ropeway on cessation of 
+promoter’s powers .– (1) When a declaration has been made by the 
+5
+[Provincial 
+Government] under section 22 in respect of any aerial ropeway or of any part thereof, an 
+officer appointed in tha t behalf by the 
+6
+[Provincial Government] may, at any time after the 
+expiration of two months from the date determined as aforesaid, remove such aerial 
+ropeway or part thereof, as the case may be; and the promoter shall pay to the officer so 
+appointed such costs of removal as shall be certified by that officer to have been incurred by 
+him. 
+(2) If the promoter fails to pay the amount of costs so certified within one month 
+after the delivery to him of the certificate or of a copy thereof, such officer may, eit her by 
+public auction or private sale, and without any previous notice to the promoter, and without 
+prejudice to any other remedy which he may have for the recovery of the said amount, sell 
+and dispose of the materials of the aerial ropeway or part thereof  so removed; and may, out 
+of the proceeds of the sale, pay, and reimburse to himself the amount of costs certified as 
+aforesaid and the costs of the sale, and shall pay over the residue (if any) of such proceeds 
+to the promoter. 
+Purchase of Aerial Ropeways 
+24. Power of 
+7
+[Provincial Government] and local authorities to purchase aerial 
+ropeways.– (1) Where the promoter is the 
+8
+[Provincial Government], the 
+9
+[Provincial 
+Government] may at any time transfer the undertaking or any part thereof to– 
+(a) a local authority or local authorities under terms and conditions approved of by, 
+and with the consent of, such authority or authorities, 
+(b) to any other person under such terms and conditions as may be mutually 
+agreed upon between the 
+10
+[Provincial Government] and the transferee. 
+(2)  Where the promoter is not the 
+1
+[Provincial Government], the 
+2
+[Provincial 
+Government] may– 
+                                                           
+1Ibid.  
+2Ibid.  
+3Ibid.  
+4Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations. 
+5Ibid. 
+6Ibid. 
+7Ibid. 
+8Ibid. 
+9Ibid. 
+10Ibid. 
+(a) within such limits of time and upon such terms and conditions as may be 
+specified in this behalf in the order, or, 
+(b) if a time was not specified in the order, then within six months after the expiration 
+of a period of twenty-one years from the date of the order, and within six months 
+after the expiration of every subsequent period of seven years, or 
+(c) within two months after the publication of a notification under section 22, or 
+within six months after the publication of a notification under section 26, by notice 
+in writing require the promoter to sell to the 
+3
+[Provincial Government] or to a local 
+authority the aerial ropeway or a part thereo f; and thereupon the promoter shall 
+sell the same upon the terms specified in the order, or if the terms were not 
+specified in the order, then upon the terms of receiving the then value of the 
+aerial ropeway or of the part thereof. The then value of the ae rial ropeway shall 
+be deemed to be twenty -five times the amount of the average yearly net 
+earnings derived by the promoter from the aerial ropeway or part thereof, during 
+the three years immediately preceding the date of sale: 
+Provided that if the terms were not specified in the order published under section 7 the 
+total amount so payable to the promoter shall not exceed by more than twenty percent , the 
+total capital expenditure of the promoter on the aerial ropeway, or part thereof. 
+(3) A requisition shall not be made under sub -section (2) requiring the promoter 
+to sell to the local authority unless the making thereof has been approved by the local 
+authority. 
+(4) When a sale has been made under this section, all the rights, powers and 
+authorities of the prom oter in respect of the undertaking or part thereof sold, or, where a 
+notification has been published under section 22 or section 26, all the rights, powers and 
+authorities of the promoter previous to the publication of the notification in respect of the 
+undertaking or part thereof sold, shall be transferred to the authorities to whom the 
+undertaking or part has been sold, and shall vest in, and may be exercised by, that authority 
+in the same manner as if the aerial ropeway had been constructed by it under an order made 
+under this Act. 
+(5) Subject to, and in accordance with, the preceding provisions of this section, 
+two or more local authorities may jointly purchase an undertaking or so much thereof as is 
+within their circles. 
+(6) Where a purchase has been ef fected under sub -section (1) or sub -section 
+(5)– 
+(a) the undertaking shall vest in the purchasers free from any debts, 
+mortgages or similar obligations of the promoter or attaching to the 
+undertaking: 
+Provided that any such debts, mortgages or similar obli gations shall attach to the purchase -
+money in substitution for the undertaking; and 
+(b) save as aforesaid, the order published under section 7 shall remain in full 
+force, and the purchaser shall be deemed to be the promoter: 
+                                                                                                                                                                                     
+1Ibid. 
+2Ibid. 
+3Substituted for the words “Local Government” by the Government of India (Adaptation o f Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations.  
+Provided that where the 
+1
+[Provincial Government] elects to purchase, the order under 
+section 7 shall, after purchase, in so far as the 
+2
+[Provincial Government] is concerned, 
+cease to have any further operation. 
+(7) Not less than two years’ notice in writing of any election to purchase u nder 
+clause (a) or clause (b) of sub -section (2) of this section shall be served upon the promoter 
+by the 
+3
+[Provincial Government] or the local authority, as the case may be. 
+(8) Notwithstanding anything hereinbefore contained, a local authority may, with 
+the previous sanction of the 
+4
+[Provincial Government], waive its option to purchase and enter 
+into an agreement with the promoter for the working by him of the undertaking until the 
+expiration of the next subsequent period mentioned in the order or referred to in clause (b) of 
+sub-section (2), upon such terms and conditions as may be stated in the agreement. 
+25. Power of promoter to sell when option to purchase not exercised and order 
+revoked by consent.– Where, on the expiration of any of the periods refer red to in section 
+24, neither the 
+5
+[Provincial Government] nor a local authority purchases the undertaking, and 
+the order published under section 7 is, on the application or with the consent of the promoter 
+revoked, the promoter shall have the option of di sposing of all lands, buildings, works, 
+materials, plants and apparatus belonging to the undertaking in such manner as he may 
+think fit. 
+Inability or Insolvency of Promoter 
+26. Proceedings in case of inability or insolvency of promoter .– (1) If, at any tim e 
+after the opening of an aerial ropeway, it appears to the  6
+[Provincial Government] that the 
+promoter is insolvent or is unable to maintain the aerial ropeway or to work the same with 
+advantage to the public, or at all, the 
+7
+[Provincial Government] may, after considering any 
+statement which the promoter may desire to make, and after such enquiry as it deems 
+necessary, declare by notification in the official Gazette that the powers of the promoter, in 
+respect of such aerial ropeway, shall, at the expiration  of six months from the date of such 
+declaration, be at an end; and thereupon the said powers shall, at the expiration of that 
+period, cease and determine. 
+(2) At any time after the expiration of the said six months an officer appointed by 
+the 
+8
+[Provincial Government] in that behalf, may remove the aerial ropeway in the same 
+manner and subject to the same provisions as to the payment of costs and to the same 
+remedy for the recovery thereof in every respect as in cases of removal under section 23. 
+Bye-laws 
+27. Power of promoter to make bye -laws.– (1) A promoter shall, subject to the 
+provisions of sub-section (3) make bye-laws consistent with this Act– 
+(a) for regulating the speed at which carriers are to be moved or propelled; 
+                                                           
+1Substituted for the words “Local Government” by the Government of India (Adaptation of In dian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations.  
+2Ibid. 
+3Ibid.  
+4Ibid.  
+5Ibid.  
+6Substituted for the words “Local Government” by the Government  of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations.  
+7Ibid.  
+8Ibid.  
+(b) for declaring what shall be deemed to be dangerous or offensive goods and 
+for regulating the carriage of such goods; 
+(c) for regulating the maximum number of passengers and animals and the 
+maximum weight of goods to be carried in each carrier; 
+(d) for regulating the use of steam powe r or any other mechanical power or 
+electrical power on the aerial ropeway; 
+(e) for regulating the conduct of the promoter’s servants; 
+(f) for regulating the terms and conditions on which the promoter will warehouse 
+or retain goods at any station on behalf of the consignee or owner of such 
+goods; and 
+(g) generally for regulating the travelling upon, and the use, working and 
+management of the aerial ropeway. 
+(2) Such bye-laws may provide that any person who contravenes the provisions 
+of any of them shall be l iable to fine which may extend to any sum not exceeding fifty 
+rupees, and that, in the case of a breach of a bye -law made under clause (c) of sub -section 
+(1), the promoter’s servant responsible for the same shall forfeit a sum not exceeding one 
+month’s pay, which sum may be deducted by the promoter from his pay. 
+(3) A bye -law made under this section shall not take effect until it has been 
+confirmed by the 
+1
+[Provincial Government] and published in the official Gazette: 
+Provided that no such bye -law shall be so confirmed until it has been previously 
+published by the promoter in such manner as may be prescribed. 
+Supplementary Provisions 
+28. Returns.– A promoter shall in respect of the aerial ropeway submit to the 
+2
+[Provincial 
+Government] returns of capital and revenue, expenditure, receipts, and traffic, at such 
+intervals and in such form as may be prescribed. 
+29. Protection of roads, railways, tramways and waterways .– No promoter shall, in 
+the course of the construction, repair, working or management of an aeri al ropeway, cause 
+any permanent injury to any public road, railway, tramway, or waterway, or obstruct or 
+interfere with, otherwise than temporarily as may be necessary, the traffic on any public 
+road, railway, tramway or waterway. 
+30. Acquisition of land on behalf of a promoter.– The 
+3
+[Provincial Government] may, if 
+it thinks fit, subject to the provisions of this Act, on the application of any promoter desirous 
+of obtaining any land for the purpose of constructing, extending, working or managing an 
+aerial ropeway, acquire on his behalf such land under the provisions of part VII of the Land 
+Acquisition Act, 1894
+4
+, whether the said promoter is or is not a company as defined in the 
+Land Acquisition Act. 
+31. Notification of claims to refunds of overcharges and to compensation for 
+losses.– No person shall be entitled to a refund of an overcharge in respect of animals or 
+goods carried by an aerial ropeway or to compensation for the loss, destruction or 
+deterioration of animals or goods delivered to be so carried, unless his claim to the refund or 
+                                                           
+1Substituted for the words “Local Government” by th e Government of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations.  
+2Ibid.  
+3Ibid.  
+4I of 1894. 
+compensation has been preferred in writing by him or on his behalf to the promoter within six 
+months from the date of the delivery of the animals or goods for carriage by the aerial 
+ropeway. 
+Rules by the 
+1
+[Provincial Government] 
+32. Power of 
+2
+[Provincial Government ] to make rules .– (1) The 
+3
+[Provincial 
+Government] may, after previous publication, make rules to carry out the purposes of this 
+Act. 
+(2) In particular, and without prejudice to the generality of the foregoing pow er, 
+such rules may prescribe– 
+(a) the powers and duties of an Inspector appointed under section 11; 
+(b) the accidents of which notice shall be given to the 
+4
+[Provincial Government] and 
+to the Inspector; 
+(c) the duties of the promoter’s servants and of police officers, and magistrates, on 
+the occurrence of an accident; 
+(d) the maximum and minimum rate for various classes of goods which a promoter 
+may fix under section 18; 
+(e) the standard dimensions and specifications to which the aerial ropeway is to 
+conform; 
+(f) the manner of previous publication of bye-laws made under section 27; 
+(g) the intervals at which a promoter shall submit returns under section 28 and the 
+forms in which such returns shall be submitted; 
+(h) the manner in which notices under this Act shall be served; 
+(i) the manner in which and the conditions under which the through booking of 
+goods may be permitted between an aerial ropeway, and railway, tramway or 
+another aerial ropeway; 
+(j) the safe and efficient working of aerial ropeways; 
+(k) the conditions under which and the manner in which the powers conferred on 
+promoters by section 14 and section 15 may be exercised; 
+(l) the procedure for the disposal of applications under sub -section (2) of section 
+21 to re-open an aerial ropeway or part ther eof and the conditions under which 
+such aerial ropeway may be re-opened; 
+(m) the preparation, submission and auditing of the accounts of the promoter; 
+(n) the method of arbitration for the settlement of disputes; 
+(o) the fees to be charged to promoters and  other persons in respect of licenses, 
+applications, enquiries, inspections and services rendered under this Act; and  
+(p) the procedure for making, hearing, and disposing of applications under this Act. 
+(3) All rules made under this section shall be published in the official Gazette. 
+                                                           
+1Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations.  
+2Ibid.  
+3Ibid.  
+4Ibid.  
+Offences, Penalties and Arrest 
+33. Failure of promoter to comply with Act.– If a promoter– 
+(a) constructs or maintains an aerial ropeway otherwise than in accordance with 
+the terms of an order made under section 7; or 
+(b) opens an aerial ropeway or permits it to be opened in contravention of any of 
+the provisions of section 10; or 
+(c) fails to comply with the provisions of section 13; or 
+(d) fails to pay within a reasonable time any compensation awarded by a Collector 
+under sections 14, 15, 16 or by the 
+1
+[Provincial Government] or district judge 
+under section 17; or 
+(e) contravenes any of the provisions of section 19; or 
+(f) fails to send notice of an accident as required by section 20; or 
+(g) fails to close an aerial ropeway in  accordance with an order passed under sub -
+section (1) of section 21 or re -opens any aerial ropeway in contravention of 
+sub-section (2) of that section; or 
+(h) continues to exercise the powers of a promoter in respect of any aerial ropeway 
+in contravention of the provisions of section 22 or section 26; or 
+(i) fails to comply with the provisions of section 27 or section 28; or 
+(j) contravenes any of the provisions of section 29; or 
+(k) contravenes the provisions of any rule made under section 32; 
+he shall (without prejudice to the enforcement of specific performance of the requirements of 
+this Act, or of any other remedy which may be obtained against him) be punished with fine 
+which may extend to two hundred rupees, and, in the case of a continuing offence, t o a 
+further fine which may extend to fifty rupees , for every day after the date of the first 
+conviction during which the offender is proved to have persisted in the offence. 
+34. Unlawfully obstructing promoter’s servant in discharge of his duty.– If a person 
+without lawful excuse, the burden of proving which shall lie upon him, willfully obstructs or 
+impedes any servant of a promoter in the discharge of his duty, he shall be punishable with 
+fine which may extend to one hundred rupees. 
+35. Unlawfully interfering with aerial ropeway .– If any person without lawful excuse, 
+the burden of proving which shall lie upon him, willfully does any of the following things, 
+namely:– 
+(a) interferes with, removes or alters any part of an aerial ropeway or of the works 
+connected therewith; 
+(b) does anything in such a manner as to obstruct any carrier travelling on an aerial 
+ropeway; 
+(c) attempts to do or abets, within the meaning of the 
+2
+[Pakistan] Penal Code, the 
+doing of anything mentioned in clause (a) or clause (b); 
+                                                           
+1Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Laws) Order, 1937, published 
+in the Gazette of India (Extraordinary), dated April 1, 1937, pp. 75-344, Article 4(1) read with Table of General Adaptations.  
+2Substituted for the word “Indian” by the Punjab Laws (Adaptation, Revision and Repeal) Act, 1954 (XV of 1955), vide 
+Notification No. 825-Leg., published in the Punjab Gazette (Extraordinary), dated January 21, 1955, pp. 87 -108, s. 3 read with 
+Second Schedule. 
+he shall without prejudice to any other remedy which may be obtained against him in a Civil 
+Court be punishable with fine which may extend to two hundred rupees. 
+36. Punishments for acts or attempts tending to endanger safety of persons 
+travelling or being upon aerial ropeways .– If any person does anything mentioned in 
+clause (a), clause (b) or clause (c) of section 35 or does, attempts to do, or abets, within the 
+meaning of the  
+1
+[Pakistan] Penal Code, the doing of any other act or thing in relation to an 
+aerial ropeway with intent, or with knowledge that he is likely to endanger the safety of any 
+person travelling or being upon the aerial ropeway, he shall be punishable with imprisonment 
+for a term which may extend to fourteen years. 
+37. Arrest for offences again st certain sections and procedure thereupon .– (1) If 
+any person commits any offence under section 34 or section 35 which obstructs the working 
+of an aerial ropeway, or commits any offence punishable with imprisonment under section 
+36, he may be arrested wi thout warrant or other written authority by any servant of the 
+promoter, or by any Police Officer, or by any other person whom such servant or officer may 
+call to his aid. 
+(2) A person so arrested shall, with the least possible delay, be taken before a 
+Magistrate having authority to try him or to commit him for trial. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+1Ibid.

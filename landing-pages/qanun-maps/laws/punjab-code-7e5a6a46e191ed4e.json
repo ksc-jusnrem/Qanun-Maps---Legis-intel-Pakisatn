@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-7e5a6a46e191ed4e",
+  "title": "PUNJAB KHAL PANCHAYAT (REPEAL) ACT 2025",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VGRUYwIzV25TNw--",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:57:37Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "b4bb135208967f0c4ca5b71620dbcaf7c014d757adc3ceb3d9169c300c2fc189",
+  "source_sha256": "b4bb135208967f0c4ca5b71620dbcaf7c014d757adc3ceb3d9169c300c2fc189",
+  "text_version_id": "law:punjab-code-7e5a6a46e191ed4e:sha256:b4bb135208967f0c4ca5b71620dbcaf7c014d757adc3ceb3d9169c300c2fc189",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB KHAL PANCHAYAT (REPEAL) ACT 2025 \r\n(XIV of 2025) \r\nCONTENTS \r\n1. Short title and commencement \r\n2.  Repeal and saving \r\n3.  Transition \r\n \r\n  \r\nTEXT \r\n1\r\nTHE PUNJAB KHAL PANCHAYAT (REPEAL) ACT 2025 \r\n(XIV of 2025) \r\n[17th March, 2025] \r\nAn \r\nAct \r\nto repeal the Punjab Khal Panchayat Act 2019. \r\nIt is necessary to repeal the Punjab Khal Panchayat Act 2019 (XXV of 2019) for the purposes \r\nhereinafter appearing. \r\nBe it enacted by Provincial Assembly of the Punjab as follows: \r\n1. Short title and commencement . (1) This Act may be cited as the Punjab Khal \r\nPanchayat (Repeal) Act 2025. \r\n (2)  It shall come into force at once. \r\n2.  Repeal and saving . (1) The Punjab Khal Panchayat Act 2019 (XXV of 2019) is \r\nhereby repealed.  \r\n (2) Notwithstanding the repeal of the Punjab Khal Panchayat Act 2019 (XXV of \r\n2019), all the proceedings and processes pertaining to powers and duties as prescribed under \r\nsection 10 of the Punjab Khal Panchayat Act 2019 (XXV of 2019), any auctions done, sanction \r\norders issued, any appointment made, order passed, notification issued, contracts executed, \r\nrights acquired, liabilities incurred, possession of properties delivered and proceeding initiated \r\nbefore various courts or other forums and thing done or act ion taken under any provision of \r\nrepealed Act shall continue to have effect as if the said law has not been repealed.  \r\n3.  Transition. (1) All the properties, both urban and rural, including agricultural land, \r\nwhether occupied and unoccupied, placed at th e disposal of defunct Punjab Khal Panchayat \r\nAuthority (PKPA), which may be available for disposal immediately before the repeal of the \r\naforesaid Act, shall stand transferred to the Irrigation Department of the Government.  \r\n (2)  Out of the 197 employees: \r\n(a) 50 vacant positions will be abolished. \r\n(b) 04 contract employees will have their contracts terminated. \r\n(c) 69 employees will be absorbed into th e Surplus Pool of the Services and  \r\nGeneral A dministration Department  of the Government  for further \r\nplacement. \r\n(d) remaining employees will be absorbed by the Irrigation Department  of the \r\nGovernment. \r\n(e) 07 OSD posts for in -service death will also be adjusted in the Irrigation \r\nDepartment of the Government accordingly. \r\n (3) The Pension Fund and G.P. Fund contributions of the Punjab  Khal Panchayat \r\nAuthority employees will be transferred to the Finance Department  of the Government  and \r\nshall be adhere to the pension regime applicable at the time of the employees' regularization. \r\n                                                           \r\n1This Act was passed by Provincial Assembly of the Punjab on 10 March 2025; and was assented to by Governor of the Punjab on 17 March \r\n2025; and was published in the Punjab Gazette (Extraordinary), dated: 17 March 2025, pp.3559-3560.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-7e5a6a46e191ed4e:sha256:b4bb135208967f0c4ca5b71620dbcaf7c014d757adc3ceb3d9169c300c2fc189:chars-0-1799:f0c7527d169f4cc8af8e20ca50b7854fd2b1e000326caafd1fbfecb39d50302b",
+      "character_start": 0,
+      "character_end": 1799,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1805,
+      "passage_sha256": "f0c7527d169f4cc8af8e20ca50b7854fd2b1e000326caafd1fbfecb39d50302b",
+      "reader_fragment": "p-0-1799-f0c7527d169f4cc8"
+    },
+    {
+      "passage_id": "law:punjab-code-7e5a6a46e191ed4e:sha256:b4bb135208967f0c4ca5b71620dbcaf7c014d757adc3ceb3d9169c300c2fc189:chars-1799-2857:05af124a93edfa8ee9673135b392085a75aa75d245db3bcf480105e521624cd0",
+      "character_start": 1799,
+      "character_end": 2857,
+      "utf8_byte_start": 1805,
+      "utf8_byte_end": 2863,
+      "passage_sha256": "05af124a93edfa8ee9673135b392085a75aa75d245db3bcf480105e521624cd0",
+      "reader_fragment": "p-1799-2857-05af124a93edfa8e"
+    }
+  ]
+}

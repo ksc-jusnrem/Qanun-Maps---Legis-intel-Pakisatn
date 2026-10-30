@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-c5dd3e811805605b",
+  "title": "PUNJAB PROHIBITION OF EXPRESSINIG MATTERS ON WALLS ACT, 1995",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/AzYBM1RlV2Q-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:59:27Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "15375e7fae9b0b6c234fe038df25e89e3fd28887193d9f9ce57c84c640b0be59",
+  "source_sha256": "15375e7fae9b0b6c234fe038df25e89e3fd28887193d9f9ce57c84c640b0be59",
+  "text_version_id": "law:punjab-code-c5dd3e811805605b:sha256:15375e7fae9b0b6c234fe038df25e89e3fd28887193d9f9ce57c84c640b0be59",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB PROHIBITION OF EXPRESSING \r\nMATTERS ON WALLS ACT, 1995 \r\n(II of 1995) \r\nCONTENTS \r\n1. Short title, extent and commencement \r\n2. Prohibition of expressing matters on Walls  \r\n2A. Cognizance and summary trial \r\n3. Removal of existing expressions on walls \r\n4. Power to make rules \r\n \r\n \r\nTEXT \r\nTHE PUNJAB PROHIBITION OF EXPRESSINIG MATTERS ON WALLS \r\nACT, 1995 \r\n(II of 1995) \r\n[13th February, 1995] \r\nAn \r\nAct \r\nto prohibit expression of matters on walls in the Punjab. \r\nPreamble.– Whereas it is expedient to prohibit the expression of matters on the \r\nwalls in the Punjab. \r\nIt is hereby enacted as follows:–  \r\n1. Short title , extent and commencement .– (1) This Act may be called the \r\nPunjab Prohibition of Expressing Matters on Walls Act, 1995. \r\n(2) It shall extend to the whole of the Province of the Punjab. \r\n(3)  It shall come into force at once. \r\n2. Prohibition of expressing matters on Walls.– Whoever affixes or causes to \r\nbe affixed any poster , bill, notice, placard or other paper or means of advertisement \r\non a wall or writes on any wall with chalk or paint or in any other manner whatsoever \r\nor expresses or describes any matter on any wall in any manner whatsoever with the \r\nintention to attract public attention to that matter shall be punished with imprisonment \r\nfor a term which may extend to six months or with \r\n1\r\n[fine which shall not be less than \r\ntwenty five thousand rupees or more than one hundred thousand rupees]  or with \r\nboth. \r\n Exception.– It sha ll not be an offence under this Section, if the owner or \r\npossessor of the wall expresses any particular relating to himself or his business \r\nthereon. \r\n2\r\n[2A. Cognizance and summary trial .– (1) An offence under this Act shall be \r\ncognizable and non-bailable.  \r\n(2) A Magistrate of the first class shall conduct the trial of an offence under \r\nthis Act in accordance with the provisions of Chapter XXII of the Code of Criminal \r\nProcedure, 1898 (V of 1898) relating to the summary trials.] \r\n3. Removal of existing expressions on walls. – Within a period of thirty days \r\nfrom the commencement of this Act every Local Council shall cause to be removed \r\n                                                           \r\n1Substituted for the words and figures “fine which may extend to Rs.5,000/-” by the Punjab Prohibition of Expressing Matters on \r\nWalls (Amendment) Act 2015 (XIX of 2015), w.e.f.18.3.2015, s.2; and published in the Punjab Gazette (Extraordinary), pages \r\n3423-3424. \r\n2Inserted by the Punjab Prohibition of Expressing Matters on Walls (Amendment) Act 2015 (XIX of 2015), w.e.f.18.3.2015, s.3; \r\nand published in the Punjab Gazette (Extraordinary), pages 3423-3424. \r\nall matters expressed on the walls within its jurisdiction the expression of which is \r\nprohibited by this Act. \r\n3\r\n[4. Power to make rul es.– The Provincial Government may make rules for \r\ncarrying out the purposes of this Act.] \r\n                                                           \r\n3Added by the Punjab Prohibition of Expressing Matters on Walls (Amendment) Act 1998 (X of 1998), w.e.f.1.12.1998, s.2; and \r\npublished in the Punjab Gazette (Extraordinary), page 4213.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-c5dd3e811805605b:sha256:15375e7fae9b0b6c234fe038df25e89e3fd28887193d9f9ce57c84c640b0be59:chars-0-1773:a63f19caa32f15a8ba25be08eb63cdce41ebdd12f56c83424aa6ef90e9231e47",
+      "character_start": 0,
+      "character_end": 1773,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1785,
+      "passage_sha256": "a63f19caa32f15a8ba25be08eb63cdce41ebdd12f56c83424aa6ef90e9231e47",
+      "reader_fragment": "p-0-1773-a63f19caa32f15a8"
+    },
+    {
+      "passage_id": "law:punjab-code-c5dd3e811805605b:sha256:15375e7fae9b0b6c234fe038df25e89e3fd28887193d9f9ce57c84c640b0be59:chars-1773-3172:fa3cfd53bfc501e95418bdaf01107f59d3d41e7eb5e7232941008395ee7937a1",
+      "character_start": 1773,
+      "character_end": 3172,
+      "utf8_byte_start": 1785,
+      "utf8_byte_end": 3192,
+      "passage_sha256": "fa3cfd53bfc501e95418bdaf01107f59d3d41e7eb5e7232941008395ee7937a1",
+      "reader_fragment": "p-1773-3172-fa3cfd53bfc501e9"
+    }
+  ]
+}

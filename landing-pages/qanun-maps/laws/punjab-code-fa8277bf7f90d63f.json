@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-fa8277bf7f90d63f",
+  "title": "UNITED NATIONS (SECURITY COUNCIL) ACT, 1948",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/UGVUY1BuVGE-",
+  "version": null,
+  "source_snapshot": "2026-08-06T17:03:58Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "1bfab73c06f010575c91b4963079b0d23a5c2bbb78ebd7a0e77f5122c4b497cf",
+  "source_sha256": "1bfab73c06f010575c91b4963079b0d23a5c2bbb78ebd7a0e77f5122c4b497cf",
+  "text_version_id": "law:punjab-code-fa8277bf7f90d63f:sha256:1bfab73c06f010575c91b4963079b0d23a5c2bbb78ebd7a0e77f5122c4b497cf",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE UNITED NATIONS (SECURITY COUNCIL) ACT, 1948 \r\n(XIV of 1948) \r\nCONTENTS \r\n1. Short title  \r\n2. Measures under Article 41 of the Charter of the United Nations \r\nTEXT \r\nTHE UNITED NATIONS (SECURITY COUNCIL) ACT\r\n1\r\n, 1948 \r\n(XIV of 1948) \r\n[11th June, 1948]  \r\nAn \r\nAct \r\nto enable effect to be given to certain provisions of the Charter of the United Nations. \r\nWHEREAS it is expedient to enable effect to be given to certain provisions of \r\nthe Charter of the United Nations; \r\nIt is hereby enacted as follows:–  \r\n1. Short title.– This Act may be called the United Nations (Security Council) Act, \r\n1948. \r\n2. Measures under Article 41 of the Charter of the United Nations .– If, under \r\nArticle 41 of the Charter of the United Nations signed at San Francisco on  the 26th \r\nday of June 1945, the Security Council of the United Nations calls upon the \r\n2\r\n[Federal \r\nGovernment] to apply any measures, not involving the use of armed force, to give \r\neffect to any decision of that Council, the \r\n3\r\n[Federal Government] may, by order  \r\npublished in the official Gazette, make such provisions (including provisions having \r\nextra-territorial operation) as appear to it necessary or expedient for enabling those \r\nmeasures to be effectively applied, and without prejudice to the generality of the \r\nforegoing power, provision may be made for the punishment of person offending \r\nagainst the order. \r\n                                                 \r\n1For Statement of Objects and Reasons, see Gazette of Pakistan, 1947, Pt.V, p.271. \r\n2Substituted for the words “Central Government” by the Federal Adaptation of  Laws Order, 1975 (P.O. 4 of 1975) , w.e.f. \r\n1.8.1975, see Article 2 and Table of General Adaptation. \r\n3Substituted ibid.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-fa8277bf7f90d63f:sha256:1bfab73c06f010575c91b4963079b0d23a5c2bbb78ebd7a0e77f5122c4b497cf:chars-0-1739:1bfab73c06f010575c91b4963079b0d23a5c2bbb78ebd7a0e77f5122c4b497cf",
+      "character_start": 0,
+      "character_end": 1739,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1749,
+      "passage_sha256": "1bfab73c06f010575c91b4963079b0d23a5c2bbb78ebd7a0e77f5122c4b497cf",
+      "reader_fragment": "p-0-1739-1bfab73c06f01057"
+    }
+  ]
+}

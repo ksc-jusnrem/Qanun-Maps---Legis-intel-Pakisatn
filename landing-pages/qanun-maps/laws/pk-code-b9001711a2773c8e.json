@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-b9001711a2773c8e",
+  "title": "Karachi Electric Supply Corporation (Removal from Service) Ordinance, 1999",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaVaQ%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "9937991dc99c801312dc52631f261942d1b2b1d1a2df70e1c088169966be0bd1",
+  "source_sha256": "9937991dc99c801312dc52631f261942d1b2b1d1a2df70e1c088169966be0bd1",
+  "text_version_id": "law:pk-code-b9001711a2773c8e:sha256:9937991dc99c801312dc52631f261942d1b2b1d1a2df70e1c088169966be0bd1",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\nTHE KARACHI ELECTRIC SUPPLY CORPORATION \r\n(REMOVAL FROM SERVICE) ORDINANCE, 1999 \r\n \r\n \r\n \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Removal of certain persons from service, etc. \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE KARACHI ELECTRIC SUPPLY CORPORATION (REMOVAL FROM \r\nSERVICE) ORDINANCE, 1999 \r\n1ORDINANCE NO. XVII OF 1999 \r\n[24th September, 1999] \r\nAn Ordinance to provide for removal from service of the Karachi Electric Supply Corporation \r\n WHEREAS it is expedient to provide for removal from the service of the Karachi Electric \r\nSupply Corporation for the purpose hereinafter appearing; \r\n AND WHEREAS the National Assembly is not in session and the President is satisfied that \r\ncircumstances exist which render it necessary to take immediate action; \r\n NOW, THEREFORE, in exercise of the  powers conferred by clause  (1) of Article 89 of the \r\nConstitution of the Islamic Republic of Pakistan, the President is pleased to make and promulgate the \r\nfollowing Ordinance ;— \r\n 1. Short title and commencement. —(1) This Ordinance may be called the Karachi Electric \r\nSupply Corporation (Removal from Service) Ordinance, 1999.  \r\n (2) It shall come into force at once. \r\n 2. Removal of certain persons from service, etc.  —(1) Notwithstanding anything contained \r\nin any law, contract, settlement or award for the time being in force, or in the terms and conditions of \r\nservice of any person employed by, or serving under, the Karachi Electric Supply Corporation, the \r\nCorporation may, at any time,—  \r\n(a)  retire from its service any person without assigning any reason; or \r\n(b)  remove from its service an y person after informing him in writing of the \r\ngrounds on which such action is proposed to be taken and giving him an \r\nopportunity of showing cause against the action within fourteen days. \r\n (2) Where a person is retired from service under sub section (1), h e shall, in addition to the \r\nretiring benefits admissible to him under the terms and conditions of his service, if any, be paid \r\nadditional pay for three months. \r\n_________ \r\n \r\n \r\nDate: 13-09-2024 \r\n1Shall not be subject to the limitation as to its duration prescribed in the Constitution, see P.C.O. (I of 1999), Art. 5A (I).",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-b9001711a2773c8e:sha256:9937991dc99c801312dc52631f261942d1b2b1d1a2df70e1c088169966be0bd1:chars-0-1759:9d2953edb6c1bed1656449d1a10e892d2be50a9bf6cbb8f8b973102743936160",
+      "character_start": 0,
+      "character_end": 1759,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1767,
+      "passage_sha256": "9d2953edb6c1bed1656449d1a10e892d2be50a9bf6cbb8f8b973102743936160",
+      "reader_fragment": "p-0-1759-9d2953edb6c1bed1"
+    },
+    {
+      "passage_id": "law:pk-code-b9001711a2773c8e:sha256:9937991dc99c801312dc52631f261942d1b2b1d1a2df70e1c088169966be0bd1:chars-1759-2230:7373542865db232414f46268b8dc99d7eb4702cd25da801d29c462b7cd2110b7",
+      "character_start": 1759,
+      "character_end": 2230,
+      "utf8_byte_start": 1767,
+      "utf8_byte_end": 2238,
+      "passage_sha256": "7373542865db232414f46268b8dc99d7eb4702cd25da801d29c462b7cd2110b7",
+      "reader_fragment": "p-1759-2230-7373542865db2324"
+    }
+  ]
+}

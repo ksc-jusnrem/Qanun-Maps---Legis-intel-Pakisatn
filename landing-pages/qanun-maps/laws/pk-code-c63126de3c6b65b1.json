@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-c63126de3c6b65b1",
+  "title": "Malaria Eradication Board (Repeal) Act, 1975",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bpuUY2Zv-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "eab4d8be425424f4789307dabc6565f76da5874c22647ff61f84a3c34aeb8183",
+  "source_sha256": "eab4d8be425424f4789307dabc6565f76da5874c22647ff61f84a3c34aeb8183",
+  "text_version_id": "law:pk-code-c63126de3c6b65b1:sha256:eab4d8be425424f4789307dabc6565f76da5874c22647ff61f84a3c34aeb8183",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\nTHE MALARIA ERADICATION BOARD (REPEAL) ACT, 1975 \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n \r\n1.   Short title and commencement \r\n2.  Repeal, etc. \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE MALARIA ERADICATION BOARD (REPEAL) ACT, 1975 \r\n1ACT No. LXIV OF 1975 \r\n [24th July 1975] \r\nAn Act to repeal the Malaria Eradication Board Ordinance, 1961 \r\n WHEREAS it is expedient to repeal the Malaria Eradication Board Ordinance, 1961 (XVIII \r\nof 1961), and to provide for matters incidental thereto ; \r\n It is hereby enacted as follows :— \r\n 1. Short title and commencement. ___ (1)  This  Act  may  be  called  the  Malaria  \r\nEradication Board (Repeal) Act, 1975. \r\n (2) It shall come into force at once. \r\n 2. Repeal, etc. ___ (1) The Malaria Eradication Board Ordinance, 1961 (XVIII of 1961), \r\nhereinafter referred to as the Ordinance, is hereby repealed. \r\n (2) Upon the repeal of the Ordinance,— \r\n(a)  notwithstanding anything contained in any contract or agreement or in the \r\nconditions of service, the officers and other employees of the Malaria \r\nEradication Board, hereinafter referred to as  the Board, shall stand transferred \r\nto the Federal Government on such terms and conditions as may be laid down \r\nby the Federal Government ; \r\n(b)  all rights, properties, assets, debts, liabilities and obligations of the Board shall \r\nbe the rights, properties, assets, debts, liabilities and obligations of the Federal \r\nGovernment; \r\n(c)  any contract made by the Board before such repeal shall be deemed to have \r\nbeen made by the Federal Government ; and \r\n(d)  all suits and other legal proceedings instituted by or agai nst the Board before \r\nsuch repeal shall be deemed to be suits and proceedings instituted by or \r\nagainst the Federal Government and may be proceeded or otherwise dealt with \r\naccordingly. \r\n (3) The Federal Government may, for the purpose of removing any difficul ty in relation to \r\nthe transfer and other matters referred to in sub-section (2), make such order as it considers expedient \r\nand any such order shall be deemed to be, and given effect to, as part of the provisions of this Act. \r\n__________ \r\n          Uploaded on 11.12.2023 \r\n \r\n1For Statement of Objects and Reasons, see Gaz. of P., 1975, Ext., Pt. III, p.540.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-c63126de3c6b65b1:sha256:eab4d8be425424f4789307dabc6565f76da5874c22647ff61f84a3c34aeb8183:chars-0-1794:2f7acce5fd484ba8e2acea03dde2282da07cf1088bd5f90dc5c2e74c092de2c8",
+      "character_start": 0,
+      "character_end": 1794,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1798,
+      "passage_sha256": "2f7acce5fd484ba8e2acea03dde2282da07cf1088bd5f90dc5c2e74c092de2c8",
+      "reader_fragment": "p-0-1794-2f7acce5fd484ba8"
+    },
+    {
+      "passage_id": "law:pk-code-c63126de3c6b65b1:sha256:eab4d8be425424f4789307dabc6565f76da5874c22647ff61f84a3c34aeb8183:chars-1794-2247:84d3bdb31db21e06645a25cf2a22d6b35ba2ceb711f87c14b6b17e3b2abd5ad4",
+      "character_start": 1794,
+      "character_end": 2247,
+      "utf8_byte_start": 1798,
+      "utf8_byte_end": 2251,
+      "passage_sha256": "84d3bdb31db21e06645a25cf2a22d6b35ba2ceb711f87c14b6b17e3b2abd5ad4",
+      "reader_fragment": "p-1794-2247-84d3bdb31db21e06"
+    }
+  ]
+}

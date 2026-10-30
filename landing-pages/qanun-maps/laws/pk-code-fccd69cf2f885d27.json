@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-fccd69cf2f885d27",
+  "title": "Import of Goods (Development Surcharge) Ordinance, 1984.",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bp2W-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "c4de9e9254e9414e58733855d57551bf0f2d553fdf7fb4403ce9099e6bb925d3",
+  "source_sha256": "c4de9e9254e9414e58733855d57551bf0f2d553fdf7fb4403ce9099e6bb925d3",
+  "text_version_id": "law:pk-code-fccd69cf2f885d27:sha256:c4de9e9254e9414e58733855d57551bf0f2d553fdf7fb4403ce9099e6bb925d3",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\n \r\nTHE IMPORT OF GOODS (DEVELOPMENT SURCHARGE) \r\nORDINANCE, 1984. \r\n \r\n \r\n                                           \r\n            \r\n                 \r\nCONTENTS \r\n1. Short title, and commencement \r\n2. Levy of surcharge  \r\n3. Customs Act, 1969 (IV of 1969), to apply \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE IMPORT OF GOODS (DEVELOPMENT SURCHARGE) \r\nORDINANCE, 1984. \r\n \r\nORDINANCE No. VII OF 1984 \r\n[5th February, 1984] \r\n   \r\nAn Ordinance to provide for the levy and collection of a development surcharge on certain goods \r\nimported through the Karachi customs-port. \r\n   \r\nWHEREAS it is expedient to provide for the levy and collection of a development surcharge on \r\ncertain goods imported through the Karachi customs -port to reimburse to the Karachi Port Trust the \r\nexpenditure incurred by it on the construction of the Jinnah Bridge over the China Creek, Karachi; \r\n  \r\nAND WHEREAS the President is satisfied that circumstances exist which render it necessary to \r\ntake immediate action; \r\n  \r\nNOW, THEREFORE, in pursuance of the Proclamation of the fifth day of July, 1977, and in \r\nexercise of all po wers enabling him in that behalf, the President is pleased to make and promulgate the \r\nfollowing Ordinance:— \r\n  \r\n1. Short title and commencement. —(1) This Ordinance may be called the Import of Goods \r\n(Development Surcharge) Ordinance, 1984. \r\n  \r\n (2) It shall com e into force on such day as the Federal Government may, by notification in the \r\nofficial Gazette, appoint. \r\n  \r\n 2. Levy of surcharge. —(1) There shall be levied and collecte d on all goods, other than \r\nfoodgrains, fertilizers and petroleum products, imported thr ough the Karachi customs -port a \r\ndevelopment surcharge at the rate of three rupees and fifty paisa per ton. \r\n  \r\n Explanation.— In this sub -section, “ petroleum products ” has the same meaning as in the \r\nPetroleum Products (Development Surcharge) Ordinance, 1961 (XXV of 1961). \r\n  \r\n (2) As soon as may be after the close of each month, the proceed s of the development surcharge \r\nrecovered during that month shall, after de duction of two and one half per cent thereof as expenses of \r\ncollection and recovery, be paid to the Federal Government. \r\n  \r\n 3. Customs Act, 1969 (IV of 1969), to apply. Subject to sub -section (1) of section 2, the \r\nprovisions of the Customs Act, 1969 (1V of 1969), shall have effect in respect of the development \r\nsurcharge levied under this Ordinance as if it were a duty levied under that Act.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-fccd69cf2f885d27:sha256:c4de9e9254e9414e58733855d57551bf0f2d553fdf7fb4403ce9099e6bb925d3:chars-0-1782:2c914d9099410637a99c39619232d6d4ce686ba9a5be191d66a220df4199c03a",
+      "character_start": 0,
+      "character_end": 1782,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1788,
+      "passage_sha256": "2c914d9099410637a99c39619232d6d4ce686ba9a5be191d66a220df4199c03a",
+      "reader_fragment": "p-0-1782-2c914d9099410637"
+    },
+    {
+      "passage_id": "law:pk-code-fccd69cf2f885d27:sha256:c4de9e9254e9414e58733855d57551bf0f2d553fdf7fb4403ce9099e6bb925d3:chars-1782-2501:6e28d549d939e5d027f2b84080ff071394f6ddd0b6d4fb1e09852b1ecda1faa2",
+      "character_start": 1782,
+      "character_end": 2501,
+      "utf8_byte_start": 1788,
+      "utf8_byte_end": 2513,
+      "passage_sha256": "6e28d549d939e5d027f2b84080ff071394f6ddd0b6d4fb1e09852b1ecda1faa2",
+      "reader_fragment": "p-1782-2501-6e28d549d939e5d0"
+    }
+  ]
+}

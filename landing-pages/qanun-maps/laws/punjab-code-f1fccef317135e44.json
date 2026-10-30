@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-f1fccef317135e44",
+  "title": "THAL DEVELOPMENT (VALIDATING) ORDINANCE, 1971",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VmNQYldhATg-",
+  "version": null,
+  "source_snapshot": "2026-08-06T17:03:23Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "fb6239b999253ec7d2ae246714a9b5c7f792514a00f032816e4cb6136266d116",
+  "source_sha256": "fb6239b999253ec7d2ae246714a9b5c7f792514a00f032816e4cb6136266d116",
+  "text_version_id": "law:punjab-code-f1fccef317135e44:sha256:fb6239b999253ec7d2ae246714a9b5c7f792514a00f032816e4cb6136266d116",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE THAL DEVELOPMENT (VALIDATING) ORDINANCE, \r\n1971 \r\n(XV of 1971) \r\nCONTENTS \r\n1. Short title and extent \r\n2. Validation of certain acquisitions, privileges, liabilities and obligations \r\n \r\n \r\nTEXT \r\n1\r\nTHE THAL DEVELOPMENT (VALIDATING) ORDINANCE, 1971 \r\n(XV of 1971) \r\n[17th July, 1971] \r\nAn \r\nOrdinance \r\nto validate certain actions taken under the Thal Development Act, 1949. \r\nWHEREAS it is expedient to validate certain acquisitions made, privileges \r\naccrued and liabilities and ob ligations incurred under  the Thal Development Act, \r\n1949. \r\n NOW, THEREFORE,  in pursuance of the Martial Law Proclamation of 25th \r\nMarch, 1969, read with the Provisional Constitution Order, and in exercise of all \r\npowers enabling him in that behalf, the Governo r of the Punjab is pleased to make \r\nand promulgate the following Ordinance:– \r\n1. Short title and extent .– (1) This Ordinance may be called the Thal \r\nDevelopment (Validating) Ordinance, 1971. \r\n (2) It extends to the districts of Mianwali and Muzaffargarh and Kh ushab \r\nSub-Division of the district of Sargodha. \r\n2. Validation of certain acquisitions, privileges, liabilities and obligations .– \r\nNotwithstanding anything to the contrary contained in the Thal Development Act, \r\n1949, or Thal Development (Amendment) Act, 1955 , (since repealed by the West \r\nPakistan Repealing Ordinance, 1970), or in any decree, judgment or order of any \r\ncourt or authority, or in any proceedings pending before any court or authority, any \r\nland or right acquired by, privilege accrued to or liability or obligation incurred by the \r\nThal Development Authority before the promulgation of the Thal Development \r\n(Amendment) Act, 1955, shall be deemed to have been validly acquired, accrued or \r\nincurred, as the case may be. \r\n                                                 \r\n1This Ordinance was promulgated by the G overnor of the Punjab on 15 th July, 1971; published in the Punjab Gazette \r\n(Extraordinary), dated 17th July, 1971, pages 857 -A to 857 -B; saved by Article 281 of the Interim Constitution of the Islamic \r\nRepublic of Pakistan (1972); and validated by the Valida tion of Laws Act, 1975 (LXIII of 1975); and published in the Gazette of \r\nPakistan (Extraordinary), Part I, dated 29.7.1975, pages 177-178.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-f1fccef317135e44:sha256:fb6239b999253ec7d2ae246714a9b5c7f792514a00f032816e4cb6136266d116:chars-0-1775:852333db2dd01a223304867081770726535f271bcc87e0a5f26ac110c40204af",
+      "character_start": 0,
+      "character_end": 1775,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1781,
+      "passage_sha256": "852333db2dd01a223304867081770726535f271bcc87e0a5f26ac110c40204af",
+      "reader_fragment": "p-0-1775-852333db2dd01a22"
+    },
+    {
+      "passage_id": "law:punjab-code-f1fccef317135e44:sha256:fb6239b999253ec7d2ae246714a9b5c7f792514a00f032816e4cb6136266d116:chars-1775-2270:34d93ea75663822b6d05c79fbbe39a55bf11fd4c5af7d18feee25de8bdffc8d1",
+      "character_start": 1775,
+      "character_end": 2270,
+      "utf8_byte_start": 1781,
+      "utf8_byte_end": 2276,
+      "passage_sha256": "34d93ea75663822b6d05c79fbbe39a55bf11fd4c5af7d18feee25de8bdffc8d1",
+      "reader_fragment": "p-1775-2270-34d93ea75663822b"
+    }
+  ]
+}

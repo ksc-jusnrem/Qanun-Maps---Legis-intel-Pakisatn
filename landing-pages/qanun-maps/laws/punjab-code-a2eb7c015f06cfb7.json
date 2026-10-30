@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-a2eb7c015f06cfb7",
+  "title": "THAL (INCREASE IN VALUE) (VALIDATION OF LEVY OF TAX) ORDINANCE, 1971",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/AzZcblNlBjA-",
+  "version": null,
+  "source_snapshot": "2026-08-06T17:03:23Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "615190a43db6844d990227f0f4a60f10cbccf14781f43fe24a4a92090eafc117",
+  "source_sha256": "615190a43db6844d990227f0f4a60f10cbccf14781f43fe24a4a92090eafc117",
+  "text_version_id": "law:punjab-code-a2eb7c015f06cfb7:sha256:615190a43db6844d990227f0f4a60f10cbccf14781f43fe24a4a92090eafc117",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE THAL (INCREASE IN VALUE) (VALIDATION OF LEVY \r\nOF TAX) ORDINANCE, 1971 \r\n(II of 1971) \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Validation of levy, etc. of tax \r\nTEXT \r\n1\r\nTHE THAL (INCREASE IN VALUE) (VALIDATION OF LEVY OF TAX) \r\nORDINANCE, 1971 \r\n(II of 1971) \r\n[23rd February, 1971] \r\nAn \r\nOrdinance \r\nto validate the levy, charging, collection and realization of the tax under the Punjab \r\nThal (Increase in Value) Act, 1940. \r\nPreamble.– WHEREAS it is expedient to vali date the levy, charging, collection and \r\nrealization of the tax under the Thal (Increase in Value) Tax Assessment Rules, \r\n1961, made under the Punjab Thal (Increase in Value) Act, 1940, in the manner \r\nhereinafter appearing; \r\n NOW, THEREFORE , in pursuance of th e Martial Law Proclamation of 25th \r\nMarch, 1969, read with the Provisional Constitution Order, and in exercise of all \r\npowers enabling him in that behalf, the Governor of the Punjab is pleased to make \r\nand promulgate the following Ordinance:– \r\n1. Short title and commencement.– (1) This Ordinance may be called the Thal \r\n(Increase in Value) (Validation of Levy of Tax) Ordinance, 1971. \r\n (2) It shall come into force at once. \r\n2. Validation of levy, etc. of tax.– Notwithstanding anything contained in rule 3 \r\nof the Tha l (Increase in Value) Tax Assessment Rules, 1961, before its substitution \r\nunder notification No. 4907 -69/3962-CI, dated the 30th July, 1969, issued by the \r\nGovernment of West Pakistan, Colonies Department, or any judgment, decree or \r\norder of any court or ot her authority, any tax levied, charged, collected or realized in \r\naccordance with rule 3 before its said substitution shall be deemed to have been \r\nvalidly levied, charged, collected or realized, as the case may be, under the rule so \r\nsubstituted read with no tification No. 4907 -69/3965-CI, dated the 30th July, 1969, \r\nissued by the Board of Revenue, West Pakistan, and where any such tax has not \r\nbeen paid or realized before the coming into force of this Ordinance, the same shall \r\nbe recoverable in accordance therewith. \r\n                                                 \r\n1This Ordinance was promulgated by the Governor of Punjab on 22nd February, 1971; published in the Punjab Gazette \r\n(Extraordinary), dated 23rd February, 1971, pages 177 -178; saved by Article 281 of the Interim Constitution of the Islamic \r\nRepublic of Pakistan (1972); and validated by the Validation of Laws Act, 1975 (LXIII of 1975),pages 177-178.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-a2eb7c015f06cfb7:sha256:615190a43db6844d990227f0f4a60f10cbccf14781f43fe24a4a92090eafc117:chars-0-1784:b387c2503ade308b0c090d5774308a98f12a56e4ea9bccdefa5e47b383db3783",
+      "character_start": 0,
+      "character_end": 1784,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1792,
+      "passage_sha256": "b387c2503ade308b0c090d5774308a98f12a56e4ea9bccdefa5e47b383db3783",
+      "reader_fragment": "p-0-1784-b387c2503ade308b"
+    },
+    {
+      "passage_id": "law:punjab-code-a2eb7c015f06cfb7:sha256:615190a43db6844d990227f0f4a60f10cbccf14781f43fe24a4a92090eafc117:chars-1784-2482:a94b4bdcb54be096610c86ab18acbf0336ff9d31644f58f530ab3779671a3741",
+      "character_start": 1784,
+      "character_end": 2482,
+      "utf8_byte_start": 1792,
+      "utf8_byte_end": 2490,
+      "passage_sha256": "a94b4bdcb54be096610c86ab18acbf0336ff9d31644f58f530ab3779671a3741",
+      "reader_fragment": "p-1784-2482-a94b4bdcb54be096"
+    }
+  ]
+}

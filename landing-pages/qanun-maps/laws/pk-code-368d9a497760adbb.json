@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-368d9a497760adbb",
+  "title": "Establishment of the Federal Bank for Cooperatives and Regulation of Cooperative Banking (Repeal) Act, 2018 (Act No_XXVI of 2018)",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Nob5k%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "ff158c9e5ef6e823821c73c4c47bb6f73b071a5d640a95120295da1c6edede33",
+  "source_sha256": "ff158c9e5ef6e823821c73c4c47bb6f73b071a5d640a95120295da1c6edede33",
+  "text_version_id": "law:pk-code-368d9a497760adbb:sha256:ff158c9e5ef6e823821c73c4c47bb6f73b071a5d640a95120295da1c6edede33",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\nTHE ESTABLISHMENT OF THE FEDERAL BANK FOR \r\nCOOPERATIVES AND REGULATION OF COOPERATIVE \r\nBANKING (REPEAL) ACT, 2018 \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n \r\n1. Short title and commencement. \r\n2. Repeal. \r\n  \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE ESTABLISHMENT OF THE FEDERAL BANK FOR COOPERATIVES \r\nAND REGULATION OF COOPERATIVE BANKING (REPEAL) ACT, 2018 \r\nACT NO. XXVI OF 2018 \r\n[18th May, 2018] \r\nAn Act to repeal the Establishment of the Federal Bank for Cooperatives and Regulation of \r\nCooperative Banking Act, 1977 \r\nWHEREAS it is expedient to repeal the Establishment of the Federal Bank for  Cooperatives \r\nand Regulation of Cooperative Banking Act, 1977 (IX of 1977) for the purpose hereinafter appearing; \r\nIt is hereby enacted as follows:— \r\n1.  Short title and  commencement.— (1) This Act may be called the Establishment of the \r\nFederal Bank for Cooperatives and Regulation of Cooperative Banking (Repeal) Act, 2018. \r\n(2)  It shall come into force at once. \r\n2.  Repeal. The Establishment of the Federal Bank for Coopera tives and Regulation of \r\nCooperative Banking Act, 1977 (IX of 1977), is hereby repealed. \r\n \r\n___________",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-368d9a497760adbb:sha256:ff158c9e5ef6e823821c73c4c47bb6f73b071a5d640a95120295da1c6edede33:chars-0-1160:ff158c9e5ef6e823821c73c4c47bb6f73b071a5d640a95120295da1c6edede33",
+      "character_start": 0,
+      "character_end": 1160,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1164,
+      "passage_sha256": "ff158c9e5ef6e823821c73c4c47bb6f73b071a5d640a95120295da1c6edede33",
+      "reader_fragment": "p-0-1160-ff158c9e5ef6e823"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-033f4a763885d29f",
+  "title": "Pakistan International Airline Corporation (Suspension of Trade Unions and Existing Agreements) Order (Repeal) Act, 2008",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Fsa5c%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "6714b346a29250d603ff4d89e6523329ac82f09bf405d33cb1083bb09e52b859",
+  "source_sha256": "6714b346a29250d603ff4d89e6523329ac82f09bf405d33cb1083bb09e52b859",
+  "text_version_id": "law:pk-code-033f4a763885d29f:sha256:6714b346a29250d603ff4d89e6523329ac82f09bf405d33cb1083bb09e52b859",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\n \r\nTHE PAKISTAN INTERNATIONAL AIRLINE CORPORATION \r\n(SUSPENSION OF TRADE UNIONS AND EXISTING \r\nAGREEMENTS) ORDER (REPEAL) ACT, 2008 \r\n \r\n \r\n \r\nCONTENTS \r\n1. Short title and commencement  \r\n2.  Repeal of the Pakistan International Airline Corporation (Suspension of Trade  Unions \r\nand Existing Agreements) Order, 2001 (C.E’S Order No . 6 of 2001)  \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE PAKISTAN INTERNATIONAL AIRLINE CORPORATION \r\n(SUSPENSION OF TRADE UNIONS AND EXISTING AGREEMENTS) \r\nORDER (REPEAL) ACT, 2008\r\nACT No. II OF 2008 \r\n[28th August, 2008] \r\nAn Act to repeal the Pakistan International Airline Corporation (Suspension of Trade Unions and \r\nExisting Agreements) Order 2001 \r\n WHEREAS it is expedient to repeal the Pakistan International Airline Corporation (Suspension \r\nof Trade Unions and Existing Agreements) Order, 2001 (C.E's Order No. 6 of 2001);  \r\n It is hereby enacted as follows:— \r\n 1. Short title and commencement.___ (1) This Act may be called the Pakistan International \r\nAirline  Corporation (Suspension of Trade Unions and Existing Agreements) Order (Repeal) Act, \r\n2008.  \r\n (2) It shall come into force at once.  \r\n 2. Repeal of the Pakistan International Airline Corporation (Suspension of Trade \r\nUnions and Existing Agreements) Order, 2001 (C.E's Order No. 6 of 2001).___(1) The Pakistan \r\nInternational Airline Corporation (Suspension of Trade Unions and Existing Agreements) Order \r\n2001, (C.E's Order No. 6 of 2001) is hereby repealed: \r\n Provided that the trade unions, associations, organizations or groups of any type of employees \r\nsuspended under the aforesaid Order shall be registered afresh in accordance with law. \r\n (2) Notwithstanding the repeal of the C. E's Order No. 6 of 2001, and without prejudice to \r\nthe provisions of section 6 and 24 of the General Clauses Act, 1897 (X of 1897), all administrative \r\norders issued, actions taken and modifications made in settlements shall continue in force until altered \r\nor rescinded. \r\n \r\n________ \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n  RGN Dated: 12-03-2025",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-033f4a763885d29f:sha256:6714b346a29250d603ff4d89e6523329ac82f09bf405d33cb1083bb09e52b859:chars-0-1722:a005b4a1ff0b6d2cf378643955767ccec19007f4f64695fa8031466705f5b049",
+      "character_start": 0,
+      "character_end": 1722,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1727,
+      "passage_sha256": "a005b4a1ff0b6d2cf378643955767ccec19007f4f64695fa8031466705f5b049",
+      "reader_fragment": "p-0-1722-a005b4a1ff0b6d2c"
+    },
+    {
+      "passage_id": "law:pk-code-033f4a763885d29f:sha256:6714b346a29250d603ff4d89e6523329ac82f09bf405d33cb1083bb09e52b859:chars-1722-2117:13113aef37b3515cf505a29091c4853f9ef21f2db74424c68f6f9db7ba355650",
+      "character_start": 1722,
+      "character_end": 2117,
+      "utf8_byte_start": 1727,
+      "utf8_byte_end": 2122,
+      "passage_sha256": "13113aef37b3515cf505a29091c4853f9ef21f2db74424c68f6f9db7ba355650",
+      "reader_fragment": "p-1722-2117-13113aef37b3515c"
+    }
+  ]
+}

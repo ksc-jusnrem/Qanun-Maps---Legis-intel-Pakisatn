@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-4c5adf3ddf52c796",
+  "title": "PUNJAB URBAN IMMOVABLE PROPERTY (VALIDATION OF TAX) ACT, 1976",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/ATRXZFBmV2I-",
+  "version": null,
+  "source_snapshot": "2026-08-06T17:01:16Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "33b63501f1377a90fa1df9b2c428cc4fc82391300bdf4c1cfb6df9eb69ad28df",
+  "source_sha256": "33b63501f1377a90fa1df9b2c428cc4fc82391300bdf4c1cfb6df9eb69ad28df",
+  "text_version_id": "law:punjab-code-4c5adf3ddf52c796:sha256:33b63501f1377a90fa1df9b2c428cc4fc82391300bdf4c1cfb6df9eb69ad28df",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB URBAN IMMOVABLE PROPERTY \r\n(VALIDATION OF TAX) ACT, 1976 \r\n(XX of 1976) \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Validation of tax under the Punjab Act XVII of 1940 and Punjab Act V of  \r\n1958 \r\nTEXT \r\n1\r\nTHE PUNJAB URBAN IMMOVABLE PROPERTY (VALIDATION OF TAX) \r\nACT, 1976 \r\n(XX of 1976) \r\n[16th December, 1976] \r\nAn  \r\nAct \r\nto validate the levy, charging, collection and realization of property tax under the \r\nPunjab Urban Immovable Property Tax Act, 1940 (since repealed) and the Punjab \r\nUrban Immovable Property Tax Act, 1958. \r\nPreamble.– WHEREAS it is expedient to validate the levy, charging, collection and \r\nrealization of tax under the Punjab Urban Immovable Property Tax Act, 1940 (XVII of \r\n1940) (since repealed) and the Punjab Urban Immovable Property Tax Act, 1958 (V \r\nof 1958); \r\n It is hereby enacted as follows:– \r\n1. Short title and commencement .– (1) This Act may be called the Punjab \r\nUrban Immovable Property (Validation of Tax) Act, 1976. \r\n(2) It shall extend to the whole of the Punjab. \r\n2. Validation of tax under the Punjab Act XVII of 1940 and Punjab Act V of \r\n1958.– (1) Notwithstanding any omission or anything to the contrary contained in the \r\nPunjab Urban Immovable Property Tax Act, 1940 (Act No. XVII of 1940) si nce \r\nrepealed, hereinafter referred to as the 1940 Act, and the Punjab Urban Immovable \r\nProperty Tax Act, 1958 (Punjab Act V of 1958), hereinafter referred to as the 1958 \r\nAct, or the rules made, notifications issued thereunder or anything to the contrary \r\ncontained in any decree, judgment or order of any court, the rating areas under the \r\nprovisions of the 1940 Act, shall be deemed to include and always to have included \r\nsuch extended areas within the limits of a local authority which before such \r\nextensions could not have been considered as a part of rating areas under the 1940 \r\nAct, and the rating areas so reckoned shall be deemed to be and always to have \r\nbeen deemed as urban areas for the purposes of sub -section (1) of section 3 of the \r\n1958 Act, and the tax levi ed, charged, collected or realised from the owners of \r\nimmovable properties situated in the extended areas, shall be deemed to have been \r\nvalidly levied, charged, collected or realised under the provisions of the 1940 Act or \r\nthe 1958 Act, as the case may be. \r\n(2) Where any tax, referred to in sub -section (1) has not been paid or \r\nrealised before coming into force of this Act or if so paid or realised has been \r\nrefunded to or adjusted against subsequent tax payable by the owners of the said \r\nproperty, the same sha ll be recoverable in accordance with the provisions of 1958 \r\nAct. \r\n                                                 \r\n1This Act was passed by the Punjab Assembly on 26th November, 1976; assented to by the Governor of the Punjab on 16th \r\nDecember, 1976; and, published in the Punjab Gazette (Extraordinary), dated 16th December, 1976, pages 2771-2772.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-4c5adf3ddf52c796:sha256:33b63501f1377a90fa1df9b2c428cc4fc82391300bdf4c1cfb6df9eb69ad28df:chars-0-1786:6d92276e1a14111f01d7e21cd76c0de251bcda7d9448f575397708c1b73b003f",
+      "character_start": 0,
+      "character_end": 1786,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1794,
+      "passage_sha256": "6d92276e1a14111f01d7e21cd76c0de251bcda7d9448f575397708c1b73b003f",
+      "reader_fragment": "p-0-1786-6d92276e1a14111f"
+    },
+    {
+      "passage_id": "law:punjab-code-4c5adf3ddf52c796:sha256:33b63501f1377a90fa1df9b2c428cc4fc82391300bdf4c1cfb6df9eb69ad28df:chars-1786-2946:affc92d123eff0a19c24e840ea2609b4bfb1fc7201d45fa4162fe845e2a302ae",
+      "character_start": 1786,
+      "character_end": 2946,
+      "utf8_byte_start": 1794,
+      "utf8_byte_end": 2954,
+      "passage_sha256": "affc92d123eff0a19c24e840ea2609b4bfb1fc7201d45fa4162fe845e2a302ae",
+      "reader_fragment": "p-1786-2946-affc92d123eff0a1"
+    }
+  ]
+}

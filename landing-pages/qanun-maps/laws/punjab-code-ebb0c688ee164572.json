@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-ebb0c688ee164572",
+  "title": "PUNJAB COURT FEES (ABOLITION) ORDINANCE, 1983",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/UGUHNFdnAjM-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:53:27Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "cbf1f5625347ed6eb1b5896cb413336e67de7a347a15091687a1a647ac1924ad",
+  "source_sha256": "cbf1f5625347ed6eb1b5896cb413336e67de7a347a15091687a1a647ac1924ad",
+  "text_version_id": "law:punjab-code-ebb0c688ee164572:sha256:cbf1f5625347ed6eb1b5896cb413336e67de7a347a15091687a1a647ac1924ad",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB COURT FEES (ABOLITION) ORDINANCE, \r\n1983 \r\n(X of 1983)  \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Abolition of Court Fee in certain cases \r\n \r\n \r\nTEXT \r\n1\r\nTHE PUNJAB COURT FEES (ABOLITION) ORD INANCE, 1983 \r\n(X of 1983) \r\n[21st June, 1983] \r\nAn \r\nOrdinance \r\nto provide for the abolition of court fee in respect of certain cases. \r\nPreamble.– WHEREAS it is expedient to pro vide for the abolition of court fee in \r\nrespect of certain cases. \r\n NOW, THEREFORE, in pursuance of the Proclamation of fifth day of July, 1977 \r\nread with the Laws (Continuance in Force) Order, 1977 (C M L A Order No. 1 of 1977) \r\nand the Provisional Constitution Order, 1981 (CML A Order No. 1 of 1981), the \r\nGovernor of the Punjab is pleased to make and promulgate the following Ordinance:– \r\n1. Short title and commencement .– (1) This Ordinance may be called the \r\nPunjab Court Fees (Abolition) Ordinance, 1983. \r\n (2) It shall come into force at once and shall be deemed to have taken \r\neffect on and from the first of August, 1978. \r\n2. Abolition of Court Fee in certain cases .– Notwithstanding anything to the \r\ncontrary contained in the Court Fees Act, 1870 (VII of 1870) or any other law for the \r\ntime being in force or in any Rule, Notification or Order,  no court fee shall be \r\nchargeable by any Court or payable in respect of– \r\n(a) any criminal case; and \r\n(b) any case of civil nature the value of the subject -matter whereof or the \r\nrelief claimed wherein does not exceed twenty-five thousand rupees. \r\nExplanation.– The aforesaid abolition of court fee shall be applicable at all stages of \r\nthe case and in respect of all  courts including revenue  courts. \r\n                                                 \r\n1This Ordinance w as promulgated by the Governor of the Punjab on 18 th June, 1983; published in the Punjab Gazette \r\n(Extraordinary) dated 21 st June, 1983; pages 331-A to 331 -B; w as not subject to the limitation as to its duration under the \r\nConstitution, vide the Law s (Continuance in Force) Order, 1977 (CMLA’s Orders No. 1 of 1977), and was validated by Article 270A \r\nof the Constitution of the Islamic Republic of Pakistan (1973).",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-ebb0c688ee164572:sha256:cbf1f5625347ed6eb1b5896cb413336e67de7a347a15091687a1a647ac1924ad:chars-0-1729:7d4e7fd1d432cdc886429b6b6f09d42d89171a375286360d35da36e04767c7a7",
+      "character_start": 0,
+      "character_end": 1729,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1741,
+      "passage_sha256": "7d4e7fd1d432cdc886429b6b6f09d42d89171a375286360d35da36e04767c7a7",
+      "reader_fragment": "p-0-1729-7d4e7fd1d432cdc8"
+    },
+    {
+      "passage_id": "law:punjab-code-ebb0c688ee164572:sha256:cbf1f5625347ed6eb1b5896cb413336e67de7a347a15091687a1a647ac1924ad:chars-1729-2170:080869f68cbdf3442530e4d854317e55b1928d10bf3eefa64681447fa32e200e",
+      "character_start": 1729,
+      "character_end": 2170,
+      "utf8_byte_start": 1741,
+      "utf8_byte_end": 2184,
+      "passage_sha256": "080869f68cbdf3442530e4d854317e55b1928d10bf3eefa64681447fa32e200e",
+      "reader_fragment": "p-1729-2170-080869f68cbdf344"
+    }
+  ]
+}

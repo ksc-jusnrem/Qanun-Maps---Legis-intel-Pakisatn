@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-783463ae638b0ff9",
+  "title": "PUNJAB SUSPENSION OF LOCAL COUNCILS ORDINANCE 1999",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/U2YFN1BkBjE-",
+  "version": null,
+  "source_snapshot": "2026-08-06T17:00:54Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "10f6c60ff7866956287a7de21e8eda0b0c3136a4095f03cb8c034bc4e6777562",
+  "source_sha256": "10f6c60ff7866956287a7de21e8eda0b0c3136a4095f03cb8c034bc4e6777562",
+  "text_version_id": "law:punjab-code-783463ae638b0ff9:sha256:10f6c60ff7866956287a7de21e8eda0b0c3136a4095f03cb8c034bc4e6777562",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB SUSPENSION OF LOCAL COUNCILS \r\nORDINANCE 1999 \r\n(LIV of 1999) \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Suspension of Local Councils \r\n \r\nTEXT \r\n1\r\nTHE PUNJAB SUSPENSION OF LOCAL COUNCILS ORDINANCE 1999 \r\n(LIV of 1999) \r\n[14th December, 1999] \r\nAn \r\nOrdinance \r\nto provide for the suspension of the Local Council constituted under the Punjab Local \r\nGovernment Ordinance 1979 (VI of 1979). \r\nPreamble.– Whereas it is expedient to suspend the Local Councils constituted under \r\nthe Punjab Local Government Ordinance 1979 (VI of 1979); \r\n Now therefore pursuant to the instructions of the Chief Executive of Pakistan \r\nunder Article 4 of the Provisional Constitution (Amendment) Order No.9 of 1999 \r\n(Chief Executive’s Order No.9 of 1 999) the Governor of the Punjab is pleased to \r\nmake and promulgate the following Ordinance:– \r\n1. Short title and commencement .– (1) This Ordinance may be called the \r\nPunjab Suspension of Local Councils Ordinance 1999. \r\n (2) It shall come into force at once. \r\n2. Suspension of Local Councils .– (1) On the  commencement of this \r\nOrdinance– \r\n(i) all members of the Local Councils constituted under the Punjab Local \r\nGovernment Ordinance 1979 (VI of 1979) shall stand suspended; and \r\n(ii) all office bearers holding any office  on the basis of being a member of \r\nthe Local Councils referred to in sub -clause (i) shall cease to hold \r\noffice. \r\n (2) All powers and functions of the Local Councils shall be exercised and \r\nperformed by such persons or authorities as the Government may appoin t in this \r\nbehalf as Administrators. \r\n (3) All funds and property belonging to the Local Councils shall during the \r\nperiod of suspension vest in the Government \r\n2\r\n[.] \r\n                                                 \r\n1This Ordinance was promulgated by the Governor of the Punjab on 13 December 1999; and publish ed in the Punjab Gazette \r\n(Extraordinary), dated 14 December 1999, pp.1543-44. Under Article 4 of the Provisional Constitution (Amendment) Order 1999 (9 \r\nof 1999), it will remain in force notwithstanding the maximum limit of three months prescribed under Article 128 of the Constitution \r\nof the Islamic Republic of Pakistan. \r\n2Misprinted in the Gazette.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-783463ae638b0ff9:sha256:10f6c60ff7866956287a7de21e8eda0b0c3136a4095f03cb8c034bc4e6777562:chars-0-1777:aa3fc6a6ac1d4b893876f9d3cf6fccaddc24b61ab4adae8f55a7ae5baa290e42",
+      "character_start": 0,
+      "character_end": 1777,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1789,
+      "passage_sha256": "aa3fc6a6ac1d4b893876f9d3cf6fccaddc24b61ab4adae8f55a7ae5baa290e42",
+      "reader_fragment": "p-0-1777-aa3fc6a6ac1d4b89"
+    },
+    {
+      "passage_id": "law:punjab-code-783463ae638b0ff9:sha256:10f6c60ff7866956287a7de21e8eda0b0c3136a4095f03cb8c034bc4e6777562:chars-1777-2229:df17c0d865c48be43918d376e2e0817a248a53933497f7d3be7e85e45b8c6a62",
+      "character_start": 1777,
+      "character_end": 2229,
+      "utf8_byte_start": 1789,
+      "utf8_byte_end": 2241,
+      "passage_sha256": "df17c0d865c48be43918d376e2e0817a248a53933497f7d3be7e85e45b8c6a62",
+      "reader_fragment": "p-1777-2229-df17c0d865c48be4"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-79d6a846d27719d7",
+  "title": "Anand Marriage Act, 1909",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apeX-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "91f1e4ecf5412b0b6c85085145b09efa6a9884b8c22ed92aba6d6f11193eeb28",
+  "source_sha256": "91f1e4ecf5412b0b6c85085145b09efa6a9884b8c22ed92aba6d6f11193eeb28",
+  "text_version_id": "law:pk-code-79d6a846d27719d7:sha256:91f1e4ecf5412b0b6c85085145b09efa6a9884b8c22ed92aba6d6f11193eeb28",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\nTHE ANAND MARRIAGE ACT, 1909 \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title and extent \r\n2.  Validity of Anand marriage \r\n3.  Exemption of certain marriage from Act \r\n4.  Saving of marriages solemnized according to other ceremonies \r\n5.  Non-validation of marriages within prohibited degrees \r\n \r\n  \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE ANAND MARRIAGE ACT, 1909 \r\n1ACT No. VII OF 1909 \r\n[22nd October, 1909] \r\nAn Act to remove doubts as to the validity of the marriage ceremony common among the Sikhs called \r\nAnand. \r\nWHEREAS it is expedient to remove any doubts as to the validity of the marriage  ceremony \r\ncommon among the Sikhs called Anand; It is hereby enacted as follows:- \r\n1. Short title and extent.___(1) This Act may be called the Anand Marriage Act, 1909 ; and \r\n2[(2) It extends to the whole of Pakistan.] \r\n2. Validity of Anand marriage. All marriages which may be or may have been duly  \r\nsolemnized according to the Sikh marriage ceremony called Anand shall be, and shall be  deemed to \r\nhave been with effect from the date of the solemnization of each respectively, good and valid in law. \r\n3. Exemption of certain marriage from Act. Nothing in this Act shall apply to–  \r\n (a)       any marriage between persons not professing the Sikh religion, or \r\n(b)  any marriage which has been judicially declared to be null and void. \r\n4. Saving of marriages solemnized according to other ceremonies. Nothing in this Act shall \r\naffect the validity of any marriage duly solemnized according to any other marriage  ceremony \r\ncustomary among the Sikhs. \r\n5. Non -validation of marriages within prohibited degrees. Nothing in this Act shall  be \r\ndeemed to validate any marriage between persons who are related to each other in any  degree of \r\nconsanguinity or affinity which would, according to the customary law of the Sikhs, render a marriage \r\nbetween them illegal. \r\n \r\n__________ \r\n \r\n \r\n \r\n \r\n \r\nDate: 11-09-2024 \r\n1For Statement of Objects and Reasons, see Gazette of India, 1908, Pt. V, p. 357; for Report of Select Committee, see ibid., 1909, Pt. V,p. 1034; and for \r\nProceedings in Council, see ibid., 1908, Pt. VI, p. 156, and ibid., 1909 Pt. VI, pp. 156, 161 and 165. \r\n2Subs. by the Central Laws (Statute Reform) Ordinance, 1960 (21 of 1960), s. 3 and 2nd Sch. (with effect from the 14th October, 1955), for the original \r\nsub-section (2) as amended by A.O., 1949.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-79d6a846d27719d7:sha256:91f1e4ecf5412b0b6c85085145b09efa6a9884b8c22ed92aba6d6f11193eeb28:chars-0-1764:dc0602ea1f033af16c9adc7bda700920f9813af01112338f57b38c363586169d",
+      "character_start": 0,
+      "character_end": 1764,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1766,
+      "passage_sha256": "dc0602ea1f033af16c9adc7bda700920f9813af01112338f57b38c363586169d",
+      "reader_fragment": "p-0-1764-dc0602ea1f033af1"
+    },
+    {
+      "passage_id": "law:pk-code-79d6a846d27719d7:sha256:91f1e4ecf5412b0b6c85085145b09efa6a9884b8c22ed92aba6d6f11193eeb28:chars-1764-2398:52c19d3747e523d1de43723ef519b2249a87dbeebcdeb6bfb162d9298329ed13",
+      "character_start": 1764,
+      "character_end": 2398,
+      "utf8_byte_start": 1766,
+      "utf8_byte_end": 2400,
+      "passage_sha256": "52c19d3747e523d1de43723ef519b2249a87dbeebcdeb6bfb162d9298329ed13",
+      "reader_fragment": "p-1764-2398-52c19d3747e523d1"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-fc441e1e0e53090d",
+  "title": "Federal Public Service Commission (Validation of Rules) Act, 2021",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5hk-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "f15634de8ce651ac2f9714cc4e072282d5b5e8717c72af9bd6cf21c82ae9bf77",
+  "source_sha256": "f15634de8ce651ac2f9714cc4e072282d5b5e8717c72af9bd6cf21c82ae9bf77",
+  "text_version_id": "law:pk-code-fc441e1e0e53090d:sha256:f15634de8ce651ac2f9714cc4e072282d5b5e8717c72af9bd6cf21c82ae9bf77",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\nTHE FEDERAL PUBLIC SERVICE COMMISSION (VALIDATION \r\nOF RULES) ACT, 2021. \r\n \r\n \r\n \r\n \r\n     \r\n \r\nCONTENTS \r\n \r\n1. Short title and commencement. \r\n2. Validation of certain rules. \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE FEDERAL PUBLIC SERVICE COMMISSION (VALIDATION OF RULES) \r\nACT, 2021. \r\nAct NO. XXXIV OF 2021 \r\n[1st December, 2021] \r\nAN \r\nACT \r\nto validate the rules for regarding the competitive examination conducted by the Federal Service \r\nCommission \r\nWHEREAS it is necessary to validate the rules for regulating the competitive examination \r\nconducted by the Federal Public Service Commission in the year, 2016 and 2017. \r\nIt is enacted as follows:⸻ \r\n1. Short title and commencement.⸻(1) This Act shall be called the Federal Public Service  \r\nCommission (Validation of Rules) Act, 2021. \r\n(2) It shall come into force at once. \r\n2. Validation of certain rules.⸻(1) Notwithstanding anything contained in any other law, rules \r\nfor regulating the conduct of the Competitive  Examination, 2016 issued vide Notification No. SRO \r\n953(I)2015, rules for regulating the conduct of the Competitive Examination, 2017 issued vide \r\nNotification No. SRO 847(l)/2016 and all other similar rules purportedly issued under the Federal Public \r\nService Commission Ordinance, 1977 (XLV of 1977) and the rules and notifications through which any \r\nof these rules were amended, shall be deemed to have been va lidly made with effect from the date of \r\nnotification of the rules or the amendments. \r\n(2) Notwithstanding any defect in approval of the rules or amendments mentioned in sub-section \r\n(1), any examination held by the Federal Public Service Commission, acts done, notification issued or \r\nproceedings taken under the rules or amendments shall be deemed to have been validly held, done, issued \r\nor taken. \r\n \r\n_______________",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-fc441e1e0e53090d:sha256:f15634de8ce651ac2f9714cc4e072282d5b5e8717c72af9bd6cf21c82ae9bf77:chars-0-1752:a2f6b3153afaed7b49f42ccbdf87c0f251e3d4ff859e1162fb2a623e66911812",
+      "character_start": 0,
+      "character_end": 1752,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1758,
+      "passage_sha256": "a2f6b3153afaed7b49f42ccbdf87c0f251e3d4ff859e1162fb2a623e66911812",
+      "reader_fragment": "p-0-1752-a2f6b3153afaed7b"
+    },
+    {
+      "passage_id": "law:pk-code-fc441e1e0e53090d:sha256:f15634de8ce651ac2f9714cc4e072282d5b5e8717c72af9bd6cf21c82ae9bf77:chars-1752-1888:a163a8aeb0fe1275f41c52117f4154166f3ed9faa4f408e0023d060adbecd112",
+      "character_start": 1752,
+      "character_end": 1888,
+      "utf8_byte_start": 1758,
+      "utf8_byte_end": 1894,
+      "passage_sha256": "a163a8aeb0fe1275f41c52117f4154166f3ed9faa4f408e0023d060adbecd112",
+      "reader_fragment": "p-1752-1888-a163a8aeb0fe1275"
+    }
+  ]
+}

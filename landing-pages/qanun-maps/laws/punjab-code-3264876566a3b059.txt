@@ -1,0 +1,845 @@
+THE PUNJAB PUBLIC PRIVATE PARTNERSHIP ACT 2025 
+(XVII of 2025) 
+CONTENTS 
+1. Short title, extent, applicability and commencement 
+2.  Definitions 
+3. Authority  
+4. Composition of the Authority 
+5. Meetings of the Authority 
+6. Functions of the Authority 
+7. Chief Executive Officer 
+8. Appointment of officers and staff of the Authority 
+9. Appointment by transfer 
+10. Constitution of PPP Working Parties 
+11. Risk Management Unit 
+12. Functions of an Implementing Agency 
+13. Transparency, efficiency and economy 
+14. Publication of annual business plan 
+15. Powers to approve a Project 
+16. Project support  
+17. Unsolicited Proposal 
+18. Transfer of rights 
+19. No compensation for risks not covered 
+20. Renegotiation of PPP Contracts 
+21. Restriction on funding PPP Project through alternate means 
+22. Compliance with environmental standards  
+23. Allocation of budget 
+24. Authority Fund 
+25. Viability Gap Fund  
+26. Project Development Facility 
+27. Budget and accounts 
+28. Audit 
+29. Power to exempt from taxation  
+30. Power to make rules  
+31. Power to frame regulations 
+32. Advisory and consulting services 
+33. Selection of Private Partners, Transaction Advisors, consultants and 
+experts 
+34. Conflict of interest 
+35. Dispute resolution  
+36. Termination of PPP Contract 
+37. Land acquisition 
+38. Powers to eject unauthorized occupants 
+39. Recovery of costs, dues and fees 
+40. Reward by the Authority 
+41. Obligation to produce documents and provide information 
+42. Power to require information from the Private Partner 
+43. Transparency and public disclosure 
+44. Public servants 
+45. Immunity of the Authority and its employees 
+46. Prior consent of the Authority with respect to certain legal actions 
+47. Overriding effect 
+48. Removal of difficulties 
+49. Repeal and savings 
+ 
+  
+TEXT 
+1
+THE PUNJAB PUBLIC PRIVATE PARTNERSHIP ACT 2025 
+(XVII of 2025) 
+[24th March, 2025] 
+An 
+Act 
+to provide for promotion of Public Private Partnerships in Punjab. 
+It is necessary to encourage the participation of private sector in the projects of public 
+importance and create an enabling environment for public private partnership in the 
+province and the matters connected therewith or ancillary thereto.  
+Be it enacted by Provincial Assembly of the Punjab as follows: 
+CHAPTER I 
+PRELIMINARY 
+1. Short title, extent , applicability and commencement .– (1) This Act may be 
+cited as the Punjab Public Private Partnership Act 2025. 
+(2) It extends to whole of the Punjab.  
+(3) It shall apply to all projects developed and implemented through Public 
+Private Partnership in Province of the Punjab.  
+(4) It shall come into force at once. 
+2.  Definitions.– In the Act:  
+(a) “Act” means the Punjab Public Private Partnership Act 2025; 
+(b) “Administrative Department ” means an Administrative Department as 
+defined in the Punjab Government Rules of Business 2011; 
+(c) “Authority” means the Punjab Public Private Partner ship Authority 
+established under the Act; 
+(d) “Authority Fund” means the Punjab Public Private Partnership Authority 
+Fund established under the Act; 
+(e) “bid” means a  bid, tender or an offer, in response to an invitation, by a 
+person, consultant, firm, company, consortium or an organization 
+expressing his or its willingness  to undertake a specified task  and shall 
+include all requisite parts thereof, including the technical  proposal and 
+financial bid; 
+(f) “Bidder” means a person  who submits a bid for a contract  in accordance 
+with the Act and rules made thereunder; 
+(g) “Bidding Documents” include  all such invitations, advertisements, 
+Expression of Interest Documents, Pre -Qualification Documents, Request 
+for Proposal Documents, and other such documents by whatever name 
+they are called including forms, transaction structures, requi rements, 
+conditions, specifications, addenda, instructions, criteria, options, draft 
+contracts which are necessary to invite bids for selection of a Transaction 
+Advisor, Consultant or a Private Partner for a PPP project; 
+                                                           
+1This Act was passed by Provincial Assembly of the Punjab on 14 March 2025; and was assented to by Governor of the Punjab on 21 
+March 2025; and was published in the Punjab Gazette (Extraordinary), dated: 24 March 2025, pp. 3601-3617. 
+(h) “Chief Executive Officer” means the Chief Executive Officer of the Authority 
+appointed under the Act; 
+(i) “company” means a company registered under the Compan ies Act, 2017 
+(XIX of 2017) or any other relevant law for the time being in force; 
+(j) “concession” means grant of such reasonable rights to the Private Partner 
+over a public property by the  Government, Government Agency, Authority 
+or the  Implementing Agency  or assignment of such functions  as are 
+required for undertaking the PPP project and performance of services in 
+accordance with the PPP Contract under the Act; 
+(k) “Consortium” means an association of persons who have entered into a 
+legally enforceable contractual arrangement for purposes of entering into a 
+PPP Contract and have a lead member who has an authority to conduct all 
+business for and on behalf of any and all the members of the Consortium 
+and where all the members of the Consortium are jointly and severally 
+liable to the Implementing Agency for the performance of the PPP Contract; 
+(l) “construction” includes construction, reconstruction, rehabilitation, 
+renovation, improvement, expansion, addition, alteration, and other related 
+activities; 
+(m) “contingent liability ” means a potential obligation that may be incurred 
+depending on the outcome of a future event related to a PPP Project; 
+(n) “cure period” means such period as is allowed in the PPP Contract to either 
+party to take remedial measures to rectify its default of the contractual 
+obligations upon notice from the other party; 
+(o) “Government” means Government of the Punjab; 
+(p) “Implementing Agency”  means an Administrative Department or an 
+attached department of the Government, a local Government, o r an 
+authority, a body corporate, statutory body, or a corporation wholly or 
+majorly owned or controlled by the Government responsible to implement a 
+project under the Act; 
+(q) “inflation indexing ” means the adjustment of costs and prices to 
+compensate for the inflationary impact in accordance with the PPP 
+Contract; 
+(r) “interest rate indexing ” means the adjustment of costs and prices to 
+compensate for the  impact due to change in  interest rate in accordance 
+with the PPP Contract; 
+(s) “investment” includes development and pre -operative capital expenditures 
+made or incurred on services, land, construction and equipment; 
+(t) “lender” means a financial institution as defined in the Financial Institutions 
+(Recovery of Finances) Ordinance, 2001 (XLVI of 2001) or an 
+establishment providing loan or financial support to the Private Partner for 
+the implementation of a PPP project with or without security; 
+(u) “local Government” means a local Government as defined in the Punjab 
+Local Government Act 2022 (XXXIII of 2022) or any other law for the time 
+being in force; 
+(v) “Member” means a Member of the Authority; 
+(w) “Parties” when referred collectively include the Implementing Agency and 
+the Private Partner; 
+(x) “person” includes a company, statutory body, entity, firm, association of 
+persons, body of individuals, corporation, or a sole proprietor; 
+(y) “PPP Contract ” means a contract between th e Government represented 
+through an Implementing Agency and the Private Partner , whereby, the 
+Private Partner agrees to undertake a project under the Act or provide such 
+services or perform such tasks, as agreed  and shall include any other  
+contracts subsidiary or incidental thereto; 
+(z) “PPP Node” means a unit, having requisite technical, legal, financial, and 
+such expertise as may be required ; established by an Administrative 
+Department or an Implementing Agency, to perform such tasks pertaining 
+to PPP Projects as may be required under the Act; 
+(aa) “project” means a public project implemented on Public Private Partnership 
+basis under the Act; 
+(bb) “prescribed” means prescribed by the rules or regulations  made or framed 
+under the Act;  
+(cc) “Private Partner” means the Private Party selected to carry out the project 
+under the Act; 
+(dd) “Project Development Facility ” means the facility established by the 
+Authority under the Act to finance the structuring of PPP projects  including 
+the development of Project Proposals, engagement of  transaction advisors 
+and consultants and other ancillary matters for PPP Projects; 
+(ee) “Project Proposal” includes feasibilities, estimates,  reports, financial, 
+economic and business models,  option analyses, technical specifications, 
+drawings, surv eys, impact assessments, legal and regulatory framework 
+and risk assessments, likely environmental, social and other impact 
+assessments, data and data projections  or like reports by whatever name 
+they are called , etc. required for assessing the viability, sustainability and 
+suitability of a project to be implemented under the Act; 
+(ff) “Public Private Partnership” means a contractual relationship  between the 
+Implementing Agency and a Private Partner to undertake a project under 
+the Act or provide such services or perform such tasks, as agreed  whereby 
+the Private Partner: 
+(i) performs part of an Implementing Agency’s functions on behalf of it;  
+or  
+(ii) assumes the responsible use of public property for a project; or 
+(iii) assumes substantial financial, technical and operational risks in 
+connection with performance of certain functions of the 
+Implementing Agency or the responsible use of public property; or 
+(iv) receives a benefit for performing the Implementing Agency’s 
+functions or from utilizing the public property, either by way of: 
+(a) consideration to be paid by the Implementing Agency from its 
+budget or revenue; or 
+(b) charges or fees to be collected by the Private Partner from 
+users or customers of a service provided to them; or 
+(c) a combination of such consideration and such charges or 
+fees; 
+(gg) “regulations” means the regulations framed under the Act; 
+(hh) “risk” means any event or circumstance affecting  or likely to affect the 
+project adversely in performance, costs and fulfillment of any contractual 
+obligation related thereto including but not limited to design, construction, 
+financing, operation or maintenance; 
+(ii) “Risk Management”  means the process of identifying, assessing, and 
+prioritizing risks followed by coordinated efforts to minimize, monitor, and 
+control the probability and impact of risks; 
+(jj) “rules” means the rules made under the Act; 
+(kk) “Secretary” means Secretary of the Authority; 
+(ll) “Standby Letter of Credit”  means the  legal instrument  guaranteeing 
+payments to the Private Partner in accordance with the PPP Contract; 
+(mm) “Transaction Advisor” means a person or association of persons appointed 
+to provide technical, financial, and legal advisory services for the 
+structuring of PPP Projects, development of Project Proposal, preparation 
+of Bidding Documents and other ancillary matters; 
+(nn) “Unsolicited Proposal” means a proposal for a PPP project that is initiated 
+by a Private Party  without a formal request from the Government or a 
+Government Agency; 
+(oo) “Value for Money ” means the optimal combination of quality, cost, and 
+efficiency to meet the project objectives; and 
+(pp) “Viability Gap Fund” means the fund established by the Authority under the 
+Act to support the Private Partner in undertaking the project including but 
+not limited to  funds for covering revenue shortfalls by means of grants, 
+subsidies, guarantees, or any other mode approved by the Authority. 
+CHAPTER II 
+INSTITUTIONAL ARRANGEMENTS 
+3. Authority.– (1) There shall be an Authority to be known as the Punjab Public 
+Private Partnership Authority for carrying out the purposes of the Act. 
+(2) The Authority shall be  a body corporate having perpetual succession and 
+common seal with power to enter into contracts, to acquire and hold property both 
+movable and immovable, and shall, by its name, sue and be sued. 
+(3) The headquarters of the Authority shall be at Lahore and i t may establish 
+its offices at such other place or places as it may consider appropriate.  
+4. Composition of the Authority.– (1) The Authority shall comprise the following:  
+(a) Chief Minister, Punjab. Chairperson 
+(b) Minister for Planning and Development or any 
+other Minister nominated by the Chief Minister. 
+Vice Chairperson 
+(c) Chairman, Planning and Development Board or 
+his nominee not below the rank of Additional 
+Secretary. 
+Member 
+(d) Secretary to the Government, Finance 
+Department or his nominee not below the rank 
+of Additional Secretary.  
+Member 
+(e) Secretary to the Government, Law and 
+Parliamentary Affairs Department or his 
+nominee not below the rank of Additional 
+Member 
+ 
+Secretary. 
+(f) Two members of Provincial Assembly of the 
+Punjab, including one female member to be 
+nominated by the Speaker, of the Assembly. 
+ 
+Members 
+(g) three experts from private sector such as from 
+the field of public private partnership, finance, 
+law, engineering or environment. 
+Member 
+(h) Chief Executive Officer. Member/Secretary 
+(2) The Members at clause ( g) of sub -section (1)  shall be appointed by the 
+Government for a period of two years  who may be eligible for re -appointment for one 
+additional term and they shall: 
+(a) have relevant educational qualification; 
+(b) be of known integrity and repute; and  
+(c) possess relevant experience. 
+(3)  The Members at clause (g): 
+(a) shall hold office during the pleasure of the Government;  
+(b) may, on the directio n of the Government, continue to perform his functions 
+even after expiry of his term till his successor is appointed;  
+(c) may, at any time, resign from his office by a written noti ce addressed to the 
+Chairperson; and 
+(d) shall not be appointed for more than two consecutive terms. 
+5. Meetings of the Authority .- (1) The Chairperson and, in his absence, the Vice 
+Chairperson shall preside over a meeting of the Authority and in absence of both, the 
+meeting shall be presided  over by a Member nominated for the purpose by the 
+Chairperson. 
+(2) The Authority shall meet once in every four months and otherwise as often 
+as may be necessary for implementation of the provisions of the Act. 
+(3) Five Members shall constitute the quorum for the meeting of the Authority. 
+(4) The meeting of the Authority, where a Project Proposal or matters related 
+to a project pertaining to a n Administrative D epartment, is being considered, shall be 
+attended by the Secretary of such department of the Implementing Agency  or his 
+representative not below the rank of Additional Secretary. 
+(5) The Authority may co -opt any person as an expert in the relevant field, 
+however, such co-opted person shall not has any right to vote. 
+(6)  No act or proceeding of the Authority shall be invalid merely by 
+reason of any vacancy or defect in the constitution of the Authority. 
+(7) A meeting of the Authority may be called if:  
+(a) required by the Chairperson or the Vice Chairperson; or 
+(b) requisitioned by two-third Members of the Authority; or  
+(c) approved by the Chairperson upon the request of the Secretary.   
+(8) The agenda of a meeting shall be approved by the Chairperson. 
+(9) In case of urgency, the Secretary may seek approval of a proposal through 
+its circulation among the Members and in case no opinion is received from a Member 
+within forty-eight hours of its circulation, it shall be considered that such Member has no 
+objection to its approval.  
+(10) The approvals granted through circulation shall be presented before the 
+Authority in its next meeting occurring after the decision for information and ratification.  
+6. Functions of the Authority.– (1) Subject to the Act, the Authority may take such 
+measures, exercise such powers and perform such functions as may be necessary for 
+the purposes of the Act. 
+(2) Without prejudice to the generality of the powers conferred by sub -section 
+(1), the Authority may: 
+(a) advise the Government on policy matters pertaining to Public Private 
+Partnership to create an enabling environment with regard thereto; 
+(b) approve a Project for its implementation under the Act or pass such order s 
+with regard thereto, as it may deem appropriate; 
+(c) cause such technical, legal , financial, risk and  other appraisals, analyses, 
+assessments and evaluations to be conducted for projects unde r the Act, 
+as may be necessary; 
+(d) prepare its annual budget; 
+(e) make payments out of the Authority Fund in the prescribed manner; 
+(f) approve Viability Gap Fund  and Proj ect Development Facility  for PPP  
+projects and project concepts respectively, in the prescribed manner; 
+(g) cause such appraisals and evaluations to be conducted as may be 
+necessary to assess a Project Concept for its qualification to receive 
+payments out of Project Development Facility; 
+(h) cause such appraisals and evaluations to be conducted as  may be 
+necessary to assess a P roject under the Act for its qualification to receive 
+payments out of Viability Gap Fund and other project support; 
+(i) authorize a n Implementing Agency  to enter into a PPP Contract with a 
+Private Party, subject to the terms and conditions as it may approve; 
+(j) subject to the PPP Contract, approve the transfer of an interest in a Project 
+or part thereof under the Act, to a Private Partner or a nominee thereof by  
+transfer, assignment, conveyance, lease, grant, licensing, authorization or 
+otherwise; 
+(k) require such reports to be prepared by Administrative Departments,  
+Implementing Agenc ies, Transaction Advisors, Consultants and Private 
+Partners, which are required for  monitoring and evaluatio n of the projects 
+under the Act; 
+(l) subject to the PPP Contract, approve to take over an interest in a Project or 
+part thereof from the Private Partner  or a nominee thereof, by transfer, 
+assignment, conveyance, lease, grant, surrender or otherwise; 
+(m) approve regulations and guidelines for carrying out the purposes of the Act; 
+(n) appoint such officers and delegate them such powers as may be necessary 
+to achieve the purposes of the Act; 
+(o) establish directorates, wings and offices and delegate t hem functions and 
+powers as are necessary for the purposes of the Act; 
+(p) assign such roles, responsibilities and tasks to Government Departments 
+and their attached agencies as may be necessary, to ac hieve the 
+objectives of the Act; 
+(q) appoint Transaction Advisors, technical, professional and other experts, 
+advisors, agents and consultants including but not limited to accountants, 
+auditors, bankers, engineers, lawyers, valuators for the Authority and 
+projects implemented, under the Act; 
+(r) enter in to and perform such contracts with local and international 
+organizations as may be necessary for carrying out the purposes of the 
+Act; 
+(s) levy, collect or cause to be collected tolls, tariffs, rents, user fees or any 
+other charges on the use of the infrastructure developed under the Act; 
+(t) impose such penalties on a Private Partner , Transaction Advisor or 
+consultant as it deems appropriate on account of a breach or failure to fulfil 
+his obligations under the contract; 
+(u) define permissible uses of the infrastructure developed under the Act;  
+(v) acquire or dispose of property or any interest in the property; 
+(w) subject to the approval of the Government, raise finances for the projects 
+implemented under the Act, through financial instruments including but not 
+limited to Bonds, Suk uk, T -bills, Securities, Funds and establish 
+Infrastructure Finance Company , if requir ed, subject to applicable laws, 
+establish such other funds, trusts, schemes, companies or facilities  as are 
+required for the purpose of carrying out the functions under the Act; 
+(x) establish committees and delegate them such functions and powers as are 
+necessary to achieve the objectives of the Act; 
+(y) invest amounts out of the  Authority Fund, the Viability Gap Fund and the 
+Project Development Facility; and 
+(z) perform such other functions as may be conferred on it under th e Act, the 
+rules made thereunder and any other law for the time being in force. 
+7. Chief Executive Officer .– (1) The Government may appoint a person having 
+such qualifications, experience and other requirements, as may be determined by the 
+Authority, as the Chief Executive Officer of the Authority on such terms and conditions as 
+the Authority may determine.  
+(2) The Chief Executive Officer shall: 
+(a) be responsible for implementation of the decisions of the Authority; 
+(b) exercise such powers and perform such functions as the Authority may 
+assign or delegate to him; 
+(c) be the principal accounting officer of the Authority; 
+(d) be the head of the management and office of the Authority; 
+(e) be responsible for operations and administration of the Authority; and 
+(f) has such powers pertaining to matters of appointment, transfer, promotion, 
+dismissal of staff; budget making, finances, development, technical and 
+other matters affecting the business of the Authority as may be prescribed 
+or as may be delegated to him by the Authority. 
+(3) Notwithstanding the provisions of sub -section (1),  Government may post, 
+by transfer, a civil servant not below the rank of BS 19 as the Chief Executive Officer and 
+the terms and conditions of his appointment shall not be less favourable than those 
+admissible to him immediately before his transferring to the Authority. 
+8. Appointment of officers and staff of the Authority .– (1) The Authority may 
+appoint such officers, employees, experts, advis ors, consultants, members of staff and 
+other persons as it considers necessary for the efficient performance of its functions on 
+such terms and conditions and in such manner as the Authority may prescribe or till such 
+time as determined by the Authority. 
+(2) The officers, employees, experts, advis ors, consultants, members of staff 
+and other persons appointed by the Authority, shall not be  the civil servants within the 
+meaning of the Punjab Civil Servants Act, 1974 (VIII of 1974). 
+(3) The officers, employees, experts, advis ors, consultants, members of staff 
+and other persons appointed by the Authority when acting or purporting to act under any 
+of the provisions of the Act  or rules made thereunder shall be deemed to be public 
+servants within the meaning of section 21 of the Pakistan Penal Code (XLV of 1860).  
+9. Appointment by transfer .– (1) The Government may transfer the services of a 
+Government employee to the Authority on such terms and conditions as approved by the 
+Authority which shall not be less favo urable than those admissible to him immediately 
+before his transfer to the Authority. 
+(2) An employee transferred under sub -section (1) shall continue to be the 
+employee of the Government and liable to be transferred back as and wh en required by 
+the Government. 
+10. Constitution of PPP Working Parties .– The Government may constitute PPP 
+Working Parties  at Provincial, Departmental, Divisional and District levels to perform 
+such functions  with regard to PPP projects subject to such limitations, as may be 
+prescribed. 
+11. Risk Management Unit .– (1) There shall be a Risk Management Unit in the 
+Finance Department to act as a fiscal guardian for the projects implemented under the 
+Act.  
+(2) The Risk Management Unit shall:  
+(a) subject to the approval of the Authority, d evelop risk management 
+guidelines for projects to be implemented under the Act; and 
+(b) support and advise the Authority or any Implementing Agency with regard 
+to assessment, evaluation,  management and apportionment  of risks in a 
+project throughout the project lifecycle. 
+(3) The Risk Management Unit shall also assist the Authority on a Project with 
+regard to:  
+(a) its fiscal and contingent liability exposure; 
+(b) its financial and business models; 
+(c) its transaction structure  and consistency with the Act and rules made 
+thereunder; 
+(d) identification, distribution and apportionment of risks between the partners 
+and their mitigation; 
+(e) its financial and economic sustainability; and 
+(f) inclusion of project support. 
+(4) The Risk Management Unit shall also: 
+(a) watch the interest of the Government and the Authority against potential 
+risks involved in a Project; 
+(b) advise the Government on budgetary requirements of Projects 
+implemented under the Act; and 
+(c) perform such other functions as may be prescribed or as the Authority may 
+determine.  
+(5) The Risk Management Unit may require any information from the  
+Implementing Agency, Administrative Department , an Attached D epartment, a local 
+Government, Statutory Body or a Body Corporate , owned by the Government, for the 
+said purpose. 
+12. Functions of an Implementing Agency.– (1) An Implementing Agency shall be 
+responsible to identify, develop and implement a Project under the Act and the rules 
+made thereunder and its role shall include but not be limited to: 
+(a) identification of projects; 
+(b) preparation of Project Concepts; 
+(c) development of Project Proposals; 
+(d) collection of data;  
+(e) undertaking project feasibilities; 
+(f) selection of Transaction Advisors; 
+(g) estimation of Project Development Facility and Viability Gap Fund; 
+(h) invitation of bids , preparation of draft Bidding Documents, draft 
+Prequalification Documents and draft PPP Contracts; 
+(i) procurements related to the projects; 
+(j) negotiating and entering into PPP Contracts; and 
+(k) implementation of the projects and their monitoring and evaluation.  
+(2) The Implementing Agency shall also be responsible to take over the project 
+after completion of the PPP Contract period, unless otherwise provided.  
+(3) Without prejudice to the generalit y of sub-section (1), the Authority  or the 
+PPP Working Party may assign additional responsibilities to an Implementing Agency or 
+the rules may be framed for prescribing its role. 
+(4) The Authority  or the PPP Working Party  may assign the role of 
+Implementing Agency  for a P roject to any Government Department, or an attached 
+department of the Government, a local Government, or an authority, a body corporate, 
+statutory body, or a corporation wholly or majorly owned or controlled by the Government 
+at any stage before the signing of the contract, as it deems appropriate. 
+(5) The Implementing Agency may establish a PPP Node for undertaking 
+Projects under the Act.  
+CHAPTER III 
+PROJECT IMPLEMENTATION 
+13. Transparency, efficiency and economy.– (1) All Projects shall be implemented 
+in a transparent, efficient and an economical manner so as to bring value for money.  
+(2) All contracts under the Act shall be awarded through a competitive process, 
+in the prescribed manner, unless specifically provided otherwise. 
+(3) Subject to the Act and the rules made there under, the Implementing 
+Agency may enter into PPP Contract  with Private Partner  on the approved terms and 
+conditions. 
+14. Publication of annual business plan.– Subject to the approval of the 
+Government, the Authority shall, in consultation with the Administrative Department s, 
+prepare and publish an annual business plan for PPP projects. 
+15. Powers to approve a Project .– (1) The Authority shall have full powers to 
+approve a Project without any limitation.  
+ (2)  Subject to the Act and the rules made thereunder, the approvals granted by 
+the Authority or a PPP Working Party shall be final and the Projects duly approved, shall 
+not require any further approval and concurrence from Government or any other forum.  
+(3) The approval of the project shall be deemed to include the approval of all 
+matters ancillary thereto, including but not limited to terms and conditions, concessions, 
+Project P roposal, alignment, project support. However, the Implementing Agency shall 
+be responsible to fulfil the legal, procedural and codal requirements, necessary to give 
+effect to the approval. 
+16. Project support.– Subject to the Act and the rules made thereunder, such project 
+support may be provided  for implementation of a Project under the Act , as may be 
+necessary to make the project fina ncially and economically viable and  such project 
+support may include, administrative and financial support, exemption from procedural 
+requirements, concessions, licensing and collection rights, tax cuts or exemptions, 
+provision of utilities and  land rights, fiscal commitments,  funding out of Viability Gap 
+Fund, subsidies, grants, loans, minimum usage  or revenue guarantees, Standby Letter 
+of Credit,  commitment to take contingent liabilities, protection against revision of tax 
+rates, inflation  indexing, exchange rate and interest rate indexing, right to use 
+Government assets, transfer of Government functions and such other support as may be 
+determined under the rules. However, tax cuts or exemptions, protection against revision 
+of tax rates  and Standby Letter of Credit  shall only be included as a project support 
+subject to the approval of Government. In case of a Federal tax or duty, such exemption 
+shall be subject to the approval of the Federal Government.  
+17. Unsolicited Proposal .– (1) A Private Party  may a lso submit a proposal for a 
+Project on unsolicited basis to an Implementing Agency. 
+(2) The award of contract on an Unsolicited Proposal  shall be through 
+competitive process in such manner as may be prescribed. 
+(3) The advantages to the Proponent of an Unsolicited Proposal  may also be 
+prescribed through rules to encourage the submission of Unsolicited Proposals. 
+18. Transfer of rights.– (1) The Project and its movable and immovable properties,  
+physical assets, licenses, goodwill, trademarks, patents, leases, rights including 
+intellectual property rights and interests associa ted with the project shall be vested in 
+accordance with the PPP Contract, during the tenure of the PPP Contract: 
+(a) provided that, where such rights have  been vested in the Private Partner  
+for the tenure of the PPP Contract, the Private Partner shall not create any 
+lien, charge or encumbrance, in favour of the lenders, over the movable 
+and immovable properties of the project, thus vested, as collateral, unless 
+specifically approved by the Authority  or the relevant PPP Working Party ; 
+and 
+(b) provided further that after the expiry of the PPP Contract, all the properties 
+as aforesaid shall stand transferred, without any lien, charge or 
+encumbrance, to the Government or the Implementing Agency  or the 
+Authority in accordance with the PPP Contract, unless otherwise provided. 
+(2) Subject to the PPP Contract, the Project may vest in the Private Partner for 
+a period not exceeding thirty years and on expiry of such period, the project shall vest in 
+the Government or Authority or the Implementing Agency, as the case may be. 
+19. No compensation for risks not covered.– The Implementing Agency  shall, as 
+far as possible, disclose potential risks in a Project in the Bidding Documents. However, 
+the Authority, the PPP Working Party, the Risk Management Unit, Implementing Agency 
+or a person working on their behalf shall not be held liable for any claim for a risk, which 
+is not specified therein. 
+20. Renegotiation of PPP Contracts.– The Authority, in case of a contract , where 
+circumstances are beyond the control of Implementing Agency and the Private Partners; 
+which could not be foreseen at the time of entering into the PPP Contract, have rendered 
+the implementation of original PPP Contract impossible, may, for reasons to be recorded 
+in writing, allow re -negotiation of PPP Contract  on such terms and conditio ns, as it 
+considers necessary. 
+21. Restriction on funding PPP Project through  alternate means.– A project, for 
+which funding out of Project Development Facility has been approved or a project which 
+is otherwise, approved by the Authority for its implementation as a PPP project under the 
+Act, shall not be eligible for funding out of public money including Annual Development 
+Program and Public Sector Development Pr ogram, unless other wise decided by the 
+Authority. 
+22. Compliance with environmental standards .– All Projects implemented under 
+the Act and actions taken with regard there to, by the Authority, Implementing Agency  
+and the Private Partner  shall be compliant to the environmental laws and standards 
+notified from time to time.  
+CHAPTER IV 
+FINANCE 
+23. Allocation of budget.– (1) The Government shall pl ace, each year, adequate 
+budget, not less than th at allocated during the preceding year, for funds mentioned at 
+sections 24, 25 and 26 at the disposal of the Authority for the projects to be implemented 
+under the Act.  
+(2)  The Authority  may re-appropriate budget from one f und to the other on 
+need basis or delegate such powers. 
+(3) Every year, a certain percentage of the development portfolio of a sector 
+shall be implemented on PPP basis. The Government may, from time to time, determine 
+the said percentage for a sector.  
+(4) The development projects which are commercially viable and suitable for 
+implementation as a PPP Project shall preferably be implemented on PPP basis instead 
+of Annual Development Program.  
+24. Authority Fund.– (1) There shall be a fund to be known as the Punjab Public 
+Private Partnership Authority Fund which shall be maintained, managed, controlled and 
+administered by the Authority in the manner as may be prescribed through rules. 
+(2)  The Authority Fund shall consist of: 
+(a) sums as the Government may from time to time grant or lend , for the 
+purpose; 
+(b) sums charged from Private Partners in accordance with the PPP Contract,  
+for PPP projects approved by the Authority ; in case such sums exceed one 
+percent of the total project cost , the excess amount may be transferred to 
+Viability Gap Fund or Project Development Facility, as the Authority  may 
+determine; 
+(c) income and profit from investments by the Authority; 
+(d) fees charged for the services rendered by the Authority; 
+(e) grants or funds provided by International Agencies, subject to the approval 
+of the Government; and 
+(f) all other sums which may in any manner become payable to or vested in 
+the Authority.  
+(3) The Authority shall meet its operational expenses from the Authority Fund.  
+(4) The Authority may suitably invest surplus amount of the Authority Fund  in 
+such manner as may be prescribed through rules. 
+25. Viability Gap Fund.– (1) There shall be a fund  to be known as the Viability Gap 
+Fund which shall be maintained, managed, controlled and administered by the Authority 
+in the manner as may be prescribed through rules.  
+(2)  The Viability Gap Fund shall receive sums from: 
+(a) budgetary releases, development or non -development, from the 
+Government, for the purpose; 
+(b) grants by the Federal, Provincial Governments or any Governmental 
+Agency, for the purpose; 
+(c) funds placed by the Government at the disposal of the Authority, for the 
+purpose; and 
+(d) loans, grants, funds and contributions received from International Agencies, 
+for the purpose, subject to the approval of the Government. 
+(3) The Government shall replenish the Viability Gap Fund from time to time.  
+(4) The Viability Gap Fund shall be utilized, inter alia, to provide support to the 
+projects determined by the Authority to be economically or socially justified but not 
+financially viable.  
+26. Project Development Facility.– (1) There shall be a facility to be known as the 
+Project Development Facility which shall be , maintained,  managed, controlled and 
+administered by the Authority in such manners as may be prescribed through rules.  
+(2) The Project Development Facility shall receive sums from: 
+(a) budgetary releases, development or non -development, from the 
+Government, for the purpose; 
+(b) grants by the Federal, Provincial Governments or any Governmental 
+agency, for the purpose; 
+(c) funds placed by the Government at the disposal of the Authority, for the 
+purpose; 
+(d) loans, grants, funds and contributions received from International Agencies, 
+for the purpose, subject to the approval of the Government. 
+(3) The Project Development Facility shall be utilized, inter alia, to support the 
+development of Project Proposals, preparation of Bidding Documents and other ancillary 
+matters for potential PPP projects. 
+(4) The money spent on the preparation of a proposal, out of the Project 
+Development Facility, shall be reimbursed by the Private Partner  to the Project 
+Development Facility before the start of the commercial operations of the project 
+developed thereof.  
+(5) The Government shall replenish the Project Development Facility from time 
+to time. 
+27. Budget and accounts .– (1) The Authority shall maintain proper accounts and 
+other records relating to its financial affairs including its income and expenditures, and its  
+assets and liabilities in the manner determined by Finance Department  of the 
+Government.  
+(2) The Authority shall maintain its accounts in such manners as may be 
+prescribed through the rules. 
+(3) The Authority shall , upon the conclusion of a financial year, cause to be 
+prepared for each financial year, its statements of accounts  which shall include a 
+balance sheet and an account of income and expenditure. 
+(4) No expenditure for which provision has not been made in the approved 
+budget shall be incurred without prior approval of the Authority. 
+28. Audit.– (1) The Auditor General of Pakistan shall annually audit the accounts of 
+the Authority.  
+(2) The Authority shall, if required, take appropriate remedial or other actions in 
+the light of the audit reports prepared by the Auditor General of Pakistan. 
+(3) The Authority, in addition to the audit under sub -section (1), may cause the 
+accounts of the Authority annually audited by a Chartered Accountant or a firm of 
+Chartered Accountants. 
+(4)  The auditor appointed under sub-section (3) shall: 
+(a) be provided such access to the books, accounts and other documents as 
+may be considered necessary for the audit of accounts; and 
+(b) authenticate balance sheet, income and expenditure statement of the 
+Authority before issuance. 
+(5) The auditor shall submit the annual or any special audit report to the 
+Authority, and the Authority shall take appropriate remedial or other action in the light of 
+the audit report. 
+CHAPTER V 
+MISCELLANEOUS 
+29. Power to exempt  from taxation .– The Government, from time to time,  may 
+exempt PPP Projects from provincial taxes or grant such waivers as  it deems 
+appropriate.  
+30. Power to make rules .– The Government shall, by notification in the official 
+Gazette, make rules for carrying out the purposes of the Act.   
+31. Power to frame regulations .– Subject to the Act, t he Authority may  frame 
+regulations, not inconsistent with the Act and the rules made thereunder, for carrying out 
+the purposes of the Act. 
+32. Advisory and consulting services.– The Authority may provide advisory and 
+consulting services to other  agencies, Governments, local Governments, bodies 
+corporate, statutory bodies, and corporations and charge fees for the services provided. 
+33. Selection of Private Partners,  Transaction Advisors, consultants and 
+experts.– Notwithstanding anything contained in any other law for the time being in force 
+and the rules made thereunder, the Government may prescribe through rules or 
+otherwise determine the manner, method and procedures for: 
+(a) selection of Private Partners in connection with PPP Projects or certain 
+classes thereof; 
+(b) selection of Transaction Advis ors in connection with PPP P rojects or 
+certain classes thereof; and 
+(c) engagement of International Financial Institutions as Transaction Advisors 
+for certain PPP projects or classes thereof, on such terms and co nditions 
+as prescribed therein. 
+34. Conflict of interest .– (1) A Member shall not, directly or indirectly, receive any 
+profit from his position as a Member except the reasonable expenses incurred by him in 
+the performance of his duties. 
+(2) The pecuniary interests of immediate family members or close personal or 
+business associates of a Member or an officer working in pursuance of the Act shall also 
+be considered the pecuniary interests of the Member or the officer. 
+(3) A Member or an officer working in pursuance of the Act or the rules made 
+thereunder, shall be in conflict of interest if, for a PPP Project, he: 
+(a) is or has been an employee, or a paid consultant of a Bidder or a 
+Consortium or lender of the Bidder or Consortium; or 
+(b) owns, controls, or has  or had direct or indirect interest in a business 
+venture of a Bidder or a member of a Consortium; or 
+(c) receives or had received any income from a business venture of a Bidder 
+or a member of a Consortium; or 
+(d) himself, or one or more members of his family, business partners or close 
+personal associates, may personally ben efit either directly or indirectly, 
+financially or otherwise, from his position. 
+(4) A Member shall disclose a potential, real or perceived conflict of interest as 
+soon as he becomes aware of the conflict to the Authority, through its Secretary.  
+(5) If a Member is not certain about the conflict -of-interest situation, he shall 
+bring the matter before the Authority for advice and the decision of the Authority thereon 
+shall be final.  
+(6) A Member shall not take part in the proceedings of the Authority in which 
+any question of his conflict of interest is being discussed.  
+(7) The disclosure of conflict of interest and the decision of the Authority 
+thereof, shall be recorded in writing. 
+(8) A person or an association of persons providing consulting or transacti on 
+advisory services for a Project shall be in conflict of interest if for the same Project he is:  
+(a) submitting a bid or is a part of a Bidder or a Consortium; or 
+(b) is an employee, or a paid consultant of a Bidder or a Consortium or lender 
+of the Bidder or Consortium.  
+35. Dispute resolution.– The disputes shall be decided in accordance with the laws 
+of Pakistan and pursuant to the Arbitration Act, 1940 (X of 1940), or  any other relevant 
+law for the time being in force or the law as may be specified in the PPP Contract . 
+However, in case of foreign equity  or foreign debt investments, the PPP Contract may 
+provide for international commercial arbitration, at a mutually agreed venue subject to 
+approval of the Government.  
+36. Termination of PPP Contract .– (1) A Public  Private Partner ship contract shall 
+only be terminated by either party subject to notice of breach, allowing cure period to the 
+other party and a notice of termination in accordance with the PPP Contract.  
+(2) A PPP Contract may be terminated: 
+(a) by the Private Partner , when the Implementing Agency  fails to fulfill the 
+major obligations under the PPP Contract even after the service of notice 
+and passing of cure period provided in the PPP Contract; 
+(b) by the Implementing Agency  when the Private Partner  fails to  fulfill the 
+major obligations under the PPP Contract or fails to  perform the contract 
+wholly or in part or comply with the terms of the  PPP Contract or fails to 
+achieve the milestones and maintain the standards as set out in the PPP 
+Contract and has failed to take remedial actions beyond the cure period. In 
+such a case, the Implementing Agency may, subject to the approval of the 
+Authority, either takeover the project and assume the related liabilities or 
+allow the lenders of the Private Partner to exercise their rights and interests 
+as specified in the loan agreement and replace the Private Partner with a 
+substitute Private Party subject to the approval of the Authority or takeover 
+the project and auction the remaining term of the PPP Contract  in a 
+competitive manner and apply the proceeds to pay the debts of the Private 
+Partner or invoke such other contractua l remedies including liquidated  
+damages which fairly cover the l oss incurred by the Government or the 
+Authority or the Implementing Agency, as the case may be; 
+(c) unilaterally by the Government acting in the Public interest but  in such a 
+case the Government shall suitably compensate the Private Partner for its 
+investments made in the project including any debts incurred and a sum 
+which fairly represents the lost profits on such investments; and 
+(d) by the occurrence of a force majeure, subject to consent of both parties. In 
+such case, the rights and liabili ties shall be allocated in accordance with 
+risk and compensation formula set forth in the PPP Contract. 
+(3) Major obligations on behalf of either party in  clause (a) and (b) of sub -
+section (2) are those obligations which render the implementation of the project 
+impossible by other party.  
+37. Land acquisition .– The acquisition of any land or any interest in land by the 
+Authority under the Act shall be deemed to be acquisition for a public purpose within the 
+meaning of the Land Acquisition Act, 1894 (I of 1894). 
+38. Powers to eject unauthorized occupants .– The Authority may, summarily eject 
+any unauthorized occupant of any part of the infra structure or a proposed project site 
+thereof and remove any structure thereon, and use such force, including police force, as 
+may be necessary for the purpose and recover the cost thereof from such unauthorized 
+occupant. 
+39. Recovery of costs, dues and fee s.– (1) In case of failure by a Private Partner to 
+pay sums including but not limited to costs, dues, fees, rents, profits, charges, interest s, 
+payable by the Private Partner, to the Government, Implementing Agency or the 
+Authority, the Authority may recover the sum due from the Private Partner as arrears of 
+land revenue under the Punjab Land Revenue Act, 1967 (XVII of 1967). 
+(2) The Authority shall designate an officer as Collector to exercise the powers 
+of the Collector under the Pun jab Land Revenue Act, 1967 (XVII of 1967) for recovery of 
+arrears under sub-section (1). 
+40. Reward by the  Authority.– The Authority may, in the prescribed manner, make 
+payment of reward out of the Authority Fund to any person who has made an exceptional 
+effort towards accomplishing the objectives of the Act. 
+41. Obligation to produce documents and provide information.– (1) The Authority 
+or the Chief Executive Officer may require, in writing, any person, Government 
+department, authority, statutory body, company or organization, as the case may be, to 
+provide any information or data held by that person, Government department, authority, 
+statutory body, company or organization, which, in the opinion of the Authority is required 
+for policy making or exercising the powers granted by the Act. 
+(2) Every person, Government Department, Authority, statutory body, company 
+or organization shall furnish the information requisitioned under sub -section ( 1), at the 
+earliest. 
+42. Power to require information from the Private Partner .– (1) The Authority, the 
+PPP Working Party, the Implementing Agency,  the Chief Executive Officer  or an officer 
+authorized on their behalf may  carry out  such inspections or conduct such tests or 
+surveys or require the Private Partner to furnish such information including but not limited 
+to reports, data, documents, record, statements which in the opinion of the Authority,  the 
+PPP Working Party,  the Implementing Agency, the Chief Executive Officer  or an officer 
+authorized on their behalf is necessary for quality control, monitoring, evaluation, 
+assessment, oversight, third Party Validation or audit  of the PPP project implemented 
+under the Act. 
+(2) In case of failure to comply to the requirements or requisitions made under 
+sub-section (1), the Authority , the PPP Working Party,  the Implementing Agency,  the 
+Chief Executive Officer or the officer authorized on their behalf may proceed with such 
+inspections or tests or procure such information at the cost, expense and risk of the 
+Private Partner and i n addition thereof, the Authority, the PPP Working Party, the 
+Implementing Agency or the Chief Executive Officer may also impose such penalty upon 
+the Private Partner as it considered appropriate to compensate for the non-compliance 
+or inaction of the Private Partner. 
+43. Transparency and public disclosure.– (1) The PPP Contract  and the 
+documents ancillary thereto shall be public documents. Any interested person shall be 
+entitled to obtain a copy of it in such manners as may be prescribed. 
+(2) The Authority may, for reasons to be recorded in writing, declare the whole 
+or part of the document not to be made a public document or impose such restr ictions as 
+it deems appropriate. 
+44. Public servants.– The Chairperson, Vice Chairperson and Members shall, when 
+acting or purporting to act in pursuance of any of the provisions of the Act, be deemed to 
+be public servants within the meanings of section 21 of the Pakistan Penal Code, 1860 
+(XLV of 1860). 
+45. Immunity of the Authority and its employees .– No suit, prosecution or any 
+other legal proceeding shall lie against the Authority, the Chairperson, the Chief 
+Executive Officer, Member, officer, employee, expert  or consultant of the Authority, 
+exercising any power or performing any function under the Act or the rules or regulations 
+made thereunder for anything done in good faith. 
+46. Prior consent of the Authority with respect to certain legal actions .– (1) 
+Notwithstanding anything contained in any  other law for the time being in force, no legal 
+action shall be initiated against any Member, officer or official  by any Government 
+agency for acts of omission or commission in his official capacity, pertaining to the Act, or 
+the rules or regulation s made thereunder, unless the said agency obtains prior cons ent 
+of the Authority in writing and for seeking such consent  the Government agency shall 
+provide the list of charges along with the evidence.  
+(2) The Authority shall , on receipt of the list of charges along with evidence 
+under sub -section (1), constitute an inquiry committee which shall determine whether 
+there is a prima facie cause for the legal action or not and the inquiry committee shall 
+give its findings and reco mmendations to the Authority within such time as may be 
+directed by the Authority and the decision of the Authority on the matter, whether to allow 
+the proposed legal action or not, shall be final. 
+47. Overriding effect. – Notwithstanding anything contained  in any other law, the 
+provisions of the Act shall prevail to the extent of the Public Private Partnership projects. 
+48. Removal of difficulties.– If any difficulty arises in giving effect to or applying the 
+provisions of the Act, the Government may make such order, not inconsistent with the 
+Act, as may be necessary for removing the difficulty. 
+49. Repeal and savings.– (1) The Punjab Public Private Partnership Act 2019 (XXX 
+of 2019) is hereby repealed.  
+(2) Notwithstanding the repeal under sub-section (1): 
+(a) anything done or any action taken under the repealed Act shall, so far as it 
+is not inconsistent with the Act, be deemed to have been done or taken 
+under the Act; 
+(b) all rules, regulations, guidelines, manuals, notifications, office orders, 
+approvals issued under the repealed Act shall, so far as these are not 
+inconsistent with the Act, be deemed to have been issued under the Act; 
+(c) a PPP Contract signed with a Private Party prior to the coming into force of 
+the Act, shall be valid until the end of the term established in such contract; 
+(d) the residuary matters of the PPP Projects which are at various stages of 
+implementation and the Agreements with regards thereto  have not been 
+signed prior to coming into force of the Act, shall continue to be dealt with 
+the repealed Act till such time the rules are notified under the Act;  
+(e) all employees of the Authority and the Risk Management Unit, under the 
+repealed Act, shall be deemed to be the employees of the Authority and 
+Risk Management Unit under the Act on the terms and conditions not less 
+favourable than the terms and conditions, they were subject to immediately 
+before the repeal of Punjab Public Private Partnership Act 2019  (XXX of 
+2019).  
+(3) The PPP Cell established under the repealed Act is hereby abolished and  
+the employees, assets and liabilities of the abolished PPP Cell shall stand transferred to 
+the Authority, on such terms and conditions as the Authority may determine. 
+(4) Nothing in the  Act shall affect any action taken by the PPP Cell under the 
+repealed act, if not inconsistent with the Act, and it shall continue to be in force and have 
+effect as if it were taken under the Act. 
+(5) All agreements and contracts entered into or rights, cl aims or assets 
+acquired and transferred under the repealed Act shall be deemed to have been acquired 
+and transferred under the Act. 
+(6) All suits and other legal proceedings instituted by or against the Authority 
+shall be deemed to be suits and proceedings under the Act. 
+(7) All the Projects implemented under the repealed Act shall be deemed to 
+have been validly implemented under the Act.

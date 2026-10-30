@@ -1,0 +1,49 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-9659c14bd7d05f28",
+  "title": "Civil Commotion Compensation Fund (Repeal) Act, 1972",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2FuaJ0%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "d1c9bb29139df158ce9d1f0bc37a176299d2953220ab0dcc81c84bc24d82e280",
+  "source_sha256": "d1c9bb29139df158ce9d1f0bc37a176299d2953220ab0dcc81c84bc24d82e280",
+  "text_version_id": "law:pk-code-9659c14bd7d05f28:sha256:d1c9bb29139df158ce9d1f0bc37a176299d2953220ab0dcc81c84bc24d82e280",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\nTHE CIVIL COMMOTION COMPENSATION FUND (REPEAL), \r\nACT, 1972 \r\n \r\n \r\n \r\n \r\nCONTENT \r\n1.  Short Title and commencement \r\n2.  Repeal are Savings \r\n3.  [Omitted] \r\n \r\n  \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE CIVIL COMMOTION COMPENSATION FUND (REPEAL), ACT, 1972. \r\n1ACT NO. XI OF 1972 \r\n[10th September, 1972]  \r\nAn Act to repeal the Civil Commotion Compensation Fund Ordinance, 1971. \r\n WHEREAS it is expedient to repeal the Civil Commotion Compensation Fund Ordinance, 1971 \r\n(XXI of 1971).  \r\n It is hereby enacted as follows:—  \r\n 1. Short Title and comme ncement.—(1) Short title and commencement. This Act may be \r\ncalled the Civil Commotion Compensation Fund (Repeal) Act, 1972.  \r\n (2) It shall come into force at once and shall be deemed to have taken effect on the third day of \r\nAugust, 1972.  \r\n 2. Repeal are Savings.—(1) The Civil Commotion Compensation Fund Ordinance, 1971 (XXI \r\nof 1971) hereinafter referred to as the said Ordinance, is hereby repealed.  \r\n (2) Notwithstanding the repeal of the said Ordinance, every insurer shall pay into the Fund \r\nestablished thereunder, within such time as the Federal Government may specify in this behalf,—  \r\n(a)  such part of the surcharge collected by him under subsection (1) of section 5 of \r\nthe said Ordinance on policies issued by him before the commencement of this \r\nOrdinance as has not already been so paid; and  \r\n(b)  Such part of the amount payable by him under section 6 of the said Ordinance \r\nas has not already been so paid.  \r\n (3) No compensation shall be payable out of the Fund established under the said Ordinance and \r\nall moneys paid into the Fund shall, after payment out of the Fund of the loans and advances obtained \r\nunder section 7 of the said Ordinance, be credited to the Federal Consolidated Fund.  \r\n (4) Any sum payable in pursuance of sub -section (2) into the Fund established under the said \r\nOrdinance shall be recoverable as an arrear of land revenue.  \r\n 3. [Repeal of Ordinance XXXII of 1972.] Omitted by the Federal Laws (Revision and \r\nDeclaration) Ordinance, 1981 (XXVII of 1981) s. 3 and Sch„ II.  \r\n \r\n____________ \r\n \r\nDate: 16-09-2024 \r\n1For Statement of Objects and Reasons, see Gaz. of P., 1972, Ext., Pt. III, p. 402.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-9659c14bd7d05f28:sha256:d1c9bb29139df158ce9d1f0bc37a176299d2953220ab0dcc81c84bc24d82e280:chars-0-1721:cb4b4e7ba66f60dfcb5b9ccc882295dcc553efc0f36beb62bdc60d907fac2d6b",
+      "character_start": 0,
+      "character_end": 1721,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1729,
+      "passage_sha256": "cb4b4e7ba66f60dfcb5b9ccc882295dcc553efc0f36beb62bdc60d907fac2d6b",
+      "reader_fragment": "p-0-1721-cb4b4e7ba66f60df"
+    },
+    {
+      "passage_id": "law:pk-code-9659c14bd7d05f28:sha256:d1c9bb29139df158ce9d1f0bc37a176299d2953220ab0dcc81c84bc24d82e280:chars-1721-2244:f9a27c29c711fd352147c3fe4cf9c8612d798c2546ba723c55882d640ac4a412",
+      "character_start": 1721,
+      "character_end": 2244,
+      "utf8_byte_start": 1729,
+      "utf8_byte_end": 2254,
+      "passage_sha256": "f9a27c29c711fd352147c3fe4cf9c8612d798c2546ba723c55882d640ac4a412",
+      "reader_fragment": "p-1721-2244-f9a27c29c711fd35"
+    }
+  ],
+  "original_catalogue_title": "CiviI Commotion Compensation Fund (Repeal) Act, 1972",
+  "display_title_correction": {
+    "correction_type": "single_verified_capital_I_for_lowercase_l_typo",
+    "basis": "Owned source heading and section 1 short title both establish Civil; only the display title is corrected. Stable ID, original catalogue, and source bytes remain unchanged.",
+    "evidence": {
+      "heading": "THE CIVIL COMMOTION COMPENSATION FUND (REPEAL), ACT, 1972.",
+      "short_title": "This Act may be called the Civil Commotion Compensation Fund (Repeal) Act, 1972."
+    }
+  }
+}

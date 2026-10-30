@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-81f8198c75d62cb7",
+  "title": "MUSIC IN MUSLIM SHRINES ACT, 1942",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BzEFMQQwATk-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:41:34Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "33ad3e5711794f235d41e184ee341ed8d89e4d76db0f7d7bad504416dd7edeb6",
+  "source_sha256": "33ad3e5711794f235d41e184ee341ed8d89e4d76db0f7d7bad504416dd7edeb6",
+  "text_version_id": "law:punjab-code-81f8198c75d62cb7:sha256:33ad3e5711794f235d41e184ee341ed8d89e4d76db0f7d7bad504416dd7edeb6",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE MUSIC IN MUSLIM SHRINES ACT, 1942 \r\n(VII of 1942) \r\nCONTENTS \r\n1. Short title and extent. \r\n2. Definitions. \r\n3. Punishment for singing or dancing in Muslim shrines. \r\n4. Punishment for abetment. \r\n5. Procedure. \r\n \r\nTEXT \r\n1\r\nTHE MUSIC IN MUSLIM SHRINES ACT, 1942 \r\n(VII of 1942) \r\n[1st May, 1942] \r\nAn \r\nAct \r\nto restrict singing and dancing in Muslim Shrines. \r\nIt is hereby enacted as follows:– \r\n1. Short title and ext ent.– (1) This Act may be called the Music in Muslim \r\nShrines Act, 1942. \r\n (2) It extends to the whole of the Punjab. \r\n2. Definitions.– For the purposes of this Act the expression “Muslim shrine” \r\nshall mean a shrine of a recognised Muslim saint and shall incl ude the premises of \r\nthe shrine and the premises owned by and attached to the shrine. \r\n3. Punishment for singing or dancing in Muslim s hrines.– If any woman or \r\ngirl sings to the accompaniment of a musical instrument or dances with or without a \r\nmusical instrument in a Muslim shrine, she shall be guilty of an offence under this \r\nAct and shall be liable on conviction to be punished with fine not exceeding five \r\nhundred rupees or with imprisonment of either description for a term not exceeding \r\nsix months or with both such fine and imprisonment. \r\n4. Punishment for abetment.– If any person abets an offence punishable under \r\nthe last preceding sectio n, he shall, whether such offence be or be not committed in \r\nconsequence of such abetment, and notwithstanding anything cont ained in section \r\n116 of the  \r\n2\r\n[Pakistan]  Penal Code\r\n3\r\n, be liable on conviction to be punished with the \r\npunishment provided for the offence. \r\n5. Procedure.– An offence punishable under this Act shall be cognizable, \r\nbailable, non-compoundable and triable by a magistrate of the first class. \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n1For Statements of Objects and Reasons, published in the Punjab Government Gazette, 1941, Part V, p. 37; for Report of the \r\nSelect Committee see ibid., pp.  56-57 and ibid., 1942, pp.  13-16; for Proceedings in Assembly, see Punjab Legislative \r\nAssembly Debates, Volume XIV, pp. 782-789 and Volume XVIII, pp. 251-252 and 674-687. This Act received the assent of His \r\nExcellency the Governor-General on April 25, 1942 and published in the Government Gazette (Extraordin ary), Punjab, dated \r\nMay 1, 1942, p. 53. \r\n2Substituted for the word “Indian” by the Punjab Laws (Adaptation, Revision and Repeal) Act, 1954 (XV of 19 55), published in \r\nthe Punjab Gazette (Extraordinary), dated January 21, 1955, pp. 87-108, s. 2 read with First Schedule.  \r\n3XLV of 1860.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-81f8198c75d62cb7:sha256:33ad3e5711794f235d41e184ee341ed8d89e4d76db0f7d7bad504416dd7edeb6:chars-0-1799:9909942a56f82008886ad3463d14c0fdf4187986c4c65254e6e57c9836f9c080",
+      "character_start": 0,
+      "character_end": 1799,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1815,
+      "passage_sha256": "9909942a56f82008886ad3463d14c0fdf4187986c4c65254e6e57c9836f9c080",
+      "reader_fragment": "p-0-1799-9909942a56f82008"
+    },
+    {
+      "passage_id": "law:punjab-code-81f8198c75d62cb7:sha256:33ad3e5711794f235d41e184ee341ed8d89e4d76db0f7d7bad504416dd7edeb6:chars-1799-2577:cde0b7a68955d9942a9a22d75dd1910dd177103949e84b2d2da568dd631493a0",
+      "character_start": 1799,
+      "character_end": 2577,
+      "utf8_byte_start": 1815,
+      "utf8_byte_end": 2597,
+      "passage_sha256": "cde0b7a68955d9942a9a22d75dd1910dd177103949e84b2d2da568dd631493a0",
+      "reader_fragment": "p-1799-2577-cde0b7a68955d994"
+    }
+  ]
+}

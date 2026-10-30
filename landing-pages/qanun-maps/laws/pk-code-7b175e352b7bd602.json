@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-7b175e352b7bd602",
+  "title": "Day Care Centres Act, 2023",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5pmaA%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "02fc8940f934ab829eb1fb9165dfac5ae63271c9c2b7aa6f44895d04e1139842",
+  "source_sha256": "02fc8940f934ab829eb1fb9165dfac5ae63271c9c2b7aa6f44895d04e1139842",
+  "text_version_id": "law:pk-code-7b175e352b7bd602:sha256:02fc8940f934ab829eb1fb9165dfac5ae63271c9c2b7aa6f44895d04e1139842",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 3 \r\n \r\n \r\n \r\n \r\n \r\nTHE DAY CARE CENTRES ACT, 2023 \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title, extent and commencement. \r\n2.  Definitions. \r\n3.  Establishing day care centre. \r\n4.  Punishment for non-compliance. \r\n5.  Cognizance of an offence. \r\n6.  Application of the provisions of the Code. \r\n7.  Removal of difficulties. \r\n8.  Power to make Rules. \r\n \r\n  \r\n \r\n \r\n\r\n \r\nPage 2 of 3 \r\n \r\nTHE DAY CARE CENTRES ACT, 2023 \r\nACT NO. OF 2023 \r\n[15th June, 2023] \r\nAN \r\nACT \r\nto provide for the facility of day care centres in public and private establishments \r\n WHEREAS, it is expedient to provide for the facility of day care centres in public and private \r\nestablishments and for the purposes connected therewith and ancillary thereto; \r\n It is hereby enacted as follows:___ \r\n 1. Short title, extent and commencement.___ (1) This Act shall be called the Day Care Centres \r\nAct, 2023. \r\n (2) It extends to the Islamabad Capital Territory. \r\n (3) It shall come into force at once. \r\n 2. Definitions.___ In this Act, unless there is anything repugnant in the subject or context,___ \r\n(a) “Code” means the Code of Criminal Procedure, 1898 (Act V of 1898); \r\n(b)  “day care” means child care during the day when the parents work; and  \r\n(c)  establishment” means and includes any public, private, autonomous, semi -\r\nautonomous, corporation, body, society under the Societies Registration Act, \r\n1860 (XXI of 1860) any club, any small and medium enterprise, any NGO, etc. \r\n 3. Establishing day care centre.___ (1) The Federal Government shall ensure the establishment \r\nof day care centre at all those establishments having at least seventy employees. \r\n (2) All private establishments having at least seventy employees shall ensure the establishment \r\nof day care centre at their premises to provide benefit to their employees. \r\n 4. Punishment for non-compliance.___ Whosoever does not comply to the provisions of this \r\nAct shall be given one warning in writing and in case of further non-compliance shall be punished with \r\nfine which may extend to one hundred thousand rupees. In case of further non-compliance, the person \r\nconcerned shall be punished with imprisonment for six months. \r\n 5. Cognizance of an offence. ___ Notwithstanding anything contained in the Code, an offence \r\npunishable under this Act shall be trial under the Code by the magistrate of first class. \r\n 6. Application of the provisions of the Code. ___ Any proceedings under this Act shall be \r\ncarried out in accordance with the relevant provisions of the Code.  \r\n \r\nPage 3 of 3 \r\n \r\n 7. Removal of difficulties. ___ If any difficulty arises in giving effect  to any provision of this \r\nAct, the Federal Government may make such order not inconsistent with the provisions of this Act as \r\nmay appear to be necessary for the purpose of removing such difficulty. \r\n 8. Power to make Rules .___ The Federal Government may, by notification in the official \r\nGazette, make rules for carrying out the purposes of this Act.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-7b175e352b7bd602:sha256:02fc8940f934ab829eb1fb9165dfac5ae63271c9c2b7aa6f44895d04e1139842:chars-0-1752:866c461955e65ed638d69abc5d8da4409b19b0e7bee045c3c83f35da6fb0a201",
+      "character_start": 0,
+      "character_end": 1752,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1762,
+      "passage_sha256": "866c461955e65ed638d69abc5d8da4409b19b0e7bee045c3c83f35da6fb0a201",
+      "reader_fragment": "p-0-1752-866c461955e65ed6"
+    },
+    {
+      "passage_id": "law:pk-code-7b175e352b7bd602:sha256:02fc8940f934ab829eb1fb9165dfac5ae63271c9c2b7aa6f44895d04e1139842:chars-1752-2996:e91403da4ce5d965a439b55f031e1536e0a1adfa31b3c72e1ffcfdc11781ee47",
+      "character_start": 1752,
+      "character_end": 2996,
+      "utf8_byte_start": 1762,
+      "utf8_byte_end": 3006,
+      "passage_sha256": "e91403da4ce5d965a439b55f031e1536e0a1adfa31b3c72e1ffcfdc11781ee47",
+      "reader_fragment": "p-1752-2996-e91403da4ce5d965"
+    }
+  ]
+}

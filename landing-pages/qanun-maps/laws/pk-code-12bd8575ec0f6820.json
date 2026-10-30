@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-12bd8575ec0f6820",
+  "title": "Banking Tribunals (Validation of Orders) Act, 1994",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apmcbA%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "611a078d0424c9f9cb00e0f0af2aff9e07f7d84a910af02b8424cb5d7048bb08",
+  "source_sha256": "611a078d0424c9f9cb00e0f0af2aff9e07f7d84a910af02b8424cb5d7048bb08",
+  "text_version_id": "law:pk-code-12bd8575ec0f6820:sha256:611a078d0424c9f9cb00e0f0af2aff9e07f7d84a910af02b8424cb5d7048bb08",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE BANKING TRIBUNALS (VALIDATION OF ORDERS) ACT, 1994 \r\n \r\n \r\n \r\n                                                        CONTENTS \r\n \r\n \r\n \r\n1. Short title, extent and commencement.  \r\n2.  Validation. \r\n  \r\n\r\n \r\n \r\nThe Banking Tribunals (Validation of Orders) Act, 1994 \r\nACT No. V OF 1994 \r\nAn Act to validate certain order passed by the Banking Tribunals \r\nWHEREAS it is expedient to validate certain orders passed under the Banking Tribunals \r\n(Amendment) Act, 1992 (IV of 1992), for the purpose hereinafter appearing; \r\nIt is hereby enacted as follows :__ \r\n1. Short title, extent and commencement.— (1) This Act may be called the Banking Tribunals \r\n(Validation of Orders) Act, 1994.  \r\n(2) It extends to the whole of Pakistan.  \r\n(3) It shall come into force at once. \r\n2. Validation. Notwithstanding any order or decision of any court, any order or judgement \r\npassed, decision or proceeding taken or recoveries made by the Banking Tribunal under the Banking \r\nTribunals (Amendment) Act, 1992,(IV of 1992), or any appointme nt made or notification issued \r\nthereunder, at any time before the commencement of this Act, and purporting to be in exercise of the \r\nauthority conferred on the Banking Tribunal under the said Act shall be deemed to have been validly \r\nmade, passed or taken and shall have, and shall be deemed always to have had, affect accordingly.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-12bd8575ec0f6820:sha256:611a078d0424c9f9cb00e0f0af2aff9e07f7d84a910af02b8424cb5d7048bb08:chars-0-1367:611a078d0424c9f9cb00e0f0af2aff9e07f7d84a910af02b8424cb5d7048bb08",
+      "character_start": 0,
+      "character_end": 1367,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1370,
+      "passage_sha256": "611a078d0424c9f9cb00e0f0af2aff9e07f7d84a910af02b8424cb5d7048bb08",
+      "reader_fragment": "p-0-1367-611a078d0424c9f9"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-7f429bb3ab372606",
+  "title": "PUNJAB FLOOD RELIEF CESS ACT, 1973",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/ATQFN1FkVGw-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:56:27Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "c996a980d858c80e69ddd1c7075b3772c040fe425939ab8c687abe9da41af45a",
+  "source_sha256": "c996a980d858c80e69ddd1c7075b3772c040fe425939ab8c687abe9da41af45a",
+  "text_version_id": "law:punjab-code-7f429bb3ab372606:sha256:c996a980d858c80e69ddd1c7075b3772c040fe425939ab8c687abe9da41af45a",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB FLOOD RELIEF CESS ACT, 1973 \r\n(XVIII of 1973) \r\nCONTENTS \r\n1. Short title, extent and commencement \r\n2. Definition \r\n3. Levy of cess \r\n4. Power to make rules \r\n5. Repeal \r\nTEXT \r\n1THE PUNJAB FLOOD RELIEF CESS ACT, 1973 \r\n(XVIII of 1973) \r\n[23rd November, 1973] \r\nAn \r\nAct \r\nto provide for the levy of flood relief cess in the province of the Punjab. \r\nPreamble.– WHEREAS it is expedient to levy a flood relief cess in the Province of \r\nthe Punjab; \r\n It is hereby enacted as follows:– \r\n1. Short title, extent and commencement .– (1) This Act may be called the \r\nPunjab Flood Relief Cess Act, 1973. \r\n (2) It shall extend to the whole of the Province of the Punjab. \r\n (3) It shall come into force at once. \r\n2. Definition.– In this Act, unless there is anything repugnant in the subject or \r\ncontext, “Government” means Government of the Punjab. \r\n3. Levy of cess.– (1) Notwithstanding anything to the contrary contained in any \r\nlaw for the time being in force, there shall be levied and collected a cess, called as \r\nthe “Punjab Flood Relief Cess”, during the financial year, 1973 -74, upon all tickets \r\nissued for admission to cinema houses and race courses at the following rates:– \r\n (2) The cess imposed under sub -section (1) shall be lev ied and collected, \r\nso far as may be, and subject to any rules made by the Provincial Government in this \r\nbehalf under this Act, in the same manner as the entertainment duty payable under \r\nthe West Pakistan\r\n2\r\n Entertainments Duty Act, 1958 (West Pakistan Act X of 1958). \r\nExplanation– For the purpose of this section, value of a cinema ticket shall include \r\nall taxes, cesses and charges so far levied. \r\n                                                           \r\n1This Act was passed by the Punjab Assembly on 6th November, 1973; assented to by the Governor of the Punjab on 23rd \r\nNovember, 1973; and, published in the Punjab Gazette (Extraordinary), dated 23rd November, 1973, pages 1686-A to 1686-B. \r\n2Now „Punjab‟, see the Punjab Laws (Adaptation) Order, 1974 (Pb A.O. 1 of 1974); and published in the Punjab Gazette \r\n(Extraordinary), dated 20.11.1974, pages 1425 -A to 1425 -PP, see A rticle 2 and Schedule, Part III, at serial No.6 \r\n(w.e.f.14.8.1973). \r\n(i) in case of cinema houses–   \r\n (a) for tickets upto the value of Rs.1.75.      10 paisa per ticket. \r\n (b) for tickets of the value exceeding \r\nRs.1.75. \r\n25 paisa per ticket. \r\n(ii) in case of race courses. Re. 1.00 per ticket.  \r\n4. Power to make rules .– Government may make rules for carrying out the \r\npurposes of this Act. \r\n5. Repeal.– The Punjab Flood Relief Cess Ordinance, 1973 (Punjab Ordinance \r\nNo. VIII of 1973), is hereby repealed.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-7f429bb3ab372606:sha256:c996a980d858c80e69ddd1c7075b3772c040fe425939ab8c687abe9da41af45a:chars-0-1732:13a4d9be625ccae2f39dfa5ee8033808c814390c3a654891dc4eaa9b0a15b6f6",
+      "character_start": 0,
+      "character_end": 1732,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1754,
+      "passage_sha256": "13a4d9be625ccae2f39dfa5ee8033808c814390c3a654891dc4eaa9b0a15b6f6",
+      "reader_fragment": "p-0-1732-13a4d9be625ccae2"
+    },
+    {
+      "passage_id": "law:punjab-code-7f429bb3ab372606:sha256:c996a980d858c80e69ddd1c7075b3772c040fe425939ab8c687abe9da41af45a:chars-1732-2682:0fa9231bd3f9c8a039174e9b4e276b071bce97e4b2847187bbffdfeab092f578",
+      "character_start": 1732,
+      "character_end": 2682,
+      "utf8_byte_start": 1754,
+      "utf8_byte_end": 2714,
+      "passage_sha256": "0fa9231bd3f9c8a039174e9b4e276b071bce97e4b2847187bbffdfeab092f578",
+      "reader_fragment": "p-1732-2682-0fa9231bd3f9c8a0"
+    }
+  ]
+}

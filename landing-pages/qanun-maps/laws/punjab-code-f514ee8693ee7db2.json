@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-f514ee8693ee7db2",
+  "title": "PUNJAB MARRIAGE FUNCTIONS (PROHIBITION OF OSTENTATIOUS DISPLAYS AND WASTEFUL EXPENSES) (REPEAL) ACT 2006",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VGEHMwcxUWY-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:58:35Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "27b6be887b17e1456d133d64bb70f7246629433bed8084d0d7fe2d32d55d9d4c",
+  "source_sha256": "27b6be887b17e1456d133d64bb70f7246629433bed8084d0d7fe2d32d55d9d4c",
+  "text_version_id": "law:punjab-code-f514ee8693ee7db2:sha256:27b6be887b17e1456d133d64bb70f7246629433bed8084d0d7fe2d32d55d9d4c",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB MARRIAGE FUNCTIONS (PROHIBITION OF \r\nOSTENTATIOUS DISPLAYS AND WASTEFUL EXPENSES) \r\n(REPEAL) ACT 2006 \r\n(I of 2006) \r\nCONTENTS \r\n1. Short title and commencement. \r\n2. Repeal and Savings. \r\nTEXT \r\n1\r\nTHE PUNJAB MARRIAGE FUNCTIONS (PROHIBITION OF \r\nOSTENTATIOUS DISPLAYS AND WASTEFUL EXPENSES)  \r\n(REPEAL) ACT 2006 \r\n(I of 2006) \r\n[28th March, 2006] \r\nAn \r\nAct \r\nto repeal the Punjab Marriage Functions (Prohibition of Ostentatious Displays and \r\nWasteful Expenses) Act, 2003. \r\nPreamble.– Whereas it is expedient to repeal the Punjab Marriage Functions \r\n(Prohibition of Ostentatious Displays and Wasteful Expenses) Act, 2003 in the \r\nmanner hereinafter appearing; \r\n It is hereby enacted as follows:– \r\n1. Short title and commencement. – (1) This Act ma y be called the Punjab \r\nMarriage Functions (Prohibition of Ostentatious Displays and Wasteful Expenses) \r\n(Repeal) Act 2006. \r\n (2) It shall come into force at once. \r\n2. Repeal and Savings. – (1) The Punjab Marriage Functions (Prohibition of \r\nOstentatious Displays  and Wasteful Expenses) Act, 2003 (Act No.V of 2003) is \r\nhereby repealed.  \r\n (2) Notwithstanding the repeal of the said Act under sub -section (1), the \r\nprevious operation of law, validity of any action taken, order issued, directions given, any \r\naction duly done, any penalty or punishment awarded, judgment or order of any court of \r\nauthority, liability imposed or proceedings initiated thereunder shall not be affected. \r\n                                                           \r\n1This Act was passed by the Punjab Assembly on 16 March 2006; assented to by the Governor of th e Punjab on 24 March \r\n2006; and was published in the Punjab Gazette (Extraordinary), dated 28 March 2006, pages 3827-28.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-f514ee8693ee7db2:sha256:27b6be887b17e1456d133d64bb70f7246629433bed8084d0d7fe2d32d55d9d4c:chars-0-1741:27b6be887b17e1456d133d64bb70f7246629433bed8084d0d7fe2d32d55d9d4c",
+      "character_start": 0,
+      "character_end": 1741,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1749,
+      "passage_sha256": "27b6be887b17e1456d133d64bb70f7246629433bed8084d0d7fe2d32d55d9d4c",
+      "reader_fragment": "p-0-1741-27b6be887b17e145"
+    }
+  ]
+}

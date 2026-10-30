@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-e971fb0289635426",
+  "title": "Arya Marriage Validation Act, 1937",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-b5%2BW-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "c1f5bf50c08db0e5687af31b55175ad8c5c6a7105cea75b3db89ea0bcf4764a6",
+  "source_sha256": "c1f5bf50c08db0e5687af31b55175ad8c5c6a7105cea75b3db89ea0bcf4764a6",
+  "text_version_id": "law:pk-code-e971fb0289635426:sha256:c1f5bf50c08db0e5687af31b55175ad8c5c6a7105cea75b3db89ea0bcf4764a6",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n  \r\n \r\n \r\n \r\nTHE ARYA MARRIAGE VALIDATION ACT, 1937 \r\n \r\n \r\n              \r\n \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title and extent \r\n2.  Marriage between Arya Samajists not to be invalid \r\n \r\n \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE ARYA MARRIAGE VALIDATION ACT, 1937 \r\n \r\nACT No. XIX OF 1937 \r\n[14th April, 1937] \r\nAn Act to recognise and remove doubts as to the validity of intermarriages current among Arya \r\nSamajists. \r\n WHEREAS it is expedient to recognise and place beyond doubt the validity of \r\ninter-marriages of a class of Hindus known as Arya Samajists ; \r\n \r\n It is hereby enacted as follows:— \r\n \r\n 1. Short title and extent .—(1) This Act may be called the Arya Marriage Validation Act, \r\n1937. \r\n \r\n 1[(2) It extends to the whole of Pakistan and applies also to all citizens of Pakistan wherever \r\nthey may be.] \r\n \r\n 2. Marriage between Arya Samajists not  to be invalid.  Notwithstanding any provision of \r\nHindu Law, usage or custom to the contrary no marriage contracted whether before or after the \r\ncommencement of this Act between two persons being at the time of the marriage Arya Samajists \r\nshall be invalid or  shall be deemed ever to have been invalid by reason only of the fact that the \r\nparties at any time belonged to different castes or different sub-castes of Hindus or that either or both \r\nof the parties at any time before the marriage belonged to a religion other than Hinduism. \r\n \r\n___________ \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nDate: 22-07-2024 \r\n \r\n1Subs. by the Central Laws (Statute Reform) Ordinance, 1960 (21 of 1960), s. 3. and 2nd Sch.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-e971fb0289635426:sha256:c1f5bf50c08db0e5687af31b55175ad8c5c6a7105cea75b3db89ea0bcf4764a6:chars-0-1583:c1f5bf50c08db0e5687af31b55175ad8c5c6a7105cea75b3db89ea0bcf4764a6",
+      "character_start": 0,
+      "character_end": 1583,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1587,
+      "passage_sha256": "c1f5bf50c08db0e5687af31b55175ad8c5c6a7105cea75b3db89ea0bcf4764a6",
+      "reader_fragment": "p-0-1583-c1f5bf50c08db0e5"
+    }
+  ]
+}

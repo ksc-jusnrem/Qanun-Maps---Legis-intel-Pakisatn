@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-bf784beb017a31fa",
+  "title": "Royal Pakistan Navy (Extension of Service) Act, 1950",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2NpbZg%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "c18c154e23da57f957e4cdc0acb6a33c38dcd57a34c84ff4a60556f5a82225d3",
+  "source_sha256": "c18c154e23da57f957e4cdc0acb6a33c38dcd57a34c84ff4a60556f5a82225d3",
+  "text_version_id": "law:pk-code-bf784beb017a31fa:sha256:c18c154e23da57f957e4cdc0acb6a33c38dcd57a34c84ff4a60556f5a82225d3",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PAKISTAN NAVY (EXTENSION OF SERVICE) ACT, 1950 \r\n1ACT No. XXIV OF 1950 \r\n[30th January, 1950] \r\nAn Act to provide for the retention in service of certain persons enrolled   for \r\nservice in the 2* Pakistan Navy. \r\n \r\n WHEREAS it is expedient to provide for the ret ention in service of certain persons \r\nenrolled for service in the 2* Pakistan Navy; \r\n \r\n It is hereby enacted as follows :___  \r\n 1. Short title, and commencement.___ (1) This Act may be called the Pakistan Navy \r\n(Extension of Service) Act, 1950. \r\n (2) It shall come into force at once \r\n 2. Extension of service where term of service has expired.  Until such date as may \r\nbe notified in this behalf by the 3[Federal Government], any person enrolled for service in \r\nthe 2* Pakistan Navy who, by reason of the expiry of the te rm for which  \r\n \r\n1 For Statement of Objects and Reasons, see Gaz. of P.,1950, Pt. V, p. 52.  \r\n The Act has been___  \r\n(i) applied to Baluchistan, with effect on and from the 1st October, 1952, see Gaz. of P.,1952, Pt. I, p.168;  \r\n(ii) applied in the Federated Area s of Baluchistan, see Ibid., 1953, Pt. I, p. 152;  \r\n(iii) extended to the Leased Areas of Baluchistan, see the Leased Areas (Laws) Order, 1950 (G. G. O. 3 of 1950);  \r\n(iv) extended to the Baluchistan States Union by the Baluchistan States Union (Federal Laws) (Extension) Order, 1953 (G.G.O. 4 \r\nof 1953), as amended; and \r\n(v) extended to the Khairpur State, see the Khairpur (Federal Laws) (Extension) Order, 1953 (G.G.O. 5 of 1953).  \r\n The Act has been and shall be deemed to has been brought into force in Gwadur with effect from the 8th September 1958, by the \r\nGwadur (Application of Central Laws) Ordinance, 1960 (37 of 1960), s. 2.  \r\n2The word \"Royal\" omitted by A. O.,1961, Art, 2 and Sch. (with effect from 23rd March, 1956).  \r\n3 Subs. by F.A.O. 1975, Art. 2 and Table, for  “Central Government”. \r\n \r\nhe was engaged to serve when so enrolled, is no longer liable for service shall, \r\nnotwithstanding such expiry, continue to be enrolled for service and to be liable for service in \r\nthe 1* Pakistan Navy until he is discharged by the or der of the Officer Com manding the 1* \r\nPakistan Navy: \r\n Provided that the period for which the service of any such person is extended under \r\nthis section shall not exceed five years from the day on which his service would otherwise \r\nhave terminated. \r\n2*  *  *  *  *           *       * \r\n \r\n___________  \r\n \r\n1 The word “Royal” omitted by A.O., 1961, Art. 2 and Sch. (with effect from the 23 rd March, 1956). \r\n2 Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (27 of 1981), s. 3 and 2 nd Sch___",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-bf784beb017a31fa:sha256:c18c154e23da57f957e4cdc0acb6a33c38dcd57a34c84ff4a60556f5a82225d3:chars-0-1716:53d47562527968dce980519d7ad2bfa9574df23c9fa6eee5a0779d49672ddfdb",
+      "character_start": 0,
+      "character_end": 1716,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1716,
+      "passage_sha256": "53d47562527968dce980519d7ad2bfa9574df23c9fa6eee5a0779d49672ddfdb",
+      "reader_fragment": "p-0-1716-53d47562527968dc"
+    },
+    {
+      "passage_id": "law:pk-code-bf784beb017a31fa:sha256:c18c154e23da57f957e4cdc0acb6a33c38dcd57a34c84ff4a60556f5a82225d3:chars-1716-2646:3491e6c8e5827c338f07d14474a2c72272d30f91617c77d6f50bc13512e69258",
+      "character_start": 1716,
+      "character_end": 2646,
+      "utf8_byte_start": 1716,
+      "utf8_byte_end": 2654,
+      "passage_sha256": "3491e6c8e5827c338f07d14474a2c72272d30f91617c77d6f50bc13512e69258",
+      "reader_fragment": "p-1716-2646-3491e6c8e5827c33"
+    }
+  ]
+}

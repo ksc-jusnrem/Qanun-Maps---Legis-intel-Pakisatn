@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-1a1eb49d7adf92a2",
+  "title": "PUNJAB PRIVATIZATION BOARD (REPEAL) ACT 2021",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BDQHMVNjUGFQOQ--",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:59:24Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "43a2f42d5725ee42cb5e275b604169c972d3e27849019f57af34c670bd42dc3f",
+  "source_sha256": "43a2f42d5725ee42cb5e275b604169c972d3e27849019f57af34c670bd42dc3f",
+  "text_version_id": "law:punjab-code-1a1eb49d7adf92a2:sha256:43a2f42d5725ee42cb5e275b604169c972d3e27849019f57af34c670bd42dc3f",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB PRIVATIZATION BOARD (REPEAL)  \r\nACT 2021  \r\n(XXX of 2021)  \r\nCONTENTS \r\n \r\n1. Short title and commencement  \r\n2. Repeal and saving  \r\n3. Transition  \r\n \r\n  \r\n \r\n \r\nTEXT \r\n \r\n1THE PUNJAB PRIVATIZATION BOARD (REPEAL) ACT 2021 \r\n  (XXX of 2021) \r\n    [01 October 2021] \r\n \r\nAn  \r\nAct  \r\nto repeal the Punjab Privatization Board Act 2010 \r\nIt is necessary to repeal the Punjab Privatization Board Act 2010 (IV of 2010) for the \r\npurposes hereinafter appearing. \r\nBe it enacted by Provincial Assembly of the Punjab as follows: \r\n1. Short title and commencement .– (1) This Act may be cited as the Punjab \r\nPrivatization Board (Repeal) Act 2021. \r\n (2) It shall come into force at once. \r\n2. Repeal and saving .– (1) The Punjab Privatization Board  Act 2010 (IV of \r\n2010) is hereby repealed. \r\n (2) Notwithstanding the repeal of the Punjab Privatization Board Act 2010 \r\n(IV of 2010) , all the proceedings and processes pertaining to privatization of the \r\nGovernment properties, initiated or completed, assessment of prices of properties \r\nmade, auctions done, sanction orders issued, any appointment made, order passed, \r\nnotification issued, contracts executed, rights acquired, liabilities incurred, possession \r\nof properties delivered and proceedings initiated  before various courts or other \r\nforums and things done or action taken under any provision of the repealed Act shall \r\ncontinue to have effect unless repealed, recalled, withdrawn or cancelled. \r\n3. Transition.– (1) All the properties, both urban and rural, i ncluding agricultural \r\nland, whether occupied and unoccupied, placed at the disposal of defunct Punjab \r\nPrivatization Board, which may be available for disposal immediately before the \r\nrepeal of the aforesaid Act, shall stand transferred to the Colonies Department, Board \r\nof Revenue, Punjab. \r\n(2) The Secretary and other employees of the defunct Punjab Privatization \r\nBoard, whether permanent or contractual, shall stand transferred to the Colonies \r\nDepartment, Board of Revenue, Punjab. \r\n(3) All the moveable assets of  defunct Punjab Privatization Board shall \r\nstand transferred to Colonies Department, Board of Revenue, Punjab. \r\n \r\n                                                      \r\n1This Act was passed by Provincial Assembly of the Punjab on 27 September 2021; assented to by the Governor of the Punjab on 01 \r\nOctober 2021; and, was published in the Punjab Gazette (Extraordinary), dated: 01 October 2021, pp.1313-1314.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-1a1eb49d7adf92a2:sha256:43a2f42d5725ee42cb5e275b604169c972d3e27849019f57af34c670bd42dc3f:chars-0-1723:3404f93441e2c4973918453e060c46593166c143b43ea40c40e5ed828b43bde9",
+      "character_start": 0,
+      "character_end": 1723,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1729,
+      "passage_sha256": "3404f93441e2c4973918453e060c46593166c143b43ea40c40e5ed828b43bde9",
+      "reader_fragment": "p-0-1723-3404f93441e2c497"
+    },
+    {
+      "passage_id": "law:punjab-code-1a1eb49d7adf92a2:sha256:43a2f42d5725ee42cb5e275b604169c972d3e27849019f57af34c670bd42dc3f:chars-1723-2476:6fcb6d87fc41b8fcff3f6c1c164a916e8622dc6464713c5464fffaccc5b664f2",
+      "character_start": 1723,
+      "character_end": 2476,
+      "utf8_byte_start": 1729,
+      "utf8_byte_end": 2482,
+      "passage_sha256": "6fcb6d87fc41b8fcff3f6c1c164a916e8622dc6464713c5464fffaccc5b664f2",
+      "reader_fragment": "p-1723-2476-6fcb6d87fc41b8fc"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-b500eba5ba2633c6",
+  "title": "PUNJAB SECRETARIAT ALLOWANCE (WITHDRAWAL) ACT 1997",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VGFXZQczUWk-",
+  "version": null,
+  "source_snapshot": "2026-08-06T17:00:26Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "b1287a557c79d6eb8064ed4555872c0a806efa91b84d78151566c133030a87f3",
+  "source_sha256": "b1287a557c79d6eb8064ed4555872c0a806efa91b84d78151566c133030a87f3",
+  "text_version_id": "law:punjab-code-b500eba5ba2633c6:sha256:b1287a557c79d6eb8064ed4555872c0a806efa91b84d78151566c133030a87f3",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB SECRETARIAT ALLOWANCE \r\n(WITHDRAWAL) ACT 1997 \r\n(I of 1998) \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Withdrawal of Secretariat Allowance \r\n3. Repeal \r\n \r\nTEXT \r\n1\r\nTHE PUNJAB SECRETARIAT ALLOWANCE (WITHDRAWAL) ACT 1997 \r\n(I of 1998) \r\n[21st January, 1998] \r\nAn \r\nAct \r\nto provide for the withdrawal of the Secretariat Allowance. \r\nPreamble.– Whereas the Government of Punjab had made provisions for the \r\npayment of an allowance called Secretariat Allowance to all Secretariat employees; \r\n And whereas  it is expedient to withdraw the said allowance to remove \r\ndiscrimination among employees; \r\n It is hereby enacted as follows:– \r\n1. Short title and commencement .– (1) This Act may be called  the Punjab \r\nSecretariat Allowance (Withdrawal) Act 1997. \r\n (2) It shall come into force at once. \r\n2. Withdrawal of Secretariat Allowance .– (1) Government of Punjab Finance \r\nDepartment’s letter No.FD.PC-2-1/88 dated 08-08-1988 hereinafter referred to as the \r\n“said letter”  which provided for the payment of an allowance called Secretariat \r\nAllowance @ 20% of the basic pay to all employees in the Punjab Government \r\nSecretariat, Governor’s Secretariat, Chief Minister’s Secretariat and Punjab \r\nProvincial Assembly Secretariat being  discriminatory shall be deemed never to have \r\nbeen issued. \r\n (2) The said letter shall be deemed not to have created any right in favour \r\nof any person and the Government was not liable to pay Secretariat Allowance on \r\nthe basis of the said letter. \r\n (3) Notwithstanding the provisions of sub -sections (1) and (2), the \r\nallowance already paid to any person under the said letter shall be deemed to have \r\nbeen validly paid and shall not be recovered from him by the Government. \r\n3. Repeal.– The Punjab Secretariat Allowa nce (Withdrawal) Ordinance 1997 \r\n(XXXIV of 1997) is hereby repealed. \r\n                                                           \r\n1This Act was passed by the Punjab Assembly on 29th December, 1997; assented to by the Governor of the Punjab on 14th \r\nJanuary, 1998; and, was published in the Punjab Gazette (Extraordinary), dated 19th January, 1998, page 125.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-b500eba5ba2633c6:sha256:b1287a557c79d6eb8064ed4555872c0a806efa91b84d78151566c133030a87f3:chars-0-1746:8891a36e4410b17c5644a91a087425624632825746e5adeb7758ab1a359413cd",
+      "character_start": 0,
+      "character_end": 1746,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1764,
+      "passage_sha256": "8891a36e4410b17c5644a91a087425624632825746e5adeb7758ab1a359413cd",
+      "reader_fragment": "p-0-1746-8891a36e4410b17c"
+    },
+    {
+      "passage_id": "law:punjab-code-b500eba5ba2633c6:sha256:b1287a557c79d6eb8064ed4555872c0a806efa91b84d78151566c133030a87f3:chars-1746-2149:5a0d8ceb5f70e158430c035fe1bcd4a3c09d8cb9aa060c1e0ace3b5bd6c6c841",
+      "character_start": 1746,
+      "character_end": 2149,
+      "utf8_byte_start": 1764,
+      "utf8_byte_end": 2169,
+      "passage_sha256": "5a0d8ceb5f70e158430c035fe1bcd4a3c09d8cb9aa060c1e0ace3b5bd6c6c841",
+      "reader_fragment": "p-1746-2149-5a0d8ceb5f70e158"
+    }
+  ]
+}

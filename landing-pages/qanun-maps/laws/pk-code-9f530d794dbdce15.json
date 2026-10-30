@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-9f530d794dbdce15",
+  "title": "Chairman and Members of Federal Land Commission (Validation of Orders) Ordinance, 1981",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bZ2U-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "9f8a413236f8f6c6f905243de5a087ac814c8f56081ce9f8e64df2c3e66aa3ad",
+  "source_sha256": "9f8a413236f8f6c6f905243de5a087ac814c8f56081ce9f8e64df2c3e66aa3ad",
+  "text_version_id": "law:pk-code-9f530d794dbdce15:sha256:9f8a413236f8f6c6f905243de5a087ac814c8f56081ce9f8e64df2c3e66aa3ad",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\nTHE CHAIRMAN AND MEMBERS OF FEDERAL LAND \r\nCOMMISSION (VALIDATION OF ORDERS) \r\nORDINANCE, 1981 \r\n \r\n \r\n   \r\n   \r\nCONTENTS \r\n1.  Short title and commencement. \r\n2.  Validation. \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE CHAIRMAN AND MEMBERS OF FEDERAL LAND COMMISSION \r\n(VALIDATION OF ORDERS) ORDINANCE, 1981 \r\nORDINANCE No. XXII OF 1981 \r\n[15th June, 1981] \r\nAn Ordinance to validate certain orders passed by the Chairman or a Member of Federal Land \r\nCommission. \r\n WHEREAS it is expedient to validate certain orders passed by the Chairman or a Member of \r\nthe Federal Land Commission; \r\nAND WHERES the President is satisfied that circumstances exist which render it necessary \r\nto take immediate action;  \r\nNOW, THEREFORE, in exercise of the powers conferred by Article 89 of the Constitution, \r\nread with Article 2 of t he Provisional C onstitution Order, 1981 (C.M.L.A .Order.No.1 of 1981) , the \r\nPresident is pleased to make and promulgate the following Ordinance:— \r\n1. Short title and commencement .— (1) This Ordinance may be called the Chairman and  \r\n(Validation of Orders) Ordinance, 1981.  \r\n(2) It shall come into force at once. \r\n2. Validation. Notwithstanding any order or decision of any Court, any orde r passed by the \r\nChairman or a M ember of the Federal Land Commission at any time before the co mmencement of \r\nthis Ordinance and purporting to be in exercise of the authority conferred on the C hairman and \r\nMembers of the Commission by an order of the Federal Government under the Dir and Swat \r\n(Devolution and Distribution of Property) Regulation, 1972, the Dir and Swat (Settlement of \r\nDisputes of  Immo vable Property) Regulation, 1972 , the Distribution of P roperty (Chitral) \r\nRegulation, 1974 (II of 1974),  or the Settlement of Disputes of Immovable Property (Chitral) \r\nRegulation, 1974 (III of 1974) shall be d eemed to have been validly passed and shall have, and shall \r\nbe deemed always to have had, effect accordingly.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-9f530d794dbdce15:sha256:9f8a413236f8f6c6f905243de5a087ac814c8f56081ce9f8e64df2c3e66aa3ad:chars-0-1721:d713e2cf113da3e9b883904ce3823abfc47189b5b180e1f1f74ba5731eab97e9",
+      "character_start": 0,
+      "character_end": 1721,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1725,
+      "passage_sha256": "d713e2cf113da3e9b883904ce3823abfc47189b5b180e1f1f74ba5731eab97e9",
+      "reader_fragment": "p-0-1721-d713e2cf113da3e9"
+    },
+    {
+      "passage_id": "law:pk-code-9f530d794dbdce15:sha256:9f8a413236f8f6c6f905243de5a087ac814c8f56081ce9f8e64df2c3e66aa3ad:chars-1721-1970:f1df250578c43ab8e737f48aee083c5d6ce14a02bfdac2c2bbfea7eca7a7dab5",
+      "character_start": 1721,
+      "character_end": 1970,
+      "utf8_byte_start": 1725,
+      "utf8_byte_end": 1974,
+      "passage_sha256": "f1df250578c43ab8e737f48aee083c5d6ce14a02bfdac2c2bbfea7eca7a7dab5",
+      "reader_fragment": "p-1721-1970-f1df250578c43ab8"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-1b3b2a60cd9b0475",
+  "title": "Armed Forces (Emergency Duties) Act, 1947",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-cJia-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "4099f8288870668792dd93ab734049fda2e6d50fc06edc937549ecab4266f13a",
+  "source_sha256": "4099f8288870668792dd93ab734049fda2e6d50fc06edc937549ecab4266f13a",
+  "text_version_id": "law:pk-code-1b3b2a60cd9b0475:sha256:4099f8288870668792dd93ab734049fda2e6d50fc06edc937549ecab4266f13a",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\nTHE ARMED FORCES (EMERGENCY DUTIES) ACT, 1947 \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title and extent \r\n2.  Emergency duties of Armed Forces \r\n3.  Validation of certain past commands \r\n \r\n \r\n  \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE ARMED FORCES (EMERGENCY DUTIES) ACT, 1947 \r\nACT No. XV OF 1947 \r\n[20th March, 1947]  \r\nAn Act to enable duties in connection with vital services to be imposed in an emergency on the \r\nArmed Forces of 1[Pakistan]. \r\n WHEREAS it is expedient to enable duties in connection with vital services to be imposed in \r\nan emergency on the Armed Forces of 1[Pakistan]; It is hereby enacted as follows:⎯ \r\n 1. Short title and extent.___(1) This Act may be called the Armed Forces (Emergency Duties) \r\nAct, 1947.  \r\n 2[(2) It extends to the whole of Pakistan.] \r\n 2. Emergency duties of Armed Forces.___(1) The 3[Federal Government] may, by notification \r\nin the official Gazette, declare any specified service to be a service of vital importance to the \r\ncommunity:  \r\n Provided that such notification shall remain in force for one month in the first ins tance, but \r\nmay be extended, from time to time, by a like notification.  \r\n (2) Upon a declaration being made under sub-section (1) and until it is rescinded, it shall be the \r\nduty of every person subject to 4[* * *] 2[the Pakistan Army Act, 1952], 4[* * *] 2[or the Pakistan Air \r\nForce Act, 1953,]  or the 5[Pakistan Navy Ordinance, 1961], to obey any command given by any \r\nsuperior officer in relation to employment upon or in connection with the service specified in the \r\ndeclaration; and every such command shall be deemed to be a lawful command within the meaning \r\nand for the purposes of the said Acts 5[or Ordinance].  \r\n 3. 6[Repealed]  \r\n_________________ \r\n \r\n \r\n \r\n \r\nDate: 24-07-2024 \r\n1Subs. by the Central Laws (Adaptation) Order, 1961 (P. O. 1 of 1961), Art. 2 and Sch., (with effect from the 23rd March, 1956).  \r\n2Subs. and ins. by the Central Laws (Statute Reform) Ordinance, 1960 (XXI of 1960) s. 3 and 2nd Sch. (with effect from the 14th October, 1955). \r\n3Subs. by the Federal Adaptation of Laws Order, 1975 (P. O. 4 of 1975), Art.2 and Sch. \r\n4Omitted by the Federal Laws (Revision and Declaration), Ordinance, 1981 (XXVII of 1981), s. 3 and Sch., II.  \r\n5Subs. and added by the Repealing and Amending Ordinance, 1965 (X of 1965), s. 3 and 2nd Sch. (shall be deemed to have substituted and added on the \r\nfirst day of March, 1962).  \r\n6Rep. by the Federal Laws (Revision and Declaration) Act, 1951 (XXVI of 1951), s. 3 and Second Schedule.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-1b3b2a60cd9b0475:sha256:4099f8288870668792dd93ab734049fda2e6d50fc06edc937549ecab4266f13a:chars-0-1791:d03adf40a7ff90401cf1adf2a0893055a4548f040880b020a5ef31b1eacf2025",
+      "character_start": 0,
+      "character_end": 1791,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1793,
+      "passage_sha256": "d03adf40a7ff90401cf1adf2a0893055a4548f040880b020a5ef31b1eacf2025",
+      "reader_fragment": "p-0-1791-d03adf40a7ff9040"
+    },
+    {
+      "passage_id": "law:pk-code-1b3b2a60cd9b0475:sha256:4099f8288870668792dd93ab734049fda2e6d50fc06edc937549ecab4266f13a:chars-1791-2554:b6f3f0edb1a3d73f276ea15fec5021549d664d1705541ff22afe551de2afd951",
+      "character_start": 1791,
+      "character_end": 2554,
+      "utf8_byte_start": 1793,
+      "utf8_byte_end": 2556,
+      "passage_sha256": "b6f3f0edb1a3d73f276ea15fec5021549d664d1705541ff22afe551de2afd951",
+      "reader_fragment": "p-1791-2554-b6f3f0edb1a3d73f"
+    }
+  ]
+}

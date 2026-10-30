@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-20bb968d6bde6f44",
+  "title": "West Pakistan Government Dues Recovery Ordinance, 1962",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5prbg%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "bb612bc2d37d5a83b0e5b51650b5553dceb1a9504f5e762b5e9f5167f357d696",
+  "source_sha256": "bb612bc2d37d5a83b0e5b51650b5553dceb1a9504f5e762b5e9f5167f357d696",
+  "text_version_id": "law:pk-code-20bb968d6bde6f44:sha256:bb612bc2d37d5a83b0e5b51650b5553dceb1a9504f5e762b5e9f5167f357d696",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\n \r\n \r\nTHE WEST PAKISTAN GOVERNMENT DUES RECOVERY \r\nORDINANCE, 1962 \r\n \r\n \r\n \r\n                                              \r\nCONTENTS \r\nPreamble \r\n1. Short title, extend and commencement \r\n2.  \r\n3.   \r\n4.   \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n  \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE WEST PAKISTAN GOVERNMENT DUES RECOVERY \r\nORDINANCE, 1962 \r\nWEST PAKISTAN ORDINANCE NO. XXII OF 1962 \r\n[25th May, 1962] \r\nAN \r\nORDINANCE \r\nto provide for the recovery of Government dues as arrears of land revenue in the Province of West \r\nPakistan. \r\nPreamble. WHEREAS, it is expedient to provide for the recovery of Government dues as \r\narrears of land revenue in the Province of West Pakistan in the manner hereinafter appearing; \r\nNOW, THEREFORE, in pursuance of the Presidential Proclamation of the seventh day of \r\nOctober, 1958, and in exercise of all powers enabling him in that behalf, the Governor of West Pakistan \r\nis pleased to make and promulgate the following Ordinance:__ \r\n1. Short title , extend  and commencement.  (1) This Ordinance may be called the West \r\nPakistan Government Dues Recovery Ordinance, 1962. \r\n(2) It extends to the whole of the Province of West Pakistan except 1[the Tribal Areas]. \r\n(3) It shall come into force at once. \r\n2.  In this Ordinance, unless the context otherwise requires, the following expressions shall \r\nhave the meanings hereby respectively assigned to them, that is to say__ \r\n(a) “defaulter” means a person from whom any dues are recoverable by \r\nGovernment, and includes a person who is responsible as surety for the payment \r\nof any such dues; and \r\n    (b) “Government” means the Government of the Province of West Pakistan. \r\n3. (1) Government may, by notification, declare that any dues or class of dues recoverable by \r\nGovernment shall be recoverable from the defaulters as if such dues were arrears of land revenue. \r\n    (2) On the publication of a notification under sub-section (1) any such dues shall be \r\nrecoverable under the Revenue Recoveries Act, 1890 (Act I of 1890) as arrears of land revenue. \r\n4. Government may make rules for the purpose of giving effect to the provisions of this \r\nOrdinance. \r\n2342          RGN Date: 20-03-2025 \r\n \r\n1Subs. by the West Pakistan Laws (Adaptation) Order, 1964, Article 2 (1), read with Schedule, Serial No. 35. (w. e. f. 8.6.1962).",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-20bb968d6bde6f44:sha256:bb612bc2d37d5a83b0e5b51650b5553dceb1a9504f5e762b5e9f5167f357d696:chars-0-1777:dfc4cdaa1ed089ee91c9767e100db74bd540407a3e9765bbd5184b811e472bb6",
+      "character_start": 0,
+      "character_end": 1777,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1785,
+      "passage_sha256": "dfc4cdaa1ed089ee91c9767e100db74bd540407a3e9765bbd5184b811e472bb6",
+      "reader_fragment": "p-0-1777-dfc4cdaa1ed089ee"
+    },
+    {
+      "passage_id": "law:pk-code-20bb968d6bde6f44:sha256:bb612bc2d37d5a83b0e5b51650b5553dceb1a9504f5e762b5e9f5167f357d696:chars-1777-2338:4019154540a04a07b51db161ad02b4877cebde41694366b9d152db5cb097da35",
+      "character_start": 1777,
+      "character_end": 2338,
+      "utf8_byte_start": 1785,
+      "utf8_byte_end": 2346,
+      "passage_sha256": "4019154540a04a07b51db161ad02b4877cebde41694366b9d152db5cb097da35",
+      "reader_fragment": "p-1777-2338-4019154540a04a07"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-6225f47369b7e0d8",
+  "title": "STAGE CARRIAGES (CANCELLATION OF PERMITS OF ABSENTEES) REGULATION, 1969",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/V2IFMAIyBT0-",
+  "version": null,
+  "source_snapshot": "2026-08-06T17:03:05Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "b91848fcb1a458ae5f1e4728b52f5e4c137c883c47c530b86e1850ac179221cb",
+  "source_sha256": "b91848fcb1a458ae5f1e4728b52f5e4c137c883c47c530b86e1850ac179221cb",
+  "text_version_id": "law:punjab-code-6225f47369b7e0d8:sha256:b91848fcb1a458ae5f1e4728b52f5e4c137c883c47c530b86e1850ac179221cb",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE STAGE CARRIAGES (CANCELLATION OF PERMITS \r\nOF ABSENTEES) REGULATION, 1969 \r\n[MARTIAL LAW REGULATION NO. 56] \r\nCONTENTS \r\n1. ***** \r\n2. ***** \r\n3. ***** \r\n4. ***** \r\n5. ***** \r\n6. ***** \r\n7. ***** \r\nTEXT \r\nTHE STAGE CARRIAGES (CANCELLATION OF PERMITS OF \r\nABSENTEES) REGULATION, 1969 \r\n[MARTIAL LAW REGULATION NO. 56] \r\n[October 27, \r\n1\r\n[1969]] \r\n1. This Regulation shall come into force at once and shall take effect \r\nnotwithstanding anything to the contrary contained in any other law for the time being \r\nin force, and shall apply to the whole of Pakistan. \r\n2. In this regulation, unless there is anything repug nant in the subject or \r\ncontext,– \r\n(a) “absentee” means a person who holds a permi t to ply a stage carriage \r\nof which he is not the actual owner; \r\n(b) “actual owner” means a person or a body of persons having proprietary \r\nrights in a stage carriage acquired by way of purchase, gift, inheritance, \r\nor under a hire -purchase agreement, or as a resu lt of the settlement of \r\na lawful claim; \r\n(c) “person” includes an individual, a firm, an association of persons, a \r\nbody of individuals, whether incorporated or not , a company and any \r\nother judicial person. \r\n3. (1) Any permit to pl y a stage carriage issued in favour  of an absentee shall \r\ncease to be valid and shall stand cancelled  forthwith and subject to sub -paragraph \r\n(2), no stage carriage shall be plied on the authority of any such permit. \r\n(2) Notwithstanding the cancellation of a permit under sub -paragraph (1) \r\nstage carriage in respect of which the permit was issued may  ply for period of 20 \r\ndays following the cancellation, on the same routes and terms and conditions as \r\nwere applicable immediately before the cancellation. \r\n4. Any person who is in possession of a perm it which stands cancelled under \r\nparagraph 3 shall, within 15 days of such cancellation surrender the permit to the \r\nauthority by which it was issued. \r\n5. Whoever plies a stage carriage in contravention of Paragraph 3 or retain s a \r\npermit in contravention of p aragraph 4 shall be punishable with rigorous \r\nimprisonment for a term which may extend to three years or fine or both. \r\n6. For the purpose of ascertaining the actual owner of stage carriage, the entry \r\nin the Certificate of Registration shall not be conclusive proof of ownership. \r\n7. The Provincial Government, may make rules to provide for,– \r\n(a) the procedure for determining actual ownership of a stage carriage; \r\n                                                           \r\n1Misprinted in the Gazette as “1968”. \r\n(b) the procedure for issuance of permits to the actual owners of stage \r\ncarriages\r\n2\r\n[;]  \r\n(c) such other matters as may be necessary for carrying out the purpose s \r\nof this Regulation. \r\n                                                           \r\n2Misprinted in the Gazette as “full-stop”.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-6225f47369b7e0d8:sha256:b91848fcb1a458ae5f1e4728b52f5e4c137c883c47c530b86e1850ac179221cb:chars-0-1738:7acca22d14a005d28b81bfb7762c5ad6806c1da0b780827e2f33e53ed76b6b95",
+      "character_start": 0,
+      "character_end": 1738,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1752,
+      "passage_sha256": "7acca22d14a005d28b81bfb7762c5ad6806c1da0b780827e2f33e53ed76b6b95",
+      "reader_fragment": "p-0-1738-7acca22d14a005d2"
+    },
+    {
+      "passage_id": "law:punjab-code-6225f47369b7e0d8:sha256:b91848fcb1a458ae5f1e4728b52f5e4c137c883c47c530b86e1850ac179221cb:chars-1738-2870:4b712cc3e638555ae598e39c2ddf2401d9119cfc0619aa1c95026c2ee600d603",
+      "character_start": 1738,
+      "character_end": 2870,
+      "utf8_byte_start": 1752,
+      "utf8_byte_end": 2894,
+      "passage_sha256": "4b712cc3e638555ae598e39c2ddf2401d9119cfc0619aa1c95026c2ee600d603",
+      "reader_fragment": "p-1738-2870-4b712cc3e638555a"
+    }
+  ]
+}

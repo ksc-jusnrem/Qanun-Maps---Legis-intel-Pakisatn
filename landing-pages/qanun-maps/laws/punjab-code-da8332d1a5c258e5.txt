@@ -1,0 +1,996 @@
+THE PUNJAB FOOD AUTHORITY ACT 2011 
+(XVI of 2011) 
+CONTENTS 
+CHAPTER I 
+PRELIMINARY 
+1. Short title, extent and commencement. 
+2. Definitions. 
+CHAPTER II 
+ESTABLISHMENT OF FOOD AUTHORITY 
+3. Establishment of the Food Authority. 
+4. Composition of the Food Authority. 
+5. Terms and conditions of Chairperson and members. 
+6. Removal of Chairperson and members. 
+7. Powers and functions of the Food Authority. 
+8. Proceedings of the Food Authority. 
+8A. Categorization of premises 
+9. Scientific panel. 
+10. Director General. 
+11. Public analysts. 
+12. Food Safety Officer. 
+13. Powers of Food Safety Officer. 
+14. Other employees of the Food Authority. 
+CHAPTER III 
+ENFORCEMENT MECHANISM 
+15. Licensing of food business. 
+16. Improvement notice. 
+17. Prohibition orders. 
+18. Emergency prohibition orders. 
+19. Notification of food poisoning. 
+20. Food recall procedures. 
+21. Establishment of food laboratories. 
+CHAPTER IV 
+OFFENCES AND PENALTIES 
+22. Selling food against the law 
+22A. Offence by large scale manufacturers. 
+23. Substandard or misbranded food. 
+24. Unsafe food. 
+25. False advertisement. 
+26. False labeling. 
+27. Failure to comply with the directions. 
+28. Unhygienic or unsanitary conditions. 
+29. Penalty for prescribed offences. 
+30. False information. 
+31. Obstructing the Food Safety Officer. 
+32. Business without licence. 
+33. Warranty. 
+34. Punishment for subsequent offence. 
+35. Compensation in case of injury or death of a consumer. 
+36. Forfeiture of food, etc. 
+37. Offences by companies. 
+38. Publication in newspapers. 
+CHAPTER V 
+JURISDICTION AND PROCEDURE 
+39. Jurisdiction of the Food Authority. 
+40. Special Court. 
+41. Cognizance and investigation. 
+42. Time limit for prosecutions. 
+43. Summary trial. 
+44. Defense available. 
+45. Recovery of fines etc. 
+45A. Appeal against conviction 
+45B.  Transfer of cases 
+CHAPTER VI 
+FINANCES AND REPORTS 
+46. Food Authority Fund. 
+47. Bank accounts. 
+48. Budget and accounts. 
+49. Audit. 
+50. Annual report. 
+50A.  Periodical reports 
+50B. Monitoring and evaluation 
+CHAPTER VII 
+MISCELLANEOUS 
+51. Delegation of powers. 
+52. Reward by the Food Authority. 
+53. Public servants. 
+54. Immunity. 
+54A.  Bar of jurisdiction. 
+55. Overriding effect. 
+56. Government to make rules. 
+57. Food Authority to frame regulations. 
+58. Repeal and savings. 
+59. Power to remove difficulties. 
+SCHEDULE 
+TEXT 
+1
+THE PUNJAB FOOD AUTHORITY ACT 2011 
+(XVI of 2011) 
+[6th July, 2011] 
+An 
+Act 
+to provide for the safety and standards of food and for establishment of the Punjab 
+Food Authority. 
+Preamble.– Whereas, it is expedient to protect public health, to provide for the 
+safety and standards of food, to establish the Punjab Food Authority  and for other 
+connected matters; 
+ It is enacted as follows:– 
+CHAPTER I 
+PRELIMINARY 
+1. Short title, extent and commencement .– (1) This Act may be cited as the 
+Punjab Food Authority Act 2011. 
+ (2) It extends to whole of the Punjab. 
+ (3) It shall come into force on such date as the Government may, by 
+notification, specify and different dates may be so specified for different areas. 
+2. Definitions.– In this Act– 
+ (a) “adulterated food” means the food– 
+(i) which is not of the nature, substance or quality which it purports 
+or is represented to be; or 
+(ii) which contains any such extraneous substance as may adversely 
+affect the nature, substance or quality of the food; or 
+(iii) which is processed, mixed, coloured, powdered or coated with 
+any other substance in contravention of the rules or the 
+regulations; or 
+(iv) any constituent of which has been wholly or in part abstracted so 
+as to affect injuriously its nature, substance or quality; or 
+(v) which contains any poisonous or other ingredient that may 
+render it injurious to human health; or 
+(vi) the quality or purity of which does not conform to the prescri bed 
+standards; or 
+                                                           
+1This Act was passed by the Punjab Assembly on 23 June 2011; assented to by the Governor of the Punjab on 5 July 2011; and, was 
+published in the Punjab Gazette (Extraordinary), dated 6 July 2011, pages 591-603. 
+(vii) which has been prepared, packed or kept under unhygienic and 
+insanitary conditions; or 
+(viii) which is contaminated or has become injurious to health; 
+(b) “advertisement” means any publicity, representation or pronouncement 
+made by any means for purposes of promoting the sale or disposal of any 
+food; 
+(c) “Chairperson” means the Chairperson of the Food Authority; 
+2
+[(ca)  “Code” means the Code of Criminal Procedure, 1898 (V of 1898);] 
+(d) “consumer” means a person who receives food aga inst a consideration 
+or otherwise and includes an end user of the food; 
+(e) “Director General” means Director General of the Food Authority; 
+(f) “food” means anything used as food or drink for human consumption 
+other than drugs, and includes– 
+(i) any subst ance which is intended for use in the preparation of 
+food; 
+(ii) any flavouring agent or condiment; 
+(iii) any colouring matter intended for use in food; 
+(iv) chewing gum, confectionary and other products of like nature; 
+(v) water in any form including ice, intended for human consumption 
+or for use in the composition or preparation of food; and 
+(vi) any other thing prescribed as food; 
+Explanation-I.– A thing shall not cease to be food by reason that it is also 
+capable of being used as drugs. 
+Explanation-II.– In this clause, the word “drugs” has the same meaning as is 
+assigned to it in the Drugs Act 1976 (XXXI of 1976). 
+(g) “food additive” includes any substance not normally consumed as food 
+by itself or used as a typical ingredient of food but the addition of which 
+to food affects the characteristics of the food; 
+(h) “Food Authority” means the Punjab Food Authority established under 
+the Act; 
+(i) “food business” means any undertaking, whether or not for profit, 
+carrying out any of the activities related to any s tage of manufacturing, 
+processing, packaging, storage, transportation, distribution of food, 
+import, export and includes food services, catering services, sale of 
+food or food ingredients; 
+(j) “food laboratory” means any food laboratory or institute establ ished or 
+recognized by the Food Authority; 
+                                                           
+2Inserted by the Punjab Food Authority (Amendment) Act 2016  (V of 20 16); and published in the Punjab Ga zette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.2. 
+(k) “food operator” means a person who manufactures for sale, transports, 
+stores, sells, distributes, imports or exports food; 
+(l) “Food Safety Officer” means a Food Safety Officer appointed under the 
+Act; 
+(m) “Government” means the Government of the Punjab; 
+(n) “import” means bringing into the Punjab any article of food by any 
+means including land, river, canal or air; 
+(o) “label” includes any tag, brand, mark, pictorial or other descriptive 
+matter, written, print ed, stenciled, marked, painted, embossed or 
+impressed on, or attached to or included in, belonging to, or 
+accompanying any food; 
+(p) “licence” means a licence granted under the Act or the rules or the 
+regulations; 
+(q) “member” means a member of the Food Authority; 
+(r) “misbranded food’’ means the food– 
+(i) which is an imitation of or resembles another food, in a manner 
+that it is likely to deceive the consumer; or 
+(ii) which is so coloured, flavoured, coated, powdered or polished 
+as to conceal the true nature of the food; or 
+(iii) which is contained in any package which, or the label of which, 
+bears any statement, design or device regarding, the ingredients or 
+the substances contained in the food, that is false or misleading; 
+3
+[(ra) “natural decomposition” means loss of freshness, taste, fragrance or  
+any active ingredient which is dependent on climate or weather;] 
+(s) “package” includes anything in which food is wholly or partly cased, 
+covered, contained, placed or otherwise packed in any manner and any 
+such other receptacle of any kind whether opened or closed; 
+(t) “premises” include any shop, stall, hotel, restaurant, airline services, 
+canteens, place, vehicle, building or tent or any other structure and any 
+adjoining land used in connection with it and any  vehicle, conveyance, 
+vessel or aircraft where any food is sold or manufactured or stored for 
+sale; 
+(u) “prescribed” means prescribed by the rules or the regulations; 
+(v) “public analyst” means a public analyst appointed under the Act; 
+(w) “safe food” means an article of food which is not unsafe; 
+(x) “Scientific Panel” means the Scientific Panel constituted under the Act; 
+(y) “standard”, in relation to any article of food, means the prescribed standard 
+and includes the standard notified by the Food Authority; and 
+                                                           
+3Inserted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.2. 
+(z) “unsafe food” means the food whose nature, substance or quality is so 
+affected by any means as to render it injurious to human health. 
+CHAPTER II 
+ESTABLISHMENT OF FOOD AUTHORITY 
+3. Establishment of the Food Authority .– (1) The Government may, by  
+notification in the official Gazette, establish the Punjab Food Authority for purposes 
+of this Act. 
+ (2) The Food Authority shall be a body corporate, having perpetual 
+succession and a common seal, with power to enter into contract, acquire or dispose 
+of property, and may, by its name, sue or be sued. 
+4. Composition of the Food Authority.– (1) The Food Authority shall consist of 
+a Chairperson and the following members– 
+(a) Secretary to the Government, Food Department; 
+(b) Secretary to the Government, Health Department; 
+(c) Secretary to the Government, Public Health Engineering Department; 
+(d) Secretary to the Government, Livestock & Dairy Development 
+Department; 
+(e) Secretary to the Government, Local Government & Community 
+Development Department; 
+(f) three members of the Provincial Assembly of the Punjab 
+4
+[including at 
+least one female member of the Assembly]  to be nominated by the 
+Government; 
+(g) two food technologists or scientists 
+5
+[including at least one female 
+scientist] to be nominated by the Government; 
+(h) one representative of the Chambers of Commerce & Industry; 
+(i) one representative of Food Industry; 
+(j) one representative of food operators; 
+(k) two representatives of farmers 
+6
+[including at least one female 
+representative]; and 
+(l) two representat ives of consumers 
+7
+[including at least one female 
+consumer]. 
+                                                           
+4Inserted by the Punjab Fair Representation  of Women Act 2014 (IV of 2014) ; and published in the Punjab Gazette 
+(Extraordinary), pages 2733-2744, s.2 and Schedule, at serial No.57. 
+5Inserted by the Punjab Fair Representation  of Women Act 2014 (IV of 20 14); and published in the Punjab Gazette 
+(Extraordinary), dated 12.3.2014, pages 2733-2744, s.2 and Schedule, at serial No.57. 
+6Inserted by the Punjab Fair Representation  of Women Act 2014 (IV of 2014) ; and published in the Punjab Gazette 
+(Extraordinary), dated 12.3.2014, pages 2733-2744, s.2 and Schedule, at serial No.57. 
+7Inserted by the Punjab Fair Representation  of Women Act 2014 (IV of 2014) ; and published in the Punjab Gazette 
+(Extraordinary), dated 12.3.2014, pages 2733-2744, s.2 and Schedule, at serial No.57. 
+8
+[(1a) The Government shall, while appointing members mentioned in clauses 
+(h), (i) and (j) of subsection (1), appoint at least one female belonging to any of those 
+categories.] 
+(2) The Government shall, in the prescribed manner, appoint a person who 
+possesses the prescribed qualification and experience as Chairperson. 
+(3) The Government shall appoint the non -official members on the 
+recommendation of a committee consisting of the following:– 
+(a) Chief Secretary to the Government (Convener); 
+(b) Secretary to the Government, Food Department; 
+(c) Secretary to the Government, Health Department; and 
+(d) Director General, National Institute of Food Science & Technology, 
+University of Agriculture, Faisalabad. 
+ (4) The Food Authority may, with the prior approval of the Government, co-
+opt any other person as a member. 
+ (5) The Chairperson and members, other than ex-officio members, shall 
+be appointed in such manner as to ensure the highest standards of profe ssional 
+competence and experience, gender balance and equitable geographic distribution 
+within the Province. 
+ (6) A meeting of the Food Authority shall be held in the manner provided 
+by the regulations, and until so provided, as may be determined by the Fo od 
+Authority. 
+ (7) The Secretary of the Food Authority shall, on the direction of the 
+Chairperson, call a meeting of the Food Authority. 
+ (8) The Food Authority shall meet at least thrice in a year. 
+ (9) The Chairperson, and in his absence, any other member elected by the 
+members present at a meeting, shall preside at a meeting of the Food Authority. 
+ (10) The quorum for a meeting shall be one third of the total members, the 
+fraction being counted as one. 
+5. Terms and conditions of Chairperson and members.– (1) The Chairperson 
+and the members, other than ex-officio members, shall hold office for a term of three 
+years and shall be eligible for re-appointment. 
+ (2) A person shall not be appointed as Chairperson or a member, other 
+than ex-officio member, for more than two terms, whether consecutive or otherwise. 
+ (3) The Government shall prescribe the salary and allowances payable to, 
+and the other terms and conditions of service of the Chairperson. 
+ (4) The Chairperson or a member, other than an ex-officio member, may 
+resign from his office by serving one month’s notice in writing to the Government. 
+6. Removal of Chairperson and members .– (1) The Government may remove 
+from office, the Chairperson or a member, other than an ex-officio member, if he– 
+                                                           
+8Inserted by the Punjab Fair Representation  of Women Act 2014 (IV of 2014) ; and published in the Punjab Gazette 
+(Extraordinary), dated 12.3.2014, pages 2733-2744, s.2 and Schedule, at serial No.57. 
+(a) has been adjudged an undischarged insolvent; or 
+(b) has been convicted of an offence which involves moral turpitude; or 
+(c) has become physically or mentally incapable of acting as the 
+Chairperson or the member; or 
+(d) has abused his position and rendered his conti nuance in the office 
+prejudicial to public interest. 
+ (2) The Chairperson or a member shall not be removed from office except 
+after affording him a reasonable opportunity of being heard. 
+7. Powers and functions of the Food Authority .– (1) The Food Authority shall 
+regulate and monitor the food business in order to ensure provision of safe food. 
+ (2) Without prejudice to the provisions of sub -section (1), the Food 
+Authority may– 
+(a) formulate standards, procedures, processes and guidelines in relation 
+to any aspect of food including food business, food labelling, food 
+additive, and specify appropriate enforcement systems; 
+(b) specify procedures and guidelines for setting up and accreditation of 
+food laboratories; 
+(c) formulate method of sampling, analysis of s amples and reporting of 
+results; 
+(d) specify licensing, prohibition orders, recall procedures, improvement 
+notices or prosecution; 
+(e) determine terms and conditions of service of its employees; 
+(f) provide scientific advice and technical support to the Go vernment in 
+matters relating to food; 
+(g) collect and analyze relevant scientific and technical data relating to 
+food; 
+(h) establish a system of network of food operators and consumers to 
+facilitate food safety and quality control; 
+(i) organize training programmes in food safety and standards; 
+(j) promote general awareness as to food safety and standards; 
+(k) levy fee for registration, licensing and other services; 
+(l) certify food for export; 
+(m) perform any other prescribed function; and 
+(n) do any other thing which is necessary for the discharge of its functions 
+under this Act. 
+ (3) The Food Authority shall exercise its functions, as far as possible, in 
+accordance with the well established scientific principles and international best 
+practices. 
+8. Proceedings of the Food Authority .– No act or proceedings of the Food 
+Authority shall be questioned or invalidated merely on the ground of existence of any 
+vacancy or defect in the constitution of the Food Authority. 
+9
+[8A. Categorization of premises.– (1) The Food Authority may: 
+(a) categorize a premises in the light of the prescribed objective criteria 
+based on the level of adherence to the standards, established scientific 
+principles and international best practices; and 
+(b) periodically revise, in the prescribed manner, the categories of premises 
+under clause (a).  
+(2) If the premises are categorized under subsection (1), the Food Authority 
+shall issue a certificate showing the category of such premises and the food operator 
+shall display the certificate at a conspicuous place of the premises. 
+(3) If a food operator removes the certificate or in any manner tampers with it 
+or defaces or mutilates it, the Food Authority may take one or more actions under 
+section 39 of the Act. 
+(4) A food operator, aggrieved by any decision  of the Food Authority 
+regarding categorization of his premises, may, within sixty days of such decision, prefer 
+an appeal to the Appellate Authority notified under subsection (2) of section 39.  
+(5) The Food Authority may, by any means, create general awa reness 
+about categorization of the premises under this section.] 
+9. Scientific panel .– (1) The Food Authority may establish one or more 
+Scientific Panels, which shall consist of the following– 
+(a) Director General of the Food Authority (Convener); 
+(b) a representative, having background of food science or technology, of 
+an organization established for determining standards and quality of 
+food; 
+(c) a representative, having background of food science or technology, of 
+an organization established for scientific or industrial research on food; 
+(d) a representative, having background of food science or technology, of 
+the National Institute of Food Science & Technology, University of 
+Agriculture, Faisalabad; 
+(e) a food technologist or scientist; 
+(f) a medical prac titioner registered with Pakistan Medical and Dental 
+Council; and 
+(g) three representatives of the food manufacturers in the relevant field. 
+ (2) A Scientific Panel may co -opt any other member from the relevant 
+industry. 
+ (3) The Food Authority shall deter mine the terms and conditions, including 
+tenure of members of a Scientific Panel other than ex-officio members. 
+                                                           
+9Inserted by the Punjab Food Authority (Amendme nt) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.3. 
+ (4) The Food Authority may refer any matter relating to food to the 
+Scientific Panel for recommendation. 
+ (5) The Scientific Panel may, after d ue deliberations with the relevant 
+industry and consumer representatives, make recommendations to the Food 
+Authority on standards, products, procedures, processes and guidelines in relation to 
+any technical aspect of the food. 
+ (6) If the Food Authority do es not agree to the recommendations of the 
+Scientific Panel, it may, with reasons, refer the case back to the Scientific Panel for 
+reconsideration. 
+ (7) The Scientific Panel shall reconsider the reference and forward its 
+reconsidered recommendations and the Food Authority shall act accordingly. 
+10. Director General.– (1) The Government  may appoint a Director General in such 
+manner and on such term and conditions as it may prescribe. 
+ (2) The Director General shall hold office during the pleasure of the Foo d 
+Authority. 
+ (3) The Director General shall be the Secretary of the Food Authority. 
+ (4) The Director General, subject to the control of the Food Authority, shall 
+be responsible for accomplishing the objectives of this Act and for efficient 
+implementation of the Act, the rules and the regulations. 
+ (5) The Director General shall exercise such powers as are mentioned in 
+the Act or as may be prescribed or delegated to him. 
+ (6) The Director General may exercise powers of a Food Safety Officer 
+under the Act. 
+11. Public analysts.– (1) The Food Authority may, by notification, appoint public 
+analysts for such areas as it may assign to them. 
+ (2) A public analyst shall possess such qualifications as may be 
+prescribed. 
+ (3) The production in a trial , of a certifica te under the hand of a public 
+analyst shall, until the contrary is proved, be sufficient proof of the facts contained in 
+the certificate. 
+ (4) The Court may, of its own accord or on the request of the accused, cause 
+any food or sample of food to be sent for analysis to the public analyst. 
+ (5) Unless otherwise directed by the Court, the accused, on whose request 
+any food or sample of food is sent to the public analyst, shall bear its cost. 
+12. Food Safety Officer .– (1) The Food Authority may, by notificatio n, appoint 
+Food Safety Officers for such areas as it may assign to them. 
+ (2) A Food Safety Officer shall possess such qualifications as may be 
+prescribed. 
+ (3) Notwithstanding anything in sub -section (2), the Food Authority, in 
+public interest, may confer  the powers of a Food Safety Officer on a Government 
+servant. 
+13. Powers of Food Safety Officer.– (1) A Food Safety Officer may– 
+(a) take sample of any food or any substance, which appears to him to be 
+intended for sale, or has been sold as food; 
+(b) seize any food, apparatus or utensil which appears to the Food Safety 
+Officer to be in contravention of this Act, the rules or the regulations; 
+(c) enter or seal any premises where he believes any food is prepared, 
+preserved, packaged, stored, conveyed, distrib uted or sold, examine 
+any such food and examine anything that he believes is used, or 
+capable of being used for such preparation, preservation, packaging, 
+storing, conveying, distribution or sale; 
+10
+[(ca) impose fine on a food operator if the Authority has delegated such 
+power to him;] 
+(d) open and examine any package which, he believes, to contain any 
+food; 
+(e) examine any book or documents with respect to any food and make 
+copies of or take extracts from the book or document; 
+(f) demand the production of t he identity card, the business registration 
+certificate, licence or any other relevant document from a food 
+operator; 
+(g) mark, seal or otherwise secure, weigh, count or measure any food or 
+appliance; and 
+(h) search and seize any vehicle carrying food. 
+ (2) A Food Safety Officer shall prepare a statement describing the food, 
+apparatus, utensil or vehicle seized and shall deliver a copy of the statement to the 
+person from whom it is seized or, if such person is not present, send such copy to 
+him by mail. 
+ (3) A person claiming back anything seized under sub -section (1) may, 
+within seven days of the seizure, apply to the Court and the Court may confirm such 
+seizure, wholly or in part, or may order that it be restored to the claimant. 
+ (4) If the Court confirms  the seizure of the food, apparatus or utensil, it 
+shall be forfeited to the Food Authority or the Court may direct that such food, 
+apparatus, utensil may be destroyed at the cost of the owner or person in whose 
+possession it was found. 
+ (5) If an application is not made within seven days under sub-section (3), the 
+food, apparatus or utensil seized, shall be forfeited to the Food Authority. 
+ (6) Any person may make an application in writing to the Food Safety 
+Officer asking him to purchase a sample of any f ood from a food operator and get it 
+analyzed from the public analyst. 
+                                                           
+10Inserted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.4. 
+14. Other employees of the Food Authority .– The Food Authority may 
+determine the number, categories, rank and terms and conditions of other 
+employees of the Food Authority. 
+CHAPTER III 
+ENFORCEMENT MECHANISM 
+15. Licensing of food business .– (1) A person shall not use any place for food 
+business except under the prescribed registration or licence. 
+ (2) The Food Authority may, in the prescribed manner, exempt a class of 
+food operators from obtaining compulsory registration or licence under this section. 
+16. Improvement notice .– (1) If a Food Safety Officer has reasons to believe 
+that any food operator has failed to comply with any provisions of this Act, the rules 
+or the regulations, he may serve an improvement notice upon the food operator– 
+(a) stating the grounds for believing that the food operator has failed to 
+comply with any provisions of the Act or the rules or the regulations; 
+(b) specifying the matters which constitute the food operat or’s failure so to 
+comply; and 
+(c) intimating the measures which the food operator should take in order to 
+secure compliance with the relevant provisions of the law. 
+ (2) If the food operator fails to comply with the improvement notice within 
+the prescribed time, the Food Authority may cancel or suspended his licence or take 
+such other action as it deems appropriate. 
+17. Prohibition orders.– If any food operator is convicted of an offence under this 
+Act and the Court is satisfied that the health risk exists with respect to the food business, 
+the Court, may impose the following prohibitions– 
+(a) a prohibition on the use of a process, treatment, premises or 
+equipment for purposes of the food business; or 
+(b) a prohibition, with or without specifying period of prohibition, on the 
+food operator to conduct or operate the food business. 
+18. Emergency prohibition orders .– (1) If the Food Safety Officer is satisfied 
+that the health risk condition exists with respect to any food business, he may, after 
+serving a notic e on the food operator and for reasons to be recorded in writing, 
+restrain him from carrying on the food business with or without specifying conditions 
+or period of such restraint. 
+ (2) The Food Safety Officer shall, within twenty four hours of the action 
+taken under sub -section (1), report such action to the Food Authority which may, 
+after serving a notice on the food operator and for reasons to be recorded in writing, 
+confirm, modify or set aside the order of the Food Safety Officer. 
+19. Notification of f ood poisoning .– The Food Authority may, by notification, 
+require medical practitioners carrying on profession in any local area to report all 
+occurrences of food poisoning to the Food Safety Officer or the Food Authority. 
+20. Food recall procedures .– (1) If the Director General has reasons to believe 
+that some food is not in compliance with this Act, the rules or the regulations, he 
+may, after recording reasons, order immediate withdrawal of the said food from the 
+market. 
+ (2) Any person, who is aggrieved b y any action taken under this section, 
+may, in the prescribed manner, prefer an appeal to the Food Authority. 
+ (3) The Food Authority may, on its own accord or on the application of an 
+aggrieved person, set-aside or modify an order made under sub-section (1). 
+21. Establishment of food laboratories .– (1) The Food Authority may establish 
+a food laboratory for purposes of carrying out analysis of samples of any food or food 
+related equipments or utensils. 
+ (2) The Food Authority may recognize or accredit a foo d laboratory for any 
+of the purposes contained in sub-section (1). 
+CHAPTER IV 
+OFFENCES AND PENALTIES 
+11
+[22. Selling food against the law .– (1) A person who sells or offers for sale any 
+adulterated food or food which is not in compliance with the provisions of this Act, the 
+rules or the regulations, shall be liable to imprisonment for a term which may extend 
+to six months but which shall not be less than one month and fine which may extend 
+to one million rupees but which shall not be less than one hundred thousand rupees. 
+(2) Nothing contained in subsection (1) shall apply to a person who sells or 
+offers for sale non -processed food which is not fit for human consumption by way of 
+natural decomposition and the Authority may take any of the actions against the 
+person under clauses (c), (d), (e) or (f) of subsection (1) of section 39.] 
+12
+[22A. Offence by large scale manufacturers .– Notwithstanding anything 
+contained in section 22, if a food operator manufactures, keeps , transports, imports 
+or exports adulterated fo od for large scale use or consumption in quantities equal to 
+or in excess of the quantities mentioned in the Schedule appended to this Act, he 
+shall be liable to imprisonment for a term which may extend to f ive years but which 
+shall not be less than six mo nths and fine which may extend to two  million rupees 
+but which shall not be less than five hundred thousand rupees.] 
+13
+[23. Substandard or misbranded food.– Any person who manufactures for sale, 
+stores, sells, distributes, imports or exports any food which is not of standard or 
+misbranded, shall be liable to imprisonment for a term which may extend to six 
+months but which shall not be less than one month and fine which may extend to 
+one million rupees but which shall not be less than one hundred thousand rupees.] 
+                                                           
+11Substituted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.5. 
+12Inserted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.6. 
+13Substituted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.7. 
+14
+[24. Unsafe food .– A food operator, who manufactures for sale, stores, sells, 
+distributes, imports or exports any unsafe food, shall be liable: 
+(a) where the unsafe food does not result in injury to any person, to 
+imprisonment for a term which may extend to six months but which shall 
+not be less than one month and fine which may extend to one million 
+rupees but which shall not be less than one hundred thousand rupees; 
+or 
+(b) where such unsafe food results in injury to any person, to imprisonment 
+for a term which may extend to three years but which shall not be less 
+than three months and fine which may extend to one million rupees but 
+which shall not be less than one hundred thousand rupees; or 
+(c) where such unsafe food results in death of a person, t o imprisonment 
+for a term which may extend to imprisonment for life but which shall not 
+be less than ten years and fine which may extend to three million 
+rupees but which shall not be less than two million rupees.] 
+25. False advertisement .– (1) Any person,  who for purposes of effecting or 
+promoting the sale of any food, publishes or causes to be published, any 
+advertisement which– 
+(a) falsely describes any food, or 
+(b) is contrary to any rules or regulations; or 
+(c) is likely to deceive a purchaser with reg ard to the character, nature, 
+value, substance, quality, strength, purity, composition, merit or safety, 
+weight, proportion, origin, age or effects of any food or of any 
+ingredient or constituent of the food, shall be liable to imprisonment for 
+a term which may extend to 
+15
+[one year but which shall not be less than 
+six months and fine which may extend to two million rupees but which 
+shall not be less than one million rupees]. 
+ (2) Any person, who publishes or causes to be published an 
+advertisement, which do es not contain the true name of the person by whom the 
+advertisement is published or the address of his place of business, shall be liable to 
+imprisonment for a term which may extend to 
+16
+[one year but which shall not be less 
+than six months and fine which may extend to two million rupees but which shall not 
+be less than one million rupees]. 
+26. False labeling .– (1) Any person, who prepares, packages, labels any food 
+which does not comply with the prescribed standard, shall be liable to imprisonment 
+for a te rm which may extend to 
+17
+[one year but which shall not be less than six 
+                                                           
+14Substituted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.8. 
+15Substituted for the words “six months and fine which may extend to one millio n rupees” by the Punjab Food Authority 
+(Amendment) Act 2016 (V  of 2016) ; and published in the Punjab Gazette (Extraordinary), dated 6.2.2016, pages 3717-3722, 
+s.9. 
+16Substituted for the words “six months and fine which may extend to one million rupees” by the Punjab Food Authority 
+(Amendment) Act 2016 (V  of 2016) ; and published in the Punjab Gazette (Extraordinary), dated 6.2.2016, pages 3717-3722, 
+s.9. 
+17Substituted for the words “six months and fine which may extend to one million rupees” by the Punjab Fo od Authority 
+(Amendment) Act 2016 (V  of 2016) ; and published in the Punjab Gazette (Extraordinary), dated 6.2.2016, pages 3717-3722, 
+s.10. 
+months and fine which may extend to one million rupees but which shall not be less 
+than five hundred thousand rupees]. 
+ (2) Any person, who labels any food in a manner which is false, misleading 
+or deceptive as regards its character, nature, value, substance, quality, composition, 
+merit or safety, strength, purity, weight, origin, age or proportion shall be liable to 
+imprisonment for a term which may extend to 
+18
+[one year but which shall not be less 
+than six months and fine which may extend to one million rupees but which shall not 
+be less than five hundred thousand rupees]. 
+27. Failure to comply with the directions .– If any person, without reasonable 
+cause, fails to comply with any order or notice issued by the Food Authority or a 
+Food Safety Officer, he shall be liable to imprisonment for a term which may extend 
+to three months and fine which may extend to five hundred thousand rupees. 
+19
+[28. Unhygienic or unsanitary conditions .– Any perso n, who manufactures or 
+processes or keeps any food under unhygienic or unsanitary conditions, shall be 
+liable to imprisonment for a term which may extend to six months but which shall not 
+be less than three days and fine which may extend to one million rup ees but which 
+shall not be less than twenty thousand rupees.] 
+29. Penalty for prescribed offences .– If a person, who commits an offence 
+prescribed under the rules, for which no penalty has been provided in the Act, shall 
+be liable to imprisonment for a ter m which may extend to three months and fine 
+which may extend to five hundred thousand rupees. 
+30. False information .– If a person makes a false or misleading statement, 
+provides false or misleading information or produces any false or misleading 
+document before the Food Authority or a Food Safety Officer, he shall be liable to 
+imprisonment for a term which may extend to six months and fine which may extend 
+to five hundred thousand rupees. 
+31. Obstructing the Food Safety Officer .– (1) Any person, who obstruc ts a 
+Food Safety Officer in the performance of his duties, shall be liable to imprisonment 
+for a term which may extend to six months or  fine which may extend five hundred 
+thousand rupees or both. 
+ (2) Any person, who unlawfully removes, alters or interferes, in any manner, 
+with any food, equipment or vehicle seized or any premises sealed under this Act, 
+shall be liable to imprisonment for a term which may extend to six months or fine 
+which may extend to five hundred thousand rupees. 
+20
+[32. Business without licence.– If a food operator manufactures, sells, offers for 
+sale, stores or distributes or imports any food without the prescribed registration or 
+licence, he shall be liable to imprisonment for a term which may extend to one year 
+                                                           
+18Substituted for the words “six months and fine which may extend to one million rupees” by the Punjab Food Authority  
+(Amendment) Act 2016 (V  of 2016) ; and published in the Punjab Gazette (Extraordinary), dated 6.2.2016, pages 3717-3722, 
+s.10. 
+19Substituted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.11. 
+20Substituted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.12. 
+but which shall not be l ess than three days and fine which may extend to five 
+hundred thousand rupees but which shall not be less than ten thousand rupees.] 
+33. Warranty.– (1) A food operator who is a manufacturer, distributor or dealer of 
+a prescribed food shall not sell such fo od to any food vendor unless a written 
+warranty or other written statement is given that the food complies with the 
+provisions of this Act, the rules and the regulations. 
+ (2) Any person, who contravenes the provisions of sub -section (1), shall 
+be liable to imprisonment for a term which may extend to six months and fine which 
+may extend to one million rupees. 
+ (3) Any food vendor, who gives to the purchaser a warranty in writing which 
+is false, shall be liable to imprisonment for a term which may extend to six months and 
+fine which may extend to five hundred thousand rupees. 
+34. Punishment for subsequent offence .– (1) If any person, after having been 
+previously convicted of an offence under this Act, commits any offence under the 
+Act, he shall be liable to– 
+(a) twice the punishment of imprisonment and fine, which is provided for 
+the offence under the Act; and 
+(b) a further fine which may extend to two hundred thousand rupees. 
+ (2) The licence of a food operator mentioned in sub -section (1) shall be 
+cancelled. 
+35. Compensation in case of injury or death of a consumer .– (1) In case of 
+injury or death of a consumer due to unsafe food, the Court, in addition to any other 
+penalty under this Act, shall direct the food operator to pay compensation to the 
+consumer or, as the case may be, the legal heirs of the consumer, an amount which 
+is– 
+ (a) not less than one million rupees in case of death; and 
+ (b) not exceeding five hundred thousand rupees in case of injury. 
+ (2) If the food operator fails to pay the compensation  under this section, 
+the Food Authority shall recover the compensation as arrears of land revenue and 
+make payment of the recovered amount to the consumer or, as the case may be, the 
+legal heirs of the consumer. 
+36. Forfeiture of food, etc.– In case of a conviction under this Act, the Court may 
+direct that any food, equipment, machinery, vehicle or any other thing, to which the 
+conviction relates, shall be confiscated and shall vest in the Food Authority. 
+37. Offences by companies .– (1) Where an offence und er this Act has been 
+committed by a Company, every person, who at the time of the commission of the 
+offence, was in charge of the Company shall be liable to punishment for the offence 
+and the Company shall also be liable to the punishment of fine or compen sation 
+specified for the offence. 
+ (2) Notwithstanding anything contained in sub-section (1), where it is proved 
+that the offence is attributable to any neglect on the part of any director, manager, 
+secretary or other officer of the Company, such director,  manager, secretary or other 
+officer shall also be liable to punishment for the offence. 
+Explanation.– In this section, “Company” means a body corporate and includes a 
+firm or any other association of persons. 
+38. Publication in newspapers.– If a person is  convicted of an offence and the 
+conviction has attained finality, the Food Authority shall, if so directed by the Court, 
+publish the name of the person together with the name and place of his business, the 
+nature of the offence and the fine, forfeiture, o r other penalty imposed on him, in 
+newspapers or in any other mode for information of the people and the convict shall be 
+liable to pay the cost of such publication. 
+CHAPTER V 
+JURISDICTION AND PROCEDURE 
+39. Jurisdiction of the Food Authority .– 
+21
+[On informa tion received from any 
+source, the Food Authority may, for reasons to be recorded in writing– 
+(a) register information of an offence under this Act; 
+(b) submit complaint of an offence before the Special Court; 
+ (c)  suspend or cancel the licence of the food operator; 
+(d)  impose fine on the food operator which may extend to one million 
+rupees;  
+(e) direct destruction of an adulterated or unsafe food in the prescribed 
+manner; or 
+(f)  decide, if the circumstances so warrant, not to take any action.] 
+ (2) If the Food Authority cancels the licence or imposes fine on a food 
+operator, the food operator may, within fifteen days of the communication of the order, 
+prefer an appeal against such order to such Appellate Authority as the Government 
+may specify by notification in the official Gazette. 
+ (3) The Food Authority or the Appellate Authority shall not pass any order 
+relating to suspension or cancellation of the licence or imposition of fine without 
+providing an opportunity of hearing to the food operator. 
+ (4) An order o f suspension of a licence under this section shall not be 
+passed for a period exceeding seven days at a time and, unless sooner withdrawn or  
+the licence is cancelled, shall cease to have effect on the expiry of the thirtieth day 
+from the date of first such order. 
+22
+[40. Special Court.– (1) An offence punishable under this Act shall be exclusively 
+triable by the Special Court established by the Government and where it establishes 
+more than one Special Courts, it shall specify the territorial limits within wh ich each 
+Special Court shall exercise jurisdiction under the Act. 
+                                                           
+21Substituted by the Punjab Food Authority (Amend ment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.13. 
+22Substituted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.14. 
+(2) A Special Court shall consist of a presiding officer and two technical 
+members. 
+(3) The Government shall send a panel of two or more persons to the Chief 
+Justice of Lahore High Court and  the Chief Justice shall recommend a person in the 
+panel for appointment as the presiding officer of a Special Court. 
+(4) Subject to subsection (3), the Government may appoint a person as 
+presiding officer of a Special Court who has not less than: 
+(a) five years’ experience as a Magistrate first class; or 
+(b) ten years’ experience as a prosecutor, law officer or advocate; or 
+(c) ten years’ experience in the service of Pakistan and is a law graduate. 
+(5) The Government shall appoint a person as technical mem ber of a 
+Special Court and determine terms and conditions of service of the presiding officer 
+and technical members in the prescribed manner. 
+(6) The presiding officer and at least one technical member shall constitute 
+quorum for a sitting of a Special Court. 
+(7) A decision of a Special Court shall be expressed in terms of the opinion 
+of the majority, or if the case has been decided by the presiding officer and only one 
+of the members and there is a difference of opinion between them, the decision of the 
+Special Court shall be expressed in terms of the opinion of the presiding officer. 
+(8) If the Special Court is not established or it is not functional in an area, a 
+Magistrate exercising powers under section 30 of the Code for the area shall be 
+deemed to be Special Court under the Act.] 
+23
+[41. Cognizance and investigation .– (1) An offence under this Act shall be 
+cognizable on information provided to the officer incharge of a police station by an 
+officer authorized by the Food Authority or the Food Authority ma y, through public 
+prosecutor, file complaint of an offence before the Special Court. 
+ (2) If the offence causes death of, or injury to, a person, the aggrieved 
+person may also file a complaint in the Special Court under Chapter XVI of the Code. 
+ (3) The Government shall, by notification, constitute standing investigation 
+team for an area consisting of a police officer and a food safety officer to investigate 
+an offence under the Act and, through public prosecutor, to submit report in the 
+Special Court under the Code. 
+(4) The offences under section 22A and clauses (b) and (c) of section 24 of 
+the Act shall be non-bailable.] 
+42. Time limit for prosecutions .– The prosecution for an offence under the Act 
+shall not be allowed after the expiry of three years from the date of the commission 
+of the offence or one year from its discovery by the complainant, whichever is the 
+earlier. 
+                                                           
+23Substituted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.15. 
+24
+[43. Summary trial .– (1) Notwithstanding anything contained in the Code but 
+subject to subsection (2) , a Special Court may summarily try  an offence punishable 
+under this Act and impose punishment of imprisonment for a term not exceeding six 
+months or fine not exceeding one million rupees. 
+(2) If a Special Court is of opinion that the nature of the offence does not 
+justify summary trial, it may conduct proceedings in accordance with the provisions of 
+Chapter XX of the Code.] 
+44. Defence available .– In any proceedings for an offence under this Act, the 
+exercise of due care and caution shall be valid defence if it is proved that the person 
+took all reasonable precautions and exercised due diligence to prevent the 
+commission of the offence. 
+45. Recovery of fines etc .– (1) The Food Authority shall recover the fine, fee or 
+any other amount, imposed or levied, under this Act, the rules or the regul ations, as 
+an arrears of land revenue and, for the purpose, authorize an officer to exercise the 
+powers of Collector under the Punjab Land Revenue Act 1967 (XVII of 1967). 
+ (2) The fine imposed or the fee charged under the Act, the rules or the 
+regulations shall be deposited with the Food Authority and shall form part of the 
+Food Authority Fund. 
+25
+[45A. Appeal against conviction.– (1) The Authority or the person sentenced by a 
+Special Court may, within thirty days from the date of communication of the order,  file 
+an appeal against a final order of the Special Court to Lahore High Court. 
+ (2) Save as provided in this Act or rules, no court shall take cognizance or 
+revise a sentence, or transfer any case from a Special Court, or make order under 
+sections 426, 491 or 498 of the Code or have jurisdiction of any kind in respect of any 
+proceedings of the Special Court. 
+45B. Transfer of cases .– (1) A case regarding any matter within the jurisdiction of 
+a Special Court, pending in any court immediately before the esta blishment of a 
+Special Court under this Act, shall stand transferred to the Special Court which has 
+jurisdiction to try such case. 
+(2) The Lahore High Court may transfer a case from one Special Court to 
+another Special Court or from a Special Court to any other court or from any other 
+court to a Special Court.] 
+CHAPTER VI 
+FINANCES AND REPORTS 
+46. Food Authority Fund.– (1) There shall be established a fund to be known as 
+the Food Authority Fund to be administered and controlled by the Food Authority. 
+ (2) The Food Authority Fund shall consist of– 
+(a) funds provided by the Government or the Federal Government; 
+                                                           
+24Substituted by the Punjab Food Authority (Amendment) Ac t 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.16. 
+25Inserted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.17. 
+(b) loans or grants by the Government or the Federal Government; 
+(c) other loans or funds obtained by the Food Authority; 
+(d) grants and loans negotiate d and raised, or otherwise obtained, by the 
+Food Authority with the prior approval of the Government; 
+(e) fee, charges, rentals and fines collected by the Food Authority; 
+(f) income from the lease or sale of the property; 
+(g) funds from floating bonds, sha res, debentures, certificates, or other 
+securities issued by the Food Authority; and 
+(h) all other sums received by the Food Authority. 
+ (3) The Food Authority shall meet all of its expenses from the Food 
+Authority Fund. 
+ (4) It shall be the duty of the Food Authority to conserve the Food Authority 
+Fund while performing its functions and exercising its powers under this Act. 
+47. Bank accounts.– The Food Authority may open and maintain its accounts at 
+such scheduled banks as may be prescribed, and until so p rescribed, as the 
+Government may determine. 
+48. Budget and a ccounts.– (1) The Food Authority shall maintain proper 
+accounts and other records relating to its financial affairs including its income and 
+expenditures and its assets and liabilities in such for m and manner as may be 
+prescribed. 
+ (2) After the conclusion of a financial year, the Food Authority, in the 
+manner prescribed, shall cause to be prepared for the financial year statements of 
+account of the Food Authority which shall include a balance -sheet and an account of 
+income and expenditures. 
+ (3) The Food Authority shall approve its annual budget for a financial year 
+in the prescribed manner. 
+ (4) No expenditure for which provision has not been made in any approved 
+budget shall be incurred without prior approval of the Food Authority. 
+49. Audit.– (1) The Auditor General of Pakistan shall annually audit the accounts 
+of the Food Authority. 
+ (2) The Government, in addition to the audit under sub -section (1), shall 
+cause the accounts of the Food Authorit y annually audited by a Chartered 
+Accountant or a firm of Chartered Accountants. 
+ (3) The auditor appointed under sub -section (2) shall be provided such 
+access to the books, accounts and other documents as may be considered 
+necessary for the audit of accounts. 
+ (4) The auditor shall submit the annual or any special audit report to the 
+Food Authority, and the Food Authority, under intimation to the Government, shall 
+take appropriate remedial or other action in the light of the audit report. 
+50. Annual report .– (1) The Food Authority shall, within three months of the 
+close of a financial year, submit to the Government an annual performance report. 
+ (2) The report shall consist of– 
+(a) the statement of accounts and audit reports of the Food Authority; 
+(b) a com prehensive statement of the work and activities of the Food 
+Authority during the preceding financial year and its proposed projects 
+and schemes; and 
+(c) such other matters as may be prescribed or as the Food Authority may 
+consider appropriate. 
+ (3) The Government shall, within two months of receiving the report from 
+the Food Authority, give notice for laying the report in the Provincial Assembly of the 
+Punjab, and shall lay the report in the first available session of the Assembly. 
+26
+[50A. Periodical reports.– (1) The Food Authority shall every three months submit 
+to the Government a report about the performance of the Food Authority especially 
+with respect to the protection of public health, provision of safety and standards of 
+food during the months under r eport and the steps taken and likely to be taken to 
+achieve the purposes of this Act. 
+ (2) The Government may, after considering the report, issue such 
+directions to the Food Authority as may be necessary for achieving the purposes of 
+the Act and the Authority shall implement the directions. 
+50B. Monitoring and evaluation .– (1) The Government shall, at least once in a 
+year, conduct or cause to be conducted, the performance audit of the Authority to 
+assess and evaluate the performance of the Food Authority i n accomplishing the 
+objectives of this Act. 
+(2) The Government shall evaluate the report mentioned in subsection (1) 
+and shall, on the basis of the report,  issue such directions to the Food Authority as 
+may be necessary for accomplishing the objectives of  the Act and the Food Authority 
+shall implement the directions.] 
+CHAPTER VII 
+MISCELLANEOUS 
+51. Delegation of powers .– The Food Authority may delegate, subject to such 
+conditions and restrictions as may be specified in the order, any of its functions to a 
+body, committee or an officer, except the function to– 
+(a) frame or amend regulations; 
+(b) constitute a committee or fill a vacancy in a committee; 
+(c) formulate standards, procedures, processes and guidelines in relation 
+to any aspect of food; and 
+(d) approve the annual report, annual budget and audited accounts. 
+                                                           
+26Inserted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016) ; and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.18. 
+52. Reward by the Food Authority .– The Food Authority may, in the manner 
+prescribed by the rules, make payment of reward from the Food Authority Fund to 
+any person who has made an exceptional effor t towards accomplishing the objective 
+of this Act. 
+53. Public servants.– The Chairperson, the members and the employees of the 
+Food Authority shall be deemed, when acting in the discharge of their functions 
+under this Act, to be public servants within the meaning of section 21 of the Pakistan 
+Penal Code 1860 (XLV of 1860). 
+54. Immunity.– No suit, prosecution or other legal proceedings shall lie against the 
+Government, any officer of the Government, the Food Authority, the Chairperson, a 
+member or any employee of the Food Authority for anything which is done in good faith 
+under this Act, the rules or the regulations. 
+27
+[54A. Bar of jurisdiction .– A civil court shall not entertain a suit or an application 
+against any proceedings taken or order made under this Act.] 
+55. Overriding effect .– The provisions of this Act shall have effect 
+notwithstanding anything contained in any other law. 
+56. Government to make rules .– The Government may make rules for carrying 
+out the purposes of this Act. 
+57. Food Authority to fra me regulations.– (1) Subject to this Act and the rules, 
+the Food Authority may, by notification, frame regulations to give effect to the 
+provisions of the Act. 
+ (2) Without prejudice to the generality of sub -section (1), the regulations 
+may provide for: 
+(a) procedure for transaction of business of the Food Authority; 
+(b) terms and conditions of service of the employees of the Food Authority; 
+(c) procedure and conduct of business by a scientific panel; 
+(d) standards and guidelines in relation to any food, fo od places, food 
+workers and food handlers; 
+(e) limits of additives, contaminants, toxic substance, heavy metals 
+pesticides, veterinary drugs, residues etc., in the food; 
+(f) marking, packaging, labelling, advertising and warranty of any food; 
+(g) food recall procedures, improvement notices and prohibition orders; 
+(h) licensing and registration procedures; 
+(i) inspection of food business, safe and hygienic storage and 
+transportation practices; 
+(j) recognition and accreditation of laboratories and scale of fe e for a 
+laboratory test; 
+                                                           
+27Inserted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.19. 
+(k) search of a premises, vehicle or person and guidelines for taking and 
+handling samples of any food; 
+(l) prosecutions and appeals under the Act; and 
+(m) finances, accounts, budget and reporting procedures. 
+58. Repeal and savings .– (1) The Punjab Pure Food Ordinance 1960 ( VII of 
+1960) is hereby repealed. 
+ (2) Subject to this Act, any licence or order issued under the repealed 
+Ordinance, which is in force on the date of coming into force of the Act, shall be 
+deemed to have been iss ued under the Act and shall continue to be in force until 
+expired, cancelled or withdrawn. 
+ (3) The standards, safety requirements and other provisions of the 
+repealed Ordinance or the rules made thereunder, shall, to the extent of consistency 
+with the Act , continue to remain in force till the standards, safety requirements are 
+prescribed under the Act. 
+ (4) The Punjab Food Safety and Standards Authority Ordinance 2011 (I of 
+2011) is hereby repealed. 
+59. Power to remove difficulties .– The Government may, by  notification, make 
+such provisions not inconsistent with this Act, as may appear necessary for removing 
+any difficulty or giving effect to the provisions of the Act. 
+28
+[SCHEDULE 
+(Section 22A) 
+ 
+Sr# Article of Food Quantity  
+1 Milk 500 litre 
+2 Desi Ghee, Butter, 1000 kg 
+3 Khoya 1000 kg 
+4 Edible oils & fats 1000 litre 
+5 Tea 250 kg 
+6 Atta, Maida, Suji, Basin 1000 kg 
+7 Sugar, Honey, Gur, Shakar or other sweeteners 1000 kg 
+8 Prepared food 100 kg 
+9 Ketchup, Sauces & Pickles 250 kg 
+10 Aerated Carbonated water 1000 litre 
+12 Spices  250 kg 
+13 Cereal & Cereal Product(other than Atta) 500 kg 
+14 Snack Products 500 kg 
+15 Confectionary  250 kg 
+16 Ice Cream, Kulfi, cream, condensed milk, cheese, Yogurt 250 kg 
+17 Baby Foods 100 kg 
+18 Milk Powders 500 kg 
+19 Syrup, sherbets, Fruit and Vegetable concentrates 500 litre 
+20 Water 500 litre 
+21 Vegetables & Fruits 200 kg 
+22 Meat & Poultry  200 kg 
+23 Meat & Poultry (If section 2(a)(i) is attracted) 20 kg 
+24 Foods not specified. 250 kg] 
+ 
+                                                           
+28Inserted by the Punjab Food Authority (Amendment) Act 2016 (V  of 2016 ); and published in the Punjab Gazette 
+(Extraordinary), dated 6.2.2016, pages 3717-3722, s.20.

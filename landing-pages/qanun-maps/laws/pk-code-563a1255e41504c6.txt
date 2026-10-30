@@ -1,0 +1,666 @@
+THE COUNTERVAILING DUTIES ORDINANCE, 2001
+CONTENTS
+PREAMBLE..
+1 Short title, extent and commencement
+2 Definitions
+3 Levy of countervailing duty
+4 Circumstances in which subsidy shall be deemed to exist
+5 Countervailable subsidies
+6 Non­countervailable subsidies
+7 Calculation of amount of countervailable subsidy
+8 General provisions on calculation of countervailable subsidies
+9 Determination of injury
+10 Further circumstances in which injury may be found to exist
+11 Initiation of investigation
+12 Principles governing investigation
+13 Provisional countervailing duties
+14 Undertakings
+15 Termination of investigation without measures
+16 Imposition of definitive countervailing duties
+17 Retroactivity
+18 Duration of definitive countervailing duty
+19 Expiry reviews
+20 Interim reviews
+21 Accelerated reviews
+22 Refunds
+23 General provisions on reviews and refund
+24 Circumvention
+25 General provisions
+26 Verification visits
+27 Sampling
+Page 1 of 50
+28 Non­cooperation
+29 Confidentiality
+30 Disclosure
+31 Relationships between countervailing duty measures and multilateral remedies
+32 Appeal to the appellate tribunal
+33 Power of the appellate tribunal to call for and examine record
+34 Power to make rules
+35 Public servants
+36 Failure to disclose correct information offence
+37 Cognizance of offences
+38 Protection to persons prejudiced in employment because of assisting thecommission
+39 Public file to be maintained for interested party and access thereto
+40 Official file to be maintained by the commission
+41 Appointment of advisers and consultants
+42 Indemnity
+43 Removal of difficulties
+44 Ordinance to override other laws
+FIRST SCHEDULE..
+SECOND SCHEDULE..
+THIRD SCHEDULE..
+FOURTH SCHEDULE..
+FIFTH SCHEDULE..
+Page 2 of 50
+ 
+THE COUTERVAILING DUTIES ORDINANCE, 2001
+ORDINANCE No. I OF 2001
+[3rd January, 2001]
+An Ordinance to amend and consolidate the law relating to imposition of countervailing duties tooffset subsidies.
+WHEREAS it is expedient and to give effect in Pakistan to the provisions of Articles VI and XVIof the General Agreement on Tariffs and Trade, 1994, and to the Agreement on Subsidies andCountervailing Measures and to amend and consolidate the law relating to imposition ofcountervailing duties to offset such subsidies, to provide a framework for investigation anddetermination of such subsidies and injury in respect of goods imported into Pakistan and mattersancillary thereto or connected therewith;
+ AND WHEREAS the imposition of countervailing duties to offset injurious subsidization is in thepublic interest;
+ AND WHEREAS the National Assembly and the Senate stand suspended in pursuance of theProclamation of the fourteenth day of October, 1999, and the Provisional Constitution Order No. 1 of1999;
+AND WHEREAS the President is satisfied that circumstances exist which render it necessary totake immediate action;
+NOW THEREFORE, in pursuance of the Proclamation of Emergency of the fourteenth day ofOctober, 1999, and the Provisional Constitution Order No. 1 of 1999, read with the ProvisionalConstitutional (Amendment) Order No. 9 of 1999, and in exercise of all powers enabling him in thatbehalf, the President of the Islamic Republic of Pakistan is pleased to make and promulgate thefollowing Ordinance:__
+PART I
+PRELIMINARY
+1. Short title, extent and commencement.– (1) This Ordinance may be called the CountervailingDuties Ordinance, 2001.
+(2) It extends to the whole of Pakistan.
+(3) It shall come into force at once.
+2. Definitions.– In this Ordinance, unless there is anything repugnant in the subject or context,–
+(a) “Agreement on Subsidies” means the Agreement on Subsidies and CountervailingMeasures included in Annex (1A) to the Final Act of the Results of the Uruguay Roundconcerning the Implementation of Article XVI of the General Agreement on Tariffs andTrade, 1994; 
+Page 3 of 50
+(b) “Appellate Tribunal” means the Appellate Tribunal established under the Anti­DumpingOrdinance, 2000 ( LXV of 2000);
+(c) “application” means an application submitted to the Commission pursuant to sub­section(1) of section 11;
+(d) “association” means a trade organisation as defined in the Trade Organisations Ordinance,1961( XLV of 1961), which has been granted or deemed to have been granted a licencethereunder;
+(e) “Commission” means the National Tariff Commission established under the NationalTariff Commission Act, 1990 (VI of 1990);
+(f) “country” means any country or territory whether a member of the World TradeOrganisation or not and includes a customs union or customs territory;
+(g) “countervailing measures” means any measures that may be taken by the Commissionunder this Ordinance including imposition of countervailing duties, whether provisional ordefinitive, or the acceptance of an undertaking;
+(h) “definitive countervailing duty” means a duty imposed by the Commission under section16, sub­section (15) of section 14 or sub­section (2) of section 17;
+(i) “domestic industry” means the domestic producers as a whole of a like product or those ofthem whose collective output of that product constitutes a major proportion of the totaldomestic production of that product, except that when any such domestic producers arerelated to the exporters or importers, or are themselves importers of the allegedlysubsidised product, in such a case “domestic industry” shall mean the rest of the domesticproducers.
+Explanation.–For the purposes of this clause, producers shall be deemed to be related toexporters or importers only if –
+(i) one of them directly or indirectly controls the other;
+(ii) both of them are directly or indirectly controlled by the same third person; or
+(iii) together they directly or indirectly control a third person:
+Provided that there are grounds for believing or suspecting that the effect of the relationship issuch as to cause the producer concerned to behave differently from non­related producers and forthat purpose one shall be deemed to control another when the former is legally or operationally in aposition to exercise restraint or direction over the latter:
+Provided further that, in exceptional circumstances, as may be determined by the Commission,the domestic industry in relation to a product 
+Page 4 of 50
+in question may be divided into two or more competitive markets and producers within each suchmarket may be regarded as a separate industry if–
+(i) the producers within such a market sell all or almost all of their production of the productin question in such a market; and
+(ii) he demand in such a market is not to any substantial degree supplied by producers of theproduct in question located elsewhere in Pakistan;
+(j) “exporting country” means a country granting subsidy in respect of an investigatedproduct, which country may be either –
+(i) the country of origin of the investigated product; or
+(ii) where the investigated product is not exported directly to Pakistan but is transportedthrough an intermediate country, such intermediate country;
+(k) “government” means the government or any public body within the territory of anexporting country;
+(l) “injury” means, unless otherwise specified, material injury to a domestic industry, threat ofmaterial injury to a domestic industry or material retardation of the establishment of adomestic industry, when subsidised imports are causing such injury;
+(m) “interested party” includes –
+(i) an exporter, foreign producer, an importer of an investigated product or an associationa majority of the members of which are producers, exporters or importers of suchproduct;
+(ii) a producer of a like product in Pakistan or an association a majority of the membersof which produce a like product in Pakistan; and
+(iii) such other person or group of persons as the Commission may, by notification in theofficial Gazette, specify;
+(n) “investigated product” means a product which is subject to an investigation under thisOrdinance;
+(o) “investigation” means an investigation conducted under this Ordinance;
+(p) “like product” means a product which is alike in all respects to an investigated product or,in the absence of such a product, another product which, although not alike in allrespects, has characteristics closely resembling those of the investigated product;
+(q) “prescribed” means prescribed by rules made under this Ordinance; 
+Page 5 of 50
+(r) “provisional countervailing duty” means a duty imposed by the Commission under section13;
+(s) “public notice” means a notice published by the Commission in at least one issue each of adaily newspaper in the English language and a daily newspaper in the Urdu languagehaving wide circulation in Pakistan;
+(t) “Schedule” mean the Schedule to this Ordinance;
+(u) “subsidy” means a subsidy as defined in section 4 and “subsidization” shall be construedaccordingly; and
+(v) “WTO” means the World Trade Organisation established pursuant to the MarrakeshAgreement concluded in Marrakesh, Morocco, on the 15th April, 1994.
+ 
+PART II
+COUNTERVAILING MEASURES
+3. Levy of countervailing duty.– (1) Where the Commission determines in accordance with theprovisions of this Ordinance that any exporting country pays or bestows, directly or indirectly, anysubsidy upon the manufacture or production therein or the exportation therefrom of any investigatedproduct including any subsidy on transportation of such product and such subsidy causes injury then,upon the importation of any such product into Pakistan, the Commission shall, by notification in theofficial Gazette, impose a countervailing duty thereon as provided for in this Ordinance.
+(2) For the purposes of this Ordinance, a product shall be considered to be subsidised if it benefitsfrom a countervailable subsidy as provided for in section 4 and 5.
+(3) A subsidy may be granted by a government of the country of origin of an investigated productor by the government of an intermediate country from which the investigated product is exported toPakistan.
+(4) Notwithstanding anything contained in this Ordinance, where an investigated product is notdirectly imported from the country of origin but exported to Pakistan from an intermediate country,the provisions of this Ordinance shall be fully applicable and such transaction shall, where consideredappropriate by the Commission, by regarded as having taken place between the country of origin ofthe investigated product and Pakistan.
+PART III
+DEFINITION OF SUBSIDY, COUNTERVAILABLE AND
+NON­COUNTERVAILABLE SUBSIDIES
+4. Circumstances in which subsidy shall be deemed to exist.– A subsidy shall be deemed toexist if – 
+Page 6 of 50
+(a) there shall be financial contribution by a government, where –
+(i) the government practice involves direct transfer of funds including grants, loans andequity infusion, or potential direct transfer of funds or liabilities, or both;
+(ii) government revenue that is otherwise due is foregone or not collected includingfiscal incentives such as tax credits:
+Provided that exemption of an exported product from duties or taxes borne by a likeproduct when destined for domestic consumption, or remission of such duties ortaxes in amounts not in excess of those which have accrued, shall not be deemed tobe a subsidy provided that such exemption is granted in accordance with theprovisions of the First, Second and Third Schedules;
+(iii) the government provides goods or services other than general infrastructure orpurchases goods; or
+(iv) the government makes payments to a funding mechanism, or entrusts or directs aprivate body to carry out one or more of the type of functions specified in sub­clauses (i), (ii) and (iii) which would normally be vested in the government and thepractice in, no real sense, differs from practices normally followed by governments;
+(b) there is any form of income or price support within the meaning of Article XVI of theGeneral Agreement on Tariffs and Trade, 1994; and
+(c) a benefit is thereby conferred.
+5. Countervailable subsidies.– (1) A subsidy shall be subject to countervailing measures underthis Ordinance only if the Commission determines that such subsidy is specific in accordance with theprinciples set out in sub­sections (2), (3), (4) and (5).
+(2) In order to determine whether a subsidy is specific to an enterprise, industry or a group ofenterprises or industries, hereinafter referred to as “certain enterprises”, within the jurisdiction of agranting authority, the Commission shall apply the following principles, namely:–
+(a) where the granting authority, or the legislation pursuant to which the granting authorityoperates, explicitly limits access to a subsidy to certain enterprises, such subsidy shall bespecific;
+(b) where the granting authority, or the legislation pursuant to which the granting authorityoperates, establishes objectives criteria or conditions governing the eligibility for, and theamount of, a subsidy, specificity shall not exist, provided that the eligibility is automaticand that such criteria and conditions are strictly adhered to; 
+Page 7 of 50
+Explanation.– For the purposes of clause (b), objective criteria or conditions mean criteria orconditions which are neutral, which do not favour certain enterprises over other, and which areeconomic in nature and horizontal in application, such as, number of employees or size of enterprise.Such criteria or conditions must be clearly set out by law, regulation, or other official document, so asto be capable of verification; and
+(c) if, notwithstanding any appearance of non­specificity resulting from the application of theprinciples laid down in sub­clauses (a) and (b), there are reasons to believe that thesubsidy may in fact be specific, the following other factors may be considered by theCommission, namely:–
+(i) use of a subsidy programme by a limited number of certain enterprises;
+(ii) predominant use by certain enterprises;
+(iii) granting of disproportionately large amounts of subsidy to certain enterprises; and
+(iv) manner in which discretion has been exercised by the granting authority in thedecision to grant a subsidy;
+Explanation.– For the purposes of clause (c), information on the frequency with whichapplications for a subsidy are refused or approved and the reasons for such decisions shall, inparticular, be considered.
+(3) In applying the provisions of sub­clause (c) of sub­section (2), the Commission shall take intoaccount the extent of diversification of economic activities within the jurisdiction of a grantingauthority and the length of time during which subsidy programme has been in operation.
+(4) A subsidy which is limited to certain enterprises located within a designated geographicalregion within the jurisdiction of a granting authority shall be specific.
+(5) The setting or changing of generally applicable tax rates by all levels of the governmententitled to do so shall not be deemed to be a specific subsidy.
+(6) Notwithstanding anything contained in sub­section (2), (3), (4) and (5), the following subsidiesshall be deemed to be specific, namely:–
+(a) subsidies contingent, in law or in fact, whether solely or as one of several other conditions,upon export performance, including those illustrated in the First Schedule:
+ Provided that subsidies shall be considered by the Commission to be contingent in fact uponexport performance when the facts demonstrate that granting of a subsidy, without having been madelegally contingent upon export performance, is in fact tied to actual or anticipated exportation orexport earnings: 
+Page 8 of 50
+Provided further that the mere fact that a subsidy is accorded to enterprises which export shallnot for that reason alone be considered by the Commission to be an export subsidy for the purposesof this sub­clause; and
+(b) subsidies contingent, whether solely or as one of several other conditions, upon the use ofdomestic over imported goods.
+(7) Any determination of specificity by the Commission under this section shall be substantiatedon the basis of positive evidence.
+6. Non­countervailable subsidies.– (1) The following subsidies shall not be subjected tocountervailing measures under this Ordinance, namely:–
+(a) subsidies which are not specific as determined in accordance with the provisions ofsection 5;
+(b) subsidies which are specific in accordance with the provisions of section 5 but which meetthe conditions set out in sub­section (2), (4) or (6) as read with sub­section (3), (5) and(7); and
+(c) the element of subsidy which may exist in any of the measures listed in the FourthSchedule:
+Provided that the provisions of this sub­clause shall cease to apply on the first day of January,2004.
+(2) Subsidies for research activities conducted by firms or by higher education or researchestablishments on a contract basis with firms shall not be subject to countervailing measures underthis Ordinance, if the subsidies cover not more than seventy­five per cent of the costs of industrialresearch or fifty per cent of the costs of pre­competitive development activity, provided that suchsubsidies are limited exclusively to –
+(a) personnel costs such as researchers, technicians and other supporting staff employedexclusively in the research activity;
+(b) costs of instruments, equipment, land and buildings used exclusively and permanentlyexcept, when disposed of on a commercial basis, for the research activity;
+(c) costs of consultancy and equivalent services used exclusively for the research activityincluding bought­in research, technical knowledge, patents or otherwise;
+(d) additional overhead costs incurred directly as a result of the research activity; and
+(e) other running costs such as those of materials, supplies and the like incurred directly as aresult of the research activity.
+(3) For the purpose of sub­section (2) – 
+Page 9 of 50
+(a) allowable levels of non­countervailable subsidy shall be established by reference to thetotal eligible costs incurred over the duration of an individual project and in the case ofprogrammes which span both industrial research and pre­competitive developmentactivity, allowable level of non­countervailable subsidy shall not exceed a simple averageof the allowable levels of non­countervailable subsidy applicable to the above twocategories, calculated on the basis of all eligible costs as set forth in sub­clauses (a) to (e)of sub­section (2);
+(b) the term “industrial research” means planned research or critical investigation aimed atdiscovery of new knowledge, with the objective that such knowledge may be useful indeveloping new products, processes, services, or  in bringing about a significantimprovement to existing products, processes or services; and
+(c) the term “pre­competitive development activity” means translation of industrial researchfindings into a plan, blueprint or design for new, modified or improved products,processes or services, whether intended for sale or for use, including creation of a firstprototype which would not be capable of commercial use and, may further includeconceptual formulation and design of products, processes or services, alternatives andinitial demonstration or pilot projects, provided that the same projects cannot beconverted or used for industrial application or commercial exploitation but, shall excluderoutine or periodic alterations to existing products, production lines, manufacturingprocesses, services, and other ongoing operations even though those alterations mayrepresent improvements.
+(4) Subsidies to disadvantaged regions within the territory of an exporting country given pursuantto a general framework of regional development, which would be non­specific if the criteria set out insection 5 were applied to each eligible region concerned, shall not be subject to countervailingmeasures under this Ordinance, provided that–
+(a) each disadvantaged region is a clearly designated contiguous geographical area with adefinable economic and administrative identity; and
+(b) the region is regarded as disadvantaged on the basis of neutral and objective criteria,indicating that the region’s difficulties arise out of more than temporary circumstances;such criteria being clearly set out by law, regulation, or other official document, so as tobe capable of verification.
+Explanation.– The criteria mentioned in sub­clause (b) shall include a measurement of economicdevelopment which shall be based on at least one of the following factors, namely:–
+(i)  either income per capita, or household income per capita, or Gross Domestic Product percapita, which must not be above eighty­five per cent of the average for the territory of anexporting country; or
+(ii) unemployment rate, which must be at least one hundred and ten per cent of the averagefor the territory of an exporting country as measured over a 
+Page 10 of 50
+three­years period. Such measurement, however, may be a composite one and mayinclude other factors.
+(5) For the purposes of the sub­section (4) –
+(a) a “general framework of regional development” means that regional subsidy programmesare part of an internally consistent and generally applicable regional development policyand that regional development subsidies are not granted in isolated geographical pointshaving no, or virtually no, influence on the development or a region; and
+(b) “neutral and objective criteria” means criteria which do not favour certain regions beyondwhat is appropriate for elimination or reduction of regional disparities within theframework of a regional development policy.
+Explanation.– Regional subsidy programmes shall include ceilings on the amount of subsidywhich can be granted to each subsidized project. Such ceilings must be differentiated according to thedifferent levels of development of eligible regions and must be expressed in terms of investment costsor the cost of job creation. Within such ceilings, the distribution of subsidy shall be sufficiently broadand even to avoid predominant use of a subsidy by, or granting of disproportionately large amounts ofsubsidy to, certain enterprises.
+(6) Subsidies to promote adaptation of existing facilities to new environmental requirementsimposed by either law or regulation, or both which, result in greater constraints and financial burdenon firms shall not be subject to countervailing measures under this Ordinance, provided that subsidy–
+(a) is a one­off non­recurring measure;
+(b) is limited to twenty percent of the cost of adaptation;
+(c) does not cover the cost of replacing and operating a subsidized investment which, must befully borne by the entity;
+(d) is directly linked to and proportionate to an entity’s planned reduction of nuisances andpollution, and does not cover any manufacturing cost savings which may be achieved;and
+(e) is available to all entities which can either adopt new equipment or production processes,or both.
+(7) For the purpose of sub­section (6) the term “existing facilities” means facilities having been inoperation for at least two years at the time when new environmental requirements are imposed.
+Page 11 of 50
+PART IV
+CALCULATION OF THE AMOUNT OF
+COUNTERVAILABLE SUBSIDY
+7. Calculation of amount of countervailable subsidy.– (1) The amount of countervailablesubsidy, for the purposes of this Ordinance, shall be calculated by the Commission in terms of anybenefit conferred on a recipient which is found to exist during an investigation period forsubsidization which period, shall normally be the most recent accounting year of the beneficiary butmay be any other period of at least six months prior to initiation of an investigation for which reliablefinancial and other relevant data are available.
+(2) In determining the amount of countervailable subsidy the Commission shall apply thefollowing principles to calculate any benefit conferred on the recipient as referred to in sub­section(1), namely:–
+(a) government provisions of equity capital shall not be considered to confer any benefit,unless an investment can be regarded as inconsistent with the usual investment practiceincluding, for the provision of risk capital of private investors in the territory of anexporting country;
+(b) a loan by a government shall not be considered to confer any benefit, unless there is adifference between the amount that a firm receiving the government loan pays on it andthe amount that the firm would pay for a comparable commercial loan which the firmcould actually obtain on the market, in which event the benefit shall be the differencebetween these two amounts;
+(c) a loan guarantee by a government shall not be considered to confer any benefit, unlessthere is a difference between the amount that a firm receiving the guarantee pays on theloan guaranteed by the government and the amount that the firm would pay for acomparable commercial loan in the absence of the guarantee, in which case the benefitshall be the difference between these two amounts, adjusted for any difference in fees;and
+(d) a provision of goods or services or purchase of goods by a government shall not beconsidered to confer any benefit, unless the provision is made for less than adequateremuneration or the purchase is made for more than adequate remuneration, and theadequacy of remuneration shall be determined in relation to prevailing market conditionsfor the product or service in question in the country of provision or purchase includingprice, quality, availability, marketability, transportation and other conditions of purchaseor sale.
+8. General provisions on calculation of countervailable subsidies.– (1) Subject to sub­section(2), the amount of countervailable subsidies shall be determined by the Commission in terms ofsubsidization per unit of an investigated product exported to Pakistan and in establishing such amountthe following elements may be deducted from the total subsidy, namely:– 
+Page 12 of 50
+(a) any fee or other costs necessarily incurred in order to qualify for or, to obtain a subsidy;and
+(b) export taxes, duties or other charges levied on export of an investigated product toPakistan specifically intended to offset a subsidy.
+(2) Where an interested party claims a deduction under sub­section (1) such party shall prove tothe Commission that the claim is justified.
+(3) Where a subsidy is not granted by reference to the quantities manufactured, produced,exported or transported, the amount of countervailable subsidy shall be determined by allocating thevalue of the total subsidy, as appropriate, over the level of production, sales or exports of theproducts concerned during an investigation period for subsidization.
+(4) Where a subsidy can be linked to acquisition or future acquisition of fixed assets, the amountof countervailable subsidy shall be calculated by spreading the subsidy across a period which reflectsnormal depreciation of such assets in the industry concerned, and the amount so calculated which isattributable to an investigation period, including that which derives from fixed asset acquired beforesuch period, shall be allocated as provided for in sub­section (2):
+ Provided that where assets are non­depreciating, a subsidy shall be valued as an interest­freeloan, and be treated in accordance with the provisions of sub­clause (b) of sub­section (2) of section7.
+(5) Where a subsidy cannot be linked to acquisition of fixed assets, the amount of any benefitreceived during an investigation period shall, in principle, be attributed to this period, and allocated asprovided for in sub­section (2), unless special circumstances arise justifying attribution over adifferent period.
+PART V
+DETERMINATION OF INJURY
+9. Determination of injury.– (1) A determination of injury by the Commission shall be based onpositive evidence and shall involve an objective examination of –
+(a) volume of any subsidised imports and their effect on prices in domestic market for likeproducts; and
+(b) consequent impact of subsidised imports on domestic industry.
+Explanation.– With regard to volume of any subsidised imports, consideration shall be given bythe Commission to whether there has been a significant increase in subsidised imports, either inabsolute terms or relative to production or consumption in Pakistan. With regard to effect of anysubsidised imports on prices, consideration shall be given by the Commission to whether there hasbeen significant price undercutting by the subsidised imports as compared with the price of a likeproduct of domestic industry, or whether the effect of such imports is otherwise to depress prices to asignificant degree or prevent price increases which would otherwise 
+Page 13 of 50
+have occurred, to a significant degree, provided that no one or more of these factors shall be deemedto necessarily give decisive guidance.
+(2) Where imports of a product from more than one country are simultaneously subject to aninvestigation, the effects of such imports may be cumulatively assessed by the Commission only if itdetermines that__
+(a) the amount of countervailable subsidies established in relation to the imports from eachcountry is negligible as defined in sub­section (3) of section 15 and that the volume ofimports from each country is not negligible; and
+(b) a cumulative assessment of the effects of the imports is appropriate in the light ofconditions of competition between imported products and the conditions of competitionbetween the imported products and a like domestic product.
+(3) An examination by the Commission of an impact of subsidised imports on a domestic industryconcerned may include an evaluation of all relevant economic factors and indices having a bearing onthe state of the domestic industry including the fact that the domestic industry is still in the process ofrecovering from the effects of past subsidisation or dumping, the magnitude of the amount ofcountervailable subsidies, actual and potential decline in sales, profits, output, market share,productivity, return on investments, utilisation of capacity, factors affecting domestic prices, actualand potential negative effects on cash flow, inventories, employment, wages, growth, ability to raisecapital or investments and, in the case of agriculture, whether there has been an increased burden onGovernment support programmes.
+(4) The Commission shall satisfy itself that subsidised imports are, through the effects ofsubsidies, as set forth in sub­sections (1) and (3), causing injury within the meaning of this Ordinance.The consideration of a causal relationship between subsidised imports and injury to domestic industryshall be based on an examination by the Commission of all relevant evidence before it.
+(5) The Commission shall examine known factors other than subsidised imports which are injuringdomestic industry to ensure that injury caused by such other factors is not attributed to subsidisedimports. Such other factors may include factors such as the volume and prices of non­subsidisedimports, contraction in demand or changes in patterns of consumption, restrictive trade practices ofand competition between a third country and domestic producers, developments in technology andexport performance and productivity of domestic industry.
+(6) The effect of subsidised imports shall be assessed by the Commission in relation to theproduction by domestic industry of a like product when available data permits separate identificationof that production on the basis of such criteria as the production process, producers’ sales and profits:
+Provided that where such separate identification of that production is not possible, the effects ofsubsidised imports shall be assessed by the Commission by examination of the production of thenarrowest group or range of products including a like product, for which the necessary informationcan be provided. 
+Page 14 of 50
+(7) A determination of a threat of material injury by the Commission shall be based on facts andnot merely on allegation, conjecture or remote possibility and any change in circumstances whichwould create a situation in which subsidy would cause injury must be foreseen and imminent.
+(8) In making a determination regarding the existence of a threat of material injury, theCommission shall take into consideration factors such as –
+(a) the nature of subsidy or subsidies in question and any trade effects likely to arisetherefrom;
+(b) any significant rate of increase of subsidised imports into a domestic market indicating thelikelihood of substantially increased imports;
+(c) sufficient freely disposable capacity of an exporter or an imminent substantial increase insuch capacity indicating the likelihood of substantially increased subsidised exports intoPakistan, account being taken of the availability of other export markets to absorb anyadditional exports;
+(d) whether imports are entering at prices that would, to a significant degree, depress prices orprevent price increases which otherwise would have occurred and would probablyincrease demand for further imports; and
+(e) inventories of an investigated product.
+Explanation.– None of the factors specified in sub­section (8) by itself shall be deemed tonecessarily give decisive guidance but the totality of the factors considered by the Commission mustlead to the conclusion that further subsidised exports are imminent and that, unless protective actionis taken, material injury will occur.
+10. Further circumstances in which injury may be found to exist.– (1) Where domesticindustry in relation to a product in question has been divided into two or more competitive marketsand the producers within each such market regarded as a separate industry in accordance with thesecond proviso to clause (i) of section 2, injury may be found to exist even where a major portion ofthe total domestic industry does not suffer injury provided that, there is a concentration of subsidisedimports into such a separated market, and provided further that the subsidised imports are causinginjury to the producers of all or almost all of the production within such market.
+(2) Where injury is found to exist in the circumstances referred to in sub­section (1), theexporters or the government granting countervailable subsidies shall be given an opportunity to offeran undertaking in accordance with section 14 in respect of the region concerned or to cease exportingat subsidised prices to the region concerned prior to any countervailing measures being applied by theCommission under this Ordinance.
+(3) In the circumstances referred to in sub­section (2), special account shall be taken by theCommission of any interest of the region and if an adequate undertaking is not offered promptly or ifthe situations set out in sub­section (13) and (14) of section 14 apply, a 
+Page 15 of 50
+provisional or definitive countervailing duty may be imposed by the Commission in respect ofdomestic industry as a whole.
+(4) The provisions of sub­section (6) of section 9 shall apply to this section.
+PART VI
+INVESTIGATION
+11. Initiation of investigation.– (1) Save as provided for in sub­section (11), the Commissionshall initiate an investigation to determine the existence, degree and effect of any alleged subsidy onlyupon receipt of a written application by or on behalf of domestic industry.
+(2) An application shall be submitted to the Commission with such fee as may be prescribed andshall include sufficient evidence of the existence of countervailable subsidies including, if possible, oftheir amount, and of injury within the meaning of this Ordinance and shall contain such informationas is reasonably available to an applicant on the following, namely:–
+(a) identity of the applicant and a description of the volume and value of domestic productionof a like product by the applicant;
+Provided that where an application is made on behalf of domestic industry, the applicationshall identify the industry on behalf of which the application is made by a list of all knowndomestic producers of the like product or, association of domestic producers of the likeproduct and, to the extent possible, a description of the volume and value of domesticproduction of the like product accounted for by such producers;
+(b) a complete description of an allegedly subsidised product including its current customstariff classification number as contained in the First Schedule to the Customs Act, 1969(IV of 1969), the name of exporting country, identity of each known exporter or foreignproducer, and a list of known persons importing the product in question;
+(c)   evidence with regard to the existence, amount, nature and countervailability of subsidyin question; and
+(d) information on changes in volume of allegedly subsidised imports, the effect of thoseimports on prices of a like product in domestic market and the consequent impact of theimports on domestic industry as demonstrated by relevant factors and indices having abearing on the state of domestic industry, such as those listed in the explanation to sub­section (1) of section 9, and in sub­section (3) of section 9.
+(3) The Commission shall, to the extent possible, examine the accuracy and adequacy of theevidence provided in an application to determine whether it is compliant with the requirements ofsub­section (2) and in order to determine whether there is sufficient evidence to justify initiation of aninvestigation. 
+Page 16 of 50
+(4) An investigation may be initiated by the Commission in order to determine whether or not thealleged subsidies are specific in accordance with the principles set out in section 5.
+(5) An investigation may also be initiated by the Commission in respect of subsidies which arenon­countervailable in accordance with the provisions of section 6 in order to determine whether ornot the conditions set out therein have been met.
+(6) If a subsidy is granted pursuant to a subsidy programme which has been notified in advance ofits implementation to the WTO Committee on Subsidies and Countervailing Measures in accordancewith Article 8 of the Agreement on Subsidies and in respect of which the said Committee has failed todetermine that the relevant conditions laid down in Article 8 of the Agreement on Subsidies have notbeen met, an investigation shall not be initiated by the Commission in respect of a subsidy grantedpursuant to such a programme, unless an infringement of Article 8 of the Agreement on Subsidies hasbeen ascertained by the competent WTO Dispute Settlement Body or through arbitration as providedin Article 8(5) of the Agreement on Subsidies.
+(7) An investigation may be initiated by the Commission in respect of measures of any type listedin the Fourth Schedule, to the extent that they contain an element of subsidy as defined in section 4,in order to determine whether the measures in question fully conform to the provisions of the FourthSchedule.
+(8) An investigation shall not be initiated by the Commission pursuant to sub­section (1) unlessthe Commission is satisfied, on the basis of an examination as to the degree of support for, oropposition to, an application expressed by domestic producers of a like product, that the applicationhas been made by or on behalf of domestic industry.
+(9) An application shall be considered to have been made by or on behalf of domestic industry ifit is supported by those domestic producers whose collective output constitutes more than fiftypercent of the total production of a like product produced by that portion of domestic industryexpressing either support for or opposition to the application:
+Provided that no investigation shall be initiated by the Commission when domestic producersexpressly supporting an application account for less than twenty­five percent of the total productionof a like product produced by domestic industry.
+(10) The Commission shall, as soon as possible after receipt of a properly documented applicationin accordance with the requirements of section 11, and in any event before initiation of aninvestigation, give notice to an exporting country, which shall be invited for consultations with theaim of clarifying the situation as to matters referred to in sub­section (2) and arriving at a mutuallyagreed solution.
+(11) The Commission may, suo moto, initiate an investigation without having received a writtenapplication by or on behalf of domestic industry if it has sufficient evidence of the existence ofcountervailable subsidies and injury within the meaning of this Ordinance.
+(12) The evidence both of subsidy and of injury shall be considered simultaneously by theCommission in the decision on whether or not to initiate an investigation and an 
+Page 17 of 50
+application shall be rejected where there is insufficient evidence of either countervailable subsidies orof injury to justify initiation of an investigation:
+Provided that an investigation shall not be initiated against countries whose imports represent amarket share of below one per cent unless such countries collectively account for three per cent ormore of domestic consumption.
+(13) An application may be withdrawn by an applicant prior to initiation of an investigation bythe Commission, in which case it shall, subject to the provisions of sub­section (1) of section 15, bedeemed not to have been made:
+Provided that upon withdrawal of an application any fee paid by an applicant pursuant to sub­section (2) shall stand forfeited in favour of the Commission.
+(14) Where, after consultation with an exporting country as provided for in sub­section (10), theCommission is satisfied that there is sufficient evidence to justify initiating an investigation, theCommission shall give notice of such decision by means of a public notice of initiation of aninvestigation, and the initiation of an investigation shall be effective on the date on which such noticeis published.
+(15) Where the Commission does not consider it appropriate to initiate an investigation it shallinform an applicant of its decision.
+(16) The public notice of initiation of an investigation referred to in sub­section (14) shallannounce initiation of an investigation, indicate the product and countries concerned, give a summaryof the information received, provide that all relevant information is to be communicated to theCommission, state the periods within which any interested party may make itself known, present itsviews in writing and submit information if such views and information are to be taken into accountduring the investigation and shall also state the period within which interested parties may apply to beheard by the Commission in accordance with sub­section (4) of section 12.
+(17) The Commission shall advise any exporters, importers and any association of importers orexporters known to it to be concerned, as well as an exporting country and an applicant, of initiationof an investigation and, subject to the requirements of section 29, provide the full text of anapplication to the known exporters and to the authorities of an exporting country, and make itavailable upon request to other interested parties involved:
+Provided that, where the Commission determines that the number of exporters involved isparticularly high, the full text of a written complaint may instead be provided by the Commission onlyto the authorities of an exporting country or to a relevant association.
+(18) An investigation shall not hinder the procedures of customs clearance.
+12. Principles governing investigation.– (1) Following initiation of an investigation, theCommission shall commence an investigation and such investigation shall cover both subsidisationand injury which, shall be investigated simultaneously.
+(2) For the purpose of a representative finding, an investigation period shall be selected by theCommission which, in the case of subsidisation shall, normally, cover an 
+Page 18 of 50
+investigation period provided for in section 7 and information relating to a period subsequent to theinvestigation period shall not, normally, be taken into account by the Commission.
+(3) Parties receiving questionnaires from the Commission used in a countervailing dutyinvestigation shall be given at least thirty days to reply and such time limit for exporters shall becounted from the date of receipt of the questionnaire which, for this purpose shall be deemed to havebeen received one week from the day on which it was sent to a respondent or transmitted to anappropriate diplomatic representative of an exporting country:
+Provided that where a party shows due cause for an extension to the satisfaction of theCommission, an extension of not more than thirty days may be granted by the Commission at itsdiscretion.
+(4) Any interested party which has made itself known in accordance with sub­section (16) ofsection 11 shall be heard by the Commission if it has, within the period prescribed in a public noticeof initiation of an investigation made a written request for hearing showing that it is an interestedparty likely to be affected by the result of an investigation and that there are particular reasons why itshould be heard.
+(5) Opportunities shall, on request, be provided for any importers, exporters and an applicant,which have made themselves known in accordance with sub­section (16) of section 11 and thegovernment of an exporting country to meet those parties having adverse interests, so that opposingviews may be presented and rebuttal arguments offered. Provision of such opportunities shall takeaccount of the need to preserve confidentiality and of convenience to the parties. There shall be noobligation on any party to attend such meeting and failure to do so shall not be prejudicial to thatparty’s case. Oral information provided under this sub­section shall only be taken into account by theCommission to the extent that the same is subsequently confirmed in writing and provided to theCommission.
+(6) Without prejudice to the provisions of section 42, an applicant, the government of anexporting country, importers and exporters and their representative associations, which have madethemselves known in accordance with sub­section (16) of section 11, may, upon written request,inspect all information made available to the Commission by any party to an investigation, as distinctfrom internal documents prepared by the Commission, which is relevant to presentation of their casesand is not confidential within the meaning of section 29, and that it is used in an investigation. Suchparties may respond to such information and their comments shall be taken into considerationwherever they are sufficiently substantiated in a response.
+(7) Save as provided for in section 28, any information which is supplied by interested parties andupon which findings are based shall, to the extent possible, be examined for accuracy by theCommission.
+(8) An investigation shall, whenever possible, be concluded within one year and in no event laterthan eighteen months from its initiation, in accordance with the findings made pursuant to section 14for undertakings or the findings made pursuant to section 16 for definitive action. 
+Page 19 of 50
+(9) Throughout an investigation, the Commission shall afford an exporting country a reasonableopportunity to continue consultations with a view to clarifying the factual situation and arriving at amutually agreed solution:
+ Provided that the Commission may continue an investigation during such consultations.
+(10) The Commission shall allow industrial users of an investigated product in Pakistan, andrepresentative consumer organisations in cases where the investigated product is commonly sold atretail level in Pakistan to provide to the Commission, in writing, no later than two months afterinitiation of an investigation, information concerning matters relevant to the investigation regardingsubsidisation dumping and injury.
+ 
+PART VII
+PROVISIONAL COUNTERVAILING MEASURES
+13. Provisional countervailing duties.– (1) Provisional countervailing duty shall be imposed bythe Commission if –
+(a) an investigation has been initiated by the Commission in accordance with section 11;
+(b) a public notice of initiation of an investigation has been given and interested parties havebeen given adequate opportunities to submit information and make comments inaccordance with sub­section (16) of section 11; and
+(c) a provisional affirmative determination has been made by the Commission that a subsidyexists and that there is consequent injury to domestic industry.
+(2) A provisional countervailing duty shall be imposed no earlier than sixty days from initiation ofan investigation but no later than nine months from initiation of the investigation and shall be in anamount equal to the total amount of countervailable subsidies as provisionally established by theCommission.
+(3) A provisional countervailing duty shall be in the form of cash deposit equal to the amount ofthe provisionally calculated amount of subsidisation:
+ Provided that the release of a product concerned for free circulation in Pakistan shall be subjectto provisions of such cash deposit.
+(4) A provisional countervailing duty shall be imposed for a period not exceeding four months.
+Page 20 of 50
+PART VIII
+UNDERTAKINGS AND TERMINATION WITHOUT
+MEASURES
+ 14. Undertakings.– (1) An investigation may be terminated by the Commission withoutimposition of provisional or definitive countervailing duties upon receipt of a satisfactory voluntaryundertaking under which –
+(a) an exporting country agrees to eliminate or limit subsidy or take other measuresconcerning its effects; or
+(b) any exporter undertakes to revise its prices or to cease exports in question as long as suchexports benefit from countervailable subsidies, so that the Commission is satisfied that theinjurious effect of the subsidies is eliminated.
+(2) Price increases under such undertakings shall not be higher than those which are necessary tooffset the amount of countervailable subsidies and shall be less than the amount of countervailablesubsidies if such increases would be adequate to remove injury to domestic industry.
+(3) Undertakings may be suggested by the Commission but no country or exporter shall beobliged to enter into such an undertaking and the fact that countries or exporters do not offer suchundertakings, or do not accept an invitation to do so, shall in no way prejudice the outcome of aninvestigation by the Commission:
+Provided that the Commission may in such circumstances determine that a threat of injury ismore likely to be realised if the subsidised imports continue.
+(4) Undertakings shall not be sought or accepted by the Commission from countries or exportersunless a provisional affirmative determination of subsidisation and injury caused by such subsidisationhas been made by the Commission.
+(5) Save in exceptional circumstances, undertakings may not be offered later than the end of theperiod during which representations may be made pursuant to sub­section (7) of section 30.
+(6) The decision to accept an undertaking shall rest with the Commission.
+Explanation.– The Commission may not accept a price undertaking if it considers the acceptancethereof to be impractical because the number of actual or potential exporters is too great or forreasons of general policy or for any other reason.
+(7) An exporting country or exporter concerned may be provided with the reasons for which it isproposed to reject an offer of an undertaking and may be given an opportunity to make commentsthereon and the reasons for rejection shall be set out in a definitive decision by the Commission. 
+Page 21 of 50
+(8) Parties which offer an undertaking shall be required to provide a non­confidential version ofsuch undertaking so that it may be made available to interested parties to an investigation.
+(9) If an undertaking is accepted by the Commission, it shall nevertheless complete aninvestigation if it receives a request from an exporting country or exporter in writing to continue suchinvestigation or where the Commission so decides on its own accord.
+(10) In the event the Commission makes a negative determination of subsidisation and injurypursuant to an investigation continued under sub­section (9), an undertaking in question shallautomatically lapse except in cases where the Commission determines that such a determination isdue in large part to the existence of such undertaking in which case the Commission may require thatsuch undertaking be maintained for a reasonable period of time to be determined by the Commission.
+(11) In the event the Commission makes an affirmative determination of subsidisation and injurypursuant to an investigation continued pursuant to sub­section (9), an undertaking in question shallcontinue consistent with the provisions of this Ordinance.
+(12) The Commission may require any country or exporter from whom an undertaking has beenaccepted to provide, periodically, information relevant to the fulfilment of such undertaking and topermit verification of such information.
+(13) Failure to provide any information requested by the Commission pursuant to sub­section (12)shall be deemed to be a violation of an undertaking in question.
+(14) Where undertakings are accepted from certain exporters during the course of aninvestigation, they shall, for the purpose of sections 19, 20, 21 and 23 be deemed to take effect fromthe date on which the investigation is concluded for an exporting country.
+(15) If an undertaking is violated or deemed to be violated, the Commission may, subject to theprovisions of this Ordinance, take expeditious actions, which may include immediate application ofprovisional measures using the best information available. In such cases, a definitive countervailingduty may be levied in accordance with the provisions of this Ordinance on products entered fordomestic consumption not more than ninety days before the application of such provisional measures,except that any such retroactive assessment shall not apply to imports entered before such violationof the undertaking.
+15. Termination of investigation without measures.– (1) Where an application is withdrawn, aninvestigation shall be terminated by the Commission:
+Provided that the Commission may, if it considers it fit to do so, continue an investigationnotwithstanding the withdrawal of an application in which event, the Commission may, subject to theprovisions of this Ordinance, impose such measures as are provided for in this Ordinance.
+(2) Where, the Commission determines in accordance with the provisions of sub­sections (3), (4),(5), (6) and (7), that the amount of countervailable subsidies is negligible or, where the volume ofsubsidised imports, whether actual or potential, or injury is negligible then it shall immediatelyterminate an investigation.
+Page 22 of 50
+(3) The amount of countervailable subsidies shall be considered to be negligible if such amount isless than one per cent ad valorem, except that –
+(a) in the case of investigations concerning imports from developing countries the negligiblesubsidy threshold shall be two per cent ad valorem; and
+(b) for those developing countries which are referred to in the Fifth Schedule and otherdeveloping countries which are members of the WTO and which have completelyeliminated export subsidies, the negligible subsidy threshold shall be three per cent advalorem.
+(4) Where the application of sub­section (3) depends on elimination of export subsidies, it shallapply from the date on which elimination of export subsidies is notified to the WTO Committee onSubsidies and Countervailing Measures pursuant to the Agreement on Subsidies, and for so long asexport subsidies are not granted by a developing country concerned:
+Provided that this provision shall expire on the first day of January, 2003:
+Provided further that it is only an investigation that shall be terminated where the amount ofcountervailable subsidies is below the relevant level for individual exporters who shall remain subjectto investigation by the Commission under this Ordinance and may be re­investigated in anysubsequent review carried out for a country concerned pursuant to sections 19 and 20.
+(5) Injury shall normally be regarded as negligible where the market share of any imports is lessthan the amounts set out in the proviso to sub­section (12) of section 11.
+(6) In the case of an investigation concerning imports from developing countries, the volume ofsubsidised imports shall be considered negligible if it represents less than four per cent of the totalimports of a like product in Pakistan, unless imports from developing countries whose individualshares of total imports represent less than four per cent collectively account for more than nine percent of the total imports of a like product in Pakistan.
+(7) In the case of an investigation concerning imports from countries other than developingcountries, the volume of subsidised imports shall be considered negligible if it represents less thanthree per cent of the total imports of a like product in Pakistan, unless imports from such countriesunder investigation which individually account for less than three per cent of the total imports of alike product in Pakistan collectively account for more than seven per cent of imports of the likeproduct in Pakistan.
+PART IX
+DEFINITIVE COUNTERVAILING DUTIES
+16. Imposition of definitive countervailing duties.– (1) Where the Commission has establishedthe existence of countervailable subsidies and injury caused thereby, a definitive countervailing dutyshall be imposed by the Commission, unless the subsidy in question is withdrawn or it has beendemonstrated to the satisfaction of the Commission that the subsidies no longer confer any benefit onany exporters involved. 
+Page 23 of 50
+(2) A definitive countervailing duty shall be an amount equal to the amount of countervailablesubsidies from which any exporters have been found to benefit, as established by the Commission inaccordance with the provisions of this Ordinance.
+(3) A definitive countervailing duty shall be imposed in an appropriate amount in each case, on anon­discriminatory basis, on imports of a product from all sources found to benefit fromcountervailable subsidies and causing injury except as to imports from those sources from whichundertakings under section 14 have been accepted by the Commission.
+(4) When the Commission has limited its examination in accordance with section 27, anydefinitive countervailing duty applied to imports from exporters or producers which have madethemselves known in accordance with section 27 but were not included in an examination shall notexceed the weighted average amount of countervailable subsidies established for parties in a sample.
+(5) For the purposes of sub­section (4), the Commission shall disregard any negligible amounts ofcountervailable subsidies and amounts of countervailable subsidies established in the circumstancesreferred to in section 28.
+(6) Individual duties shall be applied to imports from any exporter or producer for which anindividual amount of subsidisation has been calculated as provided for in section 27.
+PART X
+RETROACTIVITY
+17. Retroactivity.– (1) Save as otherwise provided in this section, provisional and definitivecountervailing duties shall only be applied to products which enter Pakistan for consumption after thetime when the requirements set out in sub­section (1) of section 13 and sub­section (1) of section 16,as the case may be, have been fulfilled.
+(2) Where the Commission makes a final determination of injury, but not of a threat thereof or ofmaterial retardation of the establishment of an industry or, in the case of a final determination of athreat of injury, where the Commission determines that the effect of subsidised imports would, in theabsence of provisional measures, have led to a determination of injury, definitive countervailingduties shall be levied by the Commission retroactively for the period for which provisional duty, ifany, have been applied.
+(3) If a definitive countervailing duty imposed by the Commission pursuant to sub­section (2) ishigher than a provisional countervailing duty, the difference shall not be collected:
+Provided that where a definitive countervailing duty is lower than a provisional countervailingduty, the duty difference shall be refunded by the Commission in an expeditious manner.
+(4) Save as provided for in sub­section (3), where the Commission makes a determination ofthreat of injury or material retardation but, no injury has yet occurred, a definitive countervailing dutyshall be imposed by the Commission only from the date of the determination of threat of injury ormaterial retardation and any cash deposit provided during 
+Page 24 of 50
+the period of application of provisional countervailing duty shall be refunded by the Commission inan expeditious manner.
+(5) Where the Commission makes a negative final determination any cash deposit providedduring the period of application of provisional countervailing duties shall be refunded by theCommission in an expeditious manner.
+(6) A definitive countervailing duty shall be imposed by the Commission on products, which wereimported for consumption not more than ninety days prior to the date of application of provisionalcountervailing duty if, the Commission determines, for an investigated product in question, that injurywhich is difficult to repair, is caused by massive imports in a relatively short period of a productbenefiting from a countervailable subsidy and the Commission deems it necessary to impose suchduty in order to preclude the recurrence of such injury.
+PART XI
+DURATION, REVIEWS AND REFUNDS, AND GENERAL
+PROVISIONS
+18. Duration of definitive countervailing duty.– Subject to the provisions of this Ordinance, adefinitive countervailing duty imposed pursuant to this Ordinance shall remain in force only as longas, and to the extent that, it is necessary to counteract countervailable subsidies which are causinginjury.
+19. Expiry reviews.– (1) A definitive countervailing duty shall expire after five years from itsimposition or five years from the date of the most recent review which has covered both subsidisationand injury, unless it is determined in a review that the expiry would be likely to lead to a continuationor recurrence of subsidisation and injury. Such an expiry review may be initiated, on an initiative ofthe Commission or, upon a request made by or on behalf of domestic producers, and the measure inquestion shall remain in force pending the outcome of such review.
+(2) An expiry review shall be initiated by the Commission upon request made by or on behalf ofdomestic producers where such request contains sufficient evidence that the expiry of a measure inquestion would be likely to result in a continuation or recurrence of subsidisation and injury.
+Explanation.– Such a likelihood may, for example, be indicated by evidence of continuedsubsidisation and injury or evidence that the removal of injury is partly or solely due to the existenceof measures or evidence that the circumstances of exporters, or market conditions, are such that theywould indicate the likelihood of further injurious subsidisation.
+(3) In carrying out investigations under this section, the Commission shall provide any exporters,importers, an exporting country and domestic producers with the opportunity to amplify, rebut orcomment on the matters set out in a review request, and conclusions shall be reached by theCommission with due account taken of all relevant and duly documented evidence presented inrelation to the question as to whether the expiry of measures would be likely, or unlikely, to lead tothe continuation or recurrence of subsidisation and injury. 
+Page 25 of 50
+(4) The Commission shall notify an impending expiry by a public notice which shall be publishedat an appropriate time, as determined by the Commission, in the final year of the period of applicationof a measure in question and a public notice announcing the actual expiry of a measure under thissection shall also be published by the Commission.
+20. Interim reviews.– (1) The need for continued imposition of measures under this Ordinancemay also be reviewed, where warranted on an initiative of the Commission or, provided that a periodof at least twenty­four months has elapsed since the imposition of definitive countervailing duty, upona request by any exporter, importer or by domestic producers or an exporting country which containssufficient evidence substantiating the need for such an interim review.
+(2) An interim review under sub­section (1) shall be initiated by the Commission where a requestcontains sufficient evidence that the continued imposition of a measure is no longer necessary tooffset countervailable subsidy or that injury would be unlikely to continue or recur if a measure wereremoved or varied, or that an existing measure is not, or is no longer, sufficient to counteractcountervailable subsidy which is causing injury:
+Provided that the Commission may require an applicant requesting a review under sub­section (1)to fill in an additional questionnaire provided by it requiring such information and for such period asthe Commission deems necessary before such review is initiated in which case the review shall beinitiated following the receipt by the Commission of such questionnaire duly filled in.
+(3) In carrying out investigations pursuant to this section, the Commission may, in addition toother factors  considered relevant by it, consider  whether the circumstances with regard tosubsidisation and injury have changed significantly, or whether existing measures are achieving theintended results in removing an injury previously established under section 9.
+21. Accelerated reviews.– (1) Any exporter whose exports are subject to a definitivecountervailing duty but who was not individually investigated during an original investigation forreasons other than a refusal to co­operate with the Commission, shall be entitled, upon request, to anaccelerated review in order that the Commission may promptly establish an individual countervailingduty rate for that exporter provided that such review shall be initiated after domestic producers havebeen given an opportunity to comment.
+(2) The Commission may require an applicant requesting a review under sub­section (1) to fill inan additional questionnaire provided by it before such review is initiated in which case a review undersub­section (1) shall be initiated following the receipt by the Commission of such questionnaire dulyfilled in.
+22. Refunds.– (1) Notwithstanding anything contained in section 19, an importer may apply tothe Commission for refund of duties collected where it is shown that the amount of countervailablesubsidies, on the basis of which duties were paid, has been either eliminated or reduced to a levelwhich is below the level of the duty in force.
+(2) An importer may submit an application for refund of countervailing duties collected withinany twelve months period to the Commission no later than sixty days from the end of such period. 
+Page 26 of 50
+(3) An application for refund shall be considered to be duly supported by evidence only where itcontains precise information on the amount of refund of countervailing duties claimed and all customsdocumentation relating to the calculation and payment of such amount and includes evidence, for arepresentative period, of the amount of countervailable subsidies for any exporter or producer towhich the duty applies:
+ Provided that, where the importer is not associated with any exporter or producer concerned andsuch information is not immediately available, or where any exporter or producer is unwilling torelease it to an importer, the application for refund shall contain a statement from the exporter orproducer that the amount of countervailable subsidies has been reduced or eliminated, as specified inthis section, and that the relevant supporting evidence will be provided to the Commission:
+Provided further that where such evidence is not forthcoming from any exporter or producerwithin a reasonable period of time, as determined by the Commission, the application shall berejected by the Commission.
+(4) The Commission shall determine whether and to what extent an application should be granted,or it may decide at any time to initiate an interim review, whereupon any information and findingsfrom such review, carried out in accordance with the provisions applicable for such review, shall beused to determine whether and to what extent a refund is justified.
+(5) A refund of countervailing duties under this section shall normally take place within twelvemonths, and in no circumstances more than eighteen months after the date on which a request for arefund, duly supported by evidence, has been made by an importer of a product subject tocountervailing duty.
+23. General provisions on reviews and refund.– (1) The provisions of sections 11 and 12,excluding those relating to time limits, shall mutatis mutandis apply to any review carried outpursuant to sections 19, 20 and 21.
+(2) Any review pursuant to sections 19, 20 or 21 shall be carried out by the Commissionexpeditiously and shall normally be concluded within twelve months of the date of initiation of thereview.
+(3) Where a review pursuant to section 20 is in progress at the end of the period of application ofa measure as defined in section 19, the measure shall also be investigated under the provisions ofsection 19.
+(4) In any review or refund investigation carried out pursuant to sections 19 to 22, theCommission shall, provided that circumstances have not changed, apply the same methodology as inan investigation which led to the duty, with due account being taken of sections 7, 8 and 27.
+24. Circumvention.– (1) Countervailing duties imposed pursuant to this Ordinance may beextended by the Commission to imports from third countries of like products, or parts thereof, if theCommission determines that circumvention of the measures in force is taking place. 
+Page 27 of 50
+(2) For the purposes of sub­section (1), circumvention shall mean a change in the pattern of tradebetween third countries and Pakistan which stems from a practice, process or work for which there isinsufficient cause or economic justification other than an imposition of a duty, and where there isevidence that the remedial effects of a duty are being undermined in terms of either the prices orquantities of like products, or both, and that either the imported like product or parts thereof, or both,still benefit from subsidy.
+25. General provisions.– (1) Countervailing duties, provisional or definitive, as the case may be,imposed under this Ordinance shall –
+(a) take the form of ad valorem or specific duties:
+Provided that provisional countervailing shall take the form of cash deposits equal to theamount of a provisionally calculated amount of subsidisation.
+(b) be imposed in addition to other import duties levied on an investigated product; and
+(c) be collected in the same manner as customs­duties under the Customs Act, 1969 (IV of1969).
+(2) No product shall be subject to both anti­dumping duties under the Anti­Dumping DutiesOrdinance, 2000 (LXV of 2000), and countervailing duties under this Ordinance for the purpose ofdealing with one and the same situation arising from dumping or from export subsidisation.
+ (3) The decisions regarding imposition of provisional or definitive countervailing duties, andnotices regarding acceptance of undertakings or terminating an investigation, shall be published bythe Commission in a public notice which shall contain, in particular, and with due regard to theprotection of confidential information in accordance with section 29, the names of exporters, ifpossible, or of the countries involved, a description of the product and a summary of the facts andconsiderations relevant to subsidy and injury determinations and in each case, a copy of the saidnotice shall be sent to the known interested parties.
+(4) The provisions of sub­section (3) shall apply, mutatis mutandis, to reviews under thisOrdinance.
+(5) The Commission shall establish and maintain a non­lapseable personal ledger account in itsname for the purpose of this Ordinance and all duties and fees payable under and collected pursuantto this Ordinance shall be held in such account.
+(6) The account established under sub­section (5) shall be maintained and operated in suchmanner as may be prescribed.
+Page 28 of 50
+PART XII
+VERIFICATION VISITS, SAMPLING, NON­COOPERATION, CONFIDENTIALITY ANDDISCLOSURE
+26. Verification visits.– (1) The Commission may, where it considers it appropriate, carry outvisits to examine the records of importers, exporters, traders, agents, producers, trade associationsand organisations, to verify information provided on subsidisation and injury:
+Provided that in the absence of a proper and timely reply a verification visit may not be carriedout.
+(2) The Commission may carry out investigations in third countries as required, provided that –
+(a) it obtains consent of an entity concerned;
+(b) it gives notice to a country in question; and
+(c) the country in question does not object to an investigation.
+(3) As soon as consent of an entity concerned has been obtained the Commission shall give noticeto an exporting country of the name and address of the entity to be visited and the dates agreed.
+(4) An entity concerned shall be advised of the nature of information to be verified duringverification visits and of any further information which needs to be provided during such visits:
+Provided that this shall not preclude the Commission from requiring further information orverification.
+27. Sampling.– (1) Where the Commission determines that the number of complainants,exporters or importers, types of product or transactions is large, the Commission may limit aninvestigation to –
+(a) a reasonable number of parties, products or transactions by using samples which arestatistically valid on the basis of information available at the time of selection; or
+(b) to the largest representative volume of any production, sales or exports which canreasonably be investigated within the time available.
+(2) The selection of parties, types of products or transactions made under this section shall restwith the Commission:
+Provided that preference shall be given by the Commission to choosing a sample in consultationwith, and with the consent of, the parties concerned: 
+Page 29 of 50
+Provided further that such parties make themselves known and make sufficient informationavailable to the Commission, within three weeks of initiation of an investigation, to enable arepresentative sample to be chosen.
+(3) In cases where the examination has been limited in accordance with this section, an individualamount of countervailable subsidisation shall, nevertheless, be calculated by the Commission for anyexporter or producer not initially selected who submits the necessary information within the timelimits provided for in this Ordinance except where the Commission determines that the number ofexporters or producers is so large that individual examinations would be unduly burdensome andwould prevent completion of an investigation within the applicable time limits.
+(4) Where the Commission has decided to undertake a sample as provided for in this section andthere is a degree of non­cooperation by some or all of the parties selected which is likely to materiallyaffect the outcome of an investigation, a new sample may be selected by the Commission:
+Provided that if a material degree of non­cooperation persists or there is insufficient time to selecta new sample, the relevant provisions of section 28 shall apply.
+28. Non­cooperation.– (1) Where any interested party refuses access to, or otherwise does notprovide, necessary information within the time limits provided in this Ordinance, or significantlyimpedes an investigation, provisional or final determinations, whether affirmative or negative, may bemade by the Commission on the basis of the facts available.
+(2) Where the Commission establishes that any interested party has supplied false or misleadinginformation, such information shall be disregarded and use may be made by the Commission of thefacts available.
+ (3) Where any information submitted by an interested party is not ideal in all respects it shallnevertheless not be disregarded by the Commission:
+Provided that the Commission is satisfied that any deficiencies are not such as to cause unduedifficulty in arriving at a reasonably accurate finding and that the information is appropriatelysubmitted in good time and is verifiable, and that the party has acted to the best of its ability.
+(4) If evidence or information is not accepted by the Commission, a supplying party shall beinformed forthwith of the reasons therefor and shall be granted an opportunity to provide furtherexplanations within such time limit as the Commission may specify.
+(5) If determinations, including those regarding the amount of countervailable subsidies, are basedon the provisions of sub­section (1) including any information supplied in an application it shall,where practicable and with due regard to the time limits of an investigation, be checked by theCommission by reference to information from other independent sources which may be availableincluding published price lists, official import statistics and customs returns, or information obtainedfrom other interested parties during the investigation.
+Page 30 of 50
+(6) If an interested party does not co­operate, or co­operates only partially so that relevantinformation is thereby withheld, the result may be less favourable to the party than if it had co­operated.
+29. Confidentiality.– (1) Subject to sub­section (2), the Commission shall, during and after aninvestigation, keep confidential any information submitted to it and such information shall not bedisclosed without specific permission of the party submitting it.
+(2) Information which is –
+(a) by nature confidential, because its disclosure shall be of significant competitive advantageto a competitor, or because its disclosure would have a significantly adverse effect upon aperson supplying the information, or upon a person from whom the information wasacquired, or where the Commission determines such information to be of a confidentialnature for any other reason; or
+(b) provided on a confidential basis by parties to an investigation, shall, upon good causeshown, be treated as confidential by the Commission.
+(3) The following types of information shall be deemed to be by nature confidential, unless theCommission determines that disclosure in a particular case would neither be of significant competitiveadvantage to a competitor nor have a significantly adverse effect upon a person supplying aninformation or upon a person from whom such information was acquired, namely:–
+(a) business or trade secrets concerning the nature of a product, production processes,operations, production equipment, or machinery;
+(b) information concerning financial condition of a company, which is not publicly available;and
+(c) information concerning costs, identification of customers, sales, inventories, shipments, oramount or source of any income, profit, loss or expenditure related to the manufactureand sale of a product.
+(4) Any party seeking any information to be kept confidential shall request for the same at thetime the information is submitted, along with the reasons warranting confidentiality. The Commissionshall consider such requests expeditiously and inform the party submitting the information if itdetermines that the request for keeping the information confidential is not warranted.
+(5) Any party submitting any information with the request to keep it confidential shall furnish anon­confidential summary thereof. Such summary may take the form of ranges or indexation offigures provided in a confidential version, or marked deletions in text or in such other form as theCommission may require:
+Provided that such non­confidential summary shall permit a reasonable understanding of thesubstance of any information submitted in confidence:
+Page 31 of 50
+Provided further that the deletion in text shall, unless otherwise allowed by the Commission, onlyrelate to names of any buyer or supplier.
+(6) In exceptional circumstances, parties may indicate that information for which confidentialityis sought is not susceptible of summary, in which case a statement of the reasons why summarisationis not possible shall be provided:
+Provided that where the Commission concludes that a non­confidential summary provided fails tosatisfy the requirements of sub­section (5), it may determine that the request for keeping aninformation confidential is not warranted.
+(7) If the Commission finds that a request for keeping an information confidential is notwarranted, and if the supplier of the information is unwilling to make the information public or toauthorise the disclosure in generalised or summary form, the Commission shall disregard suchinformation, and return the information concerned to the party submitting it.
+(8) Save for sub­section (10), notwithstanding anything contained in this Ordinance or in anyother law for the time being in force, any confidential information received or obtained, directly orindirectly, by the Commission pursuant to or in connection with an investigation shall not be subjectto disclosure by the Commission to any Ministry, Division, department, agency or instrumentality ofthe Federal Government or a Provincial Government without the prior permission of the partysubmitting such confidential information.
+(9) Information received pursuant to this Ordinance shall be used only for the purpose for whichit was requested.
+(10) The provisions of sub­section (8) shall not preclude the supply of information called for bythe Appellate Tribunal pursuant to section 33:
+ Provided that the obligation to protect confidential information as provided for in this Chaptershall, mutatis mutandis, extend to the Appellate Tribunal.
+30. Disclosure.– (1) Any applicant, importer and exporter and their representative associationand an exporting country may request disclosure by the Commission of the details underlying theessential facts and considerations on the basis of which provisional countervailing duties have beenimposed:
+Provided that requests for such disclosure shall be made in writing immediately followingimposition of provisional countervailing duties and in any event no later than fifteen days thereof anda disclosure by the Commission shall be made in writing as soon as possible thereafter.
+(2) The parties specified in sub­section (1) may request for a final disclosure by the Commissionof the essential facts and considerations on the basis of which it is intended to recommend impositionof definitive countervailing duties, or termination of an investigation or proceedings withoutimposition of duties, particular attention being paid to disclosure of any facts or considerations whichare different from those used for any provisional countervailing duties.
+Page 32 of 50
+(3) Requests for final disclosure shall be addressed to the Commission in writing and be received,in cases where provisional countervailing duty has been applied, not later than one month afterimposition of that duty.
+(4) Where a provisional countervailing duty has not been imposed, parties shall be provided withan opportunity to request final disclosure within such time limits as may be determined by theCommission.
+(5) Final disclosure shall be given in writing and shall be made, with due regard to the protectionof confidential information pursuant to section 29, as soon as possible and, normally, not later thanone month prior to a definitive determination.
+(6) Where the Commission is not in a position to disclose certain facts or considerations at thattime, these shall be disclosed as soon as possible thereafter. Disclosure shall not prejudice anysubsequent decision which may be taken by the Commission but where such decision is based on anydifferent facts and considerations these shall be disclosed as soon as possible.
+(7) Representations which are made after a final disclosure is given, shall be taken intoconsideration only if received within such period as may be determined by the Commission in eachcase, which shall be at least ten days, due consideration being given to the urgency of the matter.
+31. Relationships between countervailing duty measures and multilateral remedies.– Wherean investigated product is made subject to any countermeasures imposed following recourse to thedispute settlement procedures provided for in the Agreement on Subsidies and such measures areappropriate to remove the injury caused by any countervailable subsidies, any countervailing dutyimposed with regard to such product under this Ordinance shall immediately be terminated by theCommission.
+PART XIII
+APPEAL TO THE APPELLATE TRIBUNAL
+32. Appeal to the Appellate Tribunal.– (1) Without prejudice to the provisions of section 64 ofthe Anti­Dumping Ordinance, 2000 (LXV of 2000), the Appellate Tribunal shall also exercisejurisdiction under sub­section (2).
+(2) Any interested party may prefer an appeal to the Appellate Tribunal against__
+(i) an affirmative or negative final determination by the Commission; and
+(ii) any final determination pursuant to a review.
+(3) Every appeal under sub­section (2) shall be filed within forty­five days from the date ofpublication in newspapers of a public notice of any affirmative or negative final determination by theCommission, as the case may be, and shall be in such form and contain such information as may beprescribed.
+Page 33 of 50
+(4) In examining an appeal under sub­section (2), the Appellate Tribunal may make such furtherinquiry as it may consider necessary, and after giving the Commission and an appellant anopportunity of being heard, pass such order as it thinks fit, confirming, altering or annulling adetermination of the Commission appealed against.
+(5) An examining an appeal, the Appellate Tribunal shall as regards assessment of the factsrelating to an impugned determination of the Commission, determine on the basis of official recordmaintained by the Commission or any other documents relied upon by the Commission in reaching adetermination appealed against, whether the establishment of the facts by the Commission was properand whether the Commission’s evaluation of those facts was unbiased and objective. Where theAppellate Tribunal determines that the Commission’s establishment of the facts was proper and itsevaluation was unbiased and objective, it shall confirm an impugned determination of theCommission provided that the Appellate Tribunal is satisfied that in reaching the impugneddetermination, the Commission complied with the relevant provisions of this Ordinance.
+(6) An appeal under sub­section (2) shall be disposed of and the decision of the AppellateTribunal pronounced, as expeditiously as possible but not later than ninety days from the date ofreceipt of an appeal compliant with the requirements of sub­section (3), except in extraordinarycircumstances and on grounds to be recorded. The Appellate Tribunal shall hear the appeal from dayto day.
+(7) The decision of the Appellate Tribunal shall be in writing and shall give details of the issuesraised in appeal and the arguments adopted by an appellant and the Commission, and shall givereasons for reaching its decision with reference to the provisions of this Ordinance and the facts ofthe case.
+(8) The Appellate Tribunal shall provide copies of its decision to all the appellants and theCommission no later than five days from the date of rendering its decision.
+(9) The Appellate Tribunal may, if it deems necessary, require an appellant to provide security insuch form as may be prescribed, at the time of filing of an appeal.
+(10) The decision of the Appellate Tribunal shall be final and no further appeal shall lietherefrom:
+Provided that the Appellate Tribunal may, if it thinks fit, accept an application from any party toan appeal in which the Appellate Tribunal has rendered its decision, for a clarification of any of theissues raised by the Appellate Tribunal in its decision:
+Provided further that such application shall specify the precise issue in respect of which aclarification is sought and give reasons as to why a clarification is necessary and the AppellateTribunal shall only accept such application if it is satisfied that a material issue discussed in itsdecision requires further clarification or elaboration:
+Provided further that the party likely to be adversely affected by such clarification shall also begiven a notice by the Appellate Tribunal:
+Provided also that no application under this sub­section shall be accepted by the AppellateTribunal later that thirty days of its decision.
+Page 34 of 50
+(11) The Appellate Tribunal shall perform its functions under this Ordinance in accordance withsuch procedures as may be prescribed.
+33. Power of the Appellate Tribunal to call for and examine record.– The Appellate Tribunalmay call for and examine any records of an investigation conducted by the Commission and any otherinformation or documents relied upon by the Commission in reaching a determination appealedagainst for the purpose of satisfying itself as to the legality or propriety of an impugned determinationof the Commission.
+ 
+PART XVI
+MISCELLANEOUS
+34. Power to make rules.– (1) The Federal Government may, by notification in the officialGazette, make rules for carrying out the purposes of this Ordinance.
+(2) In particular and without prejudice to the generality of the foregoing power, such rules mayprovide for the manner in which any investigation may be conducted, the manner in which aninvestigated product may be identified, the factors to which regard shall be had in any suchinvestigation, the manner of assessment, levy and collection of any countervailing duty, whetherpreliminary or definitive, and for all matters connected with an investigation.
+35. Public servants.– The employees and other persons authorised to perform or exercise anyfunction or power under this Ordinance or rendering services to the Commission as consultant oradviser shall be deemed to be public servants within the meaning of section 21 of the Pakistan PenalCode, 1860(Act XLV of 1860).
+36. Failure to disclose correct information offence.– Any person who knowingly and wilfullyprovides false, misleading or incorrect information to the Commission whether in an applicationreceived under this Ordinance or, otherwise in connection with an investigation under this Ordinance,shall be guilty of an offence and shall on conviction be liable to imprisonment for a term which mayextend to three years, or a fine not exceeding five million rupees, or both.
+37. Cognizance of offences.– (1) Notwithstanding anything contained in the Code of Criminalprocedure, 1898(Act V of 1898), no court other than a court of session shall have jurisdiction to tryany person charged with an offence under section 36.
+(2) No court of session shall take cognizance of an offence under this Ordinance except upon acomplaint in written made by the Commission or an officer authorised by it, and signed by any twomembers of the Commission.
+38. Protection to persons prejudiced in employment because of assisting the Commission.–(1) An employer shall not__
+(a) dismiss an employee, or prejudice an employee in his employment, because the employeehas assisted the Commission in connection with an inquiry or investigation under thisOrdinance; or
+Page 35 of 50
+(b) dismiss or threaten to dismiss an employee, or prejudice or threaten to prejudice anemployee in his employment, because the employee proposes to assist the Commission inconnection with an inquiry or investigation under this Ordinance.
+(2) For the purposes of sub­section (1), a person shall be taken to assist the Commission inconnection with an inquiry if the person –
+(a) gives information, whether orally or in writing, or gives documents, to the Commission inconnection with an inquiry or investigation under this Ordinance; or
+(b) gives evidence, or produces documents, at an inquiry, investigation or hearing held underthis Ordinance.
+39. Public file to be maintained for interested party and access thereto.– (1) The Commissionshall establish and maintain a file relating to each investigation or review pursuant to this Ordinanceand subject to the requirement to protect confidential information under section 29, the Commissionshall place in such file–
+(a) all public notices relating to an investigation or review;
+(b) all materials, including questionnaires, responses to questionnaires, and writtencommunications submitted to the Commission;
+(c) all other information developed or obtained by the Commission; and
+(d) any other documents the Commission deems appropriate for disclosure to an interestedparty.
+(2) The file to be maintained under sub­section (1) shall be available to any interested party forreview and copying at the offices of the Commission, during such time as the Commission mayspecify, throughout the course of an investigation or review and any appeal under section 32.
+40. Official file to be maintained by the Commission.– (1) The Commission shall establish andmaintain an official file relating to each investigation or review pursuant to this Ordinance and shallplace in such file –
+(a) all materials, papers and documents, confidential or otherwise, including questionnaires,responses to  questionnaires, and written communications submitted to or by theCommission in connection with an investigation or review;
+(b) all documents relating to or setting out any calculations made by the Commission inconnection with an investigation or review;
+(c) all internal correspondence or memoranda of the Commission relating to or in connectionwith an investigation or review that are relevant to the calculation of dumping margin ordetermination of injury including, any 
+Page 36 of 50
+correspondence with or between any other Ministry, Division, department, agency orinstrumentality of the Federal Government or any Provisional Government;
+(d) any other information developed, obtained or relied on by the Commission in connectionwith an investigation or review; and
+(e) any other document or information that the Commission deems appropriate for placing inthe official file.
+(2) The file to be maintained under sub­section (1) shall only be for the internal use of theCommission and for the Appellate Tribunal in connection with an appeal under section 32.
+41. Appointment of advisers and consultants.– (1) Subject to sub­section (2), the Commissionmay, employ and pay consultants and agents and technical, professional and other advisers, includingbankers, economists, actuaries, accountants, lawyers and other persons to do any act required to bedone in the exercise of its powers, the performance of its functions or for the better implementationof the purposes of this Ordinance.
+(2) The decision to employ and the terms and conditions of employment of external advisers andconsultants pursuant to sub­section (1) shall be made by the Commission in accordance with suchpolicy guidelines as may be established by the Federal Government, in consultation with theCommission, from time to time.
+42. Indemnity.– No suit, prosecution or other legal proceedings shall lie against the Commission,the Chairman or any member of the Commission or any employee, consultant, agent or adviser of theCommission in respect of anything which is in good faith done or intended to be done under thisOrdinance or rules made thereunder.
+43. Removal of difficulties.– The Federal Government may for the purpose of removing anydifficulties in relation to any matters under this Ordinance, make such orders as may appear to it to benecessary for the purpose of removing the difficulty:
+ Provided that no such power shall be exercised after the expiry of two years from thecommencement of this Ordinance.
+44. Ordinance to override other laws.– The provisions of this Ordinance shall have effectnotwithstanding anything inconsistent therewith contained in any other law for the time being inforce, including, without limitation, the National Tariff Commission Act, 1990(VI of 1990) and theCustoms Act, 1969(IV of 1969).
+Page 37 of 50
+THE FIRST SCHEDULE
+[See section 5(6) (a)]
+ILLUSTRATIVE LIST OF EXPORT SUBSIDIES
+1.   In this Schedule, unless there is anything repugnant in the subject or context,_
+(a) “commercially available” means that the choice between domestic and imported productsis unrestricted and depends only on commercial considerations;
+(b) “direct taxes” means taxes on wages, profits, interests, rents, royalties, and all other formsof income, and taxes on the ownership of real property;
+(c) “cumulative indirect taxes” means indirect taxes which are multi­staged taxes leviedwhere there is no mechanism for subsequent crediting of the tax if goods or servicessubject to tax at one stage of production are used in a succeeding state of production;
+(d) “import charges” means tariffs, duties, and other fiscal charges that are levied on imports;
+(e) “indirect taxes” means sales, excise, turnover, value added, franchise, stamp, transfer,inventory and equipment taxes, border taxes and all taxes other than direct taxes andimport charges;
+(f) “prior­stage indirect taxes” means those indirect taxes levied on goods or services useddirectly or indirectly in making a product;
+(g) “remission” of taxes includes the refund or rebate of taxes; and
+(h) “remission or drawback” includes the full or partial exemption or deferral of importcharges:
+Provided that deferral may not amount to an export subsidy where, for example, appropriateinterest charges are collected.
+2. The following is an illustrative list of export subsidies, namely:–
+(a) any provision by a government of direct subsidies to a firm or an industry contingent uponexport performance;
+(b) currency retention schemes or any similar practices which involve a bonus on exports;
+(c) internal transport and freight charges on export shipments, provided or mandated by agovernment, on terms more favourable than for domestic shipments;
+(d) any provision by a government or its agencies either directly or indirectly throughgovernment­mandated schemes, of imported or domestic products or services for use inthe production of exported goods, on terms or conditions more favourable than forprovision of like or directly competitive products or services for use in the production 
+Page 38 of 50
+of goods for domestic consumption, if, in the case of products, such terms or conditionsare more favourable than those commercially available on world markets to theirexporters;
+(e) any full or partial exemption, remission, or deferral specifically related to exports, ofdirect taxes or social welfare charges paid or payable by industrial or commercialenterprises;
+(f) any allowance of special deductions directly related to exports or export performance,over and above those granted in respect of production for domestic consumption, incalculation of the base on which direct taxes are charged;
+(g) any exemption or remission, in respect of the production and distribution of exportedproducts, of indirect taxes in excess of those levied in respect of production anddistribution of like products when sold for domestic consumption;
+(h) any exemption, remission or deferral of prior­stage cumulative indirect taxes on goods orservices used in the production of exported products in excess of any exemption,remission or deferral of like prior­stage cumulative indirect taxes on goods or servicesused in the production of like products when sold for domestic consumption; provided,however, that prior­stage cumulative indirect taxes may be exempted, remitted ordeferred on exported products even when not exempted, remitted or deferred on likeproducts when sold for domestic consumption, if any prior­stage cumulative indirect taxesare levied on inputs that are consumed in the production of an exported product makingnormal allowance for waste. This clause shall be interpreted in accordance with theguidelines on consumption of inputs in a production process contained in the SecondSchedule. For the avoidance of doubt, the provisions of this clause shall not apply tovalue­added tax systems and border­tax adjustment in lieu thereof and the provisions ofclause (g) shall exclusively cover issues relating to excessive remission of value­addedtaxes;
+(i) any remission or drawback of import charges in excess of those levied on imported inputsthat are consumed in the production of an exported product, making normal allowance forwaste; provided, however, that in particular cases a firm may use a quantity of homemarket inputs equal to, and having the same quality and characteristics as, the importedinputs as a substitute for them in order to benefit from this provision if the import and thecorresponding export operations both occur within a reasonable time period, not toexceed two years. This clause shall be interpreted in accordance with the guidelines onconsumption of inputs in the production process contained in the Second Schedule andthe guidelines in the determination of substitution drawback systems as export subsidiescontained in the Third Schedule;
+(j) any provision by a government or, special institutions controlled by a government, ofexport credit guarantee or insurance programmes, of insurance or guarantee programmesagainst increases in the cost of exported products or of exchange risk programmes, atpremium rates which are inadequate to cover long­term operating costs and losses of theprogrammes;
+(k) any grant by a government or special institutions controlled by or acting under theauthority of a government, or both, of export credits at rates below those which they 
+Page 39 of 50
+actually have to pay for the funds so employed or, would have to pay if they borrowed oninternational capital markets in order to obtain funds of the same maturity and othercredit terms and denominated in the same currency as an export credit or, the payment bythem of all or part of the costs incurred by exporters or financial institutions in obtainingcredits, insofar as they are used to secure a material advantage in the field of export creditterms. Provided, however, that if a country which is a member of the WTO is a party toan international undertaking on official export credits to which at least twelve originalsuch members are parties as of the first day of January, 1979, or, a successor undertakingwhich has been adopted by those original members, or if in practice a country which ismember of the WTO applies the interest rates provisions of the relevant undertaking, anexport credit practice which is in conformity with those provisions shall not be consideredan export subsidy; and
+(l) any other charge on a public account constituting an export subsidy in the sense of ArticleXVI of the General Agreement on Tariffs and Trade, 1994.
+_______
+THE SECOND SCHEDULE
+(See the First Schedule)
+GUIDELINES ON CONSUMPTION OF INPUTS IN THE
+ PRODUCTION PROCESS
+1. For the purposes of this Schedule “inputs consumed in the production process” means inputsphysically incorporated, energy, fuels and oil used in a production process and catalysts which areconsumed in the course of their use to obtain an exported product.
+2. Indirect tax rebate schemes can allow for exemption, remission or deferral of prior­stagecumulative indirect taxes levied on inputs that are consumed in the production of an exported productmaking normal allowance for waste. Similarly, drawback schemes can allow for the remission ordrawback of import charges levied on inputs that are consumed in the production of an exportedproduct making normal allowance for waste.
+3. The illustrative list of export subsidies in the First Schedule makes reference to the term“inputs that are consumed in the production of the exported product” in clauses (h) and (i) of para 2thereof. Pursuant to clause (h) of para 2 of the First Schedule, indirect tax rebate schemes canconstitute an export subsidy to the extent that they result in exemption, remission or deferral of prior­stage cumulative indirect taxes in excess of the amount of such taxes actually levied on inputs thatare consumed in the production of an exported product. Pursuant to clause (i) of para 2 of the FirstSchedule, drawback schemes can constitute an export subsidy to the extent that they result in aremission or drawback of import charges in excess of those actually levied on inputs that areconsumed in the production of an exported product. Both the said clauses stipulate that normalallowance for waste must be made in findings regarding consumption of inputs in the production of anexported product. Clause (i) of para 2 of the First Schedule also provides for substitution, whereappropriate.
+Page 40 of 50
+4. In examining whether inputs are consumed in the production of an exported product, as part ofa countervailing duty investigation pursuant to this Ordinance, the Commission should normallyproceed on the following basis, namely:––
+(a) where it is alleged that an indirect tax rebate scheme, or a drawback scheme, conveys asubsidy by reason of over­rebate or excess drawback of indirect taxes or import chargeson inputs consumed in the production of an investigated product, the Commission shallnormally first determine whether the government of an exporting country has in place andapplies a system or procedure to confirm which inputs are consumed in the production ofan exported product and in what amounts. Where such a system or procedure isdetermined to be applied, the Commission shall normally then examine the system orprocedure to see whether it is reasonable and effective for the purpose intended, andbased on generally accepted commercial practices in the country of export. TheCommission may deem it necessary to carry out, in accordance with section 26, certainpractical tests in order to verify information or to satisfy itself that the system orprocedure is being effectively applied;
+(b) where there is no such system or procedure, or where it is not reasonable, or where it isinstituted and considered reasonable but is found not to be applied or not to be appliedeffectively, a further examination by an exporting country based on the actual inputsinvolved will normally need to be carried out in the context of determining whether anexcess payment occurred. If the Commission deems it necessary, a further examinationmay be carried out in accordance with clause (a) of this para;
+(c) the Commission must normally treat inputs as physically incorporated if such inputs areused in the production process and are physically present in a product exported, and aninput need not be present in a final product in the same form in which it entered theproduction process;
+(d) in determining the amount of a particular input that is consumed in the production of anexported product, a “normal allowance for waste” must normally be taken into accountby the Commission, and such waste must normally be treated as consumed in theproduction of an exported product. The term “waste” refers to that portion of a giveninput which does not serve an independent function in the production process, is notconsumed in the production of an exported product, for reasons such as inefficiencies,and is not recovered, used or sold by the same manufacturer; and
+(e) the Commission’s determination of whether the claimed allowance for waste is “normal”shall normally take into account the production process, the average experience of anindustry in the country of export, and other technical factors, as appropriate. TheCommission shall bear in mind that an important question is whether the authorities in anexporting country have reasonably calculated the amount of waste, when such an amountis intended to be included in a tax or duty rebate or remission.
+______
+Page 41 of 50
+THE THIRD SCHEDULE
+(See the First Schedule and Second Schedule)
+GUIDELINES IN THE DETERMINATION OF
+SUBSTITUTION DRAWBACK SYSTEMS AS EXPORT
+ SUBSIDIES
+1. Drawback systems can allow for refund or drawback of import charges on inputs which areconsumed in a production process of another product and where export of this latter product containsdomestic inputs having the same quality and characteristics as those submitted for imported inputs.Pursuant to clause (i) of para 2 of the First Schedule, substitution drawback systems can constitute anexport subsidy to the extent that they result in an excess drawback of import charges levied initiallyon imported inputs for which drawback is being claimed.
+ 2. In examining any substitution drawback system as part of a an investigation the Commissionshall normally proceed on the following basis, namely:–
+(a) clause (i) of para 2 of the First Schedule stipulates that home market inputs may besubstituted for imported inputs in the production of a product for export provided suchinputs are equal in quantity to, and have same quality and characteristics as, importedinputs being substituted. The existence of a verification system or procedure is importantbecause it enables the government of an exporting country to ensure and demonstrate thatthe quantity of inputs for which drawback is claimed does not exceed the quantity ofsimilar products exported, in whatever form, and that there is no drawback of importcharges in excess of those originally levied on imported inputs in question;
+(b) where it is alleged that a substitution drawback system conveys a subsidy, the Commissionshall normally first proceed to determine whether the government of an exporting countryhas in place and applies a verification system or procedure. Where such a system orprocedure is determined to be applied, the Commission shall normally then examine theverification procedures to see whether they are reasonable and effective for the purposeintended, and based on generally accepted commercial practices in the country of export.To the extent that any procedures are determined to meet this test and are effectivelyapplied, no subsidy will be presumed to exist. It may be deemed necessary by theCommission to carry out, in accordance with section 26, certain practical tests in order toverify information or to satisfy itself that verification procedures are being effectivelyapplied;
+(c) where there are no verification procedures, or where they are not reasonable, or wheresuch procedures are instituted and considered reasonable but are found not be actuallyapplied or not be applied effectively, there may be a subsidy. In such cases, furtherexamination by an exporting country based on actual transactions involved would need tobe carried out to determine whether an excess payment occurred. If the 
+Page 42 of 50
+Commission deems it necessary, a further examination mat be carried out in accordancewith clause (b); and
+(d) the existence of a substitution drawback provision under which exporters are allowed toselect particular import shipments on which drawback is claimed shall not of itself beconsidered by the Commission to convey a subsidy.
+3. An excess drawback of import charges within the meaning of clause (i) of para 2 of the FirstSchedule, would be deemed to exist where a government paid interest on any monies refunded underits drawback schemes, to the extent of an interest actually paid or payable.
+________
+THE FOURTH SCHEDULE
+ [See sections 6(1)(c) and 11(7)]
+Explanation.– This Schedule has been set out on the basis of Annex 2 to the Agreement onAgriculture included in Annex (1A) to the Final Act of the Results of the Multilateral TradeNegotiations of the Uruguay Round. Any terms or expressions which are not explained herein orwhich are not self­explanatory are to be interpreted in the context of that Agreement.
+DOMESTIC SUPPORT: THE BASIS OF EXEMPTION FROM
+THE REDUCTION COMMITMENTS
+1. Any domestic support measures for which exemption from the reduction commitments is claimedshall meet the fundamental requirement that they have no, or at the most minimal, trade­distortingeffects or effects on production. Accordingly, all measures for which exemption is claimed shall, inaddition to a policy specific criteria and conditions set out below, conform to the following basiccriteria, namely:–
+(a) the support in question shall be provided through a publicly­funded governmentprogramme including government revenue foregone, not involving transfers fromconsumers; and
+(b) the support in question shall not have the effect of providing price support to producers.
+Government Service Programmes
+2. General services.– Any policies in this category involve expenditures or, revenue foregone, inrelation to programmes which provide services or benefits to agriculture or a rural community. Theyshall not involve direct payments to producers or processors. Such programmes, which include but arenot restricted to the following list, shall meet the general criteria stipulated in para 1 and policy­specific conditions where set out below, namely:–
+Page 43 of 50
+(a) research, including general research, research in connection with environmentalprogrammes, and research programmes relating to particular products;
+(b) pest and disease control, including general and product­specific pest and disease controlmeasures, such as early­warning systems, quarantine and eradication;
+(c) raining services, including both general and specific training facilities;
+(d) xtension and advisory services, including the provision of means to facilitate transfer ofinformation and results of research to producers and consumers;
+(e) inspection services, including general inspection services and an ispection of particularproducts for health, safety, grading or standardisation purposes;
+(f) marketing and promotion services, including market information, advice and promotionrelating to particular products but excluding expenditure for unspecified purposes thatcould be used by sellers to reduce their selling price or confer a direct economic benefit topurchasers; and
+(g) nfrastructural services, including, electricity reticulation, roads and other means oftransport, market and port facilities, water supply facilities, dams and drainage schemes,and infrastructural works associated with environmental programmes. In all cases theexpenditure shall be directed to the provision or construction of capital works only, andshall exclude subsidised provision of on­farm facilities other than for reticulation ofgenerally available public utilities. It shall not include subsidies to inputs or operatingcosts, or preferential user charges.
+3. Public stockholding for food security purposes.– (1) Any expenditure or, revenue foregone,in relation to accumulation and holding of stocks of products which form an integral part of a foodsecurity programme identified in national legislation. This may include government aid to privatestorage of products as part of such a programme.
+(2) The volume and accumulation of such stocks shall correspond to predetermined targetsrelated solely to food security. The process of stock accumulation and disposal shall be financiallytransparent. Food purchases by a government shall be made at current market prices and sales fromfood security stocks shall be made at no less than the current domestic market price for a product andquality in question.
+4. Domestic food aid.__igibility to receive the food aid shall be subject to clearly­defined criteriarelated to nutritional objectives. Such aid shall be in the form of direct 
+Page 44 of 50
+provision of food to those concerned or the provision of means to allow eligible recipients to buy foodeither at market or at subsidised prices. Food purchases by a government shall be made at currentmarket prices and the financing and administration of the aid shall be transparent.
+5. Direct payments to producers.– Support provided through direct payments or, revenueforegone, including payments in kind, to producers for which exemption from reduction commitmentsas claimed shall meet the basic criteria stipulated in para 1, plus specific criteria applying to individualtypes of direct payment as set out in paras 6 to 13. Where exemption from reduction is claimed forany existing or new type of direct payment other than those specified in paras 6 to 13, it shallconform to criteria stipulated in sub­paras (2) to (5) of para 6, in addition to the general criteria setout in para 1.
+6. Decoupled income support.– (1) Eligibility for such payments shall be determined by clearly­defined criteria such as income, status as a producer or landowner, factor use or production level in adefined and fixed base period.
+(2) The amount of such payments in any given year shall not be related to, or based on, the typeor volume of production including, livestock units undertaken by a producer in any year after thebase period.
+(3) The amount of such payments in any given year shall not be related to, or based on, theprices, whether domestic or international, applying to any production undertaken in any year after thebase period.
+(4) The amount of such payments in any given year shall not be related to, or based on, thefactors of production employed in any year after the base period.
+(5) No production shall be required in order to receive such payments.
+7. Government financial participation in income insurance and income safety­netprogrammes.– (1) Eligibility for such payments shall be determined by an income loss, taking intoaccount only income derived from agriculture, which exceeds thirty per cent of average gross incomeor the equivalent in net income terms, excluding any payments from the same or similar schemes, inthe preceding three­year period or a three­year average based on the preceding five­year period,excluding the highest and the lowest entry. Any producer meeting this condition shall be eligible toreceive the payments.
+(2) The amount of such payments shall compensate for less than seventy per cent of theproducer's income loss in the year the producer becomes eligible to receive this assistance.
+(3) The amount of any such payments shall relate solely to income, it shall not relate to the typeor volume of production including, livestock units, undertaken by the producer, or to the prices,whether domestic or international, applying to such production, or to the factors of productionemployed. 
+Page 45 of 50
+(4) Where a producer receives in the same year payments pursuant to this para and pursuant topara 8 (relief from natural disasters), the total of such payments shall be less than one hundred percent of the producer's total loss.
+8. Payments, made either directly or by way of a government financial participation in cropinsurance schemes, for relief from natural disasters.– (1) Eligibility for such payments shall ariseonly following a formal recognition by government authorities that a natural or like disaster including,disease outbreaks, pest infestations, nuclear accidents, and war on the territory of the Memberconcerned, has occurred or is occurring, and shall be determined by a production loss which exceedsthirty per cent of the average of production in the preceding three­year period or a three­year averagebased on the preceding five­year period, excluding the highest and the lowest entry.
+(2) Payments made following a disaster shall be applied only in respect of losses of income,livestock including, payments in connection with veterinary treatment of animals, land or otherproduction factors due to a natural disaster in question.
+(3) Payments shall compensate for not more than the total cost of replacing such losses and shallnot require or specify the type or quantity of future production.
+(4) Payments made during a disaster shall not exceed the level required to prevent or alleviatefurther loss as defined in sub­para (2).
+(5) Where a producer receives in the same year payments pursuant to this para and pursuant topara 7 (income insurance and income safety­net programmes), the total of such payments shall be lessthan one hundred per cent of the producer’s total loss.
+9. Structural adjustment assistance provided through producer retirement programmes.–(1) Eligibility for such payments shall be determined by reference to clearly defined criteria inprogrammes designed to facilitate the retirement of persons engaged in marketable agriculturalproduction, or their movement to non­agricultural activities.
+(2) Payments shall be conditional upon the total and permanent retirement of the recipients frommarketable agricultural production.
+10. Structural adjustment assistance provided through resource retirement programmes.–(1) Eligibility for such payments shall be determined by reference to clearly defined criteria inprogrammes designed to remove land or other resources, including livestock, from marketableagricultural production.
+ (2) Payments shall be conditional upon the retirement of land from marketable agriculturalproduction for a minimum of three years, and in the case of livestock on its slaughter or definitivepermanent disposal.
+(3) Payments shall not require or specify any alternative use for such land or other resourceswhich involves the production of marketable agricultural products. 
+Page 46 of 50
+(4) Payments shall not be related to either type or quantity of production or to the prices, whetherdomestic or international, applying to production undertaken using land or other resources remainingin production.
+11. Structural adjustment assistance provided through investment aids.– (1) Eligibility forsuch payments shall be determined by reference to clearly­defined criteria in governmentprogrammes designed to assist the financial or physical restructuring of a producer's operations inresponse to objectively demonstrated structural disadvantages. Eligibility for such programmes mayalso be based on a clearly defined government programme for re­privatisation of agricultural land.
+(2) The amount of such payments in any given year shall not be related to, or based on, the typeor volume of production including, livestock units, undertaken by a producer in any year after thebase period other than as provided for under sub­para (5).
+(3) The amount of such payments in any given year shall not be related to, or based on, theprices, whether domestic or international, applying to any production undertaken in any year after thebase period.
+(4) The payments shall be given only for such period of time necessary for realisation of aninvestment in respect of which they are provided.
+(5) The payments shall not mandate or in any way designate the agricultural products to beproduced by the recipients except to require them not to produce a particular product.
+(6) The payments shall be limited to the amount required to compensate for structuraldisadvantage.
+12. Payments under environmental programmes.– (1) Eligibility for such payments shall bedetermined as part of a clearly­defined government environmental or conservation programme and bedependent on the fulfilment of specific conditions under the government programme, includingconditions related to production methods or inputs.
+(2) The amount of payment shall be limited to the extra costs or loss of income involved incomplying with the government programme.
+13. Payments under regional assistance programmes.– (1) Eligibility for such payments shallbe limited to producers in disadvantaged regions. Each such region must be a clearly designatedcontiguous geographical area with a definable economic and administrative identity, considered asdisadvantaged on the basis of neutral and objective criteria clearly spelt out in a law or regulation andindicating that the region's difficulties arise out of more than temporary circumstances.
+(2) The amount of such payments in any given year shall not be related to, or based on, the typeor volume of production including, livestock units, undertaken by the producer in any year after thebase period other than to reduce that production.
+Page 47 of 50
+(3) The amount of such payments in any given year shall not be related to, or based on, theprices, whether domestic or international, applying to any production undertaken in any year after thebase period.
+(4) Payments shall be available only to producers in eligible regions, but generally available to allproducers within such regions.
+(5) Where related to production factors, payments shall be made at a degressive rate above athreshold level of the factor concerned.
+(6) The payments shall be limited to the extra costs or loss of income involved in undertakingagricultural production in a specified area.
+14. For the purpose of para 3, governmental stockholding programmes for food security purposesin developing countries whose operation is transparent and conducted in accordance with officiallypublished objective criteria or guidelines shall be considered to be in conformity with the provisionsof this para, including programmes under which stocks of foodstuffs for food security purposes areacquired and released at administered prices, provided that the difference between the acquisitionprice and the external reference price is accounted for in the Aggregate Measure of Support.
+ 15. For the purposes of paras 3 and 4, the provision of foodstuffs at subsidised prices with theobjective of meeting food requirements of urban and rural poor in developing countries on a regularbasis at reasonable prices shall be considered to be in conformity with the provisions of this para.
+_____
+FIFTH SCHEDULE
+[See section 15(3)(b)]
+The developing countries referred to in clause (b) of sub­section (3) of section 15 are as under,namely: –
+(a) least ‑ developed countries designated as such by the United Nations which are members ofthe WTO; and
+(b) each of the following developing countries which are members of the WTO shall besubject to the provisions which are applicable to developing countries pursuant to clause(b) of sub­section (3) of section 15 until Gross National Product per capita, as determinedon the basis of the most recent data available from the International Bank forReconstruction and Development, has reached United States Dollars One Thousand perannum, namely:–
+(i) Bolivia;
+(ii) Cameroon;
+Page 48 of 50
+(iii) Congo;
+(iv) Cote d’Ivoire;
+(v) Dominican Republic;
+(vi) Egypt;
+(vii) Ghana;
+(viii) Guatemala;
+(ix) Guyana;
+(x) India;
+(xi) Indonesia;
+(xii) Kenya;
+(xiii) Morocco;
+(xiv) Nicaragua;
+(xv) Nigeria;
+(xvi) Pakistan;
+(xvii) Philippines;
+(xviii) Senegal;
+(xix) Sri Lanka; and
+(xx) Zimbabwe
+Page 49 of 50
+Page 50 of 50

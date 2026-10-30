@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-be13ec1cfb9424c9",
+  "title": "PUNJAB LOCAL OPTION (REPEAL) ORDINANCE, 1985",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/UmdQY1RmADg-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:58:31Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "5ea96629876274f1cf9c47c0dc9bdf6274faf6989c3a04087aa8bb22dea93a73",
+  "source_sha256": "5ea96629876274f1cf9c47c0dc9bdf6274faf6989c3a04087aa8bb22dea93a73",
+  "text_version_id": "law:punjab-code-be13ec1cfb9424c9:sha256:5ea96629876274f1cf9c47c0dc9bdf6274faf6989c3a04087aa8bb22dea93a73",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB LOCAL OPTION (REPEAL) ORDINANCE, \r\n1985 \r\n(XIX of 1985) \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Repeal of Punjab Act V of 1923 \r\n \r\nTEXT \r\n1\r\nTHE PUNJAB LOCAL OPTION (REPEAL) ORDINANCE, 1985  \r\n(XIX of 1985) \r\n[23rd February, 1985] \r\nAn \r\nOrdinance \r\nto repeal the Punjab Local Option Act, 1923 \r\nPreamble.– Whereas it is expedient to repeal the Punjab Local Option Act, 1923 (V \r\nof 1923), in accordance with the direction of the Federal Shariat Court; \r\n NOW, THEREF ORE, in pursuance of the Proclamation of the fifth day of July, \r\n1977, read with the Laws (Continuance in Force) Order, 1977 (C.M.L.A. Order No. 1 of \r\n1977), and the Provisional Constitution Order, 1981 (C.M.L.A. Order No. 1 of 1981), \r\nthe Governor of the Pun jab is pleased to make and promulgate the following \r\nOrdinance; \r\n1. Short title and commencement .– (1) This Ordinance may be called the \r\nPunjab Local Option (Repeal) Ordinance, 1985; \r\n(2) It shall come into force at once. \r\n2. Repeal of Punjab Act V of 1923 .– The Punjab Local Option Act, 1923 is \r\nhereby repealed. \r\n \r\n \r\n \r\n                                                                 \r\n1This Ordinance w as promulgated by the Governor of the Punjab on 20th February, 1985; and, published in the Punjab Gazette \r\n(Extraordinary) dated 23rd February, 1985;",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-be13ec1cfb9424c9:sha256:5ea96629876274f1cf9c47c0dc9bdf6274faf6989c3a04087aa8bb22dea93a73:chars-0-1321:5ea96629876274f1cf9c47c0dc9bdf6274faf6989c3a04087aa8bb22dea93a73",
+      "character_start": 0,
+      "character_end": 1321,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1327,
+      "passage_sha256": "5ea96629876274f1cf9c47c0dc9bdf6274faf6989c3a04087aa8bb22dea93a73",
+      "reader_fragment": "p-0-1321-5ea96629876274f1"
+    }
+  ]
+}

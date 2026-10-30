@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-57c50d66bad25f21",
+  "title": "Martial Law Regulation No. 60 (Repeal) Act, 1989",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5plaQ%3D%3D-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "3d11492508534cd370f1380b7713bee0c6e4604289be026ceb52729e16c1410f",
+  "source_sha256": "3d11492508534cd370f1380b7713bee0c6e4604289be026ceb52729e16c1410f",
+  "text_version_id": "law:pk-code-57c50d66bad25f21:sha256:3d11492508534cd370f1380b7713bee0c6e4604289be026ceb52729e16c1410f",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\nTHE MARTIAL LAW REGULATION NO. 60 (REPEAL) ACT, 1989 \r\n \r\n \r\n \r\n  CONTENTS  \r\n \r\n1.  Short title and commencement \r\n2 . Repeal of M.L.R. No. 60 \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n\r\n  \r\n \r\nPage 2 of 2 \r\n \r\nTHE MARTIAL LAW REGULATION NO. 60 (REPEAL) ACT, 1989 \r\nACT NO. VI OF 1989 \r\nAn Act to repeal Martial Law Regulation No. 60 \r\nWHEREAS it is expedient to repeal martial Law Regulation No. 60; \r\n It is hereby enacted as follows:— \r\n 1. Short title and commencement.—(1) This Act may be called the Martial Law Regulation \r\nNo. 60 (Repeal) Act, 1989. \r\n (2) It shall come into force at once. \r\n 2. Repeal of M.L.R. No. 60. —Martial Law Regulation No. 60, regarding Educational \r\nInstitutions in Islamabad Capital Territory, is hereby repealed.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-57c50d66bad25f21:sha256:3d11492508534cd370f1380b7713bee0c6e4604289be026ceb52729e16c1410f:chars-0-796:3d11492508534cd370f1380b7713bee0c6e4604289be026ceb52729e16c1410f",
+      "character_start": 0,
+      "character_end": 796,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 802,
+      "passage_sha256": "3d11492508534cd370f1380b7713bee0c6e4604289be026ceb52729e16c1410f",
+      "reader_fragment": "p-0-796-3d11492508534cd3"
+    }
+  ]
+}

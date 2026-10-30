@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-3adf859dc50f07fe",
+  "title": "RACE COURSES LICENSING (REPEAL) ORDINANCE, 1985",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/U2ZVZlBjV2U-",
+  "version": null,
+  "source_snapshot": "2026-08-06T17:01:54Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "bee68dea7fa465c795b19566746182cc136f861d5266ae14f69c8e89ace902cb",
+  "source_sha256": "bee68dea7fa465c795b19566746182cc136f861d5266ae14f69c8e89ace902cb",
+  "text_version_id": "law:punjab-code-3adf859dc50f07fe:sha256:bee68dea7fa465c795b19566746182cc136f861d5266ae14f69c8e89ace902cb",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE RACE COURSES LICENSING (REPEAL) ORDINANCE, \r\n1985 \r\n(XXIII of 1985) \r\nCONTENTS \r\n1. Short title and commencement. \r\n2. Repeal of Act No. III of 1912. \r\n  \r\nTEXT \r\n1\r\nTHE RACE COURSES LICENSING (REPEAL) ORDINANCE, 1985  \r\n(XXIII of 1985) \r\n[23rd February, 1985] \r\nAn \r\nOrdinance \r\nto repeal the Race Courses Licensing Act, 1912 \r\nPreamble.– Whereas it is expedient to repeal the Race Courses Licensing Act, 1912 (III \r\nof 1912); \r\n Now, therefore, in pursuance of the Proclamation of the fifth d ay of July, 1977, \r\nread with the Laws (Continuance in Force) Order, 1977 (C.M.L.A. Order No. 1 of 1977), \r\nand the Provisional Constitution Order, 1981 (C.M.L.A. Order No. 1 of 1981), the \r\nGovernor of the Punjab is pleased to make and promulgate the following Ordinance:- \r\n1. Short title and commencement .– (1) This Ordinance may be called the Race \r\nCourses Licensing (Repeal) Ordinance, 1985. \r\n (2) It shall come into force at once. \r\n2. Repeal of Act No. III of 1912 .– The Race Courses Licensing Act, 1912 (Act No. \r\nIII of 1912), is hereby repealed. \r\n                                                                 \r\n1This Ordinance w as promulgated by the Governor of the Punj ab on 20th February, 1985; and published in the Punjab Gazette \r\n(Extraordinary), dated 23rd February, 1985.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-3adf859dc50f07fe:sha256:bee68dea7fa465c795b19566746182cc136f861d5266ae14f69c8e89ace902cb:chars-0-1297:bee68dea7fa465c795b19566746182cc136f861d5266ae14f69c8e89ace902cb",
+      "character_start": 0,
+      "character_end": 1297,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1303,
+      "passage_sha256": "bee68dea7fa465c795b19566746182cc136f861d5266ae14f69c8e89ace902cb",
+      "reader_fragment": "p-0-1297-bee68dea7fa465c7"
+    }
+  ]
+}

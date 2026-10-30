@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-234da554d9039efd",
+  "title": "PUNJAB ADMINISTRATIVE VIGILANCE COMMISSION (REPEAL) ORDINANCE, 1982",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/UGUBMgs7VGA-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:49:44Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "f673b94777b9327ca1df5da32dee2ee72d7e9cd372938343469e016f9075dcd7",
+  "source_sha256": "f673b94777b9327ca1df5da32dee2ee72d7e9cd372938343469e016f9075dcd7",
+  "text_version_id": "law:punjab-code-234da554d9039efd:sha256:f673b94777b9327ca1df5da32dee2ee72d7e9cd372938343469e016f9075dcd7",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB ADMINISTRATIVE VIGILANCE COMMISSION \r\n(REPEAL) ORDINANCE, 1982 \r\n(VIII of 1982) \r\nCONTENTS \r\n1. Short title and commencement. \r\n2. Definitions. \r\n3. Repeal of Punjab Ordinance No.X of 1979. \r\n4. Appointments to terminate. \r\n5. Removal of difficulties. \r\nTEXT \r\n1\r\nTHE PUNJAB ADMINISTRATIVE VIGILANCE COMMISSION (REPEAL) \r\nORDINANCE, 1982 \r\n(VIII of 1982) \r\n[29th June, 1982] \r\nAn \r\nOrdinance \r\nto repeal the Punjab Administrative Vigilance Commission Ordinance, 1979. \r\nPreamble.– WHEREAS it is expedient to repeal the Punjab Administrative Vigilance \r\nCommission Ordinance, 1979 in the manner hereinafter appearing; \r\n NOW, THEREFORE, in pursuance of the Proclamation of the 5th day of July, \r\n1977, read with the Laws (Continuance in Force) Order, 1977 ( CMLA Order No. 1 of \r\n1977) and the Provisional Constitution Order, 1981 ( CMLA Order No. 1 of 1981), the \r\nGovernor of the Punjab is pleased to make and promulgate the following \r\nOrdinance:– \r\n1. Short title and commencement. – (1) This Ordinance may be called the \r\nPunjab Administrative Vigilance Commission (Repeal) Ordinance, 1982. \r\n (2) It shall come into force on the first day of July, 1982. \r\n2. Definitions.– In this Ordinance, unless the re is anything repugnant in the \r\nsubject or context– \r\n(a) “Commission” means the Punjab Administrative Vigilance Commission; \r\n(b) “Government” means Government of the Punjab; and \r\n(c) “Ordinance” means the Punjab Administrative Vigilance Commission \r\nOrdinance, 1979. \r\n3. Repeal of Punjab Ordinance No. X of 1979. – The Punjab Administrative \r\nVigilance Commission Ordinance, 1979 (X of 1979) is hereby repealed. \r\n4. Appointments to terminate. – Notwithstanding anything to the contrary \r\ncontained in the repealed Ordinance, Notification, Order or letter of appointment, all \r\nappointments made against any posts in the Commission and the Vigilance \r\ncommittees by or on behalf of the Commission or Government, shall stand \r\nterminated and all rights and privileges existing before the r epeal of the Ordinance \r\nshall stand extinguished. \r\n5. Removal of difficulties. – If any difficulty arises in giving effect to any \r\nprovision of this Ordinance, Government may make such orders, as may appear to it \r\nto be necessary, for the purposes of removing the difficulty. \r\n                                                           \r\n1This Ordinance was promulgated by the Governor of the Punjab on 28th June, 1982; and, published in the Punjab Gazette, \r\n(Extraordinary), dated 29th June, 1982, pages 416-B to 416-C.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-234da554d9039efd:sha256:f673b94777b9327ca1df5da32dee2ee72d7e9cd372938343469e016f9075dcd7:chars-0-1714:d5c8556d78e2a1993c3eb3278480c9c628f456e0de999173523b96e7f029df1d",
+      "character_start": 0,
+      "character_end": 1714,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1740,
+      "passage_sha256": "d5c8556d78e2a1993c3eb3278480c9c628f456e0de999173523b96e7f029df1d",
+      "reader_fragment": "p-0-1714-d5c8556d78e2a199"
+    },
+    {
+      "passage_id": "law:punjab-code-234da554d9039efd:sha256:f673b94777b9327ca1df5da32dee2ee72d7e9cd372938343469e016f9075dcd7:chars-1714-2540:5749a670e5c24068589db84bd731b64de6db75f9519627fa3428120d0269b22d",
+      "character_start": 1714,
+      "character_end": 2540,
+      "utf8_byte_start": 1740,
+      "utf8_byte_end": 2568,
+      "passage_sha256": "5749a670e5c24068589db84bd731b64de6db75f9519627fa3428120d0269b22d",
+      "reader_fragment": "p-1714-2540-5749a670e5c24068"
+    }
+  ]
+}

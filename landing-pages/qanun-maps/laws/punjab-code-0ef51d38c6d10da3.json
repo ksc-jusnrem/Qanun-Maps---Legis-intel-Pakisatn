@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-0ef51d38c6d10da3",
+  "title": "MURREE KAHUTA HILLY AREAS DEVELOPMENT AUTHORITY (REPEAL) ORDINANCE, 1978",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/U2ZVZgYxADI-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:41:22Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "4c66c4a1dd6ca86162db680222031a429ff100fbce5ae5d8ea3ff875924aadf8",
+  "source_sha256": "4c66c4a1dd6ca86162db680222031a429ff100fbce5ae5d8ea3ff875924aadf8",
+  "text_version_id": "law:punjab-code-0ef51d38c6d10da3:sha256:4c66c4a1dd6ca86162db680222031a429ff100fbce5ae5d8ea3ff875924aadf8",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE MURREE KAHUTA HILLY AREAS DEVELOPMENT \r\nAUTHORITY (REPEAL) ORDINANCE, 1978 \r\n(XV of 1978) \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Definitions \r\n3. Repeal of Act No. XLIV of 1975 \r\n4. Devolution of the assets and liabilities etc. of the Authority \r\n5. Continuance of Contracts suits and proceeding \r\n6. Removal of difficulties \r\nTEXT \r\n1\r\nTHE MURREE KAHUTA HILLY AREAS DEVELOPMENT AUTHORITY \r\n(REPEAL) ORDINANCE, 1978 \r\n(XV of 1978) \r\n[1st August, 1978] \r\nAn  \r\nOrdinance \r\nto repeal the Murree Kahuta Hilly Areas Development Authority Act, 1975. \r\nPreamble.– WHEREAS, it is expedient to repeal the Murree  Kahuta Hill y Areas \r\nDevelopment Authority Act, 1975 (Act No. XLIV of 1975); \r\n NOW, THEREFORE , in pursuance of the Proclamation of Fifth day of July, \r\n1977, read with the Laws (Continuance in Force) Order, 1977 (CMLA’s Order No.1 \r\nof 1977), the Governor of the Punjab is p leased to make and promulgate the \r\nfollowing Ordinance:– \r\n1. Short title and commencement .– (1) This Ordinance may be called the \r\nMurree Kahuta Hilly Areas Development Authority (Repeal) Ordinance, 1978. \r\n(2) It shall come into force at once. \r\n2. Definitions.– In this Ordinance, unless there is anything repugnant in the \r\nsubject or context:– \r\n(a) “Authority” means the Murree  Kahuta Hilly Areas Development \r\nAuthority; and \r\n(b) “Government” means Government of the Punjab. \r\n3. Repeal of Act No. XLIV of 1975 .– The Murree  Kahuta Hilly Areas \r\nDevelopment Authority Act, 1975, is hereby repealed. \r\n4. Devolution of the assets and  liabilities etc. of the Authority .– The \r\nAuthority shall stand dissolved on such date as may be prescribed by the \r\nGovernment and notwithstanding anything contained in the repealed Act, all property \r\nbelonging to the Authority subject to any encumbrances or charges and all assets, \r\nliabilities, rights and obligations as existing before the dissolution, shall stand \r\ntransferred to and devolve upon the Government. \r\n5. Continuance of Contracts suits and proceeding.– (1) All such agreements \r\nand contracts entered into or executed by or on behalf of the Authority as may be \r\nenforceable before the dissolution, shall continue to be enforceable as if such \r\nagreements and contracts were made by or on behalf of the Governor. \r\n(2) All suits and other legal proceedings (including any appeal or \r\napplication) pending, immediately before the dissolution, before any Court, Tribunal \r\n                                                           \r\n1This Ordinance was promulgated by the Governor of the Punjab on 31st July, 1978; and, was published in the Punjab Gazette \r\n(Extraordinary), dated 1st August, 1978, pages 985-A-985-B. \r\nor other authority to which the Authority is a part y shall be deemed to be suits and \r\nproceedings by or against the Government. \r\n6. Removal of difficulties .– If any difficulty arises in giving effect to any \r\nprovision of this Ordinance, the Government may make such orders, not inconsistent \r\nwith the provisions  of this Ordinance, as may appear to it to be necessary, for the \r\npurpose of removing the difficulty.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-0ef51d38c6d10da3:sha256:4c66c4a1dd6ca86162db680222031a429ff100fbce5ae5d8ea3ff875924aadf8:chars-0-1748:379e0616925dc24419032e81869c4cf1c01690e6a11da7c99af4ed3242c61b55",
+      "character_start": 0,
+      "character_end": 1748,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1772,
+      "passage_sha256": "379e0616925dc24419032e81869c4cf1c01690e6a11da7c99af4ed3242c61b55",
+      "reader_fragment": "p-0-1748-379e0616925dc244"
+    },
+    {
+      "passage_id": "law:punjab-code-0ef51d38c6d10da3:sha256:4c66c4a1dd6ca86162db680222031a429ff100fbce5ae5d8ea3ff875924aadf8:chars-1748-3105:9695727e94417af905dca4707e7e112e767ab418928b5a8e69597871c8f0f52b",
+      "character_start": 1748,
+      "character_end": 3105,
+      "utf8_byte_start": 1772,
+      "utf8_byte_end": 3133,
+      "passage_sha256": "9695727e94417af905dca4707e7e112e767ab418928b5a8e69597871c8f0f52b",
+      "reader_fragment": "p-1748-3105-9695727e94417af9"
+    }
+  ]
+}

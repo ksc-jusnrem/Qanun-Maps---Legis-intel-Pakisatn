@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-ee68f650cc49fea2",
+  "title": "Removal of Accused Persons Act, 1973",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bpuUY2pt-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "2c30bb7be5b4d79b579fc119b6a16cac4e521168a1cb6da9764d625ab691fef9",
+  "source_sha256": "2c30bb7be5b4d79b579fc119b6a16cac4e521168a1cb6da9764d625ab691fef9",
+  "text_version_id": "law:pk-code-ee68f650cc49fea2:sha256:2c30bb7be5b4d79b579fc119b6a16cac4e521168a1cb6da9764d625ab691fef9",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n  \r\n \r\nTHE REMOVAL OF ACCUSED PERSONS ACT, 1973 \r\n \r\n \r\nCONTENTS \r\n1. Short title, extent and commencement  \r\n2. Removal of prisoners, etc. \r\n3. [Omitted] \r\n \r\n \r\n\r\n \r\n \r\nPage 2 of 2 \r\n \r\nTHE REMOVAL OF ACCUSED PERSONS ACT, 1973 \r\nACT NO. LXIII OF 1973 \r\n[15th September, 1973] \r\nAn Act to provide for the removal of accused persons from one Province to another. \r\nWHEREAS it is expedient to provide for the removal of accused persons from one \r\nProvince to another; \r\nIt is hereby enacted as follows:— \r\n1. Short title, extent a nd commencement.—(1) This A ct may be called the Removal of \r\nAccused Persons Act, 1973. \r\n(2) It extends to the whole of Pakistan. \r\n(3) it shall come into force at once. \r\n2. Removal of prisoners, etc.— Notwithstanding anything contained in any oth er law for \r\nthe time being in force, the Federal Government may, by general or special order, provide for \r\nthe removal of any accused person or class of accused persons held in custody in any Province to \r\nany other Province to be held in custody therein. \r\n3. 1 [ Omitted] \r\n \r\n \r\n \r\n_____________ \r\n \r\n \r\n \r\n \r\n \r\nRGN Date: 20-05-2024 \r\n1Omitted by the Federal Laws (Revision and Declaration) Ordinance No. XXVII of 1981, s.3 and sch. II.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-ee68f650cc49fea2:sha256:2c30bb7be5b4d79b579fc119b6a16cac4e521168a1cb6da9764d625ab691fef9:chars-0-1243:2c30bb7be5b4d79b579fc119b6a16cac4e521168a1cb6da9764d625ab691fef9",
+      "character_start": 0,
+      "character_end": 1243,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1249,
+      "passage_sha256": "2c30bb7be5b4d79b579fc119b6a16cac4e521168a1cb6da9764d625ab691fef9",
+      "reader_fragment": "p-0-1243-2c30bb7be5b4d79b"
+    }
+  ]
+}

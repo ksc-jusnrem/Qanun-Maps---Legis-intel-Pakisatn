@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-ab8ac3c6988b474a",
+  "title": "Members of Parliament and Provincial Assemblies (Exemption of Advisers from Disqualification) Act, 1976",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bpuUZWRu-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "81333ba3199b54daf70755c495f4102e79c9dce9c854d964bb5c58034c34bf85",
+  "source_sha256": "81333ba3199b54daf70755c495f4102e79c9dce9c854d964bb5c58034c34bf85",
+  "text_version_id": "law:pk-code-ab8ac3c6988b474a:sha256:81333ba3199b54daf70755c495f4102e79c9dce9c854d964bb5c58034c34bf85",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n  \r\n \r\n \r\n \r\nTHE MEMBERS OF PARLIAMENT AND PROVINCIAL ASSEMBLIES \r\n(EXEMPTION OF ADVISERS FROM DISQUALIFICATION) \r\nACT, 1976 \r\n \r\n \r\n              \r\n \r\nCONTENTS \r\n1.  Short title and commencement \r\n2.  Advisor to Governor not to be disqualified \r\n3.  Repeal \r\n \r\n \r\n \r\n\r\nPage 2 of 2 \r\n \r\nTHE MEMBERS OF PARLIAMENT AND PROVINCIAL ASSEMBLIES \r\n(EXEMPTION OF ADVISERS FROM DISQUALIFICATION) \r\nACT, 1976 \r\n \r\n 1ACT No. XIX OF 1976  \r\n \r\n           [18th April, 1976] \r\n \r\nAn Act to declare the holders of the office of Adviser to the Governor not to be disqualified from \r\nbeing elected or chosen as, and from being a member of Parliament or a Provincial Assembly. \r\n \r\n WHEREAS  p aragraph (d) of clause (1) of Article 63 read with Article 127 of the \r\nConstitution provides that a person holding any o ffice of profit in the service of Pakistan may be \r\ndeclared by law not to be disqualified from being elected or chosen as, and from being, a member of \r\nParliament or a Provincial Assembly; \r\n \r\n AND WHEREAS, it is expedient in the public interest to declare that persons holding the \r\noffice of Adviser to a Governor during certain period shall not be disqualified from being elected or \r\nchosen as, and from being, a member of Parliament or a Provincial Assembly; \r\n \r\n It is hereby enacted as follows:— \r\n \r\n 1. Short title and commencement.—(1) This Act may be called the Members of \r\nParliament and Provincial Assemblies (Exemption of Advisers from Disqualification) Act, 1976. \r\n  \r\n (2) It shall come into force at once and shall be deemed to have taken effect on the thirty-first \r\nday of December, 1975. \r\n \r\n 2. Advisor to Governor not to be disqualified. It is hereby d eclared that any p erson \r\nholding the office of Adviser to the Governor of a Province during the period— \r\n \r\n(a)       that  an  Order  under  paragraph  (c)  of  clause  (2)  of  A rticle  232  of  the \r\nConstitution  is in  force whereby the  Federal  Government  has  assumed  to \r\nitself, or directed the Governor of a Province to assume on its behalf, all or \r\nany of the functions of the Government of that Province; or \r\n \r\n(b)       a Proclamation under Article 234 of the Constitution is in force; \r\n \r\nshall not be disqualified from being elected or chosen as, and from being, a member of \r\nParliament or a Provincial Assembly. \r\n \r\n 3. [Repeal.] Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 \r\n(XXVII of1981), s. 3 and Sch., 11. \r\n________________ \r\n \r\n \r\n \r\n         Last Uploaded on 2.11.2023 \r\n \r\n1For Statement of Objects and Reasons, see Gaz. of P., 1976, Ext., Pt. Ill, p. 308.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-ab8ac3c6988b474a:sha256:81333ba3199b54daf70755c495f4102e79c9dce9c854d964bb5c58034c34bf85:chars-0-1726:318a8ab1e437f00eeb86f2469f9fc6504d3b6917c21e44b993b6e2fc16d2f378",
+      "character_start": 0,
+      "character_end": 1726,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1730,
+      "passage_sha256": "318a8ab1e437f00eeb86f2469f9fc6504d3b6917c21e44b993b6e2fc16d2f378",
+      "reader_fragment": "p-0-1726-318a8ab1e437f00e"
+    },
+    {
+      "passage_id": "law:pk-code-ab8ac3c6988b474a:sha256:81333ba3199b54daf70755c495f4102e79c9dce9c854d964bb5c58034c34bf85:chars-1726-2620:2ee18a94eda1d420dd93d08f35cf27704bd4dc5f42a06a3e59b39bfa06e95b21",
+      "character_start": 1726,
+      "character_end": 2620,
+      "utf8_byte_start": 1730,
+      "utf8_byte_end": 2626,
+      "passage_sha256": "2ee18a94eda1d420dd93d08f35cf27704bd4dc5f42a06a3e59b39bfa06e95b21",
+      "reader_fragment": "p-1726-2620-2ee18a94eda1d420"
+    }
+  ]
+}

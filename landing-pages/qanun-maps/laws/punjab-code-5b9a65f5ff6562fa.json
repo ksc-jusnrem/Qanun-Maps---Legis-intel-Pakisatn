@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-5b9a65f5ff6562fa",
+  "title": "PUNJAB FINANCE ACT 2009",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/UGVWYlRjATU-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:55:30Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "08dd736b45b0cccfddd654f441a979a5723fd6274c5ca92c272c76b2d66b46fb",
+  "source_sha256": "08dd736b45b0cccfddd654f441a979a5723fd6274c5ca92c272c76b2d66b46fb",
+  "text_version_id": "law:punjab-code-5b9a65f5ff6562fa:sha256:08dd736b45b0cccfddd654f441a979a5723fd6274c5ca92c272c76b2d66b46fb",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB FINANCE ACT 2009 \r\n(III of 2009) \r\nCONTENTS \r\n1. Short title, extent and commencement \r\n2. Amendment in Act II of 1899 \r\n3. Amendment in Act I of 1993 \r\nTEXT \r\n1\r\nTHE PUNJAB FINANCE ACT 2009 \r\n(III of 2009) \r\n[29th June, 2009] \r\nAn \r\nAct \r\nto levy tax and alter the rates of tax and duties in the Punjab. \r\nPreamble.– Whereas it is expedient to levy tax and alter the rates of tax and duties \r\nin the Punjab and other connected matters. \r\n It is enacted as follows:– \r\n1. Short title, extent and commencement. – (1)This Act may be cited as the \r\nPunjab Finance Act 2009. \r\n(2) It shall extend to the whole of the Punjab. \r\n(3) It shall come into force on the first day of July 2009. \r\n2. Amendment in Act II of 1899. – In the Stamp Act 1899 (II of 1899), in the \r\nSchedule I, in Article 63-A, the explanation shall be substituted by the following:- \r\n“Explanation.– Transfer of the right or interest under this Article does not \r\ninclude original allotment from a development autho rity, housing authority, \r\nstatutory body, cooperative housing society or company; and transfer through \r\ninheritance.” \r\n3. Amendment in Act I of 1993. – In the Punjab Undesirable Cooperative \r\nSocieties (Dissolution) Act 1993 (I of 1993), in section 7, after clause (ta), the following \r\nclause (tb) shall be inserted: \r\n“(tb) create a fund for social sector development in the Punjab with surplus \r\nassets if any;” \r\n                                                           \r\n1This Act was passed by the Punjab Assembly on 26 June 2009; assented to by the Governor of the Punjab on 27 June 2009; \r\nand, was published in the Punjab Gazette (Extraordinary), dated 29 June 2009, pages 3965-3966.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-5b9a65f5ff6562fa:sha256:08dd736b45b0cccfddd654f441a979a5723fd6274c5ca92c272c76b2d66b46fb:chars-0-1690:08dd736b45b0cccfddd654f441a979a5723fd6274c5ca92c272c76b2d66b46fb",
+      "character_start": 0,
+      "character_end": 1690,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1710,
+      "passage_sha256": "08dd736b45b0cccfddd654f441a979a5723fd6274c5ca92c272c76b2d66b46fb",
+      "reader_fragment": "p-0-1690-08dd736b45b0cccf"
+    }
+  ]
+}

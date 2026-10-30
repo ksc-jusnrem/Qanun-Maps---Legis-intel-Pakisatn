@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-f7a4a38a30548a6b",
+  "title": "PROVINCIAL ASSEMBLY OF THE PUNJAB SECRETARIAT SERVICES (REPEAL AND REVIVAL) ACT 2022",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/UmJcagQ7VWACYQ--",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:48:11Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "8751c5209383d70171924fb42fd763725b70fbf4c3cb3f9a1c5f511d32612733",
+  "source_sha256": "8751c5209383d70171924fb42fd763725b70fbf4c3cb3f9a1c5f511d32612733",
+  "text_version_id": "law:punjab-code-f7a4a38a30548a6b:sha256:8751c5209383d70171924fb42fd763725b70fbf4c3cb3f9a1c5f511d32612733",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PROVINCIAL ASSEMBLY OF THE PUNJAB \r\nSECRETARIAT SERVICES (REPEAL AND REVIVAL) ACT \r\n2022  \r\n(XIV of 2022) \r\nCONTENTS \r\n \r\n1. Short title and commencement. \r\n2. Repeal of Act XI of 2022. \r\n3. Revival of Act IX of 2019. \r\n  \r\nTEXT \r\n1\r\nTHE PROVINCIAL ASSEMBLY OF THE PUNJAB SECRETARIAT \r\nSERVICES (REPEAL AND REVIVAL) ACT 2022 \r\n(XIV of 2022) \r\n    [16 August 2022] \r\n \r\nAn \r\nAct \r\nto repeal the Provincial Assembly of the Punjab Secretariat Services Act 2022 and revive the \r\nProvincial Assembly of the Punjab Secretariat Services Act 2019. \r\nWHEREAS, in the interest of Parliamentary Supremacy, it is expedient to revive the \r\nProvincial Assembly of the Punjab Secretariat Services Act 2019 , in the manner hereinafter \r\nappearing;   \r\nBe it enacted by the Provincial Assembly of the Punjab as follows; \r\n1. Short title and commencement .− (1) This Act may be called the Provincial \r\nAssembly of the Punjab Secretariat Services (Repeal and Revival) Act, 2022. \r\n (2) It shall come into force at once. \r\n2. Repeal of Act XI of 2022 .− The Provincial Assembly of the Punjab Secretariat \r\nServices Act 2022 is hereby repealed. \r\n3. Revival o f Act IX of 2019 .− The Provincial Assembly of the Punjab Secretariat \r\nServices Act 2019  is hereby revived with effect from 24 th June, as if it had never been \r\nrepealed. \r\n                                                      \r\n1This Act was passed by Provincial Assembly of the Punjab on 31 July 2022; and was deemed to have been \r\nassented to by Governor of the Punjab in terms of Article 116(3) of the Constitution; and was published in the \r\nPunjab Gazette (Extraordinary), dated: 16 August 2022, pp.141.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-f7a4a38a30548a6b:sha256:8751c5209383d70171924fb42fd763725b70fbf4c3cb3f9a1c5f511d32612733:chars-0-1655:8751c5209383d70171924fb42fd763725b70fbf4c3cb3f9a1c5f511d32612733",
+      "character_start": 0,
+      "character_end": 1655,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1661,
+      "passage_sha256": "8751c5209383d70171924fb42fd763725b70fbf4c3cb3f9a1c5f511d32612733",
+      "reader_fragment": "p-0-1655-8751c5209383d701"
+    }
+  ]
+}

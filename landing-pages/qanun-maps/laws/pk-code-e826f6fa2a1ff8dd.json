@@ -1,0 +1,31 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-e826f6fa2a1ff8dd",
+  "title": "Sikh Gurdwaras (Supplementary) Act, 1925",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-ap6X-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "2662871fea49d40157261b34946409c5d967c800f033074a2ce18a0cdb1ed5f5",
+  "source_sha256": "2662871fea49d40157261b34946409c5d967c800f033074a2ce18a0cdb1ed5f5",
+  "text_version_id": "law:pk-code-e826f6fa2a1ff8dd:sha256:2662871fea49d40157261b34946409c5d967c800f033074a2ce18a0cdb1ed5f5",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\nTHE SIKH GURDWARAS (SUPPLEMENTARY) ACT, 1925. \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title and commencement \r\n2.  Validation of certain provisions of Punjab Act VIII of 1925 \r\n3. [Repealed]  \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE SIKH GURDWARAS (SUPPLEMENTARY) ACT, 1925 \r\nACT NO. XXIV OF 1925 \r\n[11th September, 1925] \r\nAn Act to supplement certain provisions of the Sikh Gurdwaras Act, 1925 \r\n WHEREAS it is expedient to supplement, 1[* * *] certain provisions of the Sikh Gurdwaras Act, 1925 \r\n(Punjab Act VIII of 1925), for the purposes hereinafter appearing ; It is hereby enacted as follows:___ \r\n 1. Short title and commencement.___(1) This Act may be called the Sikh Gurdwaras (Supplementary) \r\nAct, 1925. \r\n (2) It shall come into force on the date 2appointed by the 3[Provincial Government] under sub-section \r\n(3) of section 1 of the Sikh Gurdwaras Act, 1925(Punjab Act VIII of 1925). \r\n 2. Validation of certain provisions of Punjab Act VIII of 1925. ___The Sikh Gurdwaras Act, 1925 \r\n(hereinafter referred to as the said Act), shall, so far as it adds to or tak es from the jurisdiction of the \r\nHigh Court 4[* *] at Lahore or prescribes the procedure of the said Court, be as valid as if it had been \r\npassed by the 5[Central Legislature]. \r\n 3. 6[Repealed]  \r\n \r\n________ \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nDate: 15-08-2024 \r\n1Omitted by the Federal Laws (Revision and Declaration) Act, 1951 (XXVI of 1951), s. 3 and 2nd Sch. \r\n2The 1st November, 1925 ; see Punjab Gazette 1925, Pt. I, p, 712. \r\n3Subs. by the A.O., 1937. \r\n4Omitted by Central Adaptation of Laws Order, 1964(P. O. 1 of 1964), Art. 2 and Sch.  \r\n5Subs. by the Federal Laws (Revision and Declaration) Act, 1951 (XXVI of 1951), s. 4 and Third Sch. \r\n6Rep. by the Repealing Act, 1938 (I of 1938), s. 2 and Sch.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-e826f6fa2a1ff8dd:sha256:2662871fea49d40157261b34946409c5d967c800f033074a2ce18a0cdb1ed5f5:chars-0-1790:2662871fea49d40157261b34946409c5d967c800f033074a2ce18a0cdb1ed5f5",
+      "character_start": 0,
+      "character_end": 1790,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1790,
+      "passage_sha256": "2662871fea49d40157261b34946409c5d967c800f033074a2ce18a0cdb1ed5f5",
+      "reader_fragment": "p-0-1790-2662871fea49d401"
+    }
+  ]
+}

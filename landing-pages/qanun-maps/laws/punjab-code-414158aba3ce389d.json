@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-414158aba3ce389d",
+  "title": "EYE SURGERY (RESTRICTION) ORDINANCE, 1960",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/XGlVZQI0UmQ-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:33:15Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "8b944abfa184dfa4ed0f6fe299520c910d500d9f323fd0d90ab0122ef210990d",
+  "source_sha256": "8b944abfa184dfa4ed0f6fe299520c910d500d9f323fd0d90ab0122ef210990d",
+  "text_version_id": "law:punjab-code-414158aba3ce389d:sha256:8b944abfa184dfa4ed0f6fe299520c910d500d9f323fd0d90ab0122ef210990d",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE EYE SURGERY (RESTRICTION) ORDINANCE, 1960 \r\n(LI of 1960) \r\nCONTENTS \r\n1. Short title extent and commencement  \r\n2. Definitions  \r\n3. Punishment for performing eye surgery in certain cases  \r\n4. Punishment for unlawful practice or holding out  \r\n5. Offences to be cognizable  \r\n6. Trial offences  \r\nTEXT \r\nTHE EYE SURGERY (RESTRICTION) ORDINANCE, 1960 \r\n(LI of 1960) \r\n[31st December, 1960] \r\nAn \r\nOrdinance \r\nto prevent surgery on the eye by persons other than registered medical practitioners. \r\nWHEREAS it is expedient to prevent surgery on the eye by persons other \r\nthan registered medical practitioners; \r\nNow, THEREFORE, in pursuance of the Proclamation of the sevent h day of \r\nOctober 1958, and in exercise of the powers conferred by Article 2 of the State \r\nArrangements Order, 1959, and of all other powers enabling him in that behalf, the \r\nMinister exercising the functions of President under the said Article makes and \r\npromulgates the following Ordinance:– \r\n1. Short title extent and commencement .– (1) This Ordinance may be \r\ncalled the Eye Surgery (Restriction) Ordinance, 1960. \r\n(2) It extends to the whole of Pakistan. \r\n(3) It shall come into force at once. \r\n2. Definitions.– In th is Ordinance , unless there is anything repugnant in the \r\nsubject or context– \r\n(1) \"complete blindness\" means absence of sight through total loss of \r\nperception of light in both eyes; \r\n(2) \"eye surgery\" means any surgical operation performed on or in \r\nrelation to the eye by means of any instrument of whatever kind; \r\n(3) \"partial blindness\" means total loss of perception of light in one eye \r\nor sub -total loss of perception of light in both eyes resulting in \r\nrestriction of visual field and acuity; and \r\n(4) \"registered medical practitioner\"  means a person who is, for the \r\ntime being, registered under any law relating to the registration of \r\nmedical practitioners in Pakistan. \r\n3. Punishment for performing eye surgery in certain cases.– (1) Any person, \r\nnot being a registered medical practitioner, who performs eye surgery upon another, \r\nwhether with or without the latter's consent, shall be punishable with imprisonment \r\nfor a term which may extend to one year, and with fine which may extend to one \r\nthousand rupees. \r\n(2) The term of imprisonment under sub-section (1) may extend– \r\n(a) to three years, if the offence results in partial blindness, and \r\n(b) to seven years, if the offence results in complete blindness. \r\n4. Punishment for unlawful practice or holding out .– Any person not being a \r\nregistered medical practitioner who practises, or holds himself out, whether directly \r\nor by implication, as practising, or as being prepared to practise, eye surgery shall be \r\npunishable with imprisonment for a term which may extend to six months, and w ith \r\nfine which may extend to five hundred rupees. \r\n5. Offences to be cognizable.– An offence punishable under sub -section (1) of \r\nsection 3 or under section 4 shall be a cognizable offence for the purposes of the \r\nCode of Criminal Procedure, 1898  (Act V of 18 98), notwithstanding anything to the \r\ncontrary contained therein.      \r\n6. Trial of offences.– No court inferior to that of a Magistrate of the first class \r\nshall try any offence punishable under this Ordinance.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-414158aba3ce389d:sha256:8b944abfa184dfa4ed0f6fe299520c910d500d9f323fd0d90ab0122ef210990d:chars-0-1799:845e98cae2e89c3a72b4b435557fa8af8e4b4f5fcec1c2f20f683754fb6d1339",
+      "character_start": 0,
+      "character_end": 1799,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1807,
+      "passage_sha256": "845e98cae2e89c3a72b4b435557fa8af8e4b4f5fcec1c2f20f683754fb6d1339",
+      "reader_fragment": "p-0-1799-845e98cae2e89c3a"
+    },
+    {
+      "passage_id": "law:punjab-code-414158aba3ce389d:sha256:8b944abfa184dfa4ed0f6fe299520c910d500d9f323fd0d90ab0122ef210990d:chars-1799-3278:8d0270ea65652d86544c95157c8feb3d1b6a91cf2e49cdb1d817ff9ea4e5b841",
+      "character_start": 1799,
+      "character_end": 3278,
+      "utf8_byte_start": 1807,
+      "utf8_byte_end": 3296,
+      "passage_sha256": "8d0270ea65652d86544c95157c8feb3d1b6a91cf2e49cdb1d817ff9ea4e5b841",
+      "reader_fragment": "p-1799-3278-8d0270ea65652d86"
+    }
+  ]
+}

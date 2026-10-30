@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-8c78e81bbb899fc8",
+  "title": "DERA GHAZI KHAN DEVELOPMENT AUTHORITY (REPEAL) ACT 2017",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BDECNQQwVWU-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:31:48Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "9c7003f6ae508436e694b30465643fb74519a0653842fd8c2bd75797b437e132",
+  "source_sha256": "9c7003f6ae508436e694b30465643fb74519a0653842fd8c2bd75797b437e132",
+  "text_version_id": "law:punjab-code-8c78e81bbb899fc8:sha256:9c7003f6ae508436e694b30465643fb74519a0653842fd8c2bd75797b437e132",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE DERA GHAZI KHAN DEVELOPMENT AUTHORITY \r\n(REPEAL) ACT 2017 \r\n(XVIII of 2017) \r\nCONTENTS \r\n1. Short title and commencement \r\n2. Repeal of the Dera Ghazi Khan Development Authority Act, 1991 \r\n3. Savings \r\n4. Repeal \r\nTEXT \r\n1\r\nTHE DERA GHAZI KHAN DEVELOPMENT AUTHORITY (REPEAL) ACT \r\n2017 \r\n(XVIII of 2017) \r\n[08 November 2017] \r\nAn \r\nAct \r\nto repeal the Dera Ghazi Khan Development Authority Act, 1991  \r\nIt is necessary to repeal the Dera Ghazi Khan Development Authority Act, \r\n1991 (VI of 1991) so that Dera Ghazi Khan Development Authority may be \r\nconstituted under the provisions of the Development of Cities Act 1976 comparable \r\nwith the Authorities constituted in many other cities of the Punjab inter alia for orderly \r\nand planned growth of the city of Dera Ghazi Khan. \r\nBe it enacted by the Provincial Assembly of the Punjab as follows:– \r\n1. Short title and commencement .– This Act may be cited as the Dera Ghazi \r\nKhan Development Authority (Repeal) Act 2017. \r\n(2) It shall come into force at once. \r\n2. Repeal of the Dera Ghazi Khan Development Authority Act, 1991 .– The \r\nDera Ghazi Khan Development Authority Act, 1991 (VI of 1991) is hereby repealed. \r\n3. Savings.– Notwithstanding repeal of the Dera Ghazi Khan Deve lopment \r\nAuthority Act, 1991 (VI of 1991), any rules, regulations or appointments made, \r\norders passed, notifications issued, contracts entered into, proceedings commenced, \r\nrights acquired, liabilities incurred, penalties, rates, fees or charges levied, thin gs \r\ndone  or action taken under penalties, rates, fees or charges levied, things done or \r\naction taken under any provisions of the repealed Act shall continue to have effect \r\nunless repealed, recalled, withdrawn or cancelled. \r\n4. Repeal.– The Dera Ghazi Khan D evelopment Authority (Repeal)  Ordinance \r\n2017 (X of 2017) is hereby repealed. \r\n                                                 \r\n1This Act was passed by the Provincial Assembly of the Punjab on 25 October 2017; assented to by the Governor of the Punjab \r\non 30 October 2017; and, was published in the Punjab Gazette (Extraordinary), dated: 08 November 2017, pp. 3137 – 3138.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-8c78e81bbb899fc8:sha256:9c7003f6ae508436e694b30465643fb74519a0653842fd8c2bd75797b437e132:chars-0-1736:223d561cb259fefadc93272689a09bbb0da17c3feb9bd6c70ad638fcc7e85e95",
+      "character_start": 0,
+      "character_end": 1736,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1744,
+      "passage_sha256": "223d561cb259fefadc93272689a09bbb0da17c3feb9bd6c70ad638fcc7e85e95",
+      "reader_fragment": "p-0-1736-223d561cb259fefa"
+    },
+    {
+      "passage_id": "law:punjab-code-8c78e81bbb899fc8:sha256:9c7003f6ae508436e694b30465643fb74519a0653842fd8c2bd75797b437e132:chars-1736-2148:0d2f33d82f06c4242baaa47cedc04350e4ed76932a6d196679ec9511cf1c5cf6",
+      "character_start": 1736,
+      "character_end": 2148,
+      "utf8_byte_start": 1744,
+      "utf8_byte_end": 2160,
+      "passage_sha256": "0d2f33d82f06c4242baaa47cedc04350e4ed76932a6d196679ec9511cf1c5cf6",
+      "reader_fragment": "p-1736-2148-0d2f33d82f06c424"
+    }
+  ]
+}

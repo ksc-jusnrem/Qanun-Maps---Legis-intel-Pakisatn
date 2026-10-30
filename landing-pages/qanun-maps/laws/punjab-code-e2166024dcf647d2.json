@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-e2166024dcf647d2",
+  "title": "FOODSTUFFS AND FERTILIZERS (CANCELLATION OF AUTHORIZATIONS AND DEALERSHIPS) ORDINANCE, 1978",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/UWRcb1ZhATI-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:33:54Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "9a2f687ed70be1dbf04ce126ab5bfc232db60dd94dd96bc4ba4e0842b0ac192e",
+  "source_sha256": "9a2f687ed70be1dbf04ce126ab5bfc232db60dd94dd96bc4ba4e0842b0ac192e",
+  "text_version_id": "law:punjab-code-e2166024dcf647d2:sha256:9a2f687ed70be1dbf04ce126ab5bfc232db60dd94dd96bc4ba4e0842b0ac192e",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE FOODSTUFFS AND FERTILIZERS (CANCELLATION \r\nOF AUTHORIZATIONS AND DEALERSHIPS) ORDINANCE, \r\n1978 \r\n(XXI of 1978) \r\nCONTENTS \r\n1. Short title, extent and commencement \r\n2. Definitions \r\n3. Power to cancel authorisations and dealerships \r\n4. Delegation of powers by Government \r\n5. Bar of Jurisdiction \r\n6. Protection to persons acting in good faith \r\nTEXT \r\n1\r\nTHE FOODSTUFFS AND FERTILIZERS (CANCELLATION OF \r\nAUTHORIZATIONS AND DEALERSHIPS) ORDINANCE, 1978 \r\n(XXI of 1978) \r\n[22nd October, 1978] \r\nAn \r\nOrdinance  \r\nto provide for the cancellation of authorizations and dealerships issued for \r\ndistribution of foodstuffs and fertilizers. \r\nPreamble.– WHEREAS it is expedient to provide for the cancellation of \r\nauthorizations under the West Pakistan Foodstuffs Distribution Order, 1967, and the \r\ndealerships under the Punjab Fertilizers (Control) Order, 1973, and for matters  \r\nconnected therewith; \r\n NOW, THEREFORE , in pursuance of the Proclamation of fifth day of July, \r\n1977, read with the Laws (Continuance in Force) Order, 1977 (CMLA’s Order I of \r\n1977), the Governor of the Punjab is pleased to make and promulgate the following \r\nOrdinance:– \r\n1. Short title, extent and commencement. – (1) This Ordinance may be called \r\nthe Foodstuffs and Fertilizers (Cancellation of Authorizations and Dealerships) \r\nOrdinance, 1978. \r\n (2) It extends to the Province of the Punjab. \r\n (3) It shall come into force at once. \r\n2. Definitions.– In this Ordinance, unless there is anything repugnant in the \r\nsubject or context– \r\n(a) ‘authorisation’ means the authorization issued under the West Pakistan \r\nFoodstuffs Distribution Order, 1967; \r\n(b) ‘dealership’ means the authority granted to any person to act as dealer \r\nunder the Punjab Fertilizers (Control) Order, 1973; \r\n(c) ‘Government’ means the Government of the Punjab. \r\n3. Power t o cancel authoris ations and dealerships. – (1) Notwithstanding \r\nanything contained in any other law for the time being in force or in any contract, \r\nagreement, order or notification, the Government may terminate, without notice, any \r\nauthorization or dealership. \r\n (2) No compensation shall be payable for the termination of any \r\nauthorization or dealership under sub-section (1). \r\n                                                 \r\n1This Ordinance was promulgated by the Governor of the Punjab on 16th October, 1978; and, published in the Punjab Gazette \r\n(Extraordinary), dated 22nd October, 1978, pages 1541-1542. \r\n4. Delegation of powers by Government. – Government may, by notification in \r\nthe official Gazette, direct that the power conferred on it by section 3 shall, under \r\nsuch conditions, if any, as may be specified in the notification, be exerc ised by an \r\nofficer or authority so notified. \r\n5. Bar of Jurisdiction.– No court shall grant any injunction or make any order or \r\nentertain any proceedings in relation to anything done or intended to be done, in \r\ngood faith, under this Ordinance. \r\n6. Protection to persons acting in good faith. – No suit, prosecution or other \r\nlegal proceeding shall be instituted against any person for anything which is in good \r\nfaith done or intended to be done under this Ordinance.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-e2166024dcf647d2:sha256:9a2f687ed70be1dbf04ce126ab5bfc232db60dd94dd96bc4ba4e0842b0ac192e:chars-0-1782:dbaeec0c01c9e3342d28c3b23f89b7c262123dc9aacccf12f95a5bc056fce781",
+      "character_start": 0,
+      "character_end": 1782,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1802,
+      "passage_sha256": "dbaeec0c01c9e3342d28c3b23f89b7c262123dc9aacccf12f95a5bc056fce781",
+      "reader_fragment": "p-0-1782-dbaeec0c01c9e334"
+    },
+    {
+      "passage_id": "law:punjab-code-e2166024dcf647d2:sha256:9a2f687ed70be1dbf04ce126ab5bfc232db60dd94dd96bc4ba4e0842b0ac192e:chars-1782-3192:492fd4f9bed993baf9098c6fbb96ed793183bbb46d6364fbd14ffc1a6ef75ae3",
+      "character_start": 1782,
+      "character_end": 3192,
+      "utf8_byte_start": 1802,
+      "utf8_byte_end": 3224,
+      "passage_sha256": "492fd4f9bed993baf9098c6fbb96ed793183bbb46d6364fbd14ffc1a6ef75ae3",
+      "reader_fragment": "p-1782-3192-492fd4f9bed993ba"
+    }
+  ]
+}

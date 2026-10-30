@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-ad473762aa981f41",
+  "title": "PUNJAB CONTROL OF GOONDAS (REMOVAL OF DOUBTS) ORDINANCE, 1972",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/ATRTYVBnUGQ-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:53:01Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "eae177df9a643f4e4ee921adeee664ef8175c60b5d48eb4f22241f33f10a40e2",
+  "source_sha256": "eae177df9a643f4e4ee921adeee664ef8175c60b5d48eb4f22241f33f10a40e2",
+  "text_version_id": "law:punjab-code-ad473762aa981f41:sha256:eae177df9a643f4e4ee921adeee664ef8175c60b5d48eb4f22241f33f10a40e2",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB CONTROL OF GOONDAS (REMOVAL OF \r\nDOUBTS) ORDINANCE, 1972 \r\n(XIII of 1972) \r\nCONTENTS \r\n1. Short title, extent and commencement \r\n2. Removal of doubts \r\nTEXT \r\n1\r\nTHE PUNJAB CONTROL OF GOONDAS (REMOVAL OF DOUBTS) \r\nORDINANCE, 1972 \r\n(XIII of 1972) \r\n[20th April, 1972] \r\nAn \r\nOrdinance \r\nto remove certain doubts in regard to the number of Tribunals which can be \r\nconstituted in every district, under the provisions of the West Pakistan\r\n2\r\n Control of \r\nGoondas Ordinance, 1959 \r\nPreamble.– WHEREAS certain doubts have arisen in regard to the number of \r\nTribunals which can be constituted in every district, under the provisions of the West \r\nPakistan\r\n3\r\n Control of Goondas Ordinance, 1959; \r\n NOW, THEREFORE , in pursuance of the Martial La w Proclamation of 25th \r\nMarch, 1969 read with the Proclamation of 20th December, 1971 and the Provisional \r\nConstitution Order, and in exercise of all powers enabling him in that behalf, the \r\nGovernor of the Punjab is pleased to make and promulgate the followi ng \r\nOrdinance:– \r\n1. Short title, extent and commencement. – (1) This Ordinance may be called \r\nthe Punjab Control of Goondas (Removal of Doubts) Ordinance, 1972. \r\n(2) It shall extend to the whole of the Province of the Punjab. \r\n(3) It shall come into force at onc e and shall be deemed to have taken \r\neffect from the date of the coming into force of the West Pakistan\r\n4\r\n Control of \r\nGoondas Ordinance, 1959. \r\n2. Removal of doubts. – Notwithstanding anything contained in the West \r\nPakistan\r\n5\r\n Control of Goondas Ordinance, 1959 (West Pakistan Ordinance No. XXXV \r\nof 1959) or any other law, or any decree, judgment or order of any court or other \r\nauthority, the expression “a Tribunal” occurring in sub -section (1) of section 2 of the \r\nsaid Ordinance shall mean and be deemed always to hav e meant one or more than \r\none Tribunal. \r\n                                                 \r\n1This Ordinance was promulgated by the Governor of the Punjab on 20th April, 1972; published in the P unjab Gazette \r\n(Extraordinary), dated 20th April, 1972, pages 691-I to 691-J; saved and validated by Articles 268 and 269 of the Constitution of \r\nthe Islamic Republic of Pakistan (1973). \r\n2Now “Punjab”, see the Punjab Laws (Adaptation) Order, 1974 (Punjab  A.O. 1 of 1974) ; and was published in the Punjab \r\nGazette (Extraordinary), dated 20.11.1974, pages 1425-A to 1425 -PP, see Article 2 and Schedule, Part III, at entry No. 28  \r\n(w.e.f. 14.8.1973). \r\n3Ibid. \r\n4Ibid. \r\n5Ibid.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-ad473762aa981f41:sha256:eae177df9a643f4e4ee921adeee664ef8175c60b5d48eb4f22241f33f10a40e2:chars-0-1771:0b5fbfa459c828721f0198fd55a83628901f6d540264f1e0537e414f6f0f997b",
+      "character_start": 0,
+      "character_end": 1771,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1783,
+      "passage_sha256": "0b5fbfa459c828721f0198fd55a83628901f6d540264f1e0537e414f6f0f997b",
+      "reader_fragment": "p-0-1771-0b5fbfa459c82872"
+    },
+    {
+      "passage_id": "law:punjab-code-ad473762aa981f41:sha256:eae177df9a643f4e4ee921adeee664ef8175c60b5d48eb4f22241f33f10a40e2:chars-1771-2505:5fbb46d82e23f051761aaa8c717778f774e660e9d00299e37ed74f7facb49f57",
+      "character_start": 1771,
+      "character_end": 2505,
+      "utf8_byte_start": 1783,
+      "utf8_byte_end": 2521,
+      "passage_sha256": "5fbb46d82e23f051761aaa8c717778f774e660e9d00299e37ed74f7facb49f57",
+      "reader_fragment": "p-1771-2505-5fbb46d82e23f051"
+    }
+  ]
+}

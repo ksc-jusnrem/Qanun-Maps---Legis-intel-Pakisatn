@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "pk-code-2bd155e776eb1d13",
+  "title": "National Sports Trust (Repeal) Ordinance, 1980",
+  "source_collection": "Federal",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-cpyd-sg-jjjjjjjjjjjjj",
+  "version": null,
+  "source_snapshot": null,
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "e39b8608f303ca340e047455bf8d203a3250e55775916b7c1fbef209a54519b3",
+  "source_sha256": "e39b8608f303ca340e047455bf8d203a3250e55775916b7c1fbef209a54519b3",
+  "text_version_id": "law:pk-code-2bd155e776eb1d13:sha256:e39b8608f303ca340e047455bf8d203a3250e55775916b7c1fbef209a54519b3",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "Page 1 of 2 \r\n \r\n \r\n \r\n \r\nTHE NATIONAL SPORTS TRUST (REPEAL) ORDINANCE, 1980 \r\n \r\n              \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n1.  Short title and commencement. \r\n2.  Repeal etc. \r\n \r\n \r\n  \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n  \r\n \r\n \r\n \r\n \r\n \r\n\r\n \r\nPage 2 of 2 \r\n \r\nTHE NATIONAL SPORTS TRUST (REPEAL) ORDINANCE, 1980. \r\nORDINANCE No. XXXIII of 1980 \r\n        [30th June, 1980] \r\nAn Ordinance to repeal the National Sports Trust Act, 1972 \r\nWHEREAS it is expedient to repeal the National Sports Trust Act, 1972 (XVIII of 1972) and \r\nto provide for matters incidental thereto ; \r\nAND WHEREAS the President is satisfied that circumstances exist which render it necessary \r\nto take immediate action ;  \r\nNOW, THEREFORE, in pursuance of the Proclamation of the fifth day of July, 1977, read \r\nwith the Laws (Continuance in Fo rce) Order, 1977 (CMLA Order No.  1 of 1977), and in exercise of \r\nall powers enabling him in that behalf, the President is pleased to make and promulgate the following \r\nOrdinance :― \r\n 1. Short title and commencement.—(1) This Ordinance may be called the National Sports \r\nTrust (Repeal) Ordinance, 1980.  \r\n(2)   It shall come into force at once. \r\n2. Repeal etc.—(1) The National Sports Trust Act, 1972, hereinafter referred to as the Act, is  \r\nhereby repealed. \r\n(2) Upon the repeal of the Act,— \r\n(a) all rights, properties, assets, debts, liabilities and obligations of the National \r\nSports Trust, hereinafter referred to as the Trust, shall be the rights, properties, \r\nassets debts, liabilities and obl igations of the Pakistan Sports Board, \r\nhereinafter referred to as the Board, constituted under the Sports \r\n(Development and Control) Ordinance, 1962(XVI of 1962); \r\n(b) any contract made by the Trust before such repeal shall be deemed to have \r\nbeen made by the Board ; \r\n(c) all suits and other legal proceedings instituted by or against the Trust before \r\nsuch repeal shall be deemed to be suits and proceedings instituted by or \r\nagainst the Board and may be proceeded or otherwise dealt with accordingly; \r\nand \r\n(d) all fu nctions being performed by the Trust before such repeal shall be \r\nperformed by the Board. \r\n(3) The Federal Government may, for the purpose of removing any difficulty in relation to \r\nthe matters referred to in sub -section (2), make such order as it considers expedient and any such \r\norder shall be deemed to be and given effect to as part of the provisions of this Ordinance.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:pk-code-2bd155e776eb1d13:sha256:e39b8608f303ca340e047455bf8d203a3250e55775916b7c1fbef209a54519b3:chars-0-1779:3be0a903daf93f5b7ac83d7f01de75cc147b6fd54dbd26324e272aae662f0d15",
+      "character_start": 0,
+      "character_end": 1779,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1787,
+      "passage_sha256": "3be0a903daf93f5b7ac83d7f01de75cc147b6fd54dbd26324e272aae662f0d15",
+      "reader_fragment": "p-0-1779-3be0a903daf93f5b"
+    },
+    {
+      "passage_id": "law:pk-code-2bd155e776eb1d13:sha256:e39b8608f303ca340e047455bf8d203a3250e55775916b7c1fbef209a54519b3:chars-1779-2441:b03b828bbffd00c953df82aec4fb01f6329720b61e6a61d449d833c01ee9ecff",
+      "character_start": 1779,
+      "character_end": 2441,
+      "utf8_byte_start": 1787,
+      "utf8_byte_end": 2449,
+      "passage_sha256": "b03b828bbffd00c953df82aec4fb01f6329720b61e6a61d449d833c01ee9ecff",
+      "reader_fragment": "p-1779-2441-b03b828bbffd00c9"
+    }
+  ]
+}

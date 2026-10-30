@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-b5350a26829093c3",
+  "title": "PUNJAB LOCAL GOVERNMENT INSTITUTIONS (DISSOLUTION) (EXTENSION OF LIMITATION) ORDINANCE, 1971",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/V2JXZQYwUGQ-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:58:31Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "0233027ae12bcdfc7849d10ef66709e92ea59871c336ebd3364e56bbd990bdaa",
+  "source_sha256": "0233027ae12bcdfc7849d10ef66709e92ea59871c336ebd3364e56bbd990bdaa",
+  "text_version_id": "law:punjab-code-b5350a26829093c3:sha256:0233027ae12bcdfc7849d10ef66709e92ea59871c336ebd3364e56bbd990bdaa",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB LOCAL GOVERNMENT INSTITUTIONS \r\n(DISSOLUTION) (EXTENSION OF LIMITATION) \r\nORDINANCE, 1971 \r\n(XXV of 1971) \r\nCONTENTS \r\n1. Short title, extent and commencement \r\n2. Extension of limitation. \r\nTEXT \r\n1\r\nTHE PUNJAB LOCAL GOVERNMENT INSTITUTIONS (DISSOLUTION) \r\n(EXTENSION OF LIMITATION) ORDINANCE, 1971 \r\n(XXV of 1971) \r\n[2nd December, 1971] \r\nAn \r\nOrdinance \r\nto provide for extension of limitation in certain matters relating to Union Councils. \r\nPreamble.– WHEREAS it is expedient to make provision for extension of limitation \r\nin certain matters relating to Union Councils in the manner hereinafter appearing; \r\n NOW, THEREFORE , in pursuance of the Martial Law Proclamation of 25th \r\nMarch, 1969, read with the Provisional Constit ution Order, and in exercise of all \r\npowers enabling him in that behalf, the Governor of the Punjab is pleased to make \r\nand promulgate the following Ordinance:– \r\n1. Short title, extent and commencement .– (1) This Ordinance may be called \r\nthe Punjab Local Gover nment Institutions (Dissolution) (Extension of Limitation) \r\nOrdinance, 1971. \r\n (2) It extends to the whole of the Punjab. \r\n (3) It shall come into force at once. \r\n2. Extension of limitation .– Where any act or thing required under any law to \r\nbe done within a pa rticular period could not or cannot be done within that period on \r\naccount of the dissolution of Union Councils in pursuance of Martial Law Order \r\nNo.21, promulgated by the Chief Martial Law Administrator, the period during which \r\nit could not or cannot be so  done, as the case may be, shall, notwithstanding \r\nanything contained in such law, be excluded for the purpose of computing the period \r\nfor which the act or thing is required to be done under that law. \r\nExplanation.– For the purposes of this section the expre ssion “Union Council’ shall \r\nhave the same meaning as assigned to it in the Muslim Family Laws Ordinance, \r\n1961 and the Conciliation Courts Ordinance, 1961. \r\n                                                 \r\n1This Ordinance was promulgated by the Governor of the Punjab, on 30th November, 1971; published in t he Punjab Gazette \r\n(Extraordinary), dated 2nd December, 1971, pages 1509 -F to 1509 -G; saved by Article 281 of the Interim Constitution of the \r\nIslamic Republic of Pakistan (1972); and, validated by the Validation of  Laws Act, 1975 (LXIII of 1975); and publis hed in the \r\nGazette of Pakistan (Extraordinary), Part I, dated 29.7.1975.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-b5350a26829093c3:sha256:0233027ae12bcdfc7849d10ef66709e92ea59871c336ebd3364e56bbd990bdaa:chars-0-1748:3af23c620859345ecfc70b274a18d60d071b78fa68d62252d8349b8781990983",
+      "character_start": 0,
+      "character_end": 1748,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1756,
+      "passage_sha256": "3af23c620859345ecfc70b274a18d60d071b78fa68d62252d8349b8781990983",
+      "reader_fragment": "p-0-1748-3af23c620859345e"
+    },
+    {
+      "passage_id": "law:punjab-code-b5350a26829093c3:sha256:0233027ae12bcdfc7849d10ef66709e92ea59871c336ebd3364e56bbd990bdaa:chars-1748-2457:236818343df8598239193e47a7a7d826ff9483e62f5693f41934513a88f079be",
+      "character_start": 1748,
+      "character_end": 2457,
+      "utf8_byte_start": 1756,
+      "utf8_byte_end": 2471,
+      "passage_sha256": "236818343df8598239193e47a7a7d826ff9483e62f5693f41934513a88f079be",
+      "reader_fragment": "p-1748-2457-236818343df85982"
+    }
+  ]
+}

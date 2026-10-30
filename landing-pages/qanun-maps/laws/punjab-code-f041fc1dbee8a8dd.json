@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-f041fc1dbee8a8dd",
+  "title": "PUNJAB COPYING FEES ACT, 1936",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/AzVdaQs4BTU-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:53:15Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "9360aa9b66feda545070842306c8d3a56aa064e5b6b092eee23189a51b534f74",
+  "source_sha256": "9360aa9b66feda545070842306c8d3a56aa064e5b6b092eee23189a51b534f74",
+  "text_version_id": "law:punjab-code-f041fc1dbee8a8dd:sha256:9360aa9b66feda545070842306c8d3a56aa064e5b6b092eee23189a51b534f74",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB COPYING FEES ACT, 1936 \r\n(V of 1936) \r\nCONTENTS \r\n1. Short title, extent and commencement. \r\n2. Definition. \r\n3. Mode of recovery of fees. \r\n \r\nTEXT \r\n1\r\nTHE PUNJAB COPYING FEES ACT, 1936 \r\n(V of 1936) \r\n[4 December 1936] \r\nAn \r\nAct \r\nto facilitate the recovery of fees payable for copies made or supplied of records in \r\noffices under the control of Revenue, Judicial and other officers of Government. \r\nPreamble.– WHEREAS it is expedient t o facilitate the recovery of fees payable for \r\ncopies made or supplied of records kept in offices under  the control of Revenue, \r\nJudicial and other officers of Government, in the Punjab, and whereas the previous \r\nsanction of the Governor -General, required und er sub-section (3) of section 80 -A of \r\nthe Government of India Act, has been obtained, it is hereby enacted as follows:– \r\n1. Short title, extent and commencement .– (1) This Act may be called the \r\nPunjab Copying Fees Act, 1936. \r\n (2) It extends to the Punjab. \r\n (3) It shall come into force on such date\r\n2\r\n as the \r\n3\r\n[Provincial Government] \r\nmay by notification appoint in this behalf. \r\n2. Definition.– In this Act “record” includes any portion of a record and any \r\ndocument, plan, map or other paper attached thereto or form ing part of the record of \r\nany suit or appeal, enquiry or trial or other proceeding in any court or office. \r\n3. Mode of recovery of fees .– When any copy of any record has been made at \r\nthe request of any applicant or his agent and such applicant or his agent has refused \r\nto accept delivery of the same or when any copy has been supplied to any such \r\napplicant or his agent, and the fee or any portion of the fee leviable for the supply of \r\nsuch copy remains unpaid, the said fee or portion thereof may be recovered from the \r\napplicant as if it were an arrear of land revenue: \r\n Provided that a pleader presenting such an ap plication on behalf of a client \r\nwill not be held personally responsible where the application bears the signature or \r\nthumb-impression of such client. \r\n \r\n \r\n \r\n \r\n1This Act received the assent of the Governor on November 4, 1936; and by His Excellency the Viceroy and Governor General \r\non November  24, 1936 , published in the Punjab Gazette , Part I, dated December  4, 1936. For Statement of Objects and \r\nReasons, see Punj ab Gazette, 1936, Extraordinary, p p. 67-68; for Proceedings in Council, see Punjab Legislative Council \r\nDebates, Volume XXIX, pp. 180-182.  \r\n2It came into force on January  2, 1937 vide Notification No. 6133 -A, dated December  19, 1936 , issued by the Punjab \r\nGovernment, Revenue Department, published in the Punjab Gazette, Part-I, December 25, 1936, p. 1584. \r\n3Substituted for the words “Local Government” by the Government of India (Adaptation of Indian Laws) Order, 1937, (w.e.f. \r\n1.4.1937), published in the Gazette of India (Extraordinary), pp. 75-344, Article 4 read with Table of General Adaptations.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-f041fc1dbee8a8dd:sha256:9360aa9b66feda545070842306c8d3a56aa064e5b6b092eee23189a51b534f74:chars-0-1791:5f37c4d27a6313cc0117b2200a5bcb5e5510724f396cfcd0ce1e8def52d1b506",
+      "character_start": 0,
+      "character_end": 1791,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1805,
+      "passage_sha256": "5f37c4d27a6313cc0117b2200a5bcb5e5510724f396cfcd0ce1e8def52d1b506",
+      "reader_fragment": "p-0-1791-5f37c4d27a6313cc"
+    },
+    {
+      "passage_id": "law:punjab-code-f041fc1dbee8a8dd:sha256:9360aa9b66feda545070842306c8d3a56aa064e5b6b092eee23189a51b534f74:chars-1791-2938:8a3a9dcb4969978d8387e69f0aa3dab9985ef6419491759aa835146aba0dac07",
+      "character_start": 1791,
+      "character_end": 2938,
+      "utf8_byte_start": 1805,
+      "utf8_byte_end": 2956,
+      "passage_sha256": "8a3a9dcb4969978d8387e69f0aa3dab9985ef6419491759aa835146aba0dac07",
+      "reader_fragment": "p-1791-2938-8a3a9dcb4969978d"
+    }
+  ]
+}

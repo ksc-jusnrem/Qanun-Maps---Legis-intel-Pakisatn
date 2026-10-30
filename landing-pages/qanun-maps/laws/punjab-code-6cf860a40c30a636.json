@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-6cf860a40c30a636",
+  "title": "PUNJAB COMPULSORY TEACHING OF THE HOLY QURAN ACT 2018",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/ADYFMQMwBjM-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:52:49Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "2ad66cb41d8eaa0abc6adfc264bef4de34aa050cef45b5318ced0d61c5a0ff58",
+  "source_sha256": "2ad66cb41d8eaa0abc6adfc264bef4de34aa050cef45b5318ced0d61c5a0ff58",
+  "text_version_id": "law:punjab-code-6cf860a40c30a636:sha256:2ad66cb41d8eaa0abc6adfc264bef4de34aa050cef45b5318ced0d61c5a0ff58",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PUNJAB COMPULSORY TEACHING OF THE HOLY \r\nQURAN ACT 2018 \r\n(XVII of 2018) \r\nCONTENTS \r\n1. Short title, application and commencement \r\n2. Definitions \r\n3. Compulsory teaching of the Holy Quran \r\n4. Power to make rules \r\n5. Act not to be derogatory to any other law \r\n \r\nTEXT \r\n1\r\nTHE PUNJAB COMPULSORY TEACHING OF THE HOLY QURAN ACT \r\n2018 \r\n(XVII of 2018) \r\n[16th May, 2018] \r\nAn \r\nAct \r\nto provide for making compulsory teaching of the Holy Quran to Muslim students in \r\nall educational institutions \r\nWhereas it is expedient to provide for making teaching of the Holy Quran \r\ncompulsory for Muslim students in all educational institutions in the Province of \r\nPunjab and for matters connected therewith and ancillary thereto; \r\nBe it enacted by Provincial Assembly of the Punjab as follows:– \r\n1. Short title, application and commencement .– (1) This Act may be cited as \r\nthe Punjab Compulsory Teaching of the Holy Quran Act 2018. \r\n(2) It shall appl y only to Muslim students in all educational institutions in \r\nthe Province of Punjab.  \r\n(3) It shall come into force at once. \r\n2. Definitions.– In this Act, unless the context otherwise requires- \r\n(a) “Educational institution” means any school, college, institute,  by \r\nwhatever name called, established and set up in public or private \r\nsector for imparting education to students irrespective of its status \r\nwhether registered or not registered with the Government or any other \r\nbody; \r\n(b) “Government” means the Government of the Punjab; \r\n(c) “Naazrah Quran” means recitation by sighting of the Arabic text; \r\n(d) “prescribed” means prescribed by the rules made under this Act; and \r\n(e) “rules” means the rules made under this Act. \r\n3. Compulsory teaching of the Holy Quran .– (1) There shall be, in all  \r\neducational institutions, compulsory teaching of - \r\n(a) the Naazrah Quran in classes, grades or, as the case may be, levels I \r\nto V in the prescribed manner; and \r\n(b) the translation of the Holy Quran in classes, grades or, as the case \r\nmay be, levels VI to XII in su ch prescribed manner so that the entire \r\nHoly Quran is completed upto class, grade or, as the case may be, \r\nlevel XII. \r\n                                                           \r\n1This Act was passed by the Provincial Assembly of the Punjab on 04 May 2018; assented to by the Governor of the Punjab on \r\n16 May 2018; and, was published in the Punjab Gazette (Extraordinary), dated: 16 May 2018, pp.7835-7836. \r\n(2) The Government shall ensure implementation of the Act in the \r\nprescribed manner. \r\n4. Power to make rules .– The Government may, by notific ation in the official \r\nGazette, make rules for carrying out the purposes of this Act. \r\n5. Act not to be derogatory to any other law .– The provisions of this Act shall \r\nbe in addition to, and not in derogation of, any other law for the time being in force.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-6cf860a40c30a636:sha256:2ad66cb41d8eaa0abc6adfc264bef4de34aa050cef45b5318ced0d61c5a0ff58:chars-0-1777:3520c3415f51e6f56e54196fc6b7e9602f4c3f7be773bdffa6919669431b9886",
+      "character_start": 0,
+      "character_end": 1777,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1805,
+      "passage_sha256": "3520c3415f51e6f56e54196fc6b7e9602f4c3f7be773bdffa6919669431b9886",
+      "reader_fragment": "p-0-1777-3520c3415f51e6f5"
+    },
+    {
+      "passage_id": "law:punjab-code-6cf860a40c30a636:sha256:2ad66cb41d8eaa0abc6adfc264bef4de34aa050cef45b5318ced0d61c5a0ff58:chars-1777-2869:ffc52ceedb12c0240e40e96d911db246b13c28972872ac1c805bb7f77c610f11",
+      "character_start": 1777,
+      "character_end": 2869,
+      "utf8_byte_start": 1805,
+      "utf8_byte_end": 2901,
+      "passage_sha256": "ffc52ceedb12c0240e40e96d911db246b13c28972872ac1c805bb7f77c610f11",
+      "reader_fragment": "p-1777-2869-ffc52ceedb12c024"
+    }
+  ]
+}

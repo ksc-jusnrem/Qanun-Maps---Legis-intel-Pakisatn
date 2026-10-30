@@ -1,0 +1,40 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "punjab-code-a45ffe5d5fe9ce62",
+  "title": "PREVENTION OF CORRUPTION ACT (WEST PAKISTAN EXTENSION) ORDINANCE, 1958",
+  "source_collection": "Punjab",
+  "content_kind": "stored_law_text",
+  "content_extent": null,
+  "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VGFUZ1NhUWM-",
+  "version": null,
+  "source_snapshot": "2026-08-06T16:47:21Z",
+  "legal_status": "not independently verified",
+  "text_quality": "Complete stored UTF-8 TXT file recovered byte-for-byte from owned Drive. Source transcription retained verbatim; legal completeness, OCR accuracy and current consolidation unverified.",
+  "text_sha256": "63742106cd26de955ef62fa656ed5930d6a573c6c824a61a0dea3bbc864f7b2a",
+  "source_sha256": "63742106cd26de955ef62fa656ed5930d6a573c6c824a61a0dea3bbc864f7b2a",
+  "text_version_id": "law:punjab-code-a45ffe5d5fe9ce62:sha256:63742106cd26de955ef62fa656ed5930d6a573c6c824a61a0dea3bbc864f7b2a",
+  "quality_flags": [],
+  "encoding": "UTF-8",
+  "text": "THE PREVENTION OF CORRUPTION ACT (WEST \r\nPAKISTAN EXTENSION) ORDINANCE, 1958 \r\n(XXXI of 1958) \r\nCONTENTS \r\n1. Short title \r\n2. Extension of Act II of 1947 to the whole of West Pakistan \r\n3. Amendment of Act II of 1947 \r\n4. Repeal \r\nTEXT \r\n1\r\nTHE PREVENTION OF CORRUPTION ACT (WEST PAKISTAN \r\nEXTENSION) ORDINANCE, 1958 \r\n(XXXI of 1958) \r\n[20nd December, 1958] \r\nAn \r\nOrdinance \r\nto extend the Prevention of Corruption Act, 1947, to the whole of the Province of \r\nWest Pakistan. \r\nPreamble.– WHEREAS it is expedient to extend the Prevention of Corruption Act, \r\n1947, to the whole of the Province of West Pakistan in the manner hereinafter \r\nappearing; \r\n NOW, THEREFORE , in pursuance of the presidential proclamat ion of the \r\nseventh day of October, 1958, and in exercise of all powers enabling him in that \r\nbehalf the Governor of West Pakistan is pleased to make and prom ulgate the \r\nfollowing Ordinance:– \r\n1. Short title. – This Ordinance may be called the Prevention of Cor ruption Act \r\n(West Pakistan Extension) Ordinance, 1958. \r\n2. Extension of Act II of 1947 to the whole of West Pakistan. – The \r\nPrevention of Corruption Act, 1947, (hereinafter called the said Act), shall extend to \r\nthe whole of the Province of West Pakistan. \r\n3. Amendment of Act II of 1947. – In the said Act in its application to the \r\nDistricts of Kalat, Kharan, Mekran and Las Bela reference s to any provision of the \r\nPakistan Penal Code\r\n2\r\n or the Code of Criminal Procedure, 1898\r\n3\r\n, shall , as far as \r\npossible, be deemed to be references to the corresponding provisions of the Tazirat-\r\ne-Qalat and Zabata-e-Faujdari Qalat, as the case may be. \r\n4. Repeal.– The Bahawalpur Prevention of Corruption Act, 1950, is hereby \r\nrepealed. \r\n                                                           \r\n1This Ordinance, which amended and extended Act II of  1947 to the whole of the Province of West Pakistan was promulgated \r\nby the Governor of West Pakistan on 19th December, 1958; published in the West Pakistan Gazette (Extraordinary), dated \r\n20th Dec., 1958, pages 1713-1714; saved and given permanent effect by Article 225 of the Constitution of the Islamic Republic \r\nof Pakistan (1962). \r\n2XLV of 1860. \r\n3V of 1898.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:punjab-code-a45ffe5d5fe9ce62:sha256:63742106cd26de955ef62fa656ed5930d6a573c6c824a61a0dea3bbc864f7b2a:chars-0-1794:b6c2b4ab74111f401b96034f3816ea3e0308813c7d148c2ef2086570baa27d12",
+      "character_start": 0,
+      "character_end": 1794,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1806,
+      "passage_sha256": "b6c2b4ab74111f401b96034f3816ea3e0308813c7d148c2ef2086570baa27d12",
+      "reader_fragment": "p-0-1794-b6c2b4ab74111f40"
+    },
+    {
+      "passage_id": "law:punjab-code-a45ffe5d5fe9ce62:sha256:63742106cd26de955ef62fa656ed5930d6a573c6c824a61a0dea3bbc864f7b2a:chars-1794-2216:82ec0de87f1046f268cadedcb6a019d4517ef536c546ee480527dafb84c6b779",
+      "character_start": 1794,
+      "character_end": 2216,
+      "utf8_byte_start": 1806,
+      "utf8_byte_end": 2228,
+      "passage_sha256": "82ec0de87f1046f268cadedcb6a019d4517ef536c546ee480527dafb84c6b779",
+      "reader_fragment": "p-1794-2216-82ec0de87f1046f2"
+    }
+  ]
+}
