@@ -1,0 +1,589 @@
+{
+  "schema_version": "qanun-instrument-relationships/pilot-1",
+  "prepared_at": "2026-10-31T13:38:10.963187+00:00",
+  "recovery_note": "Re-generated from fetched live reader JSON; quotations derived from actual source substrings, not recollection.",
+  "nodes": [
+    {
+      "id": "pk-code-30ecabb4a7ed433a",
+      "title": "Constitution of the Islamic Republic of Pakistan",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Fvbpw%3D-sg-jjjjjjjjjjjjj",
+      "text_version_id": "law:pk-code-30ecabb4a7ed433a:sha256:b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "text_sha256": "b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "version": null,
+      "source_snapshot": null,
+      "node_kind": "owned_instrument",
+      "reader_url": "https://www.jusnrem.legal/laws/pk-code-30ecabb4a7ed433a.html",
+      "current_force_status": "not_determined_by_this_pilot"
+    },
+    {
+      "id": "pk-code-6c462b7d924dbbe3",
+      "title": "Rules of Business",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tibg%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_version_id": "law:pk-code-6c462b7d924dbbe3:sha256:9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+      "text_sha256": "9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+      "version": null,
+      "source_snapshot": null,
+      "node_kind": "owned_instrument",
+      "reader_url": "https://www.jusnrem.legal/laws/pk-code-6c462b7d924dbbe3.html",
+      "current_force_status": "not_determined_by_this_pilot"
+    },
+    {
+      "id": "pk-code-778412418cfa5e59",
+      "title": "Federal Constitutional Court Judges (Leave, Pension and Privileges) Order, 2025",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5toaQ%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_version_id": "law:pk-code-778412418cfa5e59:sha256:9c5a7f685190e27dc4dadb28d1e85c6ff0e76046cef599bac0ccb1bc661493f9",
+      "text_sha256": "9c5a7f685190e27dc4dadb28d1e85c6ff0e76046cef599bac0ccb1bc661493f9",
+      "version": null,
+      "source_snapshot": null,
+      "node_kind": "owned_instrument",
+      "reader_url": "https://www.jusnrem.legal/laws/pk-code-778412418cfa5e59.html",
+      "current_force_status": "not_determined_by_this_pilot"
+    },
+    {
+      "id": "punjab-code-4caa843ad99b6d9d",
+      "title": "PUNJAB FERTILIZERS (CONTROL) ORDER, 1973",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BzIFNws.ADY-",
+      "text_version_id": "law:punjab-code-4caa843ad99b6d9d:sha256:4e4dcf430b69526d571c38c3a1be68db7742860de52f5c459490632daae4d633",
+      "text_sha256": "4e4dcf430b69526d571c38c3a1be68db7742860de52f5c459490632daae4d633",
+      "version": null,
+      "source_snapshot": "2026-08-06T16:55:19Z",
+      "node_kind": "owned_instrument",
+      "reader_url": "https://www.jusnrem.legal/laws/punjab-code-4caa843ad99b6d9d.html",
+      "current_force_status": "not_determined_by_this_pilot"
+    },
+    {
+      "id": "punjab-code-5c3aabdf381e86c5",
+      "title": "PUNJAB ESSENTIAL ARTICLES (CONTROL) ACT, 1973",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/AzZTYQUwADc-",
+      "text_version_id": "law:punjab-code-5c3aabdf381e86c5:sha256:287153d3d3c1db29fa3e56d44f036bf375f69c6b776c9d1361559886ea89bc0d",
+      "text_sha256": "287153d3d3c1db29fa3e56d44f036bf375f69c6b776c9d1361559886ea89bc0d",
+      "version": null,
+      "source_snapshot": "2026-08-06T16:55:01Z",
+      "node_kind": "owned_instrument",
+      "reader_url": "https://www.jusnrem.legal/laws/punjab-code-5c3aabdf381e86c5.html",
+      "current_force_status": "not_determined_by_this_pilot"
+    },
+    {
+      "id": "punjab-code-8245b6faadb9789e",
+      "title": "PUNJAB FERTILIZERS CONTROL ACT 2025",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BjZSZVRqVWYCYg--",
+      "text_version_id": "law:punjab-code-8245b6faadb9789e:sha256:fe9041b6bf524471e4b7b835f30fdb561c947ad44fc7ab239e3c97c22b6a7e00",
+      "text_sha256": "fe9041b6bf524471e4b7b835f30fdb561c947ad44fc7ab239e3c97c22b6a7e00",
+      "version": null,
+      "source_snapshot": "2026-08-06T16:55:23Z",
+      "node_kind": "owned_instrument",
+      "reader_url": "https://www.jusnrem.legal/laws/punjab-code-8245b6faadb9789e.html",
+      "current_force_status": "not_determined_by_this_pilot"
+    },
+    {
+      "id": "reference:punjab-essential-articles-control-ordinance-1973-vii",
+      "title": "Punjab Essential Articles (Control) Ordinance, 1973 (VII of 1973)",
+      "node_kind": "unresolved_authority_reference",
+      "reader_url": null,
+      "reason": "Original operative text not independently held; not interchangeable with later Act XVII of 1973."
+    }
+  ],
+  "edges": [
+    {
+      "id": "rob-art99",
+      "source": "pk-code-6c462b7d924dbbe3",
+      "target": "pk-code-30ecabb4a7ed433a",
+      "relation": "made_under",
+      "inverse_relation": "authorises_instrument",
+      "target_provision": "Article 99(2) and (3)",
+      "evidence_ids": [
+        "rob-recital",
+        "art99"
+      ],
+      "verification_scope": "Both ends read in owned snapshots; recital corroborated against Cabinet September 2026 PDF.",
+      "effective_at": null,
+      "issuing_authority": "Federal Government",
+      "commencement": "1973-08-14"
+    },
+    {
+      "id": "rob-art90",
+      "source": "pk-code-6c462b7d924dbbe3",
+      "target": "pk-code-30ecabb4a7ed433a",
+      "relation": "cites_constitutional_basis",
+      "inverse_relation": "constitutional_basis_cited_by",
+      "target_provision": "Article 90",
+      "evidence_ids": [
+        "rob-recital",
+        "art90"
+      ],
+      "verification_scope": "Recital and parent read; Article 90 supplies executive context, not an identical rule-making power.",
+      "effective_at": null
+    },
+    {
+      "id": "fcc-schedule5",
+      "source": "pk-code-778412418cfa5e59",
+      "target": "pk-code-30ecabb4a7ed433a",
+      "relation": "made_under",
+      "inverse_relation": "authorises_instrument",
+      "target_provision": "Fifth Schedule, Federal Constitutional Court and Supreme Court, paragraph 2; Article 205 contextual",
+      "evidence_ids": [
+        "fcc-recital",
+        "schedule5-para2",
+        "art205"
+      ],
+      "verification_scope": "Both ends read in held official-source snapshots; no fresh whole-Constitution consolidation audit.",
+      "effective_at": null,
+      "issuing_authority": "President",
+      "instrument_date": "2025-12-10",
+      "instrument_number": "President’s Order No. 3 of 2025",
+      "commencement_text": "It shall come into force at once."
+    },
+    {
+      "id": "order-original-parent",
+      "source": "punjab-code-4caa843ad99b6d9d",
+      "target": "reference:punjab-essential-articles-control-ordinance-1973-vii",
+      "relation": "cites_enabling_authority",
+      "inverse_relation": "cited_as_enabling_authority_by",
+      "target_provision": "Section 3",
+      "evidence_ids": [
+        "order-recital"
+      ],
+      "verification_scope": "Child recital verified only; original parent operative text missing.",
+      "effective_at": null,
+      "issuing_authority": "Governor of the Punjab",
+      "instrument_date": "1973-08-10",
+      "instrument_number": "No. SO(ECB) - Ferti - 73(1)",
+      "publish_as_verified_parent": false
+    },
+    {
+      "id": "act1973-repeals-ordinance",
+      "source": "punjab-code-5c3aabdf381e86c5",
+      "target": "reference:punjab-essential-articles-control-ordinance-1973-vii",
+      "relation": "expressly_repeals",
+      "inverse_relation": "expressly_repealed_by",
+      "target_provision": "Whole Ordinance named by section 13",
+      "evidence_ids": [
+        "oldact-repeal"
+      ],
+      "verification_scope": "Repealing provision held; original target not independently examined.",
+      "effective_at": null,
+      "source_provision": "Section 13"
+    },
+    {
+      "id": "act2025-repeals-order",
+      "source": "punjab-code-8245b6faadb9789e",
+      "target": "punjab-code-4caa843ad99b6d9d",
+      "relation": "expressly_repeals",
+      "inverse_relation": "expressly_repealed_by",
+      "target_provision": "Whole Order, subject to conditional savings",
+      "evidence_ids": [
+        "newact-repeal",
+        "order-recital"
+      ],
+      "verification_scope": "Held text matched to official Gazette PDF page 13, printed 4803.",
+      "effective_at": null,
+      "source_provision": "Section 46(1)",
+      "qualifications": [
+        "Section 46(3) conditionally saves specified prior measures, not the Order as a whole."
+      ]
+    },
+    {
+      "id": "act2025-partial-repeal",
+      "source": "punjab-code-8245b6faadb9789e",
+      "target": "punjab-code-5c3aabdf381e86c5",
+      "relation": "partially_repeals",
+      "inverse_relation": "partially_repealed_by",
+      "target_provision": "Section 3(2)(j) and Schedule entry 40",
+      "evidence_ids": [
+        "newact-repeal"
+      ],
+      "verification_scope": "Held text matched to official Gazette PDF page 13, printed 4803.",
+      "effective_at": null,
+      "source_provision": "Section 46(2)",
+      "qualifications": [
+        "Not repeal of the entire Act.",
+        "The held old Act still prints entry 40; show the subsequent change alongside the historical text."
+      ]
+    },
+    {
+      "id": "act2025-savings-order",
+      "source": "punjab-code-8245b6faadb9789e",
+      "target": "punjab-code-4caa843ad99b6d9d",
+      "relation": "conditionally_saves_prior_measures",
+      "inverse_relation": "prior_measures_conditionally_saved_by",
+      "target_provision": "Acts, proceedings, actions and notifications under the repealed Order",
+      "evidence_ids": [
+        "newact-repeal"
+      ],
+      "verification_scope": "Explicit conditional savings, matched to Gazette.",
+      "effective_at": null,
+      "source_provision": "Section 46(3)",
+      "qualifications": [
+        "Only insofar consistent with the 2025 Act and until superseded.",
+        "Does not determine whether an individual notification qualifies."
+      ]
+    },
+    {
+      "id": "act2025-savings-act",
+      "source": "punjab-code-8245b6faadb9789e",
+      "target": "punjab-code-5c3aabdf381e86c5",
+      "relation": "conditionally_saves_prior_measures",
+      "inverse_relation": "prior_measures_conditionally_saved_by",
+      "target_provision": "Prior measures and qualifying fertilizer-offence proceedings",
+      "evidence_ids": [
+        "newact-repeal"
+      ],
+      "verification_scope": "Explicit savings, matched to Gazette.",
+      "effective_at": null,
+      "source_provision": "Section 46(3) and (4)",
+      "qualifications": [
+        "Section 46(3): insofar consistent and until superseded.",
+        "Section 46(4): qualifying fertilizer offences being investigated, prosecuted or tried."
+      ]
+    }
+  ],
+  "adjacency": {
+    "pk-code-30ecabb4a7ed433a": [
+      {
+        "edge_id": "rob-art99",
+        "direction": "incoming",
+        "label": "authorises_instrument",
+        "other_record": "pk-code-6c462b7d924dbbe3"
+      },
+      {
+        "edge_id": "rob-art90",
+        "direction": "incoming",
+        "label": "constitutional_basis_cited_by",
+        "other_record": "pk-code-6c462b7d924dbbe3"
+      },
+      {
+        "edge_id": "fcc-schedule5",
+        "direction": "incoming",
+        "label": "authorises_instrument",
+        "other_record": "pk-code-778412418cfa5e59"
+      }
+    ],
+    "pk-code-6c462b7d924dbbe3": [
+      {
+        "edge_id": "rob-art99",
+        "direction": "outgoing",
+        "label": "made_under",
+        "other_record": "pk-code-30ecabb4a7ed433a"
+      },
+      {
+        "edge_id": "rob-art90",
+        "direction": "outgoing",
+        "label": "cites_constitutional_basis",
+        "other_record": "pk-code-30ecabb4a7ed433a"
+      }
+    ],
+    "pk-code-778412418cfa5e59": [
+      {
+        "edge_id": "fcc-schedule5",
+        "direction": "outgoing",
+        "label": "made_under",
+        "other_record": "pk-code-30ecabb4a7ed433a"
+      }
+    ],
+    "punjab-code-4caa843ad99b6d9d": [
+      {
+        "edge_id": "order-original-parent",
+        "direction": "outgoing",
+        "label": "cites_enabling_authority",
+        "other_record": "reference:punjab-essential-articles-control-ordinance-1973-vii"
+      },
+      {
+        "edge_id": "act2025-repeals-order",
+        "direction": "incoming",
+        "label": "expressly_repealed_by",
+        "other_record": "punjab-code-8245b6faadb9789e"
+      },
+      {
+        "edge_id": "act2025-savings-order",
+        "direction": "incoming",
+        "label": "prior_measures_conditionally_saved_by",
+        "other_record": "punjab-code-8245b6faadb9789e"
+      }
+    ],
+    "punjab-code-5c3aabdf381e86c5": [
+      {
+        "edge_id": "act1973-repeals-ordinance",
+        "direction": "outgoing",
+        "label": "expressly_repeals",
+        "other_record": "reference:punjab-essential-articles-control-ordinance-1973-vii"
+      },
+      {
+        "edge_id": "act2025-partial-repeal",
+        "direction": "incoming",
+        "label": "partially_repealed_by",
+        "other_record": "punjab-code-8245b6faadb9789e"
+      },
+      {
+        "edge_id": "act2025-savings-act",
+        "direction": "incoming",
+        "label": "prior_measures_conditionally_saved_by",
+        "other_record": "punjab-code-8245b6faadb9789e"
+      }
+    ],
+    "punjab-code-8245b6faadb9789e": [
+      {
+        "edge_id": "act2025-repeals-order",
+        "direction": "outgoing",
+        "label": "expressly_repeals",
+        "other_record": "punjab-code-4caa843ad99b6d9d"
+      },
+      {
+        "edge_id": "act2025-partial-repeal",
+        "direction": "outgoing",
+        "label": "partially_repeals",
+        "other_record": "punjab-code-5c3aabdf381e86c5"
+      },
+      {
+        "edge_id": "act2025-savings-order",
+        "direction": "outgoing",
+        "label": "conditionally_saves_prior_measures",
+        "other_record": "punjab-code-4caa843ad99b6d9d"
+      },
+      {
+        "edge_id": "act2025-savings-act",
+        "direction": "outgoing",
+        "label": "conditionally_saves_prior_measures",
+        "other_record": "punjab-code-5c3aabdf381e86c5"
+      }
+    ],
+    "reference:punjab-essential-articles-control-ordinance-1973-vii": [
+      {
+        "edge_id": "order-original-parent",
+        "direction": "incoming",
+        "label": "cited_as_enabling_authority_by",
+        "other_record": "punjab-code-4caa843ad99b6d9d"
+      },
+      {
+        "edge_id": "act1973-repeals-ordinance",
+        "direction": "incoming",
+        "label": "expressly_repealed_by",
+        "other_record": "punjab-code-5c3aabdf381e86c5"
+      }
+    ]
+  },
+  "evidence": {
+    "rob-recital": {
+      "record_id": "pk-code-6c462b7d924dbbe3",
+      "text_version_id": "law:pk-code-6c462b7d924dbbe3:sha256:9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+      "text_sha256": "9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tibg%3D%3D-sg-jjjjjjjjjjjjj",
+      "character_start": 6057,
+      "character_end": 6250,
+      "quote": "In exercise of the powers conferred by Articles 90 and 99 of the Constitution of the \r\nIslamic Republic of Pakistan, the Federal Government is pleased to make the following \r\nrules:- \r\n \r\n   \r\n",
+      "passages": [
+        {
+          "passage_id": "law:pk-code-6c462b7d924dbbe3:sha256:9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3:chars-5157-6934:81fce96498973ae8840af6bd106736f5cfd60e803e790de3d8683ebcc4fcab88",
+          "passage_sha256": "81fce96498973ae8840af6bd106736f5cfd60e803e790de3d8683ebcc4fcab88",
+          "reader_url": "https://www.jusnrem.legal/laws/pk-code-6c462b7d924dbbe3.html#p-5157-6934-81fce96498973ae8"
+        }
+      ]
+    },
+    "rob-commencement": {
+      "record_id": "pk-code-6c462b7d924dbbe3",
+      "text_version_id": "law:pk-code-6c462b7d924dbbe3:sha256:9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+      "text_sha256": "9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tibg%3D%3D-sg-jjjjjjjjjjjjj",
+      "character_start": 6272,
+      "character_end": 6625,
+      "quote": "1. 1Title, commencement and application .--(1) These rules may be called the \r\n\"Rules of Business, 1973.\" \r\n \r\n(2) They shall come into force on the fourteenth day of August 1973. \r\n2(3) They shall also apply, mutatis mutandis, when the business of the Government \r\nis conducted through automated or digitalized applications, platforms or systems. \r\n \r\n",
+      "passages": [
+        {
+          "passage_id": "law:pk-code-6c462b7d924dbbe3:sha256:9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3:chars-5157-6934:81fce96498973ae8840af6bd106736f5cfd60e803e790de3d8683ebcc4fcab88",
+          "passage_sha256": "81fce96498973ae8840af6bd106736f5cfd60e803e790de3d8683ebcc4fcab88",
+          "reader_url": "https://www.jusnrem.legal/laws/pk-code-6c462b7d924dbbe3.html#p-5157-6934-81fce96498973ae8"
+        }
+      ]
+    },
+    "art90": {
+      "record_id": "pk-code-30ecabb4a7ed433a",
+      "text_version_id": "law:pk-code-30ecabb4a7ed433a:sha256:b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "text_sha256": "b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Fvbpw%3D-sg-jjjjjjjjjjjjj",
+      "character_start": 116483,
+      "character_end": 116975,
+      "quote": "90. The Federal Government.__ (1) Subject to the Constitution, the executive authority of \r\nthe Federation shall be exercised in the name of the President by the Federal Government, consisting \r\nof the Prime Minister and the Federal Ministers, which shall act through the Prime Minister, who shall \r\nbe the chief executive of the Federation. \r\n (2) In the performance of his functions under the Constitution, the Prime Minister may act \r\neither directly or through the Federal Ministers.] \r\n ",
+      "passages": [
+        {
+          "passage_id": "law:pk-code-30ecabb4a7ed433a:sha256:b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a:chars-116218-117999:97e963e875666a5ba7ffe6298b4a1e961857542092ce1c9605707640ac25b3b3",
+          "passage_sha256": "97e963e875666a5ba7ffe6298b4a1e961857542092ce1c9605707640ac25b3b3",
+          "reader_url": "https://www.jusnrem.legal/laws/pk-code-30ecabb4a7ed433a.html#p-116218-117999-97e963e875666a5b"
+        }
+      ]
+    },
+    "art99": {
+      "record_id": "pk-code-30ecabb4a7ed433a",
+      "text_version_id": "law:pk-code-30ecabb4a7ed433a:sha256:b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "text_sha256": "b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Fvbpw%3D-sg-jjjjjjjjjjjjj",
+      "character_start": 124129,
+      "character_end": 124755,
+      "quote": "99. Conduct of business of Federal Government.__ (1) All executive actions of the Federal \r\nGovernment shall be expressed to be taken in the name of the President. \r\n (2) The 3[Federal Government] shall by rules specify the manner in which orders and other \r\ninstruments made and executed 3[in the name of the President] shall be authenticated, and the validity \r\nof any order or instrument so authenticated shall not be questioned in any court on the  ground that it \r\nwas not made or executed by the President. \r\n 3[(3) The Federal Government shall also make rules for the allocation and transaction of its \r\nbusiness.]] \r\n ",
+      "passages": [
+        {
+          "passage_id": "law:pk-code-30ecabb4a7ed433a:sha256:b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a:chars-123376-125160:0836f9ecbcfad956bb710ff020dbf42b433006b729398292b2ad5eac84ddc0d6",
+          "passage_sha256": "0836f9ecbcfad956bb710ff020dbf42b433006b729398292b2ad5eac84ddc0d6",
+          "reader_url": "https://www.jusnrem.legal/laws/pk-code-30ecabb4a7ed433a.html#p-123376-125160-0836f9ecbcfad956"
+        }
+      ]
+    },
+    "art205": {
+      "record_id": "pk-code-30ecabb4a7ed433a",
+      "text_version_id": "law:pk-code-30ecabb4a7ed433a:sha256:b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "text_sha256": "b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Fvbpw%3D-sg-jjjjjjjjjjjjj",
+      "character_start": 274232,
+      "character_end": 274465,
+      "quote": "205. Remuneration etc., of Judges.__ The remuneration and other ter ms and conditions of \r\nservice of a Judge of 3[Federal Constitutional Court or] the Supreme Court or of a High Court shall be \r\nas provided in the Fifth Schedule. \r\n",
+      "passages": [
+        {
+          "passage_id": "law:pk-code-30ecabb4a7ed433a:sha256:b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a:chars-274232-275972:2fcf9addd97cd41ab5123cdc6d5086c87b721476aebbdc8ac6c261ab71503008",
+          "passage_sha256": "2fcf9addd97cd41ab5123cdc6d5086c87b721476aebbdc8ac6c261ab71503008",
+          "reader_url": "https://www.jusnrem.legal/laws/pk-code-30ecabb4a7ed433a.html#p-274232-275972-2fcf9addd97cd41a"
+        }
+      ]
+    },
+    "schedule5-para2": {
+      "record_id": "pk-code-30ecabb4a7ed433a",
+      "text_version_id": "law:pk-code-30ecabb4a7ed433a:sha256:b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "text_sha256": "b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Fvbpw%3D-sg-jjjjjjjjjjjjj",
+      "character_start": 454169,
+      "character_end": 454618,
+      "quote": "2. Every Judge of the 1[Federal Constitutional Court and the Supreme Court] shall be entitled to \r\nsuch privileges and allowances, and to such rights in respect of leave of absence and pension, as may \r\nbe determined by the President, and until so determined, to the privileges, allowances and rights to \r\nwhich, immediately before the commencing day, the Judges of the 1[Federal Constitutional Court and \r\nthe Supreme Court] 1[**] were entitled. \r\n",
+      "passages": [
+        {
+          "passage_id": "law:pk-code-30ecabb4a7ed433a:sha256:b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a:chars-453835-455594:79e8638f1f901b7f0a18cee54dea9f84ed3001042dfdf959ea73d5f4b9117931",
+          "passage_sha256": "79e8638f1f901b7f0a18cee54dea9f84ed3001042dfdf959ea73d5f4b9117931",
+          "reader_url": "https://www.jusnrem.legal/laws/pk-code-30ecabb4a7ed433a.html#p-453835-455594-79e8638f1f901b7f"
+        }
+      ]
+    },
+    "fcc-recital": {
+      "record_id": "pk-code-778412418cfa5e59",
+      "text_version_id": "law:pk-code-778412418cfa5e59:sha256:9c5a7f685190e27dc4dadb28d1e85c6ff0e76046cef599bac0ccb1bc661493f9",
+      "text_sha256": "9c5a7f685190e27dc4dadb28d1e85c6ff0e76046cef599bac0ccb1bc661493f9",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5toaQ%3D%3D-sg-jjjjjjjjjjjjj",
+      "character_start": 1246,
+      "character_end": 1985,
+      "quote": "[10th December, 2025] \r\nPRESIDENT’S ORDER NO. 3 OF 2025 \r\nWHEREAS paragraph 2 of the Fifth Schedule to the Constitution of Islamic Republic of Pakistan \r\nrelating to the Federal Constitutional Court provides that every Judge of the Federal Constitutional Court \r\nshall be entitled to such privileges and allowances, and to such rights in respect of leave of absence and \r\npension, as may be determined by the President; \r\nNOW THEREFORE,  in exercise of the said powers the President is pleased to make the \r\nfollowing Order: \r\nPART-I PRELIMINARY \r\n1. Short title and commencement.—(1) This order may be called the Federal Constitutional \r\nCourt Judges (Leave, Pension and Privileges) Order, 2025. \r\n(2) It shall come into force at once. \r\n",
+      "passages": [
+        {
+          "passage_id": "law:pk-code-778412418cfa5e59:sha256:9c5a7f685190e27dc4dadb28d1e85c6ff0e76046cef599bac0ccb1bc661493f9:chars-0-1794:9b6aed9ea61efe96e560386f2d0ea05d65f898f351c15451d449b1f17fca6679",
+          "passage_sha256": "9b6aed9ea61efe96e560386f2d0ea05d65f898f351c15451d449b1f17fca6679",
+          "reader_url": "https://www.jusnrem.legal/laws/pk-code-778412418cfa5e59.html#p-0-1794-9b6aed9ea61efe96"
+        },
+        {
+          "passage_id": "law:pk-code-778412418cfa5e59:sha256:9c5a7f685190e27dc4dadb28d1e85c6ff0e76046cef599bac0ccb1bc661493f9:chars-1794-3511:8981ad8f777257bd07f0565ae83a04fc9fbb24dd220aadc9243d2c3572882d7f",
+          "passage_sha256": "8981ad8f777257bd07f0565ae83a04fc9fbb24dd220aadc9243d2c3572882d7f",
+          "reader_url": "https://www.jusnrem.legal/laws/pk-code-778412418cfa5e59.html#p-1794-3511-8981ad8f777257bd"
+        }
+      ]
+    },
+    "order-recital": {
+      "record_id": "punjab-code-4caa843ad99b6d9d",
+      "text_version_id": "law:punjab-code-4caa843ad99b6d9d:sha256:4e4dcf430b69526d571c38c3a1be68db7742860de52f5c459490632daae4d633",
+      "text_sha256": "4e4dcf430b69526d571c38c3a1be68db7742860de52f5c459490632daae4d633",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BzIFNws.ADY-",
+      "character_start": 981,
+      "character_end": 1476,
+      "quote": "[10th August, 1973]\r\nNOTIFICATION\r\nNo. SO(ECB) - Ferti - 73(1)-- In exercise of the powers conferred by Section 3 of the  \r\nPunjab Essential Articles (Control) Ordinance, 1973 (Punjab Ordinance No. VII of 1973), The  \r\nGovernor of the Punjab is pleased to make the following Order:\r\n1. Short title and commencement:-  (1) This Order may be called the Punjab Fertilizers \r\n(Control) Order, 1973.\r\n(2) It extends to the whole of the Province of the Punjab.\r\n(3) It shall come into force at once.\r\n",
+      "passages": [
+        {
+          "passage_id": "law:punjab-code-4caa843ad99b6d9d:sha256:4e4dcf430b69526d571c38c3a1be68db7742860de52f5c459490632daae4d633:chars-0-1762:ae1974af034b4743eeddbdb13cd378e7296e0219a591f96cd95f93d1e1936e78",
+          "passage_sha256": "ae1974af034b4743eeddbdb13cd378e7296e0219a591f96cd95f93d1e1936e78",
+          "reader_url": "https://www.jusnrem.legal/laws/punjab-code-4caa843ad99b6d9d.html#p-0-1762-ae1974af034b4743"
+        }
+      ]
+    },
+    "oldact-repeal": {
+      "record_id": "punjab-code-5c3aabdf381e86c5",
+      "text_version_id": "law:punjab-code-5c3aabdf381e86c5:sha256:287153d3d3c1db29fa3e56d44f036bf375f69c6b776c9d1361559886ea89bc0d",
+      "text_sha256": "287153d3d3c1db29fa3e56d44f036bf375f69c6b776c9d1361559886ea89bc0d",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/AzZTYQUwADc-",
+      "character_start": 12040,
+      "character_end": 12133,
+      "quote": "13. Repeal.– The Punjab Essential Article (Control) Ordinance, 1973  is hereby \r\nrepealed. \r\n",
+      "passages": [
+        {
+          "passage_id": "law:punjab-code-5c3aabdf381e86c5:sha256:287153d3d3c1db29fa3e56d44f036bf375f69c6b776c9d1361559886ea89bc0d:chars-10634-12401:2406cc47177e4d7cef405ea7d7c50d0fd8ffdd05ee8b1851f0706c021808e684",
+          "passage_sha256": "2406cc47177e4d7cef405ea7d7c50d0fd8ffdd05ee8b1851f0706c021808e684",
+          "reader_url": "https://www.jusnrem.legal/laws/punjab-code-5c3aabdf381e86c5.html#p-10634-12401-2406cc47177e4d7c"
+        }
+      ]
+    },
+    "newact-rulepower": {
+      "record_id": "punjab-code-8245b6faadb9789e",
+      "text_version_id": "law:punjab-code-8245b6faadb9789e:sha256:fe9041b6bf524471e4b7b835f30fdb561c947ad44fc7ab239e3c97c22b6a7e00",
+      "text_sha256": "fe9041b6bf524471e4b7b835f30fdb561c947ad44fc7ab239e3c97c22b6a7e00",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BjZSZVRqVWYCYg--",
+      "character_start": 41898,
+      "character_end": 42029,
+      "quote": "42. Rules.– The Government may, by notification in the official Gazette, make rules  \r\nfor carrying out the purposes of the Act. \r\n",
+      "passages": [
+        {
+          "passage_id": "law:punjab-code-8245b6faadb9789e:sha256:fe9041b6bf524471e4b7b835f30fdb561c947ad44fc7ab239e3c97c22b6a7e00:chars-40650-42403:55dbfb430164bfcede4fd6ab6ed2a15967d324b624ddde8c45da0bbbbb74bf3d",
+          "passage_sha256": "55dbfb430164bfcede4fd6ab6ed2a15967d324b624ddde8c45da0bbbbb74bf3d",
+          "reader_url": "https://www.jusnrem.legal/laws/punjab-code-8245b6faadb9789e.html#p-40650-42403-55dbfb430164bfce"
+        }
+      ]
+    },
+    "newact-repeal": {
+      "record_id": "punjab-code-8245b6faadb9789e",
+      "text_version_id": "law:punjab-code-8245b6faadb9789e:sha256:fe9041b6bf524471e4b7b835f30fdb561c947ad44fc7ab239e3c97c22b6a7e00",
+      "text_sha256": "fe9041b6bf524471e4b7b835f30fdb561c947ad44fc7ab239e3c97c22b6a7e00",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BjZSZVRqVWYCYg--",
+      "character_start": 43010,
+      "character_end": 44070,
+      "quote": "46. Repeal and savings.– (1) The Punjab Fertilizers (Control) Order, 1973 (VII of \r\n1973) is hereby repealed. \r\n (2) Clause (j) of sub -section (2) of section 3 and entry No. 40 of the Schedule \r\nto the Punjab Essential Articles (Control) Act, 1973 (XVII of 1973) are hereby repealed. \r\n (3) Notwithstanding the repeal of the Punjab Fertilizers (Control) Order, 1973 \r\n(VII of 1973), any act, proceeding, action or notification passed, taken or issued under \r\nthe repealed Order and Act shall, so far as it is not inconsis tent with the provisions of the \r\nAct, be deemed to have been pa ssed, taken or issued under the  Act and shall continue \r\nto have force unless it is superseded by an y act, proceeding, action or notification under \r\nthe Act.  \r\n (4) An offence committed in relation to a fertilizer under the Punjab Essential \r\nArticles (Control) Act, 1973 (XVII of 1973), if being investigated, prosecuted or tried, shall \r\ncontinue to be investigated prosecuted or tried as if the Punjab Essential Articles \r\n(Control) Act, 1973 has not been repealed.",
+      "passages": [
+        {
+          "passage_id": "law:punjab-code-8245b6faadb9789e:sha256:fe9041b6bf524471e4b7b835f30fdb561c947ad44fc7ab239e3c97c22b6a7e00:chars-42403-44070:c44e18fb1f5039f06f85d97c86574166da4ce72588d71c10feb3ec02bf4991ab",
+          "passage_sha256": "c44e18fb1f5039f06f85d97c86574166da4ce72588d71c10feb3ec02bf4991ab",
+          "reader_url": "https://www.jusnrem.legal/laws/punjab-code-8245b6faadb9789e.html#p-42403-44070-c44e18fb1f5039f0"
+        }
+      ]
+    }
+  },
+  "fresh_primary_sources": [
+    {
+      "url": "https://cabinet.gov.pk/SiteImage/Misc/files/ROB%2C%201973/ROB-28-SEP-26.pdf",
+      "local_file": "evidence/rob.pdf",
+      "pdf_sha256": "6652d0da6277590fa20859cdb55d44b0470bde385b5766643ea0d32565bf5f55",
+      "recovery_status": "downloaded"
+    },
+    {
+      "url": "https://sfri.punjab.gov.pk/system/files?file=The%20Punjab%20Fertilizers%20Control%20Act%202025.pdf",
+      "local_file": "evidence/fertilizers-2025.pdf",
+      "pdf_sha256": "519af531740ad089c5b7e3598f31a99578a99ecdf44e88e2c2eda4cdbe10d072",
+      "recovery_status": "downloaded"
+    }
+  ],
+  "source_version_findings": [
+    {
+      "record_id": "pk-code-6c462b7d924dbbe3",
+      "held_edition": "As amended up to 11 May 2026",
+      "newer_edition_observed": "As amended up to 28 September 2026"
+    },
+    {
+      "record_id": "punjab-code-8245b6faadb9789e",
+      "assent_date": "2025-05-29",
+      "notification_date": "2025-05-29",
+      "gazette_masthead_date": "2025-05-30",
+      "gazette_first_publication_bracket": "2025-05-29",
+      "effective_at": null
+    }
+  ],
+  "unlinked_powers": [
+    {
+      "record_id": "punjab-code-8245b6faadb9789e",
+      "provision": "Section 42",
+      "evidence_id": "newact-rulepower",
+      "reason": "Power identified; no matching issued rules independently verified."
+    }
+  ],
+  "limitations": [
+    "Not executable law or exhaustive current-force verification.",
+    "Original 1973 Ordinance absent; no inferred parent substitution.",
+    "Exact effective date not inferred from internally differing Gazette dates."
+  ]
+}
