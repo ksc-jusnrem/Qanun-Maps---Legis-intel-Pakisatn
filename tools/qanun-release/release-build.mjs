@@ -9,7 +9,7 @@ const root=path.resolve(process.argv.find(x=>x.startsWith('--repo-root='))?.slic
 const baseline=path.join(root,'landing-pages/qanun-maps');
 const manifest=path.join(root,'QANUN-LAW-ASSETS-2026-10-31.json');
 const design=path.join(toolDir,'Qanun_Maps_Design_Preview.html');
-for(const p of [baseline,manifest,design,path.join(toolDir,'FONT-LICENSE.txt'),path.join(toolDir,'about-content.json'),path.join(toolDir,'catalogue-ui.js'),path.join(toolDir,'reader-ui.js'),path.join(toolDir,'reader-display.mjs'),path.join(toolDir,'mapping-panels.mjs'),path.join(toolDir,'statute-rule-mappings.json')])if(!fs.existsSync(p))throw Error('Required release input is absent: '+p);
+for(const p of [baseline,manifest,design,path.join(toolDir,'FONT-LICENSE.txt'),path.join(toolDir,'about-content.json'),path.join(toolDir,'catalogue-ui.js'),path.join(toolDir,'reader-ui.js'),path.join(toolDir,'reader-display.mjs'),path.join(toolDir,'section-navigation.mjs'),path.join(toolDir,'mapping-panels.mjs'),path.join(toolDir,'statute-rule-mappings.json')])if(!fs.existsSync(p))throw Error('Required release input is absent: '+p);
 const stage=fs.mkdtempSync(path.join(root,'.qanun-release-stage-'));
 const generated=path.join(stage,'public');
 const result=spawnSync(process.execPath,[path.join(toolDir,'build.mjs'),'--baseline='+baseline,'--manifest='+manifest,'--design='+design,'--output='+generated],{stdio:'inherit'});
