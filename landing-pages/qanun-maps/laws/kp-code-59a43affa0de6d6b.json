@@ -1,0 +1,43 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "kp-code-59a43affa0de6d6b",
+  "title": "The West Pakistan Agricultural Development Finance Corporation (Recovery of Arrears) Act, 1958",
+  "source_collection": "Khyber Pakhtunkhwa",
+  "content_kind": "stored_law_text",
+  "content_extent": "source snapshot",
+  "source_url": "https://kpcode.kp.gov.pk/homepage/lawDetails/972",
+  "version": "Historical West Pakistan instrument; held source records a 1964 extent substitution and a Karachi-extension note.",
+  "source_snapshot": "2026-08-06T14:57:23Z",
+  "legal_status": "not_assessed",
+  "text_quality": "Title and operative provisions reviewed against held official PDF; archived official-page provenance checked. Current legal force and consolidation not assessed.",
+  "text_sha256": "319832b89270c3931004bcc06db793f40955decc7d05cb4db4b0be5f8144dc93",
+  "source_sha256": "6560cdf20b771124f9aeae163a52d6518e8b5b30b03119839c73cae0ce6630c6",
+  "text_version_id": "law:kp-code-59a43affa0de6d6b:sha256:319832b89270c3931004bcc06db793f40955decc7d05cb4db4b0be5f8144dc93",
+  "quality_flags": [
+    "source_snapshot",
+    "current_legal_status_not_assessed"
+  ],
+  "encoding": "UTF-8",
+  "text": "1 | P a g e  \r\n \r\nTHE WEST PAKISTAN AGRICULTURAL DEVELOPMENT FINANCE \r\nCORPORATION (RECOVERY OF ARREARS) ACT, 1958.  \r\n \r\n(West Pakistan Act XVIII of 1958)  \r\n \r\nCONTENTS. \r\n \r\nPREAMBLE \r\n \r\nSECTIONS: \r\n \r\n1. Short title, extent and commencement. \r\n2. Pledging of property to the corporation and recovery of its dues. \r\n3. Repeal of W. P. Ord. XII of 1957. \r\n \r\n \r\n  \r\n2 | P a g e  \r\n \r\nTHE WEST PAKISTAN AGRICULTURAL DEVELOPMENT \r\nFINANCE CORPORATION (RECOVERY OF ARREARS) \r\n ACT, 1958.  \r\n \r\n(West Pakistan Act XVIII of 1958)1  \r\n \r\n[23rd April, 1958.] \r\n  \r\nAn Act to provide facilities to the Agricultural Development Finance \r\n Corporation for recovering its dues \r\n \r\n WHEREAS it is necessary to provide facilities to the Agricultural \r\nDevelopment Finance Corporation for recovering its dues; \r\n \r\nPreamble. \r\n It is hereby enacted as follows: — \r\n \r\n1. (1) This Act may be called the West Pakistan Agricultural \r\nDevelopment Finance Corporation (Recovery of Arrears) Act, 1958. \r\nShort title extent and \r\ncommencement. \r\n  \r\n 2[\"(2) It shall extend to the whole of the province of West Pakistan, \r\nexcept the Tribal Areas\"]. \r\n  \r\n (3) It shall come into force at once. \r\n \r\n2. (1)  Notwithstanding anything contained in any other law for the \r\ntime being in force it shall be lawful for any agricultural concern, as \r\ndefined in the Agricultural Development Finance Corporation Act, 1952 \r\n(hereinafter called the said Act) to pledge, mortgage , hypothecate or \r\nassign to the Agricultural Development Finance Corporation (hereinafter \r\ncalled the Corporation) established under the said Act, any movable or \r\nimmovable property, in order to secure a loan advanced or to be advanced \r\nby the Corporation under the said Act. \r\n \r\nPledging of property \r\nto the Corporation \r\nand recovery of its \r\ndues. \r\n (2) The Corporation shall, in accordance with the provisions of the \r\nsaid Act, be competent to deal with and recover its dues by disposal of any \r\nproperty, pledged, mortgaged, hypothecated or assigned as aforesaid and \r\nnothing contained in any other law shall affect the rights or powers of the \r\nCorporation conferred on it under the provisions of the said Act, or affect \r\nanything done or purported to be done thereunder. \r\n \r\n3. The West Pakistan Agricultural Development Finance Corporation \r\n(Recovery of Arrears) Ordinance, 1957, is hereby repealed. \r\nRepeal of W P Ord \r\nXII of 1957. \r\n \r\n                                                 \r\n* This Act has been extended to the District of Karachi subject to certain modifications see the West Pakistan laws (Extension to Karachi) \r\nOrdinance, 1964 (Ordinance No. 7 of 1964) s. 2 Schedule (with effect from 25th May, 1964). \r\n \r\n1 For Statement of Objects and Reason see Gazette of West Pakistan 1956 Extra-Ordinary p. 766. \r\n2 Subs, by W. P. Ord. VII of 1964, s.2 Sch.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:kp-code-59a43affa0de6d6b:sha256:319832b89270c3931004bcc06db793f40955decc7d05cb4db4b0be5f8144dc93:chars-0-1800:88d83c9890e11a16a2390287e1a0744ab43f66736d7ded9dd58bd4871224971a",
+      "character_start": 0,
+      "character_end": 1800,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1802,
+      "passage_sha256": "88d83c9890e11a16a2390287e1a0744ab43f66736d7ded9dd58bd4871224971a",
+      "reader_fragment": "p-0-1800-88d83c9890e11a16"
+    },
+    {
+      "passage_id": "law:kp-code-59a43affa0de6d6b:sha256:319832b89270c3931004bcc06db793f40955decc7d05cb4db4b0be5f8144dc93:chars-1800-2841:626894c55b9472ec1a05af4a1d178cf59a9b6b6a0acd621dbe8e51565270776e",
+      "character_start": 1800,
+      "character_end": 2841,
+      "utf8_byte_start": 1802,
+      "utf8_byte_end": 2843,
+      "passage_sha256": "626894c55b9472ec1a05af4a1d178cf59a9b6b6a0acd621dbe8e51565270776e",
+      "reader_fragment": "p-1800-2841-626894c55b9472ec"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "kp-code-698a1a46ca512f96",
+  "title": "Repeal Of Martial Law Order Act, 1989.",
+  "source_collection": "Khyber Pakhtunkhwa",
+  "content_kind": "stored_law_text",
+  "content_extent": "source snapshot",
+  "source_url": "https://kpcode.kp.gov.pk/homepage/lawDetails/18",
+  "version": "Held source includes substitutions attributed to KP Act IV of 2011; not the unamended 1989 text.",
+  "source_snapshot": "2026-08-06T14:58:03Z",
+  "legal_status": "not_assessed",
+  "text_quality": "Title and operative provisions reviewed against held official PDF; archived official-page provenance checked. Current legal force and consolidation not assessed.",
+  "text_sha256": "24978f6538770350e79efcf3da46ee080ea8eef8ca0bf4cc4c9a9424ef8e00d4",
+  "source_sha256": "1cd552197627610b29a24b4f21b608be256de3c4a0fb54396eff5b6cd0ae338b",
+  "text_version_id": "law:kp-code-698a1a46ca512f96:sha256:24978f6538770350e79efcf3da46ee080ea8eef8ca0bf4cc4c9a9424ef8e00d4",
+  "quality_flags": [
+    "source_snapshot",
+    "current_legal_status_not_assessed"
+  ],
+  "encoding": "UTF-8",
+  "text": "THE 1[KHYBER PAKHTUNKHWA]  \r\n(REPEAL OF MARTIAL LAW ORDER) ACT, 1989. \r\n \r\n(2[KHYBER PAKHTUNKHWA] ACT NO. III OF 1989) \r\n \r\n \r\nCONTENTS \r\n \r\nPREAMBLE. \r\n \r\nSECTIONS  \r\n \r\n1. Short title and commencement. \r\n \r\n2. Repeal of M.L.O. 362. \r\n  \r\n                                                           \r\n1Substituted vide Khyber Pakhtunkhwa Act No. IV of 2011 \r\n2Substituted vide Khyber Pakhtunkhwa Act No. IV of 2011 \r\nTHE 1[KHYBER PAKHTUNKHWA]  \r\n(REPEAL OF MARTIAL LAW ORDER) ACT, 1989. \r\n \r\n(2[KHYBER PAKHTUNKHWA] ACT NO. III OF 1989) \r\n \r\n[First published after having received the assent of the Governor of the 3[Khyber Pakhtunkhwa] \r\nin the Gazette of 4[Khyber Pakhtunkhwa] (Extraordinary), dated the 28th May, 1989]. \r\n \r\nAN \r\nACT \r\nto repeal Martial Law Order No. 362, issued by the \r\nMarital Law Administrator, Zone ‘B’. \r\n \r\n Preamble.---WHEREAS it is expedient to repeal Martial Law Order No. 362, issued by \r\nthe Martial Law Administrator, Zone ‘B’. \r\n \r\n It is hereby enacted as follows: \r\n \r\n1. Short title and commencement. ---(1) This Act may be called the 5[Khyber \r\nPakhtunkhwa] (Repeal of Martial Law Order) Act, 1989. \r\n \r\n (2) It shall come into force at once. \r\n \r\n2. Repeal of M.L.O. 362. ---Martial Law Order No. 362, issued by the Martial Law \r\nAdministrator, Zone ‘B’, is hereby repealed. \r\n \r\n                                                           \r\n1Substituted vide Khyber Pakhtunkhwa Act No. IV of 2011 \r\n2Substituted vide Khyber Pakhtunkhwa Act No. IV of 2011 \r\n3Substituted vide Khyber Pakhtunkhwa Act No. IV of 2011 \r\n4Substituted vide Khyber Pakhtunkhwa Act No. IV of 2011 \r\n5Substituted vide Khyber Pakhtunkhwa Act No. IV of 2011",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:kp-code-698a1a46ca512f96:sha256:24978f6538770350e79efcf3da46ee080ea8eef8ca0bf4cc4c9a9424ef8e00d4:chars-0-1666:24978f6538770350e79efcf3da46ee080ea8eef8ca0bf4cc4c9a9424ef8e00d4",
+      "character_start": 0,
+      "character_end": 1666,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1678,
+      "passage_sha256": "24978f6538770350e79efcf3da46ee080ea8eef8ca0bf4cc4c9a9424ef8e00d4",
+      "reader_fragment": "p-0-1666-24978f6538770350"
+    }
+  ]
+}

@@ -1,22 +1,110 @@
 {
-  "FONT-LICENSE.txt": {
+  "QANUN-LAW-ASSETS-2026-10-31.json": {
+    "sha256": "f07a242d03a3e154167094b8b35bc92459d7b05bc4d8b8ffe749b8a1830531f0",
+    "bytes": 1418911
+  },
+  "tools/qanun-release/FONT-LICENSE.txt": {
     "sha256": "49f1729c05c09e1e79ae3e7f266bee09da3c6e9671a47548a8fe8b1c5cc33411",
     "bytes": 4526
   },
-  "catalogue-ui.js": {
-    "sha256": "c7921bf3aa434a0701a8222ed368f9a656e238fe841413d334a99ffbbb7de7ba",
-    "bytes": 2349
+  "tools/qanun-release/catalogue-ui.js": {
+    "sha256": "34a678906157360bec9ddaea36e2f9b27415e7a7b623f7cc3a2fab609bff524b",
+    "bytes": 4168
   },
-  "release-build.mjs": {
-    "sha256": "6a9e3d92ab1db874350359bddeaaef7ff4b497788abe5e39fb92d60d8bc3b211",
-    "bytes": 2835
+  "tools/qanun-release/reader-ui.js": {
+    "sha256": "466d141b713198e952c3511c2d21d9d3eb99d1a4fa95196ad251c836408d2614",
+    "bytes": 533
   },
-  "build.mjs": {
-    "sha256": "924a769c30abda8627ec2829e9f47c4b16d0e1d95bc38d4849251e4f37e09416",
-    "bytes": 19237
+  "tools/qanun-release/reader-display.mjs": {
+    "sha256": "3b1ebafab3a66a7d8aad758b6402ec329610ef80d1fa86dcabc2be80f348ee0f",
+    "bytes": 453
   },
-  "Qanun_Maps_Design_Preview.html": {
+  "tools/qanun-release/release-build.mjs": {
+    "sha256": "8e3e086cd57ba78cc02a112575c47ee73e1618afe7d99286b10186b752b692a7",
+    "bytes": 3041
+  },
+  "tools/qanun-release/build.mjs": {
+    "sha256": "e63b1923e21f8a81d6b409615981c44f53a73aeb9ba436729480d5414290e02f",
+    "bytes": 20726
+  },
+  "tools/qanun-release/about-content.json": {
+    "sha256": "d1f002b6518681bef571543496dbbd94d2fa73df445de7183626f94790a570f4",
+    "bytes": 3312
+  },
+  "tools/qanun-release/Qanun_Maps_Design_Preview.html": {
     "sha256": "55dd07f1543e6681357a875cd04d163304e52c2276afda1ed50ce77001377481",
     "bytes": 941689
+  },
+  "landing-pages/qanun-maps/laws/kp-code-c0b8bf5083693604.json": {
+    "sha256": "33a805da945d94dbfdf57d72b4858db013b7246552412564bfddc27dcc312c3c",
+    "bytes": 3619
+  },
+  "landing-pages/qanun-maps/laws/kp-code-59a43affa0de6d6b.txt": {
+    "sha256": "319832b89270c3931004bcc06db793f40955decc7d05cb4db4b0be5f8144dc93",
+    "bytes": 2843
+  },
+  "landing-pages/qanun-maps/laws/kp-code-4eed2df483c9a23d.txt": {
+    "sha256": "0100f9dec7ee482c90a1e38c4d920ac89eeb0ab2c766a9fa20d23a141eb43e06",
+    "bytes": 2547
+  },
+  "landing-pages/qanun-maps/laws/kp-code-698a1a46ca512f96.txt": {
+    "sha256": "24978f6538770350e79efcf3da46ee080ea8eef8ca0bf4cc4c9a9424ef8e00d4",
+    "bytes": 1678
+  },
+  "landing-pages/qanun-maps/laws/kp-code-c0b8bf5083693604.txt": {
+    "sha256": "e2e4a0d66d662104bcd933712376f3cdc33a32320fdbab0f2d448d5c25781b45",
+    "bytes": 1630
+  },
+  "landing-pages/qanun-maps/laws/kp-code-215827543b1e2c76.txt": {
+    "sha256": "e4568ea8a3e31903ba9b4a6c9f1fb55fe46b237a52a6e1c273d2f9badc4733b8",
+    "bytes": 1134
+  },
+  "landing-pages/qanun-maps/laws/kp-code-4eed2df483c9a23d.json": {
+    "sha256": "89d50ac8638cc310705080e4b058578de721b293c99a8b19d69f9973348a54bd",
+    "bytes": 4878
+  },
+  "landing-pages/qanun-maps/laws/kp-code-698a1a46ca512f96.html": {
+    "sha256": "fbd6c89f43aeff5dc6eebf7eed459ea8fb162d0366e9c9897e9204cb54ab8603",
+    "bytes": 1946
+  },
+  "landing-pages/qanun-maps/laws/kp-code-59a43affa0de6d6b.json": {
+    "sha256": "cdd250ca07500828d7a91c213f7b1023289084b318a1c03d0468f531445fc7cd",
+    "bytes": 5268
+  },
+  "landing-pages/qanun-maps/laws/kp-code-f4b59eb600407733.html": {
+    "sha256": "c290796a24643dbbd8079560bc44df4bb9d400f8aaf973054724d4b731106246",
+    "bytes": 2912
+  },
+  "landing-pages/qanun-maps/laws/kp-code-f4b59eb600407733.json": {
+    "sha256": "5d9a9ab3cf06bd7ae52cf75c8a697f5ecfaf7a07191ac3ba304953b8986667c7",
+    "bytes": 4911
+  },
+  "landing-pages/qanun-maps/laws/kp-code-4eed2df483c9a23d.html": {
+    "sha256": "bb8e12aa6889e0875981497e602a28f9927f3504256dad3e29516ee12838d0b0",
+    "bytes": 2910
+  },
+  "landing-pages/qanun-maps/laws/kp-code-f4b59eb600407733.txt": {
+    "sha256": "656fc80f404efe01044c408ac9ceaeda881f9f9582e092c5e6b882da0c46cdaf",
+    "bytes": 2555
+  },
+  "landing-pages/qanun-maps/laws/kp-code-215827543b1e2c76.html": {
+    "sha256": "6ef0d2bf41454583df191dcdc15ef3d739bbd64216e6735ca94f3e33c1e9e1fe",
+    "bytes": 1436
+  },
+  "landing-pages/qanun-maps/laws/kp-code-698a1a46ca512f96.json": {
+    "sha256": "7edf563f84c6914173617422c3ceef4cda3817a45d1981d0ac8a2c5ce7c7856a",
+    "bytes": 3485
+  },
+  "landing-pages/qanun-maps/laws/kp-code-59a43affa0de6d6b.html": {
+    "sha256": "e3964194a7f23329ca6d76afa416f8cee77e136e664db204c097f3391d25e100",
+    "bytes": 3270
+  },
+  "landing-pages/qanun-maps/laws/kp-code-c0b8bf5083693604.html": {
+    "sha256": "b121f4b4cbfb362be924fd309974f3c7ebd510cf20e2bbb6ecd262edfa999b29",
+    "bytes": 1970
+  },
+  "landing-pages/qanun-maps/laws/kp-code-215827543b1e2c76.json": {
+    "sha256": "3e5d2f81732d5e83388dc8a25bf42921e6e0665333a60ff6b8939ed45e73b517",
+    "bytes": 2915
   }
 }

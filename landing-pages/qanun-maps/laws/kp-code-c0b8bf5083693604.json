@@ -1,0 +1,34 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "kp-code-c0b8bf5083693604",
+  "title": "The Prevention of Corruption Act (West Pakistan Extension) Ordinance, 1958",
+  "source_collection": "Khyber Pakhtunkhwa",
+  "content_kind": "stored_law_text",
+  "content_extent": "source snapshot",
+  "source_url": "https://kpcode.kp.gov.pk/homepage/lawDetails/872",
+  "version": "Held source includes KP Act IV of 2011 substitution and omissions attributed to KP Adaptation Order 1975. A historical West Pakistan instrument in the KP source collection; collection does not establish present applicability.",
+  "source_snapshot": "2026-08-06T14:57:27Z",
+  "legal_status": "not_assessed",
+  "text_quality": "Title and operative provisions reviewed against held official PDF; archived official-page provenance checked. Current legal force and consolidation not assessed.",
+  "text_sha256": "e2e4a0d66d662104bcd933712376f3cdc33a32320fdbab0f2d448d5c25781b45",
+  "source_sha256": "41d75eb5f7be3d1cecf1591dec8ef35f6924b197f7f4b90d6829367a5ab702c7",
+  "text_version_id": "law:kp-code-c0b8bf5083693604:sha256:e2e4a0d66d662104bcd933712376f3cdc33a32320fdbab0f2d448d5c25781b45",
+  "quality_flags": [
+    "source_snapshot",
+    "current_legal_status_not_assessed"
+  ],
+  "encoding": "UTF-8",
+  "text": "1 | P a g e  \r\n \r\nTHE PREVENTION OF CORRUPTION ACT, (WEST PAKISTAN EXTENSION) \r\nORDINANCE, 1958.  \r\n \r\n(West Pakistan Ordinance No. XXXI of 1958) \r\n \r\n \r\nCONTENTS. \r\n \r\nPREAMBLE \r\n \r\nSECTIONS: \r\n \r\n1. Short title. \r\n2. Extension of Act II of 1947 to the whole of West Pakistan. \r\n  \r\n2 | P a g e  \r\n \r\nTHE PREVENTION OF CORRUPTION ACT, (WEST PAKISTAN \r\nEXTENSION) ORDINANCE, 1958.  \r\n \r\n(West Pakistan Ordinance No. XXXI of 1958) \r\n \r\n[20th December, 1958.] \r\n \r\nAn Ordinance to extend the Prevention of Corruption Act, 1947, to the \r\nwhole of the Province of West Pakistan. \r\n \r\n WHEREAS it is expedient to extend the Prevention of Corruption \r\nAct, 1947, to the whole of the Province of West Pakistan in the manner \r\nhereinafter appearing; \r\n \r\nPreamble. \r\n NOW, THEREFORE , in pursuance of the Presidential \r\nProclamation of the seventh day of October, 1958, and in exercise of all \r\npowers enabling him in that behalf, the Governor of West Pakistan is \r\npleased to make and promulgate the following Ordinance:— \r\n \r\n1. (1) This Ordinance may be called the Prevention of Corruption Act \r\n(West Pakistan Extension) Ordinance, 1958. \r\n \r\nShort title. \r\n2. The Prevention of Corruption Act, 1947, (hereinafter called the \r\nsaid Act), shall extend to the whole of the 1[Province of the Khyber \r\nPakhtunkhwa] except the Tribal Areas. \r\n \r\n 2[3* * *] \r\n \r\n 3[4*  *  *] \r\n \r\nExtension of Act II \r\nof 1947 to the whole \r\nof West Pakistan. \r\n \r\n                                                 \r\n1 Substituted vide Khyber Pakhtunkhwa Act. No. IV of 2011. \r\n2 Omitted by Khyber Pakhtunkhwa Adapt: Order 1975. \r\n3 Omitted by order ibid.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:kp-code-c0b8bf5083693604:sha256:e2e4a0d66d662104bcd933712376f3cdc33a32320fdbab0f2d448d5c25781b45:chars-0-1628:e2e4a0d66d662104bcd933712376f3cdc33a32320fdbab0f2d448d5c25781b45",
+      "character_start": 0,
+      "character_end": 1628,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1630,
+      "passage_sha256": "e2e4a0d66d662104bcd933712376f3cdc33a32320fdbab0f2d448d5c25781b45",
+      "reader_fragment": "p-0-1628-e2e4a0d66d662104"
+    }
+  ]
+}

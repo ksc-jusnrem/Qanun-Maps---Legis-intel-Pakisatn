@@ -1,0 +1,34 @@
+{
+  "schema_version": "qanun-law-text/1",
+  "id": "kp-code-215827543b1e2c76",
+  "title": "THE KHYBER PAKHTUNKHWA LIMITATION (AMENDMENT) ACT, 2016",
+  "source_collection": "Khyber Pakhtunkhwa",
+  "content_kind": "stored_law_text",
+  "content_extent": "source snapshot",
+  "source_url": "https://kpcode.kp.gov.pk/homepage/lawDetails/1573",
+  "version": "Standalone Limitation (Amendment) Act, 2016; not a consolidated Limitation Act.",
+  "source_snapshot": "2026-08-06T14:56:43Z",
+  "legal_status": "not_assessed",
+  "text_quality": "Title and operative provisions reviewed against held official PDF; archived official-page provenance checked. Current legal force and consolidation not assessed.",
+  "text_sha256": "e4568ea8a3e31903ba9b4a6c9f1fb55fe46b237a52a6e1c273d2f9badc4733b8",
+  "source_sha256": "13d9db7978b29b3fc47c12c5aaaf1891211fee0e708cb77020948da4c979087d",
+  "text_version_id": "law:kp-code-215827543b1e2c76:sha256:e4568ea8a3e31903ba9b4a6c9f1fb55fe46b237a52a6e1c273d2f9badc4733b8",
+  "quality_flags": [
+    "source_snapshot",
+    "current_legal_status_not_assessed"
+  ],
+  "encoding": "UTF-8",
+  "text": "1 | P a g e  \r\n \r\nTHE KHYBER PAKHTUNKHWA LIMITATION (AMENDMENT) ACT, 2016. \r\n(KHYBER PAKHTUNKHWA ACT NO. XV OF 2016) \r\nCONTENTS \r\nPREAMBLE \r\nSECTIONS \r\n1. Short title and commencement. \r\n2. Amendment of the First Schedule of the Act No. IX of 1908.  \r\n  \r\n\r\n2 | P a g e  \r\n \r\nTHE KHYBER PAKHTUNKHWA LIMITATION (AMENDMENT) ACT, 2016. \r\n(KHYBER PAKHTUNKHWA ACT NO. XV OF 2016) \r\n (First published after having received the assent of the Governor of Khyber  \r\n Pakhtunkhwa  in the Gazette of Khyber Pakhtunkhwa ,(Extraordinary), \r\ndated the 19/08/2016). \r\n \r\nAN \r\nACT \r\nfurther to amend  \r\nthe Limitation act, 1908. \r\n \r\nWHEREAS it is expedient further to amend the Limitation Act, 1908, for the purpose \r\nhereinafter appearing;  \r\n \r\nIt is hereby enacted as follows: \r\n \r\n1. Short title and commencement .---(1) This Act may be called the Khyber \r\nPakhtunkhwa  Limitation (Amendment) Act, 2016. \r\n \r\n (2) It shall come into force at once. \r\n \r\n2. Amendment of the First Schedule of the Act No. IX of 1908 .---In the Limitation \r\nAct, 1908 (Act No. IX of 1908), in the First Schedule, in Part-IX, Articles 147 and 148 shall \r\nbe deleted.",
+  "passage_offset_convention": "zero-based Unicode code points and UTF8 bytes; end exclusive",
+  "passages": [
+    {
+      "passage_id": "law:kp-code-215827543b1e2c76:sha256:e4568ea8a3e31903ba9b4a6c9f1fb55fe46b237a52a6e1c273d2f9badc4733b8:chars-0-1134:e4568ea8a3e31903ba9b4a6c9f1fb55fe46b237a52a6e1c273d2f9badc4733b8",
+      "character_start": 0,
+      "character_end": 1134,
+      "utf8_byte_start": 0,
+      "utf8_byte_end": 1134,
+      "passage_sha256": "e4568ea8a3e31903ba9b4a6c9f1fb55fe46b237a52a6e1c273d2f9badc4733b8",
+      "reader_fragment": "p-0-1134-e4568ea8a3e31903"
+    }
+  ]
+}
