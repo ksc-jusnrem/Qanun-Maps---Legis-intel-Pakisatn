@@ -1,0 +1,22 @@
+{
+  "FONT-LICENSE.txt": {
+    "sha256": "49f1729c05c09e1e79ae3e7f266bee09da3c6e9671a47548a8fe8b1c5cc33411",
+    "bytes": 4526
+  },
+  "catalogue-ui.js": {
+    "sha256": "c7921bf3aa434a0701a8222ed368f9a656e238fe841413d334a99ffbbb7de7ba",
+    "bytes": 2349
+  },
+  "release-build.mjs": {
+    "sha256": "6a9e3d92ab1db874350359bddeaaef7ff4b497788abe5e39fb92d60d8bc3b211",
+    "bytes": 2835
+  },
+  "build.mjs": {
+    "sha256": "924a769c30abda8627ec2829e9f47c4b16d0e1d95bc38d4849251e4f37e09416",
+    "bytes": 19237
+  },
+  "Qanun_Maps_Design_Preview.html": {
+    "sha256": "55dd07f1543e6681357a875cd04d163304e52c2276afda1ed50ce77001377481",
+    "bytes": 941689
+  }
+}
