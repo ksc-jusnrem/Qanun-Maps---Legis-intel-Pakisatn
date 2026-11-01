@@ -23,6 +23,7 @@ export function applyReaderLayout(record,html){
   let start=Array.from(text.slice(0,m.index)).length;const end=start+Array.from(m[0]).length;if(start<bodyStart||(schedule>=0&&m.index>=schedule))continue;
   const overlap=headings.filter(h=>start<h.end&&end>h.start);if(overlap.length===1&&overlap[0].start===start)start=overlap[0].end;else if(overlap.length)continue;
   const fragment=Array.from(text).slice(start,end).join(''),lines=fragment.split(/\r?\n/).map(x=>x.trim());
+  if(/(?:^|\n)[ \t]*\d+[ \t]*(?:Substituted|Inserted|Omitted|Added|Deleted|Amended)\b/i.test(fragment))continue;
   if(lines.length<2||lines.some(x=>x.split(/\s+/).length<4)||/[\t]|\S {3,}\S|[|]/.test(fragment)||lines.slice(1).some(x=>/^(?:\(?[a-z0-9ivx]+[).]|CHAPTER|PART|SCHEDULE|\d{4})\s/i.test(x)))continue;
   add(opens,start,'<span class="display-prose">');add(closes,end,'</span>');prose++;
  }
