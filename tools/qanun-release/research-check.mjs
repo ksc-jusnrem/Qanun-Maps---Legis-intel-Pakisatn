@@ -6,7 +6,7 @@ const out=process.argv[2];if(!out)throw Error('Provide generated public director
 const data=JSON.parse(fs.readFileSync(new URL('./case-discovery.json',import.meta.url),'utf8'));
 const page=fs.readFileSync(path.join(out,'case-law.html'),'utf8');
 assert.equal(data.records.length,2365);assert.equal(new Set(data.records.map(c=>c.id)).size,2365);
-assert.equal((page.match(/data-research-card/g)||[]).length,2365);
+assert.equal((page.match(/<article class="research-card" data-research-card/g)||[]).length,2365);
 for(const id of ['234454','234434','234534','234441','234580','236053','234431','236049'])assert.ok(page.includes(`id="case-${id}"`));
 assert.ok(data.records.find(c=>c.id==='234454').title.includes('POWER LINE'));
 assert.ok(data.records.find(c=>c.id==='234434').title.includes('PAKISTAN LNG'));

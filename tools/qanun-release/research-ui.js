@@ -7,7 +7,7 @@ const law=params.get('law')||'';const lawName=document.querySelector('#law-filte
 if(lawName&&law){lawName.hidden=false;lawName.querySelector('span').textContent='Showing research leads for the selected legislation.';}
 if(params.get('q'))q.value=params.get('q');
 function render(){const words=q.value.toLowerCase().trim().split(/\s+/).filter(Boolean);let matches=0;
-for(const c of cards){const hit=words.every(w=>c.textContent.toLowerCase().includes(w))&&(!court?.value||c.dataset.court===court.value)&&(!topic?.value||JSON.parse(c.dataset.topics||'[]').includes(topic.value))&&(!law||JSON.parse(c.dataset.laws||'[]').includes(law));c.hidden=!hit||matches>=limit;if(hit)matches++;}
+for(const c of cards){const hit=words.every(w=>c.dataset.search.includes(w))&&(!court?.value||c.dataset.court===court.value)&&(!topic?.value||JSON.parse(c.dataset.topics||'[]').includes(topic.value))&&(!law||JSON.parse(c.dataset.laws||'[]').includes(law));c.hidden=!hit||matches>=limit;if(hit)matches++;}
 status.textContent=`${matches.toLocaleString()} matching records · ${Math.min(limit,matches)} shown`;more.hidden=matches<=limit;
 }
 form.addEventListener('submit',e=>{e.preventDefault();limit=30;render();});q.addEventListener('input',()=>{limit=30;render();});

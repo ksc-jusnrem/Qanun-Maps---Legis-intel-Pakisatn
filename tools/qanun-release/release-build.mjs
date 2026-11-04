@@ -14,6 +14,8 @@ const stage=fs.mkdtempSync(path.join(root,'.qanun-release-stage-'));
 const generated=path.join(stage,'public');
 const result=spawnSync(process.execPath,[path.join(toolDir,'build.mjs'),'--baseline='+baseline,'--manifest='+manifest,'--design='+design,'--output='+generated],{stdio:'inherit'});
 if(result.status!==0)throw Error('Generator failed; original public source remains untouched');
+const researchCheck=spawnSync(process.execPath,[path.join(toolDir,'research-check.mjs'),generated],{stdio:'inherit',cwd:root});
+if(researchCheck.status!==0)throw Error('Research integration checks failed');
 const report=JSON.parse(fs.readFileSync(path.join(toolDir,'integration-manifest.json'),'utf8'));
 if(report.record_count!==1732||report.law_text_count!==1728||report.source_notice_count!==4||report.public_file_count!==5207)throw Error('Unexpected generated coverage');
 if(report.research.case_count!==2365||report.research.statute_edges!==9||report.research.mapped_law_count<1)throw Error('Research integration missing');
