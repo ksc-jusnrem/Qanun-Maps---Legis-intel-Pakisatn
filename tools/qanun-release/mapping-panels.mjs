@@ -5,7 +5,7 @@ import {fileURLToPath} from 'node:url';
 const sha=x=>crypto.createHash('sha256').update(x).digest('hex');
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const labels={made_under:'Enabling authority',authorises_instrument:'Instrument made under this authority',cites_constitutional_basis:'Constitutional context',constitutional_basis_cited_by:'Instrument citing this constitutional context',cites_enabling_authority:'Authority named in the instrument',cited_as_enabling_authority_by:'Instrument citing this authority',expressly_repeals:'Express repeal',expressly_repealed_by:'Expressly repealed by',partially_repeals:'Partial repeal',partially_repealed_by:'Provisions repealed by',conditionally_saves_prior_measures:'Conditional savings',prior_measures_conditionally_saved_by:'Prior measures subject to savings'};
-const publicNotes={
+export const publicNotes={
 'rob-art99':['The opening recital names the Federal Government as rule-maker. Article 99(2) concerns authentication; Article 99(3) concerns allocation and transaction of Federal Government business.'],
 'rob-art90':['Article 90 provides executive constitutional context. It is distinct from the rule-making provisions identified in Article 99.'],
 'fcc-schedule5':['Paragraph 2 of the Fifth Schedule is the specific enabling provision identified by this Order. Article 205 supplies supporting constitutional context.'],

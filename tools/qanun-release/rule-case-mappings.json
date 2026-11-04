@@ -1,0 +1,1133 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-11-04",
+  "scope": "Title-based audit of held rules/orders and separately identified Acts/Ordinances. Not a complete inventory of all Pakistani subordinate legislation.",
+  "inventory": [
+    {
+      "id": "pk-code-b381214ba943ffa3",
+      "title": "Acceding State (Property) Order, 1961",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5plag%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "1133f60b7ee6cf0fa265815cfaaf318f856857da72408176b9f38c7d299dcff8",
+      "text_version_id": "law:pk-code-b381214ba943ffa3:sha256:1133f60b7ee6cf0fa265815cfaaf318f856857da72408176b9f38c7d299dcff8",
+      "kind": "rules_or_order",
+      "case_links": [],
+      "current_force": null,
+      "authority_note": "Historical presidential order: recital cites the Proclamation of 7 October 1958. Original proclamation not matched here.",
+      "authority_evidence": {
+        "law_id": "pk-code-b381214ba943ffa3",
+        "text_sha256": "1133f60b7ee6cf0fa265815cfaaf318f856857da72408176b9f38c7d299dcff8",
+        "text_version_id": "law:pk-code-b381214ba943ffa3:sha256:1133f60b7ee6cf0fa265815cfaaf318f856857da72408176b9f38c7d299dcff8",
+        "character_start": 0,
+        "character_end": 787,
+        "quote": "THE ACCEDING STATE (PROPERTY) ORDER, 1961 \r\n \r\nPRESIDENT’S ORDER NO. 12 OF 196l \r\n[22 August, 1961] \r\n \r\nIn pursuance of the Proclamation of the seventh day of October,1958, and in exercise of all \r\npowers enabling him in that behalf, the President is pleased to make the following Order: — \r\n \r\n1.— (1) This Order may be called the Acceding State (Property) Order, 1961. \r\n \r\n(2) It shall come into force at once, but an order  made in pursuance of it may be  given \r\nretrospective effect to a date not earlier than the fifteenth day of August 1947. \r\n \r\n2. In this Order, references to a State shall be construed as references to a S tate which has at \r\nany time after the 14th day of August 1947 been in accession with Pakistan, and references to a Ruler \r\nshall be construed as inclu",
+        "passages": [
+          {
+            "fragment": "p-0-1700-15d86d85e5afe9b7",
+            "sha256": "15d86d85e5afe9b7199c1f2d88a39ed310e2a7f1e2a53469824b8f2d85129e6b"
+          }
+        ]
+      },
+      "disposition": "Authority recital recorded; no reviewed case passage linked in this release."
+    },
+    {
+      "id": "pk-code-12bd8575ec0f6820",
+      "title": "Banking Tribunals (Validation of Orders) Act, 1994",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apmcbA%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "611a078d0424c9f9cb00e0f0af2aff9e07f7d84a910af02b8424cb5d7048bb08",
+      "text_version_id": "law:pk-code-12bd8575ec0f6820:sha256:611a078d0424c9f9cb00e0f0af2aff9e07f7d84a910af02b8424cb5d7048bb08",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-9f530d794dbdce15",
+      "title": "Chairman and Members of Federal Land Commission (Validation of Orders) Ordinance, 1981",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bZ2U-sg-jjjjjjjjjjjjj",
+      "text_sha256": "9f8a413236f8f6c6f905243de5a087ac814c8f56081ce9f8e64df2c3e66aa3ad",
+      "text_version_id": "law:pk-code-9f530d794dbdce15:sha256:9f8a413236f8f6c6f905243de5a087ac814c8f56081ce9f8e64df2c3e66aa3ad",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-4774a7711e72e080",
+      "title": "Civil Servants (Validation of Rules) Ordinance, 2001",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-cp%2BUY2Fq-sg-jjjjjjjjjjjjj",
+      "text_sha256": "5e0e18cc4791f7934c40bf439b495016fc82d3ffcb280f4cd39c3dbc6c167664",
+      "text_version_id": "law:pk-code-4774a7711e72e080:sha256:5e0e18cc4791f7934c40bf439b495016fc82d3ffcb280f4cd39c3dbc6c167664",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-67f7662cdef004cf",
+      "title": "Establishment of the Office of Wafaqi Mohtasib (Ombudsman) Order, 1983",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5lpbw%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "15ed34e74bc9793e33d8b56eb8e44050b489b69b300c81360948b584d7ee583a",
+      "text_version_id": "law:pk-code-67f7662cdef004cf:sha256:15ed34e74bc9793e33d8b56eb8e44050b489b69b300c81360948b584d7ee583a",
+      "kind": "rules_or_order",
+      "case_links": [],
+      "current_force": null,
+      "authority_note": "Historical presidential order: recital cites the Proclamation of 5 July 1977. Original proclamation not matched here.",
+      "authority_evidence": {
+        "law_id": "pk-code-67f7662cdef004cf",
+        "text_sha256": "15ed34e74bc9793e33d8b56eb8e44050b489b69b300c81360948b584d7ee583a",
+        "text_version_id": "law:pk-code-67f7662cdef004cf:sha256:15ed34e74bc9793e33d8b56eb8e44050b489b69b300c81360948b584d7ee583a",
+        "character_start": 833,
+        "character_end": 2697,
+        "quote": "6.05.2023\r\n \r\nPage 2 of 14 \r\n \r\n17.  Inspection Team. \r\n18.  Standing Committees, etc. \r\n19.  Delegation of powers. \r\n20.  Appointment of advisers, etc. \r\n21.  Authorization of Provincial functionaries, etc. \r\n22.  Award of costs and compensation and refund of amounts. \r\n23.  Assistance and advice to Mohtasib. \r\n24.  Conduct of business. \r\n25.  Requirement of affidavits. \r\n26.  Remuneration of advisers, consultants, etc. \r\n27.  Mohtasib and staff to be public servants. \r\n28.  Annual and other reports. \r\n29.  Bar of jurisdiction. \r\n30.  Immunity. \r\n31.  Reference by the President. \r\n32.  Representation of President. \r\n33.  Informal resolution of disputes. \r\n34.  Service of process. \r\n35.  Expenditure to be charged on Federal Consolidated Fund. \r\n36.  Rules. \r\n37.  Order to override other laws. \r\n38. Removal of difficulties.  \r\n \r\n \r\n  \r\n \r\nPage 3 of 14 \r\n \r\nTHE ESTABLISHMENT OF THE OFFICE OF WAFAQI MOHTASIB \r\n(OMBUDSMAN) ORDER, 1983 \r\n \r\n(I of 1983) \r\n \r\n[24th January, 1983] \r\n \r\nWHEREAS it is expedient to provide for the appointment of the Wafaqi Mohtasib \r\n(Ombudsman) to diagnose, investigate, redress and rectify any injustice done to a person through mala \r\nadministration;  \r\n \r\nNow, therefore, in pursuance of the Proclamation of the fifth day of July, 1977, and in exercise \r\nof all owners enabling him in that behalf, the President and Chief Material Law Administrator is \r\npleased to make the following Order:— \r\n \r\n1. Short title, extent and commencement.—(1) This Order may be called the Establishment \r\nof the Office of Wafaqi Mohtasib (Ombudsman) Order, 1983. \r\n \r\n(2) It extends to the whole of Pakistan.  \r\n \r\n(3) It shall come into force at once. \r\n \r\n \r\n2. Definitions.—In this Order, unless there is anything repugnant in the subject or context,— \r\n \r\n(1) “Agency” means a Ministry, Division, Department, Commission or office of t",
+        "passages": [
+          {
+            "fragment": "p-0-1798-29bb28a23dd51307",
+            "sha256": "29bb28a23dd513078afe7fa51c489ff6f067758f1f7c3f37ca147e1b37803843"
+          },
+          {
+            "fragment": "p-1798-3565-981cfddf531ea4cd",
+            "sha256": "981cfddf531ea4cd7b335403a19239ba14d71d81050cccd1c6a59d32b98d2ebd"
+          }
+        ]
+      },
+      "disposition": "Authority recital recorded; no reviewed case passage linked in this release."
+    },
+    {
+      "id": "pk-code-778412418cfa5e59",
+      "title": "Federal Constitutional Court Judges (Leave, Pension and Privileges) Order, 2025",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5toaQ%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "9c5a7f685190e27dc4dadb28d1e85c6ff0e76046cef599bac0ccb1bc661493f9",
+      "text_version_id": "law:pk-code-778412418cfa5e59:sha256:9c5a7f685190e27dc4dadb28d1e85c6ff0e76046cef599bac0ccb1bc661493f9",
+      "kind": "rules_or_order",
+      "case_links": [],
+      "current_force": null,
+      "authority_note": "Constitutional order: Fifth Schedule paragraph 2; see the existing constitutional authority map. Gazette date discrepancy remains disclosed in the reader.",
+      "authority_evidence": {
+        "law_id": "pk-code-778412418cfa5e59",
+        "text_sha256": "9c5a7f685190e27dc4dadb28d1e85c6ff0e76046cef599bac0ccb1bc661493f9",
+        "text_version_id": "law:pk-code-778412418cfa5e59:sha256:9c5a7f685190e27dc4dadb28d1e85c6ff0e76046cef599bac0ccb1bc661493f9",
+        "character_start": 468,
+        "character_end": 2331,
+        "quote": "ave \r\n9.  Extraordinary leave \r\n10.  Combining leave with vacation \r\n11.  Overstaying leave or vacation \r\n12.  Abeyance of acting appointments in vacation \r\n13.  Special Disability Leave \r\n14.  Authority competent to grant leave \r\n PART-III PENSION \r\n15.  Entitlement \r\n \r\n\r\n \r\nPage 2 of 9 \r\n \r\n16.  Payable pension \r\n16A.  Pension on re-employment etc. \r\n17.  Commutation of pension \r\n18.  Extraordinary pension \r\n19.  Subsidiary conditions of service \r\n20.  Official residence \r\n20A.  Temporary residence-cum-office \r\n20B. \r\n21.  Official car \r\n22.  Superior judicial allowance \r\n24.  Exemption from income-tax \r\n25.  Facilities to retired Judges \r\nTHE SCHEDULE \r\n  \r\n \r\nPage 3 of 9 \r\n \r\nTHE FEDERAL CONSTITUTIONAL COURT JUDGES (LEAVE, \r\nPENSION AND PRIVILEGES) ORDER, 2025 \r\n[10th December, 2025] \r\nPRESIDENT’S ORDER NO. 3 OF 2025 \r\nWHEREAS paragraph 2 of the Fifth Schedule to the Constitution of Islamic Republic of Pakistan \r\nrelating to the Federal Constitutional Court provides that every Judge of the Federal Constitutional Court \r\nshall be entitled to such privileges and allowances, and to such rights in respect of leave of absence and \r\npension, as may be determined by the President; \r\nNOW THEREFORE,  in exercise of the said powers the President is pleased to make the \r\nfollowing Order: \r\nPART-I PRELIMINARY \r\n1. Short title and commencement.—(1) This order may be called the Federal Constitutional \r\nCourt Judges (Leave, Pension and Privileges) Order, 2025. \r\n(2) It shall come into force at once. \r\n2. Definitions.—In this Order, unless there is anything repugnant in the subject or context,— \r\n(a)  “acting Chief Justice” means a Judge appointed under Article 175J of the Constitution to \r\nact as Chief Justice; \r\n(b)  “acting Judge ” means a Judge of a High Court appointed under Article 175K of the \r\nConstitution to act temporarily as a Judg",
+        "passages": [
+          {
+            "fragment": "p-0-1794-9b6aed9ea61efe96",
+            "sha256": "9b6aed9ea61efe96e560386f2d0ea05d65f898f351c15451d449b1f17fca6679"
+          },
+          {
+            "fragment": "p-1794-3511-8981ad8f777257bd",
+            "sha256": "8981ad8f777257bd07f0565ae83a04fc9fbb24dd220aadc9243d2c3572882d7f"
+          }
+        ]
+      },
+      "disposition": "Authority recital recorded; no reviewed case passage linked in this release."
+    },
+    {
+      "id": "pk-code-fc441e1e0e53090d",
+      "title": "Federal Public Service Commission (Validation of Rules) Act, 2021",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5hk-sg-jjjjjjjjjjjjj",
+      "text_sha256": "f15634de8ce651ac2f9714cc4e072282d5b5e8717c72af9bd6cf21c82ae9bf77",
+      "text_version_id": "law:pk-code-fc441e1e0e53090d:sha256:f15634de8ce651ac2f9714cc4e072282d5b5e8717c72af9bd6cf21c82ae9bf77",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "punjab-code-5db8a3e79841d8b0",
+      "title": "INDUSTRIAL AND COMMERCIAL EMPLOYMENT (STANDING ORDERS) ORDINANCE, 1968",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VGFcaQY1BjE-",
+      "text_sha256": "7504f099ec0a33e4b2dfa8ddbcb801314bbbef5d546a7b84e63ed1cbb05ef29d",
+      "text_version_id": "law:punjab-code-5db8a3e79841d8b0:sha256:7504f099ec0a33e4b2dfa8ddbcb801314bbbef5d546a7b84e63ed1cbb05ef29d",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-cd1bdbfab056b7da",
+      "title": "Industrial and Commercial Employment (Standing Orders) Ordinance, 1968",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tmaQ%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "1a0418b741bb464da14a74ac059cd8654661e0de2fa77b4f1e9ff74f94989dca",
+      "text_version_id": "law:pk-code-cd1bdbfab056b7da:sha256:1a0418b741bb464da14a74ac059cd8654661e0de2fa77b4f1e9ff74f94989dca",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-8e5f28db400e4d0b",
+      "title": "Land Reforms Regulation (Validation of Orders) Ordinance, 1978",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-cZqb-sg-jjjjjjjjjjjjj",
+      "text_sha256": "193d3c6b3f62ccaef4370d86ce36fd787b8c80818d1915f5c9addabcf96d9ac3",
+      "text_version_id": "law:pk-code-8e5f28db400e4d0b:sha256:193d3c6b3f62ccaef4370d86ce36fd787b8c80818d1915f5c9addabcf96d9ac3",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-f21676a3ee19a08d",
+      "title": "Life Insurance (Nationalisation) Order, 1972",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5pmaw%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "813f28153fe489ab9733110823b40a08dd302a747a18b0545ed9fdf9014d22eb",
+      "text_version_id": "law:pk-code-f21676a3ee19a08d:sha256:813f28153fe489ab9733110823b40a08dd302a747a18b0545ed9fdf9014d22eb",
+      "kind": "rules_or_order",
+      "case_links": [],
+      "current_force": null,
+      "authority_note": "Historical presidential order: recitals cite the Proclamations of 25 March 1969 and 20 December 1971. Original proclamations not matched here.",
+      "authority_evidence": {
+        "law_id": "pk-code-f21676a3ee19a08d",
+        "text_sha256": "813f28153fe489ab9733110823b40a08dd302a747a18b0545ed9fdf9014d22eb",
+        "text_version_id": "law:pk-code-f21676a3ee19a08d:sha256:813f28153fe489ab9733110823b40a08dd302a747a18b0545ed9fdf9014d22eb",
+        "character_start": 1989,
+        "character_end": 3853,
+        "quote": "s how to be utilized \r\nCHAPTER VIII—MISCELLANEOUS \r\n32. Omitted \r\n33. Power of Corporation to have official seal \r\n \r\n \r\nPage 3 of 23 \r\n \r\n34. Repatriation of assets and liabilities in the case of foreign insurers in certain cases \r\n35.  Policies to be guaranteed by Federal Government \r\n36.  Liquidation of Corporation \r\n37.  Special provision for winding up of certain insurers \r\n38.  Application of the Insurance Act \r\n39.  Compensation \r\n40.  Over valuation of assets or under valuation of liabilities \r\n40A.  Conduct of Tribunal’s proceedings and enforcement of order \r\n40B.  Certain amounts recoverable as an arrear of land revenue \r\n41.  Savings \r\n42.  Certain powers of the Administrator \r\n43.  Delegation of powers \r\n44.  Cognizance of offences \r\n45.  Bar of jurisdiction \r\n46.  Indemnity \r\n47.  Constitution of a Board \r\n48.  Power to make rules \r\n49.  Power to make regulations \r\n50.  Removal of difficulties \r\nTHE SCHEDULE \r\n  \r\n \r\n \r\nPage 4 of 23 \r\n \r\nTHE LIFE INSURANCE (NATIONALISATION) ORDER, 1972 \r\nPRESIDENT’S ORDER NO. 10 OF 1972 \r\n[18th March, 1972] \r\n WHEREAS it is expedient in the public interest to provide for the nationalisation of life \r\ninsurance business in Pakistan; \r\n NOW, THEREFORE, in pursuance of the Proclamation of the 25th day of March, 1969, read \r\nwith the Proclamation of the 20th day of December, 1971, and in exercise of all powers enabling him \r\nin that behalf, the President is pleased to make the following Order:— \r\nCHAPTER I—PRELIMINARY \r\n 1. Short title extent and commencement.—(1) This Order may be called the Life Insurance \r\n(Nationalisation) Order, 1972. \r\n (2) It extends to the whole of Pakistan. \r\n (3) It shall come into force at once. \r\n 2. Definitions. In this Order, unless there is anything repugnant in the subject or context,— \r\n(a)  “Act” means the Insurance Act, 1938 (IV of 1938); \r\n(b)  “assets” ",
+        "passages": [
+          {
+            "fragment": "p-1791-3567-da6a0a7340bd6309",
+            "sha256": "da6a0a7340bd6309442eb923b4a34b63560c96a90dfae227a09a24412b91059f"
+          },
+          {
+            "fragment": "p-3567-5327-0c6b8211796770d7",
+            "sha256": "0c6b8211796770d79ef86683a44ce5639142665df3c1582112c809f4c26f8ffa"
+          }
+        ]
+      },
+      "disposition": "Authority recital recorded; no reviewed case passage linked in this release."
+    },
+    {
+      "id": "punjab-code-ee56479b9b642616",
+      "title": "MARTIAL LAW ORDER NO.1371 (REPEAL) ACT, 1989",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/XGkBMgcyBjI-",
+      "text_sha256": "1e8f092958fe44fee33d5c61bbae007417fd231bb0e76b08f93b7e44c26830ae",
+      "text_version_id": "law:punjab-code-ee56479b9b642616:sha256:1e8f092958fe44fee33d5c61bbae007417fd231bb0e76b08f93b7e44c26830ae",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-9f68eaa31d720cc8",
+      "title": "Maintenance Orders Enforcement Act, 1921",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apyU-sg-jjjjjjjjjjjjj",
+      "text_sha256": "de665fe16989d0b86e417fd5f893ec2cc0aa489ea0746d9ff4b4071880028024",
+      "text_version_id": "law:pk-code-9f68eaa31d720cc8:sha256:de665fe16989d0b86e417fd5f893ec2cc0aa489ea0746d9ff4b4071880028024",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "punjab-code-8c02d4a826c04ec1",
+      "title": "POLICE ORDER, 2002",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/U2ZTZlRgUWk-",
+      "text_sha256": "ce3348f13d00ba1721800d9acf9522f9e14844da5914843c622d2118941675cb",
+      "text_version_id": "law:punjab-code-8c02d4a826c04ec1:sha256:ce3348f13d00ba1721800d9acf9522f9e14844da5914843c622d2118941675cb",
+      "kind": "rules_or_order",
+      "case_links": [
+        "haji-rehman-punjab-code-8c02d4a826c04ec1"
+      ],
+      "current_force": null,
+      "authority_note": "Historical presidential order: inspect this Punjab source edition separately; the collection label does not establish where a historical judgment applies.",
+      "authority_evidence": {
+        "law_id": "punjab-code-8c02d4a826c04ec1",
+        "text_sha256": "ce3348f13d00ba1721800d9acf9522f9e14844da5914843c622d2118941675cb",
+        "text_version_id": "law:punjab-code-8c02d4a826c04ec1:sha256:ce3348f13d00ba1721800d9acf9522f9e14844da5914843c622d2118941675cb",
+        "character_start": 10824,
+        "character_end": 12688,
+        "quote": "nnul, reverse or alter any rule  or order \r\n182.  Notification of rules and regulations in the Official Gazette \r\n183.  Powers to prosecute under any other law not affected  \r\n184.  [Omitted]  \r\n185.  Repeal and savings  \r\n186.  Existing police deemed to be constituted under this Order. \r\n186A. Power to amend Fourth Schedule  \r\n187.  Power to remove difficulties  \r\nFIRST SCHEDULE \r\nSECOND SCHEDULE \r\nTHIRD SCHEDULE \r\nFOURTH SCHEDULE \r\n \r\nTEXT \r\n1\r\nTHE POLICE ORDER, 2002 \r\n(22 of 2002) \r\n[14th August, 2002] \r\nAn \r\nOrder \r\nto reconstruct and regulate the police; \r\nWHEREAS the police has an obligation and duty to function according to \r\nthe Constitution, law, and democratic aspirations of the people; \r\nAND WHEREAS such functioning of the police requires it to be professional, \r\nservice-oriented, and accountable to the people; \r\nAND WHEREAS it is  expedient to redefine the police role, its duties and \r\nresponsibilities; \r\nAND WHEREAS it is  necessary to r econstruct the police for efficient \r\nprevention and detection of crime, and maintenance of public order; \r\nAND WHEREAS the Chief Executive is s atisfied that circumstances exist \r\nwhich render it necessary to take immediate action; \r\nNOW, THEREFORE, in pursuance  of  the Proclamation  of Emergency  of  \r\nthe fourteenth  day of October, 1999, and the Provisional  Constitution  Order No. \r\n1 of 1999, and in exercise of all powers enabling him in that behalf, the Chief \r\nExecutive of the Islamic Republic of Pakistan is pleased to make and promulgate \r\nthe following Order:– \r\nCHAPTER I \r\nPRELIMINARY \r\n1.  Short title, extent and commencement.– (1) This Order may be called the \r\nPolice Order, 2002. \r\n(2) It extends to the whole of Pakistan. \r\n(3) It shall come into force at o nce \r\n2\r\n[except in the Islamabad Capital \r\nTerritory where it shall come into force on the date the Lo cal Go vernm",
+        "passages": [
+          {
+            "fragment": "p-10568-12345-74572bad49d4feb0",
+            "sha256": "74572bad49d4feb06a46ea4177fa7d09f270ea1c06a43121e14e81835c2a6904"
+          },
+          {
+            "fragment": "p-12345-14080-73b4f90608d10dba",
+            "sha256": "73b4f90608d10dbada1a2cb3de4c899735d2085273ad5240675599f4bdb52196"
+          }
+        ]
+      },
+      "disposition": "Judgment passage linked; historical version and territorial applicability remain qualified."
+    },
+    {
+      "id": "punjab-code-fb492241eaa98c77",
+      "title": "PROHIBITION (ENFORCEMENT OF HADD) ORDER, 1979",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BDECMVFlUmE-",
+      "text_sha256": "589b503e05571b86368705a94348559dd587f689c3a584426ca030f56658930b",
+      "text_version_id": "law:punjab-code-fb492241eaa98c77:sha256:589b503e05571b86368705a94348559dd587f689c3a584426ca030f56658930b",
+      "kind": "rules_or_order",
+      "case_links": [
+        "shahjehan-punjab-code-fb492241eaa98c77"
+      ],
+      "current_force": null,
+      "authority_note": "Historical presidential order: recital cites the 5 July 1977 Proclamation and Laws (Continuance in Force) Order, 1977. Source edition retained separately.",
+      "authority_evidence": {
+        "law_id": "punjab-code-fb492241eaa98c77",
+        "text_sha256": "589b503e05571b86368705a94348559dd587f689c3a584426ca030f56658930b",
+        "text_version_id": "law:punjab-code-fb492241eaa98c77:sha256:589b503e05571b86368705a94348559dd587f689c3a584426ca030f56658930b",
+        "character_start": 568,
+        "character_end": 2432,
+        "quote": "s delay \r\n14. Things liable to Confiscation \r\n15. Confiscation how ordered \r\n16. Cognizance of certain offences \r\n17. Licenses for 'Bona Fide' medicinal or other purposes \r\n18. Forms and conditions of licences \r\n19. Power to cancel or suspend licences \r\n20. Penalty for the breach of conditions of licence \r\n21. Appointment of officers \r\n22. Issue of search warrants \r\n23. Powers of Prohibition Officer \r\n24. Enhanced punishment for certain offences after previous conviction \r\n25. Punishment for attempt to commit offence punishable under this Order \r\n26. Application of certain provisions Of the Pakistan Penal Code (Act XLV of \r\n1860) \r\n27. Application of the Code of Criminal Procedure, 1898 (Act V of 1898) \r\n28. Indemnity \r\n29. Order to override other Laws \r\n30. Presiding Officer of Court to be a Muslim \r\n31. Power to make Rules \r\n32. Saving \r\n33. Repeal \r\n34. The Schedule \r\nTEXT \r\nTHE PROHIBITION (ENFORCEMENT OF HADD) ORDER, 1979 \r\nPRESIDENT’S ORDER NO. 4 of 1979 \r\n[9th February, 1979] \r\nWHEREAS it is necessary to modify the existing  law relating to prohibition of \r\nintoxicants so as to bring it in conformity with the injunctions of Islam as set out in the \r\nHoly Quran and Sunnah; \r\nNOW, THEREFORE, in pursuance of the Proclamation of the fifth day of July, \r\n1977, read with the Laws (Continuance in Force), Order, 1977 (C.M.L.A. Order No. 1 \r\nof 1977), and in exercise of all powers enabling him in that behalf, the President and \r\nChief Martial Law Administrator is pleased to make the following order: \r\nPRELIMINARY \r\n1. Short title, extent and commencement .–  (1) This Order may be called the \r\nProhibition (Enforcement of Hadd Order, 1979. \r\n(2) It extends to the whole of Pakistan. \r\n(3) It shall come into force on the twelfth day of Rab i-ul-Awwal, 1399 Hijri, \r\nthat is, the tenth day of February, 1979. \r\n2. Definitions.– In this Order",
+        "passages": [
+          {
+            "fragment": "p-0-1768-3de8d9bcb1755afa",
+            "sha256": "3de8d9bcb1755afa2a8d3458cfaf7c06918b6b1ac80a45d0f40d0de5d26d838c"
+          },
+          {
+            "fragment": "p-1768-3545-fd95da631647cdce",
+            "sha256": "fd95da631647cdcef69e7962085daadb83fc5995648be507fd64b308bb0ecc0e"
+          }
+        ]
+      },
+      "disposition": "Judgment passage linked; historical version and territorial applicability remain qualified."
+    },
+    {
+      "id": "punjab-code-4caa843ad99b6d9d",
+      "title": "PUNJAB FERTILIZERS (CONTROL) ORDER, 1973",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BzIFNws.ADY-",
+      "text_sha256": "4e4dcf430b69526d571c38c3a1be68db7742860de52f5c459490632daae4d633",
+      "text_version_id": "law:punjab-code-4caa843ad99b6d9d:sha256:4e4dcf430b69526d571c38c3a1be68db7742860de52f5c459490632daae4d633",
+      "kind": "rules_or_order",
+      "case_links": [],
+      "current_force": null,
+      "authority_note": "Delegated order: section 3 of Punjab Ordinance VII of 1973, not Act XVII of 1973, is the authority named in its notification. See the existing repeal and conditional-savings map.",
+      "authority_evidence": {
+        "law_id": "punjab-code-4caa843ad99b6d9d",
+        "text_sha256": "4e4dcf430b69526d571c38c3a1be68db7742860de52f5c459490632daae4d633",
+        "text_version_id": "law:punjab-code-4caa843ad99b6d9d:sha256:4e4dcf430b69526d571c38c3a1be68db7742860de52f5c459490632daae4d633",
+        "character_start": 0,
+        "character_end": 1721,
+        "quote": "THE PUNJAB FERTILIZERS (CONTROL) ORDER, 1973\r\n(VII OF 1973)\r\nCONTENTS\r\n1. Short title and commencement \r\n2. Definitions\r\n3. Dealers\r\n4. Maximum Prices\r\n5. Information to be furnished by importers\r\n6. Information to be furnished by producer\r\n7. Disposal of fertilizer\r\n8. Fixing of maximum quantity which may be held or sold\r\n9. Duty to declare possession of excess stock\r\n10. Cash memorandum to be given on certain sales\r\n11. Marking of prices and exhibiting price lists\r\n12. Power to order sale\r\n13. Restriction on movement\r\n14. Refusal to sell\r\n15. Declaration of godowns, store houses or ware  houses etc\r\n16. Maintenance of records\r\n17. Power to search, inspect, etc\r\n18. Sale of adulterated and fake fertilizers\r\n19. Procedure of Sampling\r\n20. Government Fertilizer Testing Laboratory\r\n21. Despatch of sample for test or analysis in the laboratory\r\n22. Report of result of analysis\r\n23. Printing & Labelling\r\nTEXT\r\nTHE PUNJAB FERTILIZERS (CONTROL) ORDER, 1973\r\n(VII OF 1973)\r\n[10th August, 1973]\r\nNOTIFICATION\r\nNo. SO(ECB) - Ferti - 73(1)-- In exercise of the powers conferred by Section 3 of the  \r\nPunjab Essential Articles (Control) Ordinance, 1973 (Punjab Ordinance No. VII of 1973), The  \r\nGovernor of the Punjab is pleased to make the following Order:\r\n1. Short title and commencement:-  (1) This Order may be called the Punjab Fertilizers \r\n(Control) Order, 1973.\r\n(2) It extends to the whole of the Province of the Punjab.\r\n(3) It shall come into force at once.\r\n2. Definitions:-  In  this  Order,  unless  the  context  otherwise  requires,  the  following  \r\nexpressions shall have the meaning hereby respectively assigned to them, that is to say:\r\n[1](a) “adulterated” when used with reference to a fertil",
+        "passages": [
+          {
+            "fragment": "p-0-1762-ae1974af034b4743",
+            "sha256": "ae1974af034b4743eeddbdb13cd378e7296e0219a591f96cd95f93d1e1936e78"
+          }
+        ]
+      },
+      "disposition": "Authority recital recorded; no reviewed case passage linked in this release."
+    },
+    {
+      "id": "punjab-code-d26b3104de693c48",
+      "title": "PUNJAB MAINTENANCE OF PUBLIC ORDER ORDINANCE, 1960",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VmNXZws8BjM-",
+      "text_sha256": "a24f5744d96229e588a9a1ef9e77b19bb944c3a07ad586702ada07e5a97cf7e1",
+      "text_version_id": "law:punjab-code-d26b3104de693c48:sha256:a24f5744d96229e588a9a1ef9e77b19bb944c3a07ad586702ada07e5a97cf7e1",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-033f4a763885d29f",
+      "title": "Pakistan International Airline Corporation (Suspension of Trade Unions and Existing Agreements) Order (Repeal) Act, 2008",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Fsa5c%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "6714b346a29250d603ff4d89e6523329ac82f09bf405d33cb1083bb09e52b859",
+      "text_version_id": "law:pk-code-033f4a763885d29f:sha256:6714b346a29250d603ff4d89e6523329ac82f09bf405d33cb1083bb09e52b859",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-d6498afa9cff740c",
+      "title": "Peaceful Assembly and Public Order Act, 2024",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5pqZg%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "934bb8e7744c0fd26ed8787597bd893ac846c2f485a4ca02da4f77aef4a5b247",
+      "text_version_id": "law:pk-code-d6498afa9cff740c:sha256:934bb8e7744c0fd26ed8787597bd893ac846c2f485a4ca02da4f77aef4a5b247",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-a3869310f6800995",
+      "title": "Police Order, 2002",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5prag%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "6d22f0fe24d013fc2b4da493669b123c1b36d55bca69b892c2b7f060af8d68e7",
+      "text_version_id": "law:pk-code-a3869310f6800995:sha256:6d22f0fe24d013fc2b4da493669b123c1b36d55bca69b892c2b7f060af8d68e7",
+      "kind": "rules_or_order",
+      "case_links": [
+        "haji-rehman-pk-code-a3869310f6800995"
+      ],
+      "current_force": null,
+      "authority_note": "Chief Executive order: recital cites the 14 October 1999 Proclamation and Provisional Constitution Order No. 1 of 1999. This is not an ordinary rule made under a parent Act.",
+      "authority_evidence": {
+        "law_id": "pk-code-a3869310f6800995",
+        "text_sha256": "6d22f0fe24d013fc2b4da493669b123c1b36d55bca69b892c2b7f060af8d68e7",
+        "text_version_id": "law:pk-code-a3869310f6800995:sha256:6d22f0fe24d013fc2b4da493669b123c1b36d55bca69b892c2b7f060af8d68e7",
+        "character_start": 10564,
+        "character_end": 12428,
+        "quote": " may apply to annul; reverse or alter any rule or order \r\n182.  Notification of rules and regulations in the Official Gazette \r\n183.  Powers to prosecute under any other law not affected \r\n184.  Power to amend \r\n185.  Repeal and savings \r\n186.  Existing police deemed to be constituted under this Order \r\n187.  Power to remove difficulties \r\nFIRST SCHEDULE \r\nSECOND SCHEDULE \r\nTHIRD SCHEDULE \r\n \r\n \r\nPage 10 of 67 \r\n \r\nTHE POLICE ORDER, 2002 \r\n[14th August, 2002] \r\nCHIEF EXECUTIVE’S ORDER NO. 22 OF 2002 \r\nAN  \r\n[ \r\nORDER \r\nto reconstruct and regulate the police; \r\n WHEREAS the police has an obligation and duty to function according to the Constitution, law, \r\nand democratic aspirations of the people; \r\n AND WHEREAS such functioning of the police requires it to be professional, service -oriented, \r\nand accountable to the people; \r\n AND WHEREAS it is expedient to redefine the police role, its duties and responsibilities; \r\n AND WHEREAS it is necessary to reconstruct the police for efficient prevention and detection of \r\ncrime, and maintenance of public order; \r\n AND WHEREAS the Chief Executive is satisfied that circumstances exist which render it \r\nnecessary to take immediate action; \r\n NOW, THEREFORE, in pursuance of the Proclamation of E mergency of the fourteenth day of \r\nOctober, 1999, and the Provisional Constitution Order No. 1 of 1999, and in exercise of all powers \r\nenabling him in that behalf, the Chief Executive of the Islamic Republic of Pakistan is pleased to make \r\nand promulgate the following Order:- \r\nCHAPTER I \r\nPRELIMINARY \r\n 1. Short title, extent and commencement.—(1) This Order may be called the Police Order, 2002. \r\n (2) It extends to the whole of Pakistan. \r\n (3) It shall come into force at once 1[except in the Islamabad Capital Territory where it shall come \r\ninto force on the date the local governments assume offic",
+        "passages": [
+          {
+            "fragment": "p-10540-12267-b6ed77ba64958e61",
+            "sha256": "b6ed77ba64958e616e28aea7b3c916d9fad5d8b26400225c960e331562448207"
+          },
+          {
+            "fragment": "p-12267-14042-c13e3e52afaada15",
+            "sha256": "c13e3e52afaada15930f5b6ed8a91343e2e5754581c13cd822899884c078c201"
+          }
+        ]
+      },
+      "disposition": "Judgment passage linked; historical version and territorial applicability remain qualified."
+    },
+    {
+      "id": "pk-code-2b63161559568b20",
+      "title": "Prohibition (Enforcement of Hadd) Order, 1979",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5plbQ%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "4552b4a684aaf6b1d9279ccb53a8dd76c5878f66a0fea56e852b74ab57b66349",
+      "text_version_id": "law:pk-code-2b63161559568b20:sha256:4552b4a684aaf6b1d9279ccb53a8dd76c5878f66a0fea56e852b74ab57b66349",
+      "kind": "rules_or_order",
+      "case_links": [
+        "shahjehan-pk-code-2b63161559568b20"
+      ],
+      "current_force": null,
+      "authority_note": "Historical presidential order: recital cites the 5 July 1977 Proclamation and Laws (Continuance in Force) Order, 1977. Original enabling texts not matched here.",
+      "authority_evidence": {
+        "law_id": "pk-code-2b63161559568b20",
+        "text_sha256": "4552b4a684aaf6b1d9279ccb53a8dd76c5878f66a0fea56e852b74ab57b66349",
+        "text_version_id": "law:pk-code-2b63161559568b20:sha256:4552b4a684aaf6b1d9279ccb53a8dd76c5878f66a0fea56e852b74ab57b66349",
+        "character_start": 686,
+        "character_end": 2551,
+        "quote": " ordered. \r\n16. Cognizance of certain offences. \r\n17. Licences for ‘Bona Fide’ medicinal or other purposes. \r\n\r\n \r\n \r\nPage 2 of 12 \r\n \r\n18. Forms and conditions of licences. \r\n19. Power to cancel or suspend licences. \r\n20. Penalty for the breach of conditions of licence. \r\n21. Appointment of officers. \r\n22. Issue of search warrants. \r\n23. Powers of prohibition Officers. \r\n24. Enhanced punishment for certain offences after previous conviction. \r\n25. Punishment for attempt to commit offence punishable under this order. \r\n26. Application of certain provisions of the Pakistan Penal Code (Act XLV of 1860). \r\n27. Application of the Code of Criminal Procedure, 1898 (Act V of 1898). \r\n28. Indemnity. \r\n29. Order to override other laws. \r\n30. presiding Officer of Court to be a Muslim. \r\n31. Power to make Rules. \r\n32. Saving. \r\n33. Repeal. \r\n \r\n \r\n \r\n  \r\n \r\n \r\nPage 3 of 12 \r\n \r\nTHE PROHIBITION (ENFORCEMENT OF HADD) ORDER, 1979 \r\n \r\n PRESIDENT’S ORDER No. 4 OF 1979 \r\n \r\n[9th February, 1979] \r\n \r\nWHEREAS it is necessary to modify the existing law relating to prohibition of intoxicants so \r\nas to bring it in conformity with the injunctions of Islam as set out in the Holy Qur’an and Sunnah: \r\n \r\nNOW, T HEREFORE, in pursuance of the Proclamation of the Fifth day of  July, 1977 read \r\nwith the Laws (Continuance in Force) Order, 1977 (C.M.L.A Order No. 1 of 1977), and in exercise \r\nof all powers enabling him in that behalf, the President and Chief Martial Law Administrator is \r\npleased to make the following Order: \r\n \r\nCHAPTER I \r\n PRELIMINARY \r\n 1. Short title, extent and commencement: (1) This Order may be called the Prohibition \r\n(Enforcement of Hadd) Order, 1979. \r\n \r\n (2) It extends to the whole of Pakistan. \r\n \r\n (3) It shall come into force on the twelfth day of Rabi -ul-Awwal, 1399 Hijri, that is, the tenth \r\nday of February, 1979. \r\n \r\n  2. D",
+        "passages": [
+          {
+            "fragment": "p-0-1780-cacca02fab976d02",
+            "sha256": "cacca02fab976d021379d445a3b5ef757e2df21cf4e21b95d5dacab10046c882"
+          },
+          {
+            "fragment": "p-1780-3507-58b5e9cb35e572ea",
+            "sha256": "58b5e9cb35e572ea7955ac886dc7652e1bfca819e5739aec80bae56adf89e961"
+          }
+        ]
+      },
+      "disposition": "Judgment passage linked; historical version and territorial applicability remain qualified."
+    },
+    {
+      "id": "pk-code-43a97c166f60dd82",
+      "title": "Public Order (Meetings) Ordinance, 1958",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-a5aXYw%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "72966b4f37e70f94f81b8d195e43b5dcb43456dbd03ca3731199246fc4138e43",
+      "text_version_id": "law:pk-code-43a97c166f60dd82:sha256:72966b4f37e70f94f81b8d195e43b5dcb43456dbd03ca3731199246fc4138e43",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-0edefa8d316726af",
+      "title": "Public Order (Political Uniforms) Ordinance, 1958",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-a5aXZA%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "8fe7b24e46e248d7b2ed7a5dda0949f0f8948ee9616244789d017763ff344ed7",
+      "text_version_id": "law:pk-code-0edefa8d316726af:sha256:8fe7b24e46e248d7b2ed7a5dda0949f0f8948ee9616244789d017763ff344ed7",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "punjab-code-e845af7dd8b2beab",
+      "title": "QANUN-E-SHAHADAT ORDER, 1984",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VGFQYwU2AjU-",
+      "text_sha256": "d0e15d3c2951cc1d4b6be27a4a3ac69027a668060d2aa1f2d800f0663b8f15b8",
+      "text_version_id": "law:punjab-code-e845af7dd8b2beab:sha256:d0e15d3c2951cc1d4b6be27a4a3ac69027a668060d2aa1f2d800f0663b8f15b8",
+      "kind": "rules_or_order",
+      "case_links": [
+        "awais-punjab-code-e845af7dd8b2beab"
+      ],
+      "current_force": null,
+      "authority_note": "Historical presidential order: recital cites the Proclamation of 5 July 1977. Source edition retained separately.",
+      "authority_evidence": {
+        "law_id": "punjab-code-e845af7dd8b2beab",
+        "text_sha256": "d0e15d3c2951cc1d4b6be27a4a3ac69027a668060d2aa1f2d800f0663b8f15b8",
+        "text_version_id": "law:punjab-code-e845af7dd8b2beab:sha256:d0e15d3c2951cc1d4b6be27a4a3ac69027a668060d2aa1f2d800f0663b8f15b8",
+        "character_start": 10175,
+        "character_end": 12039,
+        "quote": "ers may be proved in connection with proved statement \r\nrelevant under.Article 46 or 47. \r\n155. Refreshing memory \r\n156. Testimony to facts stated in document mentioned in Article 155 \r\n157. Right of adverse party as to writing used to refresh memory \r\n158. Production of documents \r\n159. Giving, as evidence, of document called for and produced on notice \r\n160. Using, as evidence, of document production of which was refused on \r\nnotice \r\n161. Judge’s power to put questions or order production \r\nCHAPTER XI \r\nOF IMPROPER ADMISSION AND REJECTION OF EVIDENCE  \r\n162. No new trial for improper admission or rejection of evidence \r\nCHAPTER XII \r\nDECISION OF CASE ON THE BASIS OF OATH  \r\n163. Acceptance or denial of claim on oath \r\nCHAPTER XIII \r\nMISCELLANEOUS \r\n164. Production of evidence that has become available because of modern \r\ndevices, etc. \r\n165. Order to override other laws \r\n166. Repeal \r\n \r\nTEXT \r\nTHE QANUN-E-SHAHADAT, 1984 \r\nPRESIDENTS ORDER NO. 10 OF 1984 \r\n[28th October, 1984] \r\nPreamble.– WHEREAS it is expedient to revise, amend and consolidate the law of  \r\nevidence so as to bring it in conformity with the injunctions of Islam as laid down in  \r\nthe Holy Quran and Sunnah;  \r\nNOW, THEREFORE , in pursuance of the Proclamation of the fifth day of July, \r\n1977, and in  exercise of all powers enabling him in that behalf, the President is \r\npleased to make the following Order:– \r\nPART I \r\nRELEVANCY OF FACTS \r\nCHAPTER I \r\nPRELIMINARY \r\n1. Short title, extent and commencement .– (1) This order may be called the \r\nQanun-e-Shahadat, 1984. \r\n(2) It extends to the whole of Pakistan and applies to all judicial \r\nproceedings in or  before any Court, including a court martial, a tribunal or other \r\nauthority exercising judicial or quasi judicial powers or Jurisdiction, but does not \r\napply to proceedings before an arbitrator. \r\n(3) It shall ",
+        "passages": [
+          {
+            "fragment": "p-8845-10616-f86258c421e97e07",
+            "sha256": "f86258c421e97e075f8c5c5a25f13791d0a14585bb674b610d52479d5c9681ca"
+          },
+          {
+            "fragment": "p-10616-12366-ae16640ba0bbd3b0",
+            "sha256": "ae16640ba0bbd3b0fabdd77ff06132103a03d7b901d97eb69cf3baaf34e11627"
+          }
+        ]
+      },
+      "disposition": "Judgment passage linked; historical version and territorial applicability remain qualified."
+    },
+    {
+      "id": "pk-code-8080294edcd081e4",
+      "title": "Qanun-e-Shahadat Order, 1984 (QSO)",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5plaw%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "5ce43f10ab3749bc6aa8780e7dbe51b2831c5a282bc0d4feb651a72db12996af",
+      "text_version_id": "law:pk-code-8080294edcd081e4:sha256:5ce43f10ab3749bc6aa8780e7dbe51b2831c5a282bc0d4feb651a72db12996af",
+      "kind": "rules_or_order",
+      "case_links": [
+        "awais-pk-code-8080294edcd081e4"
+      ],
+      "current_force": null,
+      "authority_note": "Historical presidential order: recital cites the Proclamation of 5 July 1977. Original proclamation not matched here.",
+      "authority_evidence": {
+        "law_id": "pk-code-8080294edcd081e4",
+        "text_sha256": "5ce43f10ab3749bc6aa8780e7dbe51b2831c5a282bc0d4feb651a72db12996af",
+        "text_version_id": "law:pk-code-8080294edcd081e4:sha256:5ce43f10ab3749bc6aa8780e7dbe51b2831c5a282bc0d4feb651a72db12996af",
+        "character_start": 11239,
+        "character_end": 13103,
+        "quote": " \r\n \r\n \r\n156.  Testimony to facts stated in document mentioned in Article 155 \r\n \r\n157.  Right of adverse party as to writing used to refresh memory \r\n \r\n158.  Production of documents \r\n \r\n159.  Giving, as evidence, of document called for and produced on notice \r\n \r\n160.  Using, as evidence, of document production of which was refused on notice \r\n \r\n161.  Judge’s power to put questions or order production \r\n \r\nCHAPTER XI \r\nOF IMPROPER ADMISSION AND REJECTION OF EVIDENCE \r\n \r\n162.  No new trial for improper admission or rejection of evidence \r\n \r\nCHAPTER XII \r\nDECISION OF CASE ON THE BASIS OF OATH \r\n \r\n163.  Acceptance or denial of claim on oath \r\n \r\nCHAPTER XIII \r\nMISCELLANEOUS \r\n \r\n164.  Production of evidence that has become available because of modern devices, etc. \r\n \r\n165.  Order to override other laws \r\n \r\n166.  Repeal \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\nPage 10 of 65 \r\n \r\nTHE QANUN­E­SHAHADAT, 1984 \r\n \r\nPRESIDENT’S ORDER No. X OF 1984 \r\n \r\n[28th October, 1984] \r\n \r\nWHEREAS it is expedient to revise, amend and consolidate the law of evidence so as to bring \r\nit in conformity with the injunctions of Islam as laid down in the Holy Quran and Sunnah ; \r\n \r\nNOW, THEREFORE, in pursuance of the Proclamation of the fifth day of July, 1977, and in \r\nexercise of all powers enabling him in that behalf, the President is pleased to make the following \r\nOrder:— \r\n \r\nPART I \r\n \r\nRELEVANCY OF FACTS \r\n \r\nCHAPTER I \r\n \r\nPRELIMINARY \r\n \r\n1. Short title, extent and commencement. —(1) This  Order may be called the \r\nQanun­e­Shahadat, 1984. \r\n \r\n(2) It extends to the whole of Pakistan and applies to all judicial proceedings in or before any \r\nCourt, including a court martial, a tribunal or other authority exercising judicial or quasi judicial \r\npowers or jurisdiction, but does not apply to proceedings before an arbitrator. \r\n",
+        "passages": [
+          {
+            "fragment": "p-10570-12343-a05a5a0c26634996",
+            "sha256": "a05a5a0c26634996404a5d4ff3c1e8d4908587e4e28db59613831dc9e90e3fb4"
+          },
+          {
+            "fragment": "p-12343-14128-d81f4bef148ffc6d",
+            "sha256": "d81f4bef148ffc6d81315c2a1ce644560dcc38f0c92d46835ae34e58766e2d10"
+          }
+        ]
+      },
+      "disposition": "Judgment passage linked; historical version and territorial applicability remain qualified."
+    },
+    {
+      "id": "pk-code-54c212c298372a58",
+      "title": "Railways Order, 1962",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tpZg%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "1b82cc7fefcf5315e864b0154ffc7e8381a61e9d6055d112c5eaea5080f3b842",
+      "text_version_id": "law:pk-code-54c212c298372a58:sha256:1b82cc7fefcf5315e864b0154ffc7e8381a61e9d6055d112c5eaea5080f3b842",
+      "kind": "rules_or_order",
+      "case_links": [],
+      "current_force": null,
+      "authority_note": "Presidential order: inspect the constitutional provision named in the opening recitals; historical Constitution not matched to the present Constitution.",
+      "authority_evidence": {
+        "law_id": "pk-code-54c212c298372a58",
+        "text_sha256": "1b82cc7fefcf5315e864b0154ffc7e8381a61e9d6055d112c5eaea5080f3b842",
+        "text_version_id": "law:pk-code-54c212c298372a58:sha256:1b82cc7fefcf5315e864b0154ffc7e8381a61e9d6055d112c5eaea5080f3b842",
+        "character_start": 0,
+        "character_end": 1744,
+        "quote": "Page 1 of 11 \r\n \r\n \r\n \r\n                             THE RAILWAYS ORDER, 1962 \r\n \r\n \r\n \r\n                  \r\n            CONTENTS \r\n1.  Short title and commencement \r\n2.  Definitions \r\n3.  Constitution of Railway Board \r\n4.  Powers and functions of Board, etc. \r\n4A. Track access and rail development \r\n5.  Principles to be observed by Board, etc. \r\n6.  Powers and functions of Federal Government \r\n7.  Assets and liabilities, etc. \r\n8.  Financial agreements \r\n9.  Transfer of Railway servants to Provinces \r\n 10.  Removal of difficulties \r\n11.  Power to make rules \r\nSCHEDULE  \r\n  \r\n \r\n\r\n \r\nPage 2 of 11 \r\n \r\nTHE RAILWAYS ORDER, 1962 \r\nPRESIDENT’S ORDER No. 33 OF 1962 \r\n[9th June, 1962] \r\nWHEREAS clause (1) of Article 233 of the Constitution provides that the President shall \r\ntransfer by Order railways in each Province to the Government of the Province or to an authority \r\nconstituted in the Province for that purpose on such terms and conditions as he may determine; \r\nAND WHEREAS the terms and conditions on which Railways are to be transferred have been \r\ndetermined; \r\nNOW, THEREFORE, in pursuance of the provision aforesaid, the President is pleased to make \r\nthe following Order:__ \r\n1. Short title and commencement.__ (1) This Order may be called the 1[* *] Railways Order, \r\n1962. \r\n(2) It shall come into force at once. \r\n2. Definitions.__ In this Order, unless there is anything repugnant in the subject or context,__ \r\n(a)  “Board” means 2[the Railway Board] constituted under article 3; 1[and] \r\n(b)  “prescribed” means prescribed by rules made under article 11 1[.] \r\n(c)  1[* * * * * * *] \r\n1[3. Constitution of Railway Board.__ (1) For the guidance, supervision and management of \r\nthe Railways in Pakistan there shall be ",
+        "passages": [
+          {
+            "fragment": "p-0-1704-8d451e8e9f9766c7",
+            "sha256": "8d451e8e9f9766c7d2d4d421ea38c71e8c649ae78a6aeb65f52d228db29b318f"
+          },
+          {
+            "fragment": "p-1704-3504-56d2fc4043da708f",
+            "sha256": "56d2fc4043da708fdd77e0345846420eef0bb9881d340546e255e7aefa27045c"
+          }
+        ]
+      },
+      "disposition": "Authority recital recorded; no reviewed case passage linked in this release."
+    },
+    {
+      "id": "kp-code-698a1a46ca512f96",
+      "title": "Repeal Of Martial Law Order Act, 1989.",
+      "source_url": "https://kpcode.kp.gov.pk/homepage/lawDetails/18",
+      "text_sha256": "24978f6538770350e79efcf3da46ee080ea8eef8ca0bf4cc4c9a9424ef8e00d4",
+      "text_version_id": "law:kp-code-698a1a46ca512f96:sha256:24978f6538770350e79efcf3da46ee080ea8eef8ca0bf4cc4c9a9424ef8e00d4",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-f8a5954c7c81f0bf",
+      "title": "Rulers of Acceding States (Abolition of Privy Purses and Privileges) Order, 1972",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5dm-sg-jjjjjjjjjjjjj",
+      "text_sha256": "019dafedd65cf8d4c53787f3d480ddff0d2b81c85eb64bf47732766dc9afe6f9",
+      "text_version_id": "law:pk-code-f8a5954c7c81f0bf:sha256:019dafedd65cf8d4c53787f3d480ddff0d2b81c85eb64bf47732766dc9afe6f9",
+      "kind": "rules_or_order",
+      "case_links": [],
+      "current_force": null,
+      "authority_note": "Historical presidential order: recitals cite the Proclamations of 25 March 1969 and 20 December 1971. Original proclamations not matched here.",
+      "authority_evidence": {
+        "law_id": "pk-code-f8a5954c7c81f0bf",
+        "text_sha256": "019dafedd65cf8d4c53787f3d480ddff0d2b81c85eb64bf47732766dc9afe6f9",
+        "text_version_id": "law:pk-code-f8a5954c7c81f0bf:sha256:019dafedd65cf8d4c53787f3d480ddff0d2b81c85eb64bf47732766dc9afe6f9",
+        "character_start": 0,
+        "character_end": 1491,
+        "quote": "Page 1 of 3 \r\n \r\n \r\n \r\n \r\nTHE RULERS OF ACCEDING STATES (ABOLITION OF PRIVY \r\nPURSES AND PRIVILEGES) ORDER, 1972 \r\n \r\n \r\n \r\n \r\n \r\nCONTENTS \r\n \r\n______ \r\n \r\nSECTIONS \r\n \r\n1.  Short title and commencement.  \r\n2.  Order to override other laws.  \r\n3.  Interpretation. \r\n4.  Abolition of privy purses and withdrawal of other privileges. \r\n5.  Maintenance allowance. \r\n6.  Articles 4 and 5 to apply to certain Nawabs. \r\n7.  Additional power of the President.  \r\n8.  Power to interpret, etc.  \r\n  \r\nUpdated till 15.11.2021 \r\n\r\n \r\nPage 2 of 3 \r\n \r\nTHE RULERS OF ACCEDING STATES (ABOLITION OF PRIVY PURSES \r\nAND PRIVILEGES) ORDER, 1972 \r\n \r\n(PRESIDENT’S ORDER NO. 15 OF 1972) \r\n \r\n[16th  April, 1972] \r\n \r\nWHEREAS it is expedient to abolish the privy purses of, and other privileges admissible to, \r\nthe Rulers of Acceding States: \r\n \r\nNOW, THEREFORE, in pursuance of the Proclamation of the 25 th day of March, 1969, read \r\nwith the Proclamation of the 20th day of December, 1971, and in exercise of all powers enabling him \r\nin that behalf, the President and Chief Martial Law Administrator is pleased to make the following \r\nOrder:___ \r\n \r\n1. Short title and commencement. ___(1) This Order may be called the Rulers of Acceding \r\nStates (Abolition of Privy Purses and Privileges) Order, 1972. \r\n \r\n(2) It shall come into force at once and shall be deemed to have taken effect on the 22 nd day \r\nof December, 1971. \r\n \r\n2. Order to override other laws.  The provisions of this Order shall have effe",
+        "passages": [
+          {
+            "fragment": "p-0-1794-85ce2f839a13c61e",
+            "sha256": "85ce2f839a13c61e160438ab7618a1881090d90ad2595aa488034bc0eb2039af"
+          }
+        ]
+      },
+      "disposition": "Authority recital recorded; no reviewed case passage linked in this release."
+    },
+    {
+      "id": "pk-code-063331fc15cf36ab",
+      "title": "Rules and Regulations Continuance Act, 1937",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-b5%2BX-sg-jjjjjjjjjjjjj",
+      "text_sha256": "97c8d37d4285a84ccc44f91809476b53aaf78fb94e2b0335f5deda0ee074a97f",
+      "text_version_id": "law:pk-code-063331fc15cf36ab:sha256:97c8d37d4285a84ccc44f91809476b53aaf78fb94e2b0335f5deda0ee074a97f",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-6c462b7d924dbbe3",
+      "title": "Rules of Business",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tibg%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+      "text_version_id": "law:pk-code-6c462b7d924dbbe3:sha256:9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+      "kind": "rules_or_order",
+      "case_links": [
+        "mustafa-rule16",
+        "mustafa-rule16-invalidity",
+        "farrukh-rule4-6"
+      ],
+      "current_force": null,
+      "authority_note": "Constitutional rules: opening recital cites Articles 90 and 99. Article 99 concerns rules for government business; Article 90 supplies executive context. Held compilation says amended to 11 May 2026.",
+      "authority_evidence": {
+        "law_id": "pk-code-6c462b7d924dbbe3",
+        "text_sha256": "9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+        "text_version_id": "law:pk-code-6c462b7d924dbbe3:sha256:9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+        "character_start": 4857,
+        "character_end": 6732,
+        "quote": "……….……………………… 28-29 \r\n57.  Relaxation …………………………………………………………………………… 29 \r\n58.  Repeal …………………………………………..…………………………………… 29 \r\nSCHEDULES  \r\nSchedule I.       List of Ministries and Divisions …………………………………………… 30-31 \r\nSchedule II.       Distribution of business among the Divisions ……………………….…..… 32-70 \r\nSchedule III        List of Attached Departments declared as such by the Federal Government..                                                                                              \r\n71-73 \r\nSchedule IV.      List of officers authorized to make and execute orders and other instruments  \r\n     in the name of the President …………………………………………….…..… \r\n \r\n74 \r\nSchedule 5A.      List of cases to be submitted to the Prime Minister for his orders……….…… 75-77 \r\nSchedule VB.      List of cases requiring orders of the President on the advice of the Prime    \r\n     Minister……………………………………………………………………….. \r\n \r\n78-80 \r\nSchedule VI.      List of cases to be submitted to the President for his orders in his discretion…                                          81 \r\nSchedule VII.      Cases and papers to be submitted to the President for information………..… 82 \r\n \r\n \r\n \r\n(ii) \r\n 4 \r\nRULES OF BUSINESS \r\n \r\nIn exercise of the powers conferred by Articles 90 and 99 of the Constitution of the \r\nIslamic Republic of Pakistan, the Federal Government is pleased to make the following \r\nrules:- \r\n \r\n   \r\nPART A.--GENERAL \r\n \r\n1. 1Title, commencement and application .--(1) These rules may be called the \r\n\"Rules of Business, 1973.\" \r\n \r\n(2) They shall come into force on the fourteenth day of August 1973. \r\n2(3) They shall also apply, mutatis mutandis, when the business of the Government \r\nis conducted through automated or digitalized applications, platforms or systems. \r\n \r\n2. Definitions.--(1) In these rules, unless there is anything repugnant in the \r\nsubject or context: \r\n \r\n(",
+        "passages": [
+          {
+            "fragment": "p-3502-5157-ead94e3d674698d1",
+            "sha256": "ead94e3d674698d1ef9707c10fe7470fc44b53c47979e64295186e84889cb213"
+          },
+          {
+            "fragment": "p-5157-6934-81fce96498973ae8",
+            "sha256": "81fce96498973ae8840af6bd106736f5cfd60e803e790de3d8683ebcc4fcab88"
+          }
+        ]
+      },
+      "disposition": "Judgment passage linked; historical version and territorial applicability remain qualified."
+    },
+    {
+      "id": "punjab-code-e7293b28a41b6244",
+      "title": "SETTLEMENT COMMISSIONERS (VALIDATION OF ORDERS) (REPEAL) ACT 2012",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/VmMHMgY5UmM-",
+      "text_sha256": "25d41f953cb95192e6bd8dcb16e8e3496bed494a0ebf00844e0b03d760830736",
+      "text_version_id": "law:punjab-code-e7293b28a41b6244:sha256:25d41f953cb95192e6bd8dcb16e8e3496bed494a0ebf00844e0b03d760830736",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "punjab-code-6c0b4c1889f9d866",
+      "title": "SETTLEMENT COMMISSIONERS (VALIDATION OF ORDERS) ACT, 1972",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/ADVcbldjV2c-",
+      "text_sha256": "02d9a468a046cb058ad06279f20e0483aafe8e109903eb46c2271a49840eb72b",
+      "text_version_id": "law:punjab-code-6c0b4c1889f9d866:sha256:02d9a468a046cb058ad06279f20e0483aafe8e109903eb46c2271a49840eb72b",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-7958f20e153f34ba",
+      "title": "Secretariat Allowance (Rescission of Orders, etc) Ordinance, 2000",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaYZQ%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "782a5ed2a706b55548f4d056e2dc3e4f151a7d551c8117136d2f60ed246d4512",
+      "text_version_id": "law:pk-code-7958f20e153f34ba:sha256:782a5ed2a706b55548f4d056e2dc3e4f151a7d551c8117136d2f60ed246d4512",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-fe4f150905248d34",
+      "title": "Settlement Commissioners (Validation of Orders) Act, 1972",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bpuUZWFo-sg-jjjjjjjjjjjjj",
+      "text_sha256": "41845345a9129e79383bf2948e5d1eff7bacd9b96003d8e3e7a08bd2135efe16",
+      "text_version_id": "law:pk-code-fe4f150905248d34:sha256:41845345a9129e79383bf2948e5d1eff7bacd9b96003d8e3e7a08bd2135efe16",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-fbaade759126be32",
+      "title": "Superior Courts (Court Dress and Mode of Address) Order (Repeal) Act, 2020",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2NpZ50%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "f766b0dd8bb1cd23792e4bc54396562a26ed340e763a0dcdc59c7c3149bd35b9",
+      "text_version_id": "law:pk-code-fbaade759126be32:sha256:f766b0dd8bb1cd23792e4bc54396562a26ed340e763a0dcdc59c7c3149bd35b9",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "pk-code-c727f57dd68379b6",
+      "title": "Supreme Court (Review of Judgments and Orders) Act, 2023",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5pkaw%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "658333e925f39824ee1f5964c9faa5133af067971ad67e0d76b97d79ef33c125",
+      "text_version_id": "law:pk-code-c727f57dd68379b6:sha256:658333e925f39824ee1f5964c9faa5133af067971ad67e0d76b97d79ef33c125",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    },
+    {
+      "id": "punjab-code-9b109f94f90cb342",
+      "title": "WEST PAKISTAN LAWS (ADAPTATION) ORDER, 1964",
+      "source_url": "https://punjabcode.punjab.gov.pk/en/show_article/BjMFMVZnVmQ-",
+      "text_sha256": "74f43fe2315f780a265d21f29898d28dd177c34380f4ed4f3ab6a4f4ce9d95d3",
+      "text_version_id": "law:punjab-code-9b109f94f90cb342:sha256:74f43fe2315f780a265d21f29898d28dd177c34380f4ed4f3ab6a4f4ce9d95d3",
+      "kind": "rules_or_order",
+      "case_links": [],
+      "current_force": null,
+      "authority_note": "Historical adaptation order: Article 225(1), (4) and (5) of the then Constitution and presidential authorization are cited. Do not substitute Article 225 of the present Constitution.",
+      "authority_evidence": {
+        "law_id": "punjab-code-9b109f94f90cb342",
+        "text_sha256": "74f43fe2315f780a265d21f29898d28dd177c34380f4ed4f3ab6a4f4ce9d95d3",
+        "text_version_id": "law:punjab-code-9b109f94f90cb342:sha256:74f43fe2315f780a265d21f29898d28dd177c34380f4ed4f3ab6a4f4ce9d95d3",
+        "character_start": 481,
+        "character_end": 2345,
+        "quote": "ry adaptations, until \r\naltered, repealed or amended by the appropriate legislature; \r\n AND WHEREAS clause (4) of the said Article provides that, for the purpose of \r\nbringing the provisions of any existing law into accord with the provisio ns of the \r\nConstitution (other than Part II of the Constitution), the President may make, by \r\nOrder, such adaptations, whether by way of modification, addition or omission, as he \r\nmay deem to be necessary or expedient; \r\n AND WHEREAS clause (5) of the said Article provides that the President may \r\nauthorise the Governor of a Province to exercise, in relation to the Province, the \r\npowers conferred on the President by clause (4) of the said Article in respect of laws \r\nrelating to matters with respect to which the legi slature of the Province has power to \r\nmake laws; \r\n AND WHEREAS the President has been pleased to authorise the Governor \r\nof West Pakistan to exercise in relation to his Province the powers conferred upon \r\nthe President by clause (4) of the said Article in resp ect of all laws made by any \r\nlegislative authority in the Province, other than laws relating to any matter \r\nenumerated in the Third Schedule to the Constitution; \r\n NOW, THEREFORE,  in exercise of the powers conferred as aforesaid, the \r\nGovernor is pleased to make the following Order:– \r\n1. Short title and commencement .– (1) This Order may be called the West \r\nPakistan Laws (Adaptation) Order, 1964. \r\n (2) It shall come into force at once and shall be deemed to have taken \r\neffect on the 8th day of June, 1962. \r\n2. Adaptation of Provincial Laws .– (1) The laws specified in the Schedule, \r\nshall, until repealed or amended by the competent authority, have effect and be \r\ndeemed to have at all material times had effect subject to the adaptations directed by \r\nthe Schedule. \r\n (2) References to any law in this Article a",
+        "passages": [
+          {
+            "fragment": "p-0-1754-fe2a899eee11c475",
+            "sha256": "fe2a899eee11c475416a6a36507e67d3ec9581d8996997e601f580dd6e657e79"
+          },
+          {
+            "fragment": "p-1754-3543-d2dc5a2475ac3ac8",
+            "sha256": "d2dc5a2475ac3ac8c64db1cccc6ef187c92407d3e37e0ca84a900b09f30b55b7"
+          }
+        ]
+      },
+      "disposition": "Authority recital recorded; no reviewed case passage linked in this release."
+    },
+    {
+      "id": "pk-code-87ec836a9f0756bb",
+      "title": "West Pakistan Maintenance of Public Order Ordinance, 1960",
+      "source_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5prZw%3D%3D-sg-jjjjjjjjjjjjj",
+      "text_sha256": "e631985c86364185d20441dcaa22f8d2dbf5626fe4cbad58134399be07b4af95",
+      "text_version_id": "law:pk-code-87ec836a9f0756bb:sha256:e631985c86364185d20441dcaa22f8d2dbf5626fe4cbad58134399be07b4af95",
+      "kind": "excluded_title_match",
+      "case_links": [],
+      "current_force": null,
+      "disposition": "Act or Ordinance containing rule/order in its title; not classified as a rules/order instrument."
+    }
+  ],
+  "cases": [
+    {
+      "id": "sc-mustafa-impex-ca1428-2016",
+      "title": "Mustafa Impex, Karachi and others v Government of Pakistan",
+      "court": "Supreme Court of Pakistan",
+      "case_number": "Civil Appeals 1428–1436 of 2016",
+      "decision_date": "2016-08-18",
+      "date_note": "Announcement date is stated at the end of the judgment. Connector date 2016-03-09 identifies the challenged High Court order and is not used as the decision date.",
+      "source_url": "https://huggingface.co/datasets/Ibtehaj10/supreme-court-of-pak-judgments",
+      "source_id": "PK-SC-C.A.1428_2016",
+      "retrieved_on": "2026-11-04",
+      "source_file": "retrieved-5.json",
+      "judgment_text_sha256": "76db17cab82bc675b96c63bc57f3e32f102a66e97106f86a34622f105770cecd",
+      "subsequent_treatment": "Not comprehensively checked; no conclusion that this remains good law.",
+      "links": [
+        "mustafa-rule16",
+        "mustafa-rule16-invalidity"
+      ],
+      "source_note": "Judgment transcription acquired through Legal Data Hunter from its Supreme Court dataset. The official FBR-hosted report is provided as a corroborating source; the dataset is not the Supreme Court website.",
+      "official_report_url": "https://download1.fbr.gov.pk/Docs/20181121012314144MustafaImpexvsGovtofPakistan.pdf"
+    },
+    {
+      "id": "ihc-farrukh-wp1-2020",
+      "title": "Farrukh Nawaz Bhatti v Prime Minister of Pakistan; Rana Iradat Sharif Khan v Federation",
+      "court": "Islamabad High Court",
+      "case_number": "W.P. 01/2020 and W.P. 1870/2020",
+      "decision_date": null,
+      "date_note": "Judgment ends with December 2020 but leaves the announcement day blank. Connector reports 2020-12-07; exact decision date is not independently confirmed.",
+      "source_url": "https://mis.ihc.gov.pk/attachments/judgements/111896/1/Writ-Petition-01-2020__________________________637430267374299255.pdf",
+      "source_id": "IHC-17524",
+      "retrieved_on": "2026-11-04",
+      "source_file": "document-1.json",
+      "judgment_text_sha256": "9ea35a5537c6f0f4b842cd172346c873616b86f8129225a7cc0242a2bd50a54e",
+      "subsequent_treatment": "Not comprehensively checked; no conclusion that this remains good law.",
+      "links": [
+        "farrukh-rule4-6"
+      ]
+    },
+    {
+      "id": "phc-haji-rehman-wp8b-2012",
+      "title": "Haji Rehman SHO and others v Provincial Police Officer, Khyber Pakhtunkhwa",
+      "court": "Peshawar High Court",
+      "case_number": "W.P. 8-B/2012",
+      "decision_date": "2012-02-03",
+      "date_note": "Date stated in the court-hosted report; citation 2012 PCrLJ 1526.",
+      "source_url": "https://www.peshawarhighcourt.gov.pk/PHCCMS/judgments/25-2012-PCrLJ-1526.pdf",
+      "source_id": "PK/PHC/WP-No-8-B-2012",
+      "retrieved_on": "2026-11-04",
+      "source_file": "document-2.json",
+      "judgment_text_sha256": "c3db6f3e53f94f8ac3d54bbd7ba0085f9513fe1fc1237011f569d4002056e4af",
+      "subsequent_treatment": "Not comprehensively checked; no conclusion that this remains good law.",
+      "links": [
+        "haji-rehman-pk-code-a3869310f6800995",
+        "haji-rehman-punjab-code-8c02d4a826c04ec1"
+      ]
+    },
+    {
+      "id": "phc-shahjehan-ca84-2011",
+      "title": "Shahjehan v The State",
+      "court": "Peshawar High Court",
+      "case_number": "Criminal Appeal 84/2011",
+      "decision_date": "2011-10-26",
+      "date_note": "Decision date stated in the court-hosted report; report year is 2012 (2012 YLR 311), not the decision year.",
+      "source_url": "https://www.peshawarhighcourt.gov.pk/PHCCMS/judgments/02-2012-YLR-311.pdf",
+      "source_id": "PK/PHC/Cr-A-No-84-2011",
+      "retrieved_on": "2026-11-04",
+      "source_file": "retrieved-4.json",
+      "judgment_text_sha256": "67a0aa52b1bba228cbf26855d17cac0e3c5ed25ed82f63937f9f4f8a0c31a6b5",
+      "subsequent_treatment": "Not comprehensively checked; no conclusion that this remains good law.",
+      "links": [
+        "shahjehan-pk-code-2b63161559568b20",
+        "shahjehan-punjab-code-fb492241eaa98c77"
+      ]
+    },
+    {
+      "id": "ihc-awais-ca345-2023",
+      "title": "Awais Khan v The State",
+      "court": "Islamabad High Court",
+      "case_number": "Criminal Appeal 345/2023 and Jail Appeal 353/2023",
+      "decision_date": null,
+      "date_note": "The judgment states hearing date 25 March 2024; a separate decision date has not been established from the extracted text.",
+      "source_url": "https://mis.ihc.gov.pk/attachments/judgements/167768/1/Crl._Appeal_No._345-2023_638479106297545430.pdf",
+      "source_id": "Crl-345-2023-Jail-353-2023",
+      "retrieved_on": "2026-11-04",
+      "source_file": "awais-khan.json",
+      "judgment_text_sha256": "b3d317c35cbfa39e0c5ade5f251548c0b107daefa270f05cf04091e5bd8efcd7",
+      "subsequent_treatment": "Not comprehensively checked; no conclusion that this remains good law.",
+      "links": [
+        "awais-pk-code-8080294edcd081e4",
+        "awais-punjab-code-e845af7dd8b2beab"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "id": "mustafa-rule16",
+      "case_id": "sc-mustafa-impex-ca1428-2016",
+      "law_id": "pk-code-6c462b7d924dbbe3",
+      "provision": "Rule 16(1)(d); historical Rule 16(2)",
+      "relationship": "Historical judicial interpretation; comparison to held provision",
+      "summary": "The Court treated Cabinet consideration of tax proposals as mandatory. Read the quoted rule and the Court's qualification of the Prime Minister's disposal power together.",
+      "version_note": "Held Rules of Business compilation is amended to 11 May 2026; it is not the 2016 text quoted by the Court. This is a historical judgment linked to a separately held source edition. The exact law in force on the decision date and subsequent amendments or appellate treatment have not been comprehensively verified.",
+      "judgment_pinpoint": "Paragraph 44, printed pages 38–39",
+      "judgment_evidence": {
+        "character_start": 68555,
+        "character_end": 70564,
+        "quote": "44. \n \nRule 16 is an important rule and, insofar as material, is \nreproduced below:- \n \n“16. Cases to be brought before Cabinet. – (1) The following \ncases shall be brought before the Cabinet :- \n \n(a) proposals for legislation, official or non-official, including \nmoney bills; \n(b) promulgation and revocation of Ordinances; \n(c) the budgetary position and proposals before the \npresentation of the Annual Budget Statement and a \nSupplementary Budget Statement or an Excess budget \nStatement under articles 80 and 84. \n(d) Proposals for levy, abolition, remission, alteration or \nregulation of any tax and floatation of loans;  \n(e)  to (m) \n \n(2) \nNotwithstanding the provisions of sub-rule (1), the \nPrime Minister may in any case give directions as to the \nmanner of its disposal without prior reference to the Cabinet.”  \n \nC.As.1428 to 1436 of 2016 \n-: 39 :-\n \nIt will be noted, and this is relevant for purposes of the present \nmatter, that it is mandatory to bring any proposal for the levy, abolition, \nremission, alteration or regulation of any tax to the Cabinet. Whilst it is \nno doubt true that the Prime Minister has been given discretionary power \nin the matter it is clear that the exercise thereof is circumscribed by the \nfollowing conditions: \n(i) \nThere must be a conscious application of mind by the Prime \nMinister to the existing circumstances justifying the need for \nthis departure through passing of a reasoned and formal \norder prior to the action taken, and \n(ii) \nMore critically, and definitively, a determination whether the \nconstitutional provisions justify such a departure? This is a \nmatter which we will examine infra.  \n \n \nWe note that, ex facie, this Rule has been violated by the Finance \nDivision in issuing the impugned notification merely on the basis of the \napproval of the Secretary and the Advisor. This is a matter we will further \ndiscuss at a later stage in this judgment, when we will also consider the \nquestion of the constitutionality of Rule 16(2).   \n",
+        "sha256": "76df0a8bf5117a902fb2b8632bc74c40976e2b4223219a88b9c435088aa29eca"
+      },
+      "law_evidence": {
+        "law_id": "pk-code-6c462b7d924dbbe3",
+        "text_sha256": "9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+        "text_version_id": "law:pk-code-6c462b7d924dbbe3:sha256:9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+        "character_start": 39022,
+        "character_end": 42156,
+        "quote": "16. Cases to be brought b efore the Cabinet.--(1)  The following cases shall be \r\nbrought before the Cabinet:- \r\n \r\n \r\n(a) proposals for legislation, official or non-official, including money bills; \r\n \r\n \r\n  (b) promulgation and revocation of Ordinances; \r\n \r\n \r\n(c) the budgetary position and proposals before the presentation of an \r\nAnnual Budget Statement and a Supplementary Budget Statement or \r\nan Excess Budget Statement under Articles 80 and 84; \r\n \r\n(d) proposals for levy, abolition, remission, alteration or regulation of any \r\ntax and floatation of loans; \r\n \r\n \r\n(e) a reference to the Supreme Court for advice on a question of law under \r\nclause (1) of Article 186; \r\n \r\n(f) generation of electricity and laying of inter -provincial transmission \r\nlines; \r\n \r\n(g) omitted vide S.R.O 368(1)/2010 dated 1st June, 2010;  \r\n \r\n1(h) proposals for signing of negotiated instruments with foreign countries \r\nand approval for ratification of the instruments: \r\n \r\n Provided that all proposals for initiation of negotiation and for entering into any \r\ncultural or other agreements with any foreign government shall, in the first instance, be \r\napproved in principle by Minister-in-Charge of the Division concerned and actual \r\nnegotiations shall be initiated only after such approval: \r\n \r\n Provided further that decisions regarding the composition of all delegations, except \r\nthose for which important briefs are required, to attend meetings of international bodies may \r\nbe taken by mutual consultation between the Minister and the Minister for Fin ance, but the \r\napproval of the Prime Minister  shall be obtained-- \r\n \r\n(i) where the delegation is sponsored by a Division under the direct \r\ncharge of the Prime Minister or a Division or Divisions under the \r\ncharge of the Minister for Finance; or \r\n \r\n                                                           \r\n1 Substituted vide SRO 910 (1)/2017 dated 8-9-2017(F.No.4-2/2016-Min-I) \r\n \r\n 16 \r\n  (ii) where a Minister is proposed to be included in the delegation: \r\n \r\n Provided further that a decision regarding the opening of an honorary consulate \r\nabroad may be taken by the Foreign Affairs Division in consultation with the Commerce \r\nDivision. \r\n \r\n(i) important reports and documents required to be laid before the  \r\n            Assembly or Senate; \r\n \r\n \r\n1(j) cases involving a significant impact on political, economic and \r\nadministrative policies; \r\n \r\n Note.- Cases of this nature shall first be brought to the notice of the \r\nPrime Minister by the Minister -in-Charge. The Prime Minister will \r\ndecide whether any such case should be brought before the Cabinet. \r\n \r\n \r\n(k) case which the Minister -in-Charge considers important enough for \r\ndiscussion in the Cabinet; \r\n \r\n (l) other cases required to be referred to the Cabinet under the   \r\n  provisions of these rules;  \r\n \r\n(m) any case desired by the Prime Ministe r to be referred to the Cabinet; \r\nand \r\n \r\n2(n) appointments required to be made by the Government under any law \r\nfor the time being in force. \r\n \r\n \r\n (2) Omitted vide S.R.O 623(I)/2021 (F.No.4-11/2019-Min-I), dated 27.5.2021. \r\n ",
+        "passages": [
+          {
+            "fragment": "p-38869-40654-2c0bfe33c13aaec6",
+            "sha256": "2c0bfe33c13aaec6fff9b1ada82e3e21e6fb7ed4ca9c08b105f8441572cfcfb0"
+          },
+          {
+            "fragment": "p-40654-42441-54dd7aa03c8ea671",
+            "sha256": "54dd7aa03c8ea671b7b035d72c8e421baf8d82f170b8c68d24f6ffb9d9682d9d"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mustafa-rule16-invalidity",
+      "case_id": "sc-mustafa-impex-ca1428-2016",
+      "law_id": "pk-code-6c462b7d924dbbe3",
+      "provision": "Historical Rule 16(2)",
+      "relationship": "Historical judicial interpretation; comparison to held provision",
+      "summary": "The Court expressly declared Rule 16(2), apparently enabling the Prime Minister to bypass the Cabinet, ultra vires. This is a historical invalidity finding, not a declaration against every provision numbered 16(2) in later editions.",
+      "version_note": "The held compilation records Rule 16(2) as omitted by SRO 623(I)/2021 dated 27 May 2021. Compare this with the historical wording in paragraph 44; do not assume identical text or current effect. This is a historical judgment linked to a separately held source edition. The exact law in force on the decision date and subsequent amendments or appellate treatment have not been comprehensively verified.",
+      "judgment_pinpoint": "Paragraph 84(vi), printed page 79",
+      "judgment_evidence": {
+        "character_start": 147038,
+        "character_end": 147159,
+        "quote": "(vi) \nRule 16(2) which apparently enables the Prime Minister to \nbypass the Cabinet is ultra vires and is so declared.  \n",
+        "sha256": "0dd1d104b3c91c4df9270976f70b54ef4e387d79e7949177c1bfd38b9f477fa0"
+      },
+      "law_evidence": {
+        "law_id": "pk-code-6c462b7d924dbbe3",
+        "text_sha256": "9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+        "text_version_id": "law:pk-code-6c462b7d924dbbe3:sha256:9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+        "character_start": 39022,
+        "character_end": 42156,
+        "quote": "16. Cases to be brought b efore the Cabinet.--(1)  The following cases shall be \r\nbrought before the Cabinet:- \r\n \r\n \r\n(a) proposals for legislation, official or non-official, including money bills; \r\n \r\n \r\n  (b) promulgation and revocation of Ordinances; \r\n \r\n \r\n(c) the budgetary position and proposals before the presentation of an \r\nAnnual Budget Statement and a Supplementary Budget Statement or \r\nan Excess Budget Statement under Articles 80 and 84; \r\n \r\n(d) proposals for levy, abolition, remission, alteration or regulation of any \r\ntax and floatation of loans; \r\n \r\n \r\n(e) a reference to the Supreme Court for advice on a question of law under \r\nclause (1) of Article 186; \r\n \r\n(f) generation of electricity and laying of inter -provincial transmission \r\nlines; \r\n \r\n(g) omitted vide S.R.O 368(1)/2010 dated 1st June, 2010;  \r\n \r\n1(h) proposals for signing of negotiated instruments with foreign countries \r\nand approval for ratification of the instruments: \r\n \r\n Provided that all proposals for initiation of negotiation and for entering into any \r\ncultural or other agreements with any foreign government shall, in the first instance, be \r\napproved in principle by Minister-in-Charge of the Division concerned and actual \r\nnegotiations shall be initiated only after such approval: \r\n \r\n Provided further that decisions regarding the composition of all delegations, except \r\nthose for which important briefs are required, to attend meetings of international bodies may \r\nbe taken by mutual consultation between the Minister and the Minister for Fin ance, but the \r\napproval of the Prime Minister  shall be obtained-- \r\n \r\n(i) where the delegation is sponsored by a Division under the direct \r\ncharge of the Prime Minister or a Division or Divisions under the \r\ncharge of the Minister for Finance; or \r\n \r\n                                                           \r\n1 Substituted vide SRO 910 (1)/2017 dated 8-9-2017(F.No.4-2/2016-Min-I) \r\n \r\n 16 \r\n  (ii) where a Minister is proposed to be included in the delegation: \r\n \r\n Provided further that a decision regarding the opening of an honorary consulate \r\nabroad may be taken by the Foreign Affairs Division in consultation with the Commerce \r\nDivision. \r\n \r\n(i) important reports and documents required to be laid before the  \r\n            Assembly or Senate; \r\n \r\n \r\n1(j) cases involving a significant impact on political, economic and \r\nadministrative policies; \r\n \r\n Note.- Cases of this nature shall first be brought to the notice of the \r\nPrime Minister by the Minister -in-Charge. The Prime Minister will \r\ndecide whether any such case should be brought before the Cabinet. \r\n \r\n \r\n(k) case which the Minister -in-Charge considers important enough for \r\ndiscussion in the Cabinet; \r\n \r\n (l) other cases required to be referred to the Cabinet under the   \r\n  provisions of these rules;  \r\n \r\n(m) any case desired by the Prime Ministe r to be referred to the Cabinet; \r\nand \r\n \r\n2(n) appointments required to be made by the Government under any law \r\nfor the time being in force. \r\n \r\n \r\n (2) Omitted vide S.R.O 623(I)/2021 (F.No.4-11/2019-Min-I), dated 27.5.2021. \r\n ",
+        "passages": [
+          {
+            "fragment": "p-38869-40654-2c0bfe33c13aaec6",
+            "sha256": "2c0bfe33c13aaec6fff9b1ada82e3e21e6fb7ed4ca9c08b105f8441572cfcfb0"
+          },
+          {
+            "fragment": "p-40654-42441-54dd7aa03c8ea671",
+            "sha256": "54dd7aa03c8ea671b7b035d72c8e421baf8d82f170b8c68d24f6ffb9d9682d9d"
+          }
+        ]
+      }
+    },
+    {
+      "id": "farrukh-rule4-6",
+      "case_id": "ihc-farrukh-wp1-2020",
+      "law_id": "pk-code-6c462b7d924dbbe3",
+      "provision": "Rule 4(6)",
+      "relationship": "Historical judicial interpretation; comparison to held provision",
+      "summary": "The Court rejected the constitutional challenge to Rule 4(6), while distinguishing a Special Assistant's status from Cabinet membership and executive authority. It separately set aside the challenged Cabinet committee appointments.",
+      "version_note": "The judgment concerns the rule as considered in 2020; the held compilation is amended to May 2026. This is a historical judgment linked to a separately held source edition. The exact law in force on the decision date and subsequent amendments or appellate treatment have not been comprehensively verified.",
+      "judgment_pinpoint": "Paragraphs 16–18, printed pages 22–23",
+      "judgment_evidence": {
+        "character_start": 52655,
+        "character_end": 54233,
+        "quote": "16.  \nThe upshot of the above discussion of the law is that Rule 4(6) of the \nRules of Business, 1973, which provides for appointment of Special Assistant to \nthe Prime Minister is not in violation of any provision of the Constitution, \nhowever, the Special Assistant to the Prime Minister is not a Minister of State or \na Federal Minister but only enjoys the status for the purposes of perks and \nprivileges. He cannot address the parliament nor has any executive authority \nvested in him. He also is not a Member of the Cabinet and cannot take part in \nthe proceedings of the same. \n17.  \nThe Advisor to the Prime Minister is a constitutional post, there can \nbe maximum of five Advisors to the Prime Minister and again the conferring of \nstatus of Federal Minister on the Advisor to the Prime Minister is only for the \npurposes of perks and privileges and does not make the Advisor a Federal \nMinister as such. An Advisor to the Prime Minister is not Member of the Cabinet \nand cannot participate in the proceedings, hence he can also not be a Member or \neven chair the Committee of the Cabinet. He can address the parliament but \ncannot participate in the voting process.\n\n-23-  \n    Writ Petition No.01 of 2020 \n \n \n  Writ Petition No.1870 of 2020 \n18.  \nFor what has been stated above, Writ Petition No.01 of 2020 is \nwithout merit and is accordingly dismissed. However, Writ Petition No.1870 of \n2020 is allowed and notification dated 25.04.2019 appointing respondents No.4 \nto 6 as Chairman and Members of the Committee of Cabinet on privatization is \nset-aside.  \n \n   ",
+        "sha256": "dcf1a4f09bd6615a17d42022bce1367ed2727e37fe7acfb33ec2d1109aaeebdc"
+      },
+      "law_evidence": {
+        "law_id": "pk-code-6c462b7d924dbbe3",
+        "text_sha256": "9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+        "text_version_id": "law:pk-code-6c462b7d924dbbe3:sha256:9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+        "character_start": 12545,
+        "character_end": 12702,
+        "quote": "(6) There may be a Special Assistant or Special Assistants to the Prime Minister \r\nwith such status and functions as may be determined by the Prime Minister.",
+        "passages": [
+          {
+            "fragment": "p-12192-13987-574d004def9708c1",
+            "sha256": "574d004def9708c179bfce02aa2f2dabf9f39f98a35eb22d844af15a816412a4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "haji-rehman-pk-code-a3869310f6800995",
+      "case_id": "phc-haji-rehman-wp8b-2012",
+      "law_id": "pk-code-a3869310f6800995",
+      "provision": "Article 155; distinct from CrPC section 155",
+      "relationship": "Historical judicial interpretation; comparison to held provision",
+      "summary": "For the police-misconduct offence before it, the Court treated Article 155 as cognizable by reading its punishment with CrPC section 4(f) and Schedule II. Article 153 was not treated as an exhaustive list.",
+      "version_note": "Khyber Pakhtunkhwa dispute in 2012. The held federal/Punjab source edition is a comparison text, not proof of historical provincial applicability. This is a historical judgment linked to a separately held source edition. The exact law in force on the decision date and subsequent amendments or appellate treatment have not been comprehensively verified.",
+      "judgment_pinpoint": "Judgment paragraphs 5–7",
+      "judgment_evidence": {
+        "character_start": 4223,
+        "character_end": 7472,
+        "quote": "5. The proposition to be resolved in the instant petition is that; whether the offence under\nArticle 155 of Police Order, 2002 is cognizable or otherwise? The main reliance of learned\ncounsel for the petitioner was on Article 153 of ibid Order, by virtue of which certain offences\nhave been declared as cognizable, which does not include Article 155, hence it according to him,\nwould be non-cognizable. The proposition advanced by the learned counsel is misconceived.\nChapter XVI of Police Order, 2002, comprising Articles 148 to 152 are offences relating to the\npublic and these offences have been made cognizable by virtue of Article 153 of the Police\nOrder 2002. In pursuance of Article 154 of ibid Order these offences are summarily triable by\nthe competent Court, as provided for summery trial in Criminal Procedure Code. The\npunishments provided in Articles 148, 149, 150 and 152 are minor in nature as of imprisonment\nof six months or/and three months along with fine, which in normal course, would have been\nnon-cognizable offences, except Article 151, which entails punishment of three years. But the\nlegislature has made it cognizable, despite of having lesser punishment by inserting special\nclause of Article 153 in the ibid Order. On the other hand Chapter XVII of Police Order\nspecifically deals with the punishment provided for police officers, relating to the offences of\ntheir omissions or commissions, during the discharge of their official duties. Article 155 entails\npunishment of three years for which there is no specific express provision in Police Order 2002,\nthat it is a non-cognizable offence. In such situation recourse would be made to the general law\nof Criminal Procedure Code, 1898. Section 4(f) of the Code, defines the cognizable offence or\ncognizable case, according to which the offence or case in which a police officer may arrest the\naccused without warrant in accordance with IInd Schedule of the Code is a cognizable offence or\na cognizable case. Under the head of \"OFFENCES AGAINST OTHER LAWS\" it is provided in\nthe IInd Schedule of the Code that police officer may arrest the accused without warrant in an\noffence, which is punishable with imprisonment for three years or upward and has also been\nmade non-bailable, except section 13 of Arms Ordinance, 1965. There is no such exception\nprovided in the Code or in the Police Order, 2002 for an offence punishable under Article 155 of\nthe Police Order. In view of this legal perspective, it is a cognizable offence and F.I.R has rightly\nand legitimately been registered, in pursuance of section 154, Cr.P.C.\n6. There is no cavil with the proposition that in non-cognizable cases/offences, the only\ncourse open for the police, by virtue of section 155, Cr.P.C., is to obtain permission of\nMagistrate after making entry in the concerned book and then investigate the case. Neither the\npolice officer can register the case under section 154, Cr.P.C. in a non-cognizable offence nor\ncan arrest the accused without warrant. As offence under Article 155 Police Order 2002 is a\ncognizable one, so F.I.R. has rightly been registered, to which no exception can be taken.\n7. For what has been discussed above, this petition being devoid of merits, is hereby\ndismissed.\n",
+        "sha256": "d89f2471a8cda1354f5f913db5d6b74812cb2f90cdb5fcfde987e4dda0df3e0e"
+      },
+      "law_evidence": {
+        "law_id": "pk-code-a3869310f6800995",
+        "text_sha256": "6d22f0fe24d013fc2b4da493669b123c1b36d55bca69b892c2b7f060af8d68e7",
+        "text_version_id": "law:pk-code-a3869310f6800995:sha256:6d22f0fe24d013fc2b4da493669b123c1b36d55bca69b892c2b7f060af8d68e7",
+        "character_start": 136464,
+        "character_end": 137890,
+        "quote": "155. Penalty for certain types of misconduct by police officers.—(1) Any police officer who— \r\n(a)  makes for obtaining release from service as police officer, a false statement or a \r\nstatement which is misleading in material particulars or uses a false document \r\nfor the purpose; \r\n(b)  is guilty of cowardice, or being a police officer of junior rank, resigns his office or \r\nwithdraws himself from duties without permission; \r\n(c)  is guilty of any wilful breach or neglect of any provision of law or of any rule or \r\nregulation or any order which he is bound to observe or obey; \r\n(d)  is guilty of any violation of duty; \r\n(e)  is found in a state of intoxication, while on duty; \r\n(f)  malingers or feigns or voluntarily causes hurt to himself with the intention to render \r\nhimself unfit for duty; \r\n(g)  is grossly insubordinate to his superior officer or uses criminal force against a \r\nsuperior officer; or \r\n(h)  engages himself or participates in any demonstration, procession or strike or resorts \r\nto or in any way abets any form of strike or coercion or physical duress to force any \r\nauthority to concede anything, \r\nshall, on conviction, for every such offence be punished with imprisonment for a term which may extend \r\nto three years and with fine. \r\n \r\nPage 59 of 67 \r\n \r\n (2) Prosecution under this Article shall require a report on writing by an officer authorized in this \r\nbehalf under the rules. \r\n ",
+        "passages": [
+          {
+            "fragment": "p-135370-137153-aef08f3e00e4f4dd",
+            "sha256": "aef08f3e00e4f4dd7825f175be228c77415d84efb55e1e5c560f9d8012f9a451"
+          },
+          {
+            "fragment": "p-137153-138937-3834cde488f25a5c",
+            "sha256": "3834cde488f25a5ce96152ee5b0eda15df704d3fbc8cc4ff120767f3604135c4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "haji-rehman-punjab-code-8c02d4a826c04ec1",
+      "case_id": "phc-haji-rehman-wp8b-2012",
+      "law_id": "punjab-code-8c02d4a826c04ec1",
+      "provision": "Article 155; distinct from CrPC section 155",
+      "relationship": "Historical judicial interpretation; comparison to held provision",
+      "summary": "For the police-misconduct offence before it, the Court treated Article 155 as cognizable by reading its punishment with CrPC section 4(f) and Schedule II. Article 153 was not treated as an exhaustive list.",
+      "version_note": "Khyber Pakhtunkhwa dispute in 2012. The held federal/Punjab source edition is a comparison text, not proof of historical provincial applicability. This is a historical judgment linked to a separately held source edition. The exact law in force on the decision date and subsequent amendments or appellate treatment have not been comprehensively verified.",
+      "judgment_pinpoint": "Judgment paragraphs 5–7",
+      "judgment_evidence": {
+        "character_start": 4223,
+        "character_end": 7472,
+        "quote": "5. The proposition to be resolved in the instant petition is that; whether the offence under\nArticle 155 of Police Order, 2002 is cognizable or otherwise? The main reliance of learned\ncounsel for the petitioner was on Article 153 of ibid Order, by virtue of which certain offences\nhave been declared as cognizable, which does not include Article 155, hence it according to him,\nwould be non-cognizable. The proposition advanced by the learned counsel is misconceived.\nChapter XVI of Police Order, 2002, comprising Articles 148 to 152 are offences relating to the\npublic and these offences have been made cognizable by virtue of Article 153 of the Police\nOrder 2002. In pursuance of Article 154 of ibid Order these offences are summarily triable by\nthe competent Court, as provided for summery trial in Criminal Procedure Code. The\npunishments provided in Articles 148, 149, 150 and 152 are minor in nature as of imprisonment\nof six months or/and three months along with fine, which in normal course, would have been\nnon-cognizable offences, except Article 151, which entails punishment of three years. But the\nlegislature has made it cognizable, despite of having lesser punishment by inserting special\nclause of Article 153 in the ibid Order. On the other hand Chapter XVII of Police Order\nspecifically deals with the punishment provided for police officers, relating to the offences of\ntheir omissions or commissions, during the discharge of their official duties. Article 155 entails\npunishment of three years for which there is no specific express provision in Police Order 2002,\nthat it is a non-cognizable offence. In such situation recourse would be made to the general law\nof Criminal Procedure Code, 1898. Section 4(f) of the Code, defines the cognizable offence or\ncognizable case, according to which the offence or case in which a police officer may arrest the\naccused without warrant in accordance with IInd Schedule of the Code is a cognizable offence or\na cognizable case. Under the head of \"OFFENCES AGAINST OTHER LAWS\" it is provided in\nthe IInd Schedule of the Code that police officer may arrest the accused without warrant in an\noffence, which is punishable with imprisonment for three years or upward and has also been\nmade non-bailable, except section 13 of Arms Ordinance, 1965. There is no such exception\nprovided in the Code or in the Police Order, 2002 for an offence punishable under Article 155 of\nthe Police Order. In view of this legal perspective, it is a cognizable offence and F.I.R has rightly\nand legitimately been registered, in pursuance of section 154, Cr.P.C.\n6. There is no cavil with the proposition that in non-cognizable cases/offences, the only\ncourse open for the police, by virtue of section 155, Cr.P.C., is to obtain permission of\nMagistrate after making entry in the concerned book and then investigate the case. Neither the\npolice officer can register the case under section 154, Cr.P.C. in a non-cognizable offence nor\ncan arrest the accused without warrant. As offence under Article 155 Police Order 2002 is a\ncognizable one, so F.I.R. has rightly been registered, to which no exception can be taken.\n7. For what has been discussed above, this petition being devoid of merits, is hereby\ndismissed.\n",
+        "sha256": "d89f2471a8cda1354f5f913db5d6b74812cb2f90cdb5fcfde987e4dda0df3e0e"
+      },
+      "law_evidence": {
+        "law_id": "punjab-code-8c02d4a826c04ec1",
+        "text_sha256": "ce3348f13d00ba1721800d9acf9522f9e14844da5914843c622d2118941675cb",
+        "text_version_id": "law:punjab-code-8c02d4a826c04ec1:sha256:ce3348f13d00ba1721800d9acf9522f9e14844da5914843c622d2118941675cb",
+        "character_start": 166992,
+        "character_end": 168439,
+        "quote": "155.  Penalty  for  certain  types  of  misconduct  by  police  officers.– (1)  Any \r\npolice officer who– \r\n(a)  makes  for  obtaining  release  from  service  as  police  officer,  a  \r\nfalse statement or a statem ent which is mis leading in material \r\nparticulars or uses a false document for the purpose; \r\n(b)  is guilty of cowardice, or being a police officer of junior rank, resigns \r\nhis office or withdraws himself from duties without permission; \r\n(c)  is guilty of any wilful breach or neglect of any provision of law or of \r\nany rule or regulation or any order which he is bound to observe or \r\nobey; \r\n(d)  is guilty of any violation of duty; \r\n(e)  is found in a state of intoxication, while on duty; \r\n(f)  malingers  or  feigns  or  voluntarily  causes  hurt  to  himself  with  \r\nthe intention to render himself unfit for duty; \r\n(g)  is grossly insubordinate  to his superior officer or uses criminal \r\nforce against a  superior officer; or \r\n(h)  engages  himself  or participates  in any demonstration,  procession  \r\nor strike or resorts to or in any way abets any form of strike or coercion \r\nor physical duress to force any authority to concede anything, shall, \r\non conviction, for every such offence be punished with imprisonment \r\nfor a term which may extend to three years and with fine. \r\n(2)  Prosecution under this Article shall require a report on writing by \r\nan officer authorized in this behalf under the rules. \r\n",
+        "passages": [
+          {
+            "fragment": "p-165569-167302-bd0232d0aceafa3b",
+            "sha256": "bd0232d0aceafa3bd680052a75b422df250a49001ee5d4c230ec7e5a8ab2755e"
+          },
+          {
+            "fragment": "p-167302-169083-e468c0f23b5f3bad",
+            "sha256": "e468c0f23b5f3bad0dcbfee70b44626ed3244a4b2aeb04b75905e769ff336c42"
+          }
+        ]
+      }
+    },
+    {
+      "id": "shahjehan-pk-code-2b63161559568b20",
+      "case_id": "phc-shahjehan-ca84-2011",
+      "law_id": "pk-code-2b63161559568b20",
+      "provision": "Article 3(1)(c): sale of intoxicant",
+      "relationship": "Historical judicial interpretation; comparison to held provision",
+      "summary": "In this prosecution the Court found Article 3 was not attracted, discussing proof of sale and defects in the forensic evidence. The acquittal was fact-specific; it did not invalidate Article 3.",
+      "version_note": "The case arose in D.I. Khan in 2011. Federal and Punjab editions remain distinct comparison records. This is a historical judgment linked to a separately held source edition. The exact law in force on the decision date and subsequent amendments or appellate treatment have not been comprehensively verified.",
+      "judgment_pinpoint": "Judgment paragraphs 8–9",
+      "judgment_evidence": {
+        "character_start": 5553,
+        "character_end": 7512,
+        "quote": "8. The word 'sale' is not to be taken in its ordinary dictionary meaning or as is being used in\nthe common parlance but carries with it its meaningful legal connotation as held by the\nhonourable Federal Shariat Court in 1996 PCr.LJ 1787 (b):--\n\"Article 3(c) ---Charge of selling intoxicant---Proof---Prosecution for the purpose of proving the\ncharge of selling intoxicant is bound to produce the purchaser, the currency used for the purchase\nand the purchased intoxicants and if any of the three factors is missing then sale would not be\nproved.\"\nSuch being the case, I am afraid, Article 3 of Prohibition (Enforcement of Hadd) Order, 1979 is\nnot attracted in the present case. Moreover, the statements of the P.Ws. have also been found to\nbe inconsistent, contradictory inter se and incoherent.\n9. It was the bounden duty of the prosecution to have exhibited the F.S.L report pertaining\nto the recovery of the alleged charras so as to confront the appellant with the same and to have\nprovided him with an opportunity to subject it to cross-examination but for reasons best known\nto the prosecution, the same was never exhibited and for that matter, was not even available at\nthe time of recording of the statement by P.W.2 Muhammad Nawaz S.H.O., Police Station Cantt.\nD.I.Khan on 12-7-2011 who in a frank and candid manner admitted that:--\n\"It is correct that at present there is no FSL report available on the judicial file. However, I have\nsent the sample for the chemical analysis vides my application dated 31-3-2011.\"\nThus, in a situation, where the F.S.L report was neither exhibited nor any question put to the\nappellant regarding the same in his statement under section 342, Cr.P.C, the case of the\nprosecution shrouded in mysteries and doubts and the beneficiary can be none other but the\nappellant. Such recovery cannot be used against the appellant for holding him guilty of the\noffence. Reliance placed on 2010 SCMR 1009, head notes \"d\" and \"e\".\n",
+        "sha256": "ee4b69415b823332e708348db131c1b4c13b2f768b9615d315f643aed2916e25"
+      },
+      "law_evidence": {
+        "law_id": "pk-code-2b63161559568b20",
+        "text_sha256": "4552b4a684aaf6b1d9279ccb53a8dd76c5878f66a0fea56e852b74ab57b66349",
+        "text_version_id": "law:pk-code-2b63161559568b20:sha256:4552b4a684aaf6b1d9279ccb53a8dd76c5878f66a0fea56e852b74ab57b66349",
+        "character_start": 5107,
+        "character_end": 6309,
+        "quote": "3. Prohibition of manufacture, etc., of intoxicants: (1) Subject to the provisions of Clause \r\n(2) whoever:— \r\n \r\n(a) imports, exports, transports, manufactures or processes any intoxicant; or \r\n \r\n(b) bottles any intoxicant; or \r\n \r\n(c) sells or serves any intoxicant; or \r\n \r\n(d) allows any of the acts aforesaid upon premises owned by him or his immediate \r\npossession; \r\n \r\nShall be punishable with imprisonment of other description f or a term which may extend to five \r\nyears and with whipping not exceeding thirty stripes, and shall be also be liable to fine. \r\n \r\n 2[(2) Whoever— \r\n \r\n(i) Import, exports, transports manufacture s, or traflic s in, opium or coca leaf or \r\ncoca derivatives; or \r\n \r\n(ii) finances the import, export, transport, manufacture, or traflicking of, opium or \r\ncoca leaf or opium or coca derivatives; \r\n \r\n1Re-numbered and subs. by the Prohibition (Enforcement of Hadd) (Amdt.) Order, 1983 (P.O 12 of 1983), Art, 2. \r\n2Added and subs., ibid., Art. 3. \r\n \r\n \r\nPage 5 of 12 \r\n \r\nshall be punishable with imprisonment for life or with imprisonment which is not less than two years \r\nand with whipping not exceeding thirty stripes, and shall also be liable to fine.] \r\n \r\n",
+        "passages": [
+          {
+            "fragment": "p-3507-5305-6db65c366775b082",
+            "sha256": "6db65c366775b0828a1268ed8ddae9094b34200d5c8da8881ce932370f5ee2b7"
+          },
+          {
+            "fragment": "p-5305-7019-aa725ce97b13a0b1",
+            "sha256": "aa725ce97b13a0b192cf670e997e99136eca7e4f8bb641d1c302403adca33a3f"
+          }
+        ]
+      }
+    },
+    {
+      "id": "shahjehan-punjab-code-fb492241eaa98c77",
+      "case_id": "phc-shahjehan-ca84-2011",
+      "law_id": "punjab-code-fb492241eaa98c77",
+      "provision": "Article 3(1)(c): sale of intoxicant",
+      "relationship": "Historical judicial interpretation; comparison to held provision",
+      "summary": "In this prosecution the Court found Article 3 was not attracted, discussing proof of sale and defects in the forensic evidence. The acquittal was fact-specific; it did not invalidate Article 3.",
+      "version_note": "The case arose in D.I. Khan in 2011. Federal and Punjab editions remain distinct comparison records. This is a historical judgment linked to a separately held source edition. The exact law in force on the decision date and subsequent amendments or appellate treatment have not been comprehensively verified.",
+      "judgment_pinpoint": "Judgment paragraphs 8–9",
+      "judgment_evidence": {
+        "character_start": 5553,
+        "character_end": 7512,
+        "quote": "8. The word 'sale' is not to be taken in its ordinary dictionary meaning or as is being used in\nthe common parlance but carries with it its meaningful legal connotation as held by the\nhonourable Federal Shariat Court in 1996 PCr.LJ 1787 (b):--\n\"Article 3(c) ---Charge of selling intoxicant---Proof---Prosecution for the purpose of proving the\ncharge of selling intoxicant is bound to produce the purchaser, the currency used for the purchase\nand the purchased intoxicants and if any of the three factors is missing then sale would not be\nproved.\"\nSuch being the case, I am afraid, Article 3 of Prohibition (Enforcement of Hadd) Order, 1979 is\nnot attracted in the present case. Moreover, the statements of the P.Ws. have also been found to\nbe inconsistent, contradictory inter se and incoherent.\n9. It was the bounden duty of the prosecution to have exhibited the F.S.L report pertaining\nto the recovery of the alleged charras so as to confront the appellant with the same and to have\nprovided him with an opportunity to subject it to cross-examination but for reasons best known\nto the prosecution, the same was never exhibited and for that matter, was not even available at\nthe time of recording of the statement by P.W.2 Muhammad Nawaz S.H.O., Police Station Cantt.\nD.I.Khan on 12-7-2011 who in a frank and candid manner admitted that:--\n\"It is correct that at present there is no FSL report available on the judicial file. However, I have\nsent the sample for the chemical analysis vides my application dated 31-3-2011.\"\nThus, in a situation, where the F.S.L report was neither exhibited nor any question put to the\nappellant regarding the same in his statement under section 342, Cr.P.C, the case of the\nprosecution shrouded in mysteries and doubts and the beneficiary can be none other but the\nappellant. Such recovery cannot be used against the appellant for holding him guilty of the\noffence. Reliance placed on 2010 SCMR 1009, head notes \"d\" and \"e\".\n",
+        "sha256": "ee4b69415b823332e708348db131c1b4c13b2f768b9615d315f643aed2916e25"
+      },
+      "law_evidence": {
+        "law_id": "punjab-code-fb492241eaa98c77",
+        "text_sha256": "589b503e05571b86368705a94348559dd587f689c3a584426ca030f56658930b",
+        "text_version_id": "law:punjab-code-fb492241eaa98c77:sha256:589b503e05571b86368705a94348559dd587f689c3a584426ca030f56658930b",
+        "character_start": 4870,
+        "character_end": 6067,
+        "quote": "3.  Prohibition of manufacture , etc, of intoxicants .– \r\n1\r\n[(1)  Subject to the \r\nprovisions of clause (2) whoever \r\n(a)  Imports, exports, transports, manufactures or processes any intoxicant; \r\nor \r\n(b)  Bottles any intoxicant; or \r\n(c)  Sells or serves any intoxicant; or \r\n(d)  allows any of the acts aforesaid upon premises owned by him or in his \r\nimmediate possession; \r\nShall be punishable with imprisonment of either description for a term which \r\nmay extend to five years and with whipping not exceeding thirty stripes, and \r\nshall also be liable to fine.] \r\n2\r\n[(2) Whoever– \r\n(i)  imports, exports, transports, manufactures, or traffics i n, opium or coca \r\nleaf or opium or coca derivatives, or \r\n(ii)  Finances the import, export, transport, manufacture, or trafficking of, \r\nopium or coca leaf or opium or coca derivatives; \r\nShall be punishable with imprisonment for life or with imprisonment which is \r\nnot less than two years and with whipping not exceeding thirty stripes, and shall also \r\nbe liable to fine] \r\n                                                           \r\n1Inserted by Prohibition (Enforcement of Hadd) (Amendment) Order, 1983 (P.O. No. 12 of 1983) \r\n2Ibid. \r\n",
+        "passages": [
+          {
+            "fragment": "p-3545-5329-80b356182bab451f",
+            "sha256": "80b356182bab451ffa781fdeab829eb2c4e980f6bc72c8635f7de451a4e4f5d8"
+          },
+          {
+            "fragment": "p-5329-7115-960cda37d17aa203",
+            "sha256": "960cda37d17aa203c94ad3bb00da91cac9b77875d8ecd8cd672769262d5d3976"
+          }
+        ]
+      }
+    },
+    {
+      "id": "awais-pk-code-8080294edcd081e4",
+      "case_id": "ihc-awais-ca345-2023",
+      "law_id": "pk-code-8080294edcd081e4",
+      "provision": "Article 129 illustration (g)",
+      "relationship": "Historical judicial interpretation; comparison to held provision",
+      "summary": "The Court applied the adverse-inference principle to non-production of the alleged shopping bag in the narcotics prosecution, alongside doubts about the weight and packaging. It is not an automatic acquittal rule for every missing exhibit.",
+      "version_note": "This is a historical judgment linked to a separately held source edition. The exact law in force on the decision date and subsequent amendments or appellate treatment have not been comprehensively verified.",
+      "judgment_pinpoint": "Paragraph 10, printed pages 5–6",
+      "judgment_evidence": {
+        "character_start": 9063,
+        "character_end": 10097,
+        "quote": "Such aspect is to be \nconsidered in light of broader principles, where case property was not produced \nCrl. Appeal No.345/2023 & Jail Appeal No.353/2023 \n \n6 \n \nbefore the trial court as held in 2012 SCMR 577 (Amjad Ali Vs. State), 2017 \nP.Cr.L.J [Lahore] 14 (Abrar Hussain Vs. State), 2009 P.Cr.L.J [Lahore] 1334 (Agha \nQais Vs. State), 2015 YLR [Peshawar] 2189 (Fiaz Shah Vs. State) and 2015 \nP.Cr.L.J. [Karachi] 235 (Abdul Qadir Vs. State), however, in all these cases the \nvehicles were not produced, but the said principle is equally applicable in the \ncases where shoulder bag or shopping bag in which narcotics was carried out by \nthe accused persons were not produced, therefore, the principle which attracts in \nthe present scenario is to be considered in terms of Article-129 (g) of Qanun-e-\nShahadat Order, 1984, where it can easily be presumed that no such material / \nnarcotics is in existence, as adverse inference or assumption against the \nprosecution could be drawn as held in 2023 SCMR 781 (Ahmed Ali Vs. State).   \n",
+        "sha256": "e585d7872217cd8a53b2f70234a5b9b36be5b8cdc3f3bfbf3efc449993220699"
+      },
+      "law_evidence": {
+        "law_id": "pk-code-8080294edcd081e4",
+        "text_sha256": "5ce43f10ab3749bc6aa8780e7dbe51b2831c5a282bc0d4feb651a72db12996af",
+        "text_version_id": "law:pk-code-8080294edcd081e4:sha256:5ce43f10ab3749bc6aa8780e7dbe51b2831c5a282bc0d4feb651a72db12996af",
+        "character_start": 131839,
+        "character_end": 135783,
+        "quote": "129. Court may presume existence of certain facts.— The Court may presume the existence \r\nof any fact which it thinks likely to have happened, regard being had to the common course of natural \r\nevents, human conduct and public and private business, in their rel ation to the facts of the particular \r\ncase. \r\n \r\nIllustrations \r\n \r\nThe Court may presume— \r\n \r\n(a)  that a man who is in possession of stolen goods soon after the theft is either the \r\nthief or has received the goods knowing them to be stolen, unless he can account \r\nfor his possession ; \r\n \r\n(b)  that an accomplice is unworthy of credit, unless he is corroborated in material \r\nparticulars ; \r\n \r\n(c) that a bill of exchange, accepted or endorsed, was accepted or endorsed for good \r\nconsideration ; \r\n \r\n(d)  that a thing or state of things which has been shown to be in existence within a \r\nperiod shorter than that within which such things or states of things usually \r\ncease to exist, is still in existence ; \r\n \r\n(e)  that judicial and official acts have been regularly performed ; \r\n \r\n(f)  that the common course of business has been followed in particular cases; \r\n \r\n(g)  that evidence which could be and is not produced would, if produced, be \r\nunfavourable to the person who withholds it ; \r\n \r\n(h)  that, if a man refuses to answer a question which he is not compelled to answer \r\nby law, the answer, if given, would be unfavourable to him; \r\n \r\nPage 56 of 65 \r\n \r\n(i)  that when a document creating an obligation is in the hands of the obligor, the \r\nobligation has been discharged. \r\n \r\nBut the Court shall also have regard to such facts as the following, in considering whether such \r\nmaxims do or do not apply to the particular case before it; \r\n \r\nas to illustration (a).—a shopkeeper has in his till marked rupee soon after it was  stolen, and \r\ncannot account for its possession specifically, but is continually receiving rupees in the course \r\nof his business; \r\n \r\nas to illustration (b).—A, person of the highest character, is tried for causing a man’s death by \r\nan act of negligence in arranging certain machinery, B, a person of equally good character, who \r\nalso took part in the arrangement, describes precisely what was done, and admits and explains \r\nthe common carelessness of A and himself ; \r\n \r\nas to illustration (b). —a crime is committed by several persons.  A, B and C, three  of the \r\ncriminals, are captured on the shop and kept apart from each other. Each gives an account of \r\nthe crime implicating D, and the accounts corroborate each other in such a manner as to render \r\nprevious concert highly improbable; \r\n \r\nas to  illustration (c). —A, the drawer of a bill of exchange, was a man of business.  B, the \r\nacceptor, was a young and ignorant person, completely under A’s influence; \r\n \r\nas to illustration (d).— It is proved that a river ran in a certain course five years  ago, but it is \r\nknown that there have been floods since that time which might change its course ; \r\n \r\nas to illustration (e).—a judicial act, the regularity of which is in question, was performed under \r\nexceptional circumstances ; \r\n \r\nas to illustration (f).—the question is, whether a letter was received. It is shown to  have been \r\nposted, but the usual course of the post was Interrupted by disturbances; \r\n \r\nas to illustration (g). —a man refuses to produce a document which would bear on  a contract \r\nof small importance on which he is sued, but which might also injure the feelings and reputation \r\nof his family; \r\n \r\nas to illustration (h). —a man refuses to answer a question which he is not  compelled by law \r\nto answer, but the answer to it might cause loss to him in matters unconnected with the matter \r\nin relation to which it is asked ; \r\n \r\nas to illustration (i).— a bond is in possession of the obligor, but the circumstances of the case \r\nare such that he may have stolen it. \r\n \r\nCHAPTER X \r\n \r\nOF THE EXAMINATION OF WITNESS \r\n \r\n",
+        "passages": [
+          {
+            "fragment": "p-131839-133571-0a4825e952637852",
+            "sha256": "0a4825e9526378523a9ca0180ed84f05f40ef2ac107f05651b9233308f2e865e"
+          },
+          {
+            "fragment": "p-133571-135357-3fc4a7b2ac8e9993",
+            "sha256": "3fc4a7b2ac8e999365e7063ad0c0eac649aba02bc10dd978e020b22277003a6f"
+          },
+          {
+            "fragment": "p-135357-137140-05974bd5abdb087f",
+            "sha256": "05974bd5abdb087fe17e13b0a3eb57684a5406ed8669a7bec9783c8d72b9af97"
+          }
+        ]
+      }
+    },
+    {
+      "id": "awais-punjab-code-e845af7dd8b2beab",
+      "case_id": "ihc-awais-ca345-2023",
+      "law_id": "punjab-code-e845af7dd8b2beab",
+      "provision": "Article 129 illustration (g)",
+      "relationship": "Historical judicial interpretation; comparison to held provision",
+      "summary": "The Court applied the adverse-inference principle to non-production of the alleged shopping bag in the narcotics prosecution, alongside doubts about the weight and packaging. It is not an automatic acquittal rule for every missing exhibit.",
+      "version_note": "This is a historical judgment linked to a separately held source edition. The exact law in force on the decision date and subsequent amendments or appellate treatment have not been comprehensively verified.",
+      "judgment_pinpoint": "Paragraph 10, printed pages 5–6",
+      "judgment_evidence": {
+        "character_start": 9063,
+        "character_end": 10097,
+        "quote": "Such aspect is to be \nconsidered in light of broader principles, where case property was not produced \nCrl. Appeal No.345/2023 & Jail Appeal No.353/2023 \n \n6 \n \nbefore the trial court as held in 2012 SCMR 577 (Amjad Ali Vs. State), 2017 \nP.Cr.L.J [Lahore] 14 (Abrar Hussain Vs. State), 2009 P.Cr.L.J [Lahore] 1334 (Agha \nQais Vs. State), 2015 YLR [Peshawar] 2189 (Fiaz Shah Vs. State) and 2015 \nP.Cr.L.J. [Karachi] 235 (Abdul Qadir Vs. State), however, in all these cases the \nvehicles were not produced, but the said principle is equally applicable in the \ncases where shoulder bag or shopping bag in which narcotics was carried out by \nthe accused persons were not produced, therefore, the principle which attracts in \nthe present scenario is to be considered in terms of Article-129 (g) of Qanun-e-\nShahadat Order, 1984, where it can easily be presumed that no such material / \nnarcotics is in existence, as adverse inference or assumption against the \nprosecution could be drawn as held in 2023 SCMR 781 (Ahmed Ali Vs. State).   \n",
+        "sha256": "e585d7872217cd8a53b2f70234a5b9b36be5b8cdc3f3bfbf3efc449993220699"
+      },
+      "law_evidence": {
+        "law_id": "punjab-code-e845af7dd8b2beab",
+        "text_sha256": "d0e15d3c2951cc1d4b6be27a4a3ac69027a668060d2aa1f2d800f0663b8f15b8",
+        "text_version_id": "law:punjab-code-e845af7dd8b2beab:sha256:d0e15d3c2951cc1d4b6be27a4a3ac69027a668060d2aa1f2d800f0663b8f15b8",
+        "character_start": 130200,
+        "character_end": 134184,
+        "quote": "129.  Court may presume existence of certain facts .– The Court may presume \r\nthe existence of any fact which it thinks likely to have ha ppened, regard being had to \r\nthe common course of natural events, human conduct and public and private \r\nbusiness, in their relation to the facts of the particular case. \r\nIllustrations \r\nThe Court may presume– \r\n(a)  that a man who is in possession of stolen goods  soon after the theft is \r\neither the thief or has received the goods knowing them to be stolen, \r\nunless he can account for his possession ; \r\n(b)  that an accomplice is unworthy of credit, unless he is corroborated in \r\nmaterial particulars ; \r\n(c)  that a bill of  exchange, accepted or endorsed, was accepted or \r\nendorsed for good consideration; \r\n(d)  that a \r\n13\r\nthing or state of things which has been shown to be in existence \r\nwithin a period shorter than that within which such things or states of \r\nthings usually cease to exist, is still in existence ; \r\n                                                 \r\n13Misprinted in official Gazette as “think”. \r\n(e)  that judicial and official acts have been regularly performed ; \r\n(f)  that the common course of business has been followed in particular \r\ncases; \r\n(g)  that evidence which could be and is not produced would, if produced, \r\nbe unfavourable to the person who withholds it ; \r\n(h)  that, if a man refuses to answer a question which he is not compelled \r\nto answer by law, the answer, if given, would be unfavourable to him; \r\n(i)  that when a document creating an obligation is in the hands of the \r\nobligor, the obligation has been discharged. \r\nBut the Court shall also have regard to such facts as the following, in \r\nconsidering whether such maxims do or do not apply to the particular \r\ncase before it; \r\nas to illustration (a) .– a shopkeeper has in hi s till marked rupee soon \r\nafter it was stolen, and cannot account for its possession specifically, \r\nbut is continually receiving rupees in the course of his business ; \r\nas to illustration (b) .– A, person of the highest character, is tried for \r\ncausing a man’s death by an act of negligence in arranging certain \r\nmachinery, B, a person of equally good character, who also took part in \r\nthe arrangement, describes precisely what was done, and admits and \r\nexplains the common carelessness of A and himself ; \r\nas to illustra tion (b) .– a crime is committed by several persons. A, B \r\nand C , three of the criminals, are captured on the shop and kept apart \r\nfrom each other. Each gives an account of the crime implicating D and \r\nthe accounts corroborate each other in such a manner as to  render \r\nprevious concert highly improbable; \r\nas to illustration (c).– A. the drawer of a bill of exchange, was a man of \r\nbusiness. B , the acceptor, was a young and ignorant person, \r\ncompletely under A’s influence; \r\nas to illustration (d).– It is proved that a river ran in a certain course five \r\nyears ago,  but is known that there have been floods since that time \r\nwhich might change its course ; \r\nas to illustration (e) .– a judicial act, the regularity of which is in \r\nquestion, was performed under exceptional circumstances ; \r\nas to illustration (f).– the question is, whether a letter was received. It is \r\nshown to have been posted, but the usual course of the post was \r\ninterrupted by disturbances; \r\nas to illustration (g) .– a man refuses to produce a document which \r\nwould bear on a contract of small  importance on which he is sued,  but \r\nwhich might also injure the feelings and reputation of his family; \r\nas to illustration (h)  .– a man refuses to answer a question which he is \r\nnot compelled by law to answer, but the answer to it mi ght cause loss \r\nto him in matters unconnected with the matter in relation to which it is \r\nasked ; \r\nas to illustration (i) .– a bond is in possession of the obligor, but the \r\ncircumstances of the case are such that he may have stolen it. \r\nCHAPTER X \r\nOF THE EXAMINATION OF WITNESS  \r\n",
+        "passages": [
+          {
+            "fragment": "p-128748-130527-1a2ad66270e53fe6",
+            "sha256": "1a2ad66270e53fe6465179835ceb20b2e8c17173a275aa1abc83dda4cfe1c8d2"
+          },
+          {
+            "fragment": "p-130527-132284-856e948f078b1787",
+            "sha256": "856e948f078b17875d37e0ff55500b91619ed45eebd45e5c61ac084d50022d22"
+          },
+          {
+            "fragment": "p-132284-134074-091a4a21c3979315",
+            "sha256": "091a4a21c3979315772fabad9373b607e1d95da3544253a00a4f2aa091b03ad7"
+          },
+          {
+            "fragment": "p-134074-135815-7c5f64c0447376e7",
+            "sha256": "7c5f64c0447376e75e74768e70cbed543fdd80d6416c1732d26aa7b9471a2102"
+          }
+        ]
+      }
+    }
+  ],
+  "excluded_sources": [
+    {
+      "file": "qso.json",
+      "reason": "Rab Nawaz CR129/2019 was a search false positive: case number 129 does not establish a QSO Article 129 relationship."
+    },
+    {
+      "file": "document-0.json",
+      "reason": "No reviewed Rules of Business relationship established."
+    }
+  ]
+}
