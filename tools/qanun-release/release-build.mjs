@@ -18,7 +18,7 @@ const researchCheck=spawnSync(process.execPath,[path.join(toolDir,'research-chec
 if(researchCheck.status!==0)throw Error('Research integration checks failed');
 const report=JSON.parse(fs.readFileSync(path.join(toolDir,'integration-manifest.json'),'utf8'));
 if(report.record_count!==1732||report.law_text_count!==1728||report.source_notice_count!==4||report.public_file_count!==5207)throw Error('Unexpected generated coverage');
-if(report.research.case_count!==2365||report.research.statute_edges!==9||report.research.mapped_law_count<1)throw Error('Research integration missing');
+if(report.research.case_count!==2397||report.research.statute_edges!==9||report.research.mapped_law_count<1)throw Error('Research integration missing');
 const policy=JSON.parse(fs.readFileSync(path.join(root,'vercel.json'),'utf8')).headers.flatMap(x=>x.headers).find(x=>x.key==='Content-Security-Policy').value;
 if(!policy.includes(report.research.script_csp_token))throw Error('Research script missing from CSP');
 const actual=[];function walk(dir){for(const name of fs.readdirSync(dir)){const p=path.join(dir,name),s=fs.lstatSync(p);if(s.isSymbolicLink())throw Error('Symlink not permitted in public output');if(s.isDirectory())walk(p);else if(s.isFile())actual.push(path.relative(generated,p).split(path.sep).join('/'));else throw Error('Unexpected output entry');}}walk(generated);
