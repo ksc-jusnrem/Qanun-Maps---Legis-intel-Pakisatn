@@ -21,11 +21,11 @@ export function createBridge({token, fetchImpl=fetch}) {
   };
 }
 
-export async function runBridge(input=process.stdin,output=process.stdout) {
-  let send;
-  try {send=createBridge({token:process.env.QANUN_ACCESS_TOKEN || (process.env.QANUN_TOKEN_FILE?fs.readFileSync(process.env.QANUN_TOKEN_FILE,'utf8').trim():'')});}
+export async function runBridge(input=process.stdin,output=process.stdout,send) {
+  try {send??=createBridge({token:process.env.QANUN_ACCESS_TOKEN || (process.env.QANUN_TOKEN_FILE?fs.readFileSync(process.env.QANUN_TOKEN_FILE,'utf8').trim():'')});}
   catch {process.stderr.write('Qanun Maps: a valid access key or readable token file is required.\n');process.exitCode=1;return;}
   let pending='';
+  input.setEncoding('utf8');
   for await (const chunk of input) {
     pending+=chunk.toString('utf8');
     while(pending.includes('\n')) {
@@ -33,7 +33,9 @@ export async function runBridge(input=process.stdin,output=process.stdout) {
       if(Buffer.byteLength(line)>65536){process.stderr.write('Qanun Maps: message too large.\n');process.exitCode=1;return;}
       if(!line.trim())continue;
       let message;
-      try {message=JSON.parse(line);const result=await send(message);if(result)output.write(JSON.stringify(result)+'\n');}
+      try {message=JSON.parse(line);} catch {output.write(JSON.stringify({jsonrpc:'2.0',id:null,error:{code:-32700,message:'Invalid JSON'}})+'\n');continue;}
+      if(!message || Array.isArray(message) || message.jsonrpc!=='2.0' || typeof message.method!=='string') {output.write(JSON.stringify({jsonrpc:'2.0',id:null,error:{code:-32600,message:'Invalid request'}})+'\n');continue;}
+      try {const result=await send(message);if(result)output.write(JSON.stringify(result)+'\n');}
       catch {if(message && Object.hasOwn(message,'id'))output.write(JSON.stringify({jsonrpc:'2.0',id:message.id,error:{code:-32603,message:'Qanun Maps connection failed; check access key, network and client configuration'}})+'\n');}
     }
     if(Buffer.byteLength(pending)>65536){process.stderr.write('Qanun Maps: message too large.\n');process.exitCode=1;return;}
