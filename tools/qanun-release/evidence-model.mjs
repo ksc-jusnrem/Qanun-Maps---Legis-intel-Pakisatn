@@ -77,7 +77,7 @@ export function buildEvidenceModel({statutes, cases, readLaw}) {
     requireThat(!caseIds.has(c.id), 'Duplicate judgment identity'); caseIds.add(c.id);
     requireThat(/^[a-f0-9]{64}$/.test(c.judgment_text_sha256), 'Invalid judgment text digest');
     const id = 'judgment:'+c.id, version = id+':sha256:'+c.judgment_text_sha256;
-    insert(documents,{id,kind:'judgment',title:c.title,source_url:sourceUrl(c.source_url),reader_url:'/case-law#reviewed-'+c.id,identity_status:'reviewed source identity; publisher IDs not merged',court:c.court,case_number:c.case_number,decision_date:c.decision_date ?? null,date_note:c.date_note,source_note:c.source_note || 'Court-hosted judgment source',source_id:c.source_id,official_report_url:c.official_report_url ? sourceUrl(c.official_report_url) : null});
+    insert(documents,{id,kind:'judgment',title:c.title,source_url:sourceUrl(c.source_url),reader_url:'/case-law#reviewed-'+c.id,identity_status:'reviewed source identity; publisher IDs not merged',court:c.court??null,case_number:c.case_number??null,decision_date:c.decision_date ?? null,date_note:c.date_note,source_note:c.source_note || 'Source hosting and acquisition status not specified in this record',source_id:c.source_id,official_report_url:c.official_report_url ? sourceUrl(c.official_report_url) : null});
     insert(versions,{id:version,document_id:id,text_sha256:c.judgment_text_sha256,snapshot_as_supplied:c.retrieved_on,effective_at:null,full_text_check:'Inherited reviewed transcription; full judgment not rechecked by this build'});
   }
   const inventories = new Map(cases.inventory.map(i=>[i.id,i]));

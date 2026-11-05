@@ -9,13 +9,15 @@ const root=path.resolve(process.argv.find(x=>x.startsWith('--repo-root='))?.slic
 const baseline=path.join(root,'landing-pages/qanun-maps');
 const manifest=path.join(root,'QANUN-LAW-ASSETS-2026-10-31.json');
 const design=path.join(toolDir,'Qanun_Maps_Design_Preview.html');
-const frameworkTests=spawnSync(process.execPath,['--test',path.join(toolDir,'section-navigation.test.mjs'),path.join(toolDir,'../qanun-framework/framework.test.mjs'),path.join(toolDir,'../qanun-framework/mcp.test.mjs'),path.join(toolDir,'../qanun-mcp/http.test.mjs'),path.join(toolDir,'../qanun-mcp/bridge.test.mjs')],{stdio:'inherit',cwd:root});
+const frameworkTests=spawnSync(process.execPath,['--test',path.join(toolDir,'remediation.test.mjs'),path.join(toolDir,'evidence-model.test.mjs'),path.join(toolDir,'evidence-ui.test.mjs'),path.join(toolDir,'section-navigation.test.mjs'),path.join(toolDir,'../qanun-framework/framework.test.mjs'),path.join(toolDir,'../qanun-framework/mcp.test.mjs'),path.join(toolDir,'../qanun-mcp/http.test.mjs'),path.join(toolDir,'../qanun-mcp/bridge.test.mjs')],{stdio:'inherit',cwd:root});
 if(frameworkTests.status!==0)throw Error('Rule framework or MCP tests failed');
 for(const p of [baseline,manifest,design,path.join(toolDir,'FONT-LICENSE.txt'),path.join(toolDir,'about-content.json'),path.join(toolDir,'catalogue-ui.js'),path.join(toolDir,'reader-ui.js'),path.join(toolDir,'reader-display.mjs'),path.join(toolDir,'section-navigation.mjs'),path.join(toolDir,'mapping-panels.mjs'),path.join(toolDir,'statute-rule-mappings.json')])if(!fs.existsSync(p))throw Error('Required release input is absent: '+p);
 const stage=fs.mkdtempSync(path.join(root,'.qanun-release-stage-'));
 const generated=path.join(stage,'public');
 const result=spawnSync(process.execPath,[path.join(toolDir,'build.mjs'),'--baseline='+baseline,'--manifest='+manifest,'--design='+design,'--output='+generated],{stdio:'inherit'});
 if(result.status!==0)throw Error('Generator failed; original public source remains untouched');
+const integrityCheck=spawnSync(process.execPath,[path.join(toolDir,'remediation-check.mjs'),generated],{stdio:'inherit',cwd:root});
+if(integrityCheck.status!==0)throw Error('Corpus integrity checks failed');
 const researchCheck=spawnSync(process.execPath,[path.join(toolDir,'research-check.mjs'),generated],{stdio:'inherit',cwd:root});
 if(researchCheck.status!==0)throw Error('Research integration checks failed');
 const ruleCaseCheck=spawnSync(process.execPath,[path.join(toolDir,'rule-case-check.mjs'),'integration',generated],{stdio:'inherit',cwd:root});

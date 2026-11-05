@@ -1,8 +1,15 @@
-import zipfile,json,pathlib,re,hashlib
+import zipfile,json,pathlib,re,hashlib,argparse
+parser=argparse.ArgumentParser(description="Prepare discovery candidates for review; never overwrite the published index.")
+parser.add_argument("--archive",required=True,type=pathlib.Path)
+parser.add_argument("--laws",required=True,type=pathlib.Path)
+parser.add_argument("--output",required=True,type=pathlib.Path)
+args=parser.parse_args()
+if args.output.exists():parser.error("Output exists; choose a new candidate file")
+if not args.archive.is_file() or not args.laws.is_dir():parser.error("Source archive and law directory must exist")
 root=pathlib.Path('tools/qanun-release')
-zpath=pathlib.Path('C:/Users/JUNCTION/Downloads/Law_Mapping_and_Case_Law_FULL_2026-11-04.zip')
+zpath=args.archive
 with zipfile.ZipFile(zpath) as z: raw=json.loads(z.read('fiscal/case-register/raw/all_cases.json'))
-laws=[json.loads(p.read_text(encoding='utf-8')) for p in pathlib.Path('landing-pages/qanun-maps/laws').glob('*.json')]
+laws=[json.loads(p.read_text(encoding='utf-8')) for p in args.laws.glob('*.json')]
 def norm(s):return re.sub(r'[^a-z0-9]+',' ',s.lower()).strip()
 needles=[]
 for r in laws:
@@ -21,8 +28,8 @@ for key,c in raw.items():
  arts=sorted(set(re.findall(r'\bArt(?:icle)?\.?\s*(\d+[A-Z]?)', ' '.join(topics),re.I)))
  if arts:links[constitution]={'law_id':constitution,'law_title':'Constitution of the Islamic Republic of Pakistan','basis':'Research topic refers to Article(s) '+', '.join(arts)+'; judgment passage and application not checked'}
  url='https://pakistancaselaw.com/case/'+sid
- records.append({'id':sid,'title':c['title'],'citation':c.get('citation',''),'court':c.get('court',''),'year':c.get('year'),'url':url,'topics':topics,'law_links':list(links.values()),'evidence_status':'Source record located; citation identity, full judgment, propositions, pinpoints and subsequent treatment not checked','retrieval_date':None})
+ records.append({'id':sid,'title':c['title'],'citation':c.get('citation',''),'court':c.get('court') or None,'source_scope':c.get('source_scope') or 'Source body needs review','year':c.get('year'),'url':url,'topics':topics,'law_links':list(links.values()),'evidence_status':'Source record located; citation identity, full judgment, propositions, pinpoints and subsequent treatment not checked','retrieval_date':None})
 records.sort(key=lambda c:(-(int(c['year']) if str(c['year']).isdigit() else 0),c['title'],c['id']))
-data={'schema':'qanun-case-discovery/1','package_date':'2026-11-04','source_archive_sha256':hashlib.sha256(zpath.read_bytes()).hexdigest(),'source_member':'fiscal/case-register/raw/all_cases.json','records':records}
-(root/'case-discovery.json').write_text(json.dumps(data,ensure_ascii=False,separators=(',',':')),encoding='utf-8')
+data={'schema':'qanun-case-discovery/1','package_date':None,'release_status':'candidate only; identity and source-scope review required','source_archive_sha256':hashlib.sha256(zpath.read_bytes()).hexdigest(),'source_member':'fiscal/case-register/raw/all_cases.json','records':records}
+args.output.write_text(json.dumps(data,ensure_ascii=False,separators=(',',':')),encoding='utf-8')
 print(json.dumps({'cases':len(records),'linked_cases':sum(bool(c['law_links']) for c in records),'candidate_links':sum(len(c['law_links']) for c in records)}))

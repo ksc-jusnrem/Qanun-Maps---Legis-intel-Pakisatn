@@ -24,7 +24,9 @@ export function createService(output) {
     if(typeof id!=='string'||!/^[-a-z0-9]+$/.test(id))throw Error('Invalid instrument ID');
     const file=path.join(output,'laws',id+'.json');if(!fs.existsSync(file))throw Error('Instrument not held');
     const r=JSON.parse(fs.readFileSync(file,'utf8'));
-    if(r.id!==id||digest(r.text)!==r.text_sha256)throw Error('Source integrity mismatch');return r;
+    if(r.id!==id||typeof r.text!=='string'||digest(r.text)!==r.text_sha256||r.text_version_id!==`law:${id}:sha256:${r.text_sha256}`)throw Error('Source integrity mismatch');
+    if(!fs.readFileSync(path.join(output,'laws',id+'.txt')).equals(Buffer.from(r.text,'utf8')))throw Error('Source download mismatch');
+    return r;
   }
   function call(name,args={}) {
     const def=toolDefinitions.find(t=>t.name===name);if(!def)throw Error('Unknown tool');
@@ -40,14 +42,21 @@ export function createService(output) {
     } else if(name==='find_provisions') {
       const source=JSON.parse(fs.readFileSync(new URL('./section-candidates.json',import.meta.url),'utf8'));
       const terms=args.query.toLowerCase().trim().split(/\s+/);
-      const results=source.records.filter(r=>!args.instrument_id||r.id===args.instrument_id).flatMap(r=>r.sections.filter(s=>terms.every(t=>`${s.num} ${s.heading}`.toLowerCase().includes(t))).map(s=>({instrument_id:r.id,title:r.title,...s,status:r.status,source_member:r.source_member,source_sha256:r.source_sha256})));
+      if(args.instrument_id)readLaw(args.instrument_id);
+      const results=source.records.filter(r=>!args.instrument_id||r.id===args.instrument_id).flatMap(r=>r.sections.filter(s=>terms.every(t=>`${r.title} ${s.num} ${s.heading}`.toLowerCase().includes(t))).map(s=>({instrument_id:r.id,title:r.title,...s,status:r.status,source_member:r.source_member,source_sha256:r.source_sha256})));
       data={matches:results.length,results:results.slice(0,30),truncated:results.length>30,provenance:source.provenance};
     } else if(name==='get_provision') {
       const r=readLaw(args.instrument_id);if(r.text_version_id!==args.version_id)throw Error('Requested version not held');
+      if(r.content_kind!=='stored_law_text')throw Error('This record is a source notice, not legislation text');
       const p=r.passages.find(p=>p.reader_fragment===args.fragment);if(!p)throw Error('Passage not held');
       const quote=Array.from(r.text).slice(p.character_start,p.character_end).join('');
       if(exactExcerpt(r.text,p.character_start,p.character_end,quote)!==p.passage_sha256)throw Error('Passage integrity mismatch');
-      data={instrument_id:r.id,version_id:r.text_version_id,quote,quote_sha256:p.passage_sha256,start:p.character_start,end:p.character_end,reader_url:'/laws/'+r.id+'#'+p.reader_fragment,source_url:r.source_url,current_force:null};
+      const points=Array.from(r.text),before=Math.max(0,p.character_start-500),after=Math.min(points.length,p.character_end+500);
+      data={instrument_id:r.id,version_id:r.text_version_id,quote,quote_sha256:p.passage_sha256,start:p.character_start,end:p.character_end,reader_url:'/laws/'+r.id+'#'+p.reader_fragment,source_url:r.source_url,current_force:null,
+        content_kind:r.content_kind,content_extent:r.content_extent??null,completeness:'not independently established',offset_convention:'zero-based Unicode code points; end exclusive',
+        integrity:'Exact stored text, text version, passage hash and TXT download checked; not legal authenticity or currency',
+        context:{before:points.slice(before,p.character_start).join(''),after:points.slice(p.character_end,after).join(''),start:before,end:after,status:'Context review required; surrounding text may omit qualifications elsewhere in the instrument'},
+        quotation_status:'Exact stored passage located; legal meaning and contextual sufficiency not verified'};
     } else if(name==='find_cases') {
       readLaw(args.instrument_id);data=model.rules.filter(r=>r.instrument_id===args.instrument_id).flatMap(r=>r.case_relationships).map(rel=>({...rel,judgment:model.evidence.documents.find(d=>d.id==='judgment:'+rel.case_id)}));
     } else if(name==='get_rule'||name==='assess_rule') {
