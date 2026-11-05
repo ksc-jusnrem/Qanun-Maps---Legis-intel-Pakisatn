@@ -15,9 +15,5 @@ export function buildWorkbench({output,head,header,footer}) {
   fs.writeFileSync(path.join(output,'rule-workbench.html'),head('Rule workbench')+header+content+footer+`<script>${script}</script></body></html>`);
   fs.writeFileSync(path.join(output,'rules-model.json'),JSON.stringify(model));
   fs.copyFileSync(new URL('./section-candidates.json',import.meta.url),path.join(output,'section-candidates.json'));
-  for(const name of ['index.html','legislation.html','membership.html','mappings.html','case-law.html']) {
-    const file=path.join(output,name);const html=fs.readFileSync(file,'utf8');
-    fs.writeFileSync(file,html.replace('href="/mappings"','href="/rule-workbench">Rule workbench</a><a href="/mappings"'));
-  }
   return {rules:model.rules.length,model_id:model.model_id,section_candidates:candidates.provenance.sections,script_csp_token:'sha256-'+crypto.createHash('sha256').update(script).digest('base64')};
 }

@@ -27,5 +27,18 @@
         }
       ]
     }
-  ]
+  ],
+  "rewrites": [
+    {
+      "source": "/mcp",
+      "destination": "/api/mcp"
+    }
+  ],
+  "functions": {
+    "api/mcp.js": {
+      "maxDuration": 30,
+      "includeFiles": "{landing-pages/qanun-maps/laws/*.{json,txt},tools/qanun-framework/section-candidates.json,tools/qanun-release/{statute-rule-mappings,rule-case-mappings}.json}",
+      "excludeFiles": "{.qanun-*/**,landing-pages/qanun-maps/**/*.html,tools/qanun-release/*.html}"
+    }
+  }
 }

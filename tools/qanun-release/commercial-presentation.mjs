@@ -6,12 +6,12 @@ body{background:#fbfaf7} .shell{max-width:1280px}header{min-height:98px;height:a
 
 export const commercialSection = `
 <section class="membership" id="membership" aria-labelledby="membership-title">
- <div class="member-head"><div><div class="eyebrow">QANUN MAPS · PAID RESEARCH ACCESS</div><h2 id="membership-title">Pakistan’s legislation.<br>Connected to your ChatGPT research.</h2><p>A paid MCP connector is in development to bring source-linked law searches and cited passages into ChatGPT. Individual subscriptions and institutional licensing are planned.</p></div><span class="coming">COMING SOON</span></div>
+ <div class="member-head"><div><div class="eyebrow">QANUN MAPS · PAID RESEARCH ACCESS</div><h2 id="membership-title">Pakistan’s legislation.<br>Connected to your AI research.</h2><p>The hosted MCP research service supports access-key connections for Claude, Grok and compatible clients. Individual paid subscriptions and institutional licensing are planned. <a href="/connectors">See client setup and pilot access</a>.</p></div><span class="coming">COMING SOON</span></div>
  <div class="plans">
   <article class="plan"><h3>Monthly</h3><div class="price">US$5 <small>/ month</small></div><p>Individual paid connector access.<br>A flexible monthly subscription.</p><span class="coming">Coming soon</span></article>
   <article class="plan featured"><h3>Annual</h3><div class="price">US$50 <small>/ year</small></div><p>Individual paid connector access.<br>Save US$10 compared with 12 monthly payments.</p><span class="coming">Coming soon</span></article>
   <article class="plan"><h3>Institutional licence</h3><div class="price institution-price">By quotation</div><p>For law firms, universities, research organisations and public bodies. Seats, permitted use and support will be agreed in the institutional licence.</p><span class="coming">Coming soon</span></article>
  </div>
- <p class="payment-note"><strong>Payoneer and other payment options — coming soon.</strong> Payments are not being accepted on this website yet. Paid connector access is not yet available. No free MCP tier is planned. Any required ChatGPT subscription is separate.</p>
+ <p class="payment-note"><strong>Payoneer and other payment options — coming soon.</strong> Payments are not being accepted on this website yet. Paid connector access is not yet available. No free MCP tier is planned. Any required AI provider subscription or API usage is separate.</p>
  <details class="rights-note"><summary>Rights and permitted use</summary><p>© 2026 KSC.JUSNREM. Rights are reserved in original Qanun Maps software, design, annotations, analysis and original mapping material, to the extent owned by KSC.JUSNREM. Underlying legislation, judgments and third-party materials retain their applicable rights and source attribution. Subscription and institutional licence terms will be published before paid access opens.</p></details>
 </section>`;
