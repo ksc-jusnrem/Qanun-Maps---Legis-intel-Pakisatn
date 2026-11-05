@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+import crypto from 'node:crypto';
+import {buildFramework} from './model.mjs';
+const model=buildFramework('landing-pages/qanun-maps');
+const core=fs.readFileSync(new URL('./assessment.mjs',import.meta.url),'utf8').replace('export function assessRule','function assessRule');
+const ui=fs.readFileSync(new URL('./ui.js',import.meta.url),'utf8');
+const script=`const ruleRecords=${JSON.stringify(model.rules).replaceAll('<','\\u003c')};\n${core}\n${ui}`;
+const token='sha256-'+crypto.createHash('sha256').update(script).digest('base64');
+const config=JSON.parse(fs.readFileSync('vercel.json','utf8'));
+const header=config.headers.flatMap(x=>x.headers).find(h=>h.key==='Content-Security-Policy');
+if(!header.value.includes(token))header.value=header.value.replace('; style-src',` '${token}'; style-src`);
+if(!header.value.includes('connect-src'))header.value+="; connect-src 'self'";
+fs.writeFileSync('vercel.json',JSON.stringify(config,null,2)+'\n');
+console.log('Prepared exact workbench CSP '+token+' and same-origin draft-inventory reads');

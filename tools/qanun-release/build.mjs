@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import {buildResearchPages} from './research-pages.mjs';
 import {integrateRuleCases} from './rule-case-panels.mjs';
+import {buildWorkbench} from '../qanun-framework/page.mjs';
 import {commercialCss, commercialSection} from './commercial-presentation.mjs';
 import {applySectionNavigation} from './section-navigation.mjs';
 import {applyMappings} from './mapping-panels.mjs';
@@ -63,6 +64,7 @@ const mappingReport=applyMappings(output);
 const researchReport=buildResearchPages({output,head,header,footer});
 researchReport.rule_cases=integrateRuleCases(output);
 fs.writeFileSync(path.join(output,'index.html'),home.replace(commercialSection,researchReport.intro+commercialSection));
+researchReport.rule_framework=buildWorkbench({output,head,header,footer});
 const inventory={};function walk(dir){for(const n of fs.readdirSync(dir)){const p=path.join(dir,n);if(fs.statSync(p).isDirectory())walk(p);else inventory[path.relative(output,p).split(path.sep).join('/')]={sha256:hash(fs.readFileSync(p)),bytes:fs.statSync(p).size};}}walk(output);
 const report={research:{...researchReport,intro:undefined},baseline_commit:'32e69c9dd4d373e95bedc6ab3221002ac889aa19',parent_release_commit:'b074d59da3d040ba16974f774f8ab5f9b041e8a9',extension_manifest:'QANUN-LAW-ASSETS-2026-10-31.json',record_count:records.length,law_text_count:1728,source_notice_count:4,public_file_count:Object.keys(inventory).length,script_csp_token:'sha256-'+crypto.createHash('sha256').update(combinedScript).digest('base64'),script_sha256:hash(combinedScript),fonts:fontNumber,font_policy_required:'font-src self or exact asset URLs; not applied',script_policy_required:'exact script CSP hash; not applied',type_counts:Object.fromEntries(types.map(t=>[t,catalogue.filter(x=>x.type===t).length])),year_unknown:catalogue.filter(x=>!x.year).length,ict_title_references:catalogue.filter(x=>x.ict).length,download_bytes_unchanged:true,source_text_characters_unchanged:true,presentation_markers_hidden:true,reader_script_csp_token:'sha256-'+crypto.createHash('sha256').update(readerScript).digest('base64'),manifest:inventory};
 for(const name of all.filter(n=>n.endsWith('.txt')||n.endsWith('.json'))){if(hash(fs.readFileSync(path.join(output,name)))!==manifest.output_allowlist[name].sha256)throw Error('Download changed '+name);}

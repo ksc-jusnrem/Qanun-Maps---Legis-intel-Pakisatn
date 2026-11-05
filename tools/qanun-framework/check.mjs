@@ -1,0 +1,15 @@
+import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import crypto from 'node:crypto';
+const output=process.argv[2];if(!output)throw Error('Output path required');
+const model=JSON.parse(fs.readFileSync(path.join(output,'rules-model.json'),'utf8'));
+const {model_id,...core}=model;assert.equal(crypto.createHash('sha256').update(JSON.stringify(core)).digest('hex'),model_id);
+const page=fs.readFileSync(path.join(output,'rule-workbench.html'),'utf8');
+const policy=JSON.parse(fs.readFileSync('vercel.json','utf8')).headers.flatMap(x=>x.headers).find(h=>h.key==='Content-Security-Policy').value;
+for(const match of page.matchAll(/<script>([\s\S]*?)<\/script>/g))assert.ok(policy.includes('sha256-'+crypto.createHash('sha256').update(match[1]).digest('base64')),'Script CSP missing');
+assert.ok(page.includes('Organise the facts')&&page.includes('Legal outcome: undetermined'));
+for(const r of model.rules){assert.ok(page.includes('id="'+r.id+'"'));assert.equal(r.review.structured_rule,'awaiting legal review');assert.equal(r.time.current_force,null);for(const id of r.evidence_ids){const e=model.evidence.excerpts.find(e=>e.id===id);assert.ok(e);for(const anchor of e.anchors.filter(a=>a.startsWith('/'))){const [url,fragment]=anchor.split('#');const reader=fs.readFileSync(path.join(output,url.slice(1)+'.html'),'utf8');assert.ok(reader.includes('id="'+fragment+'"'),'Unresolved evidence anchor');}}}
+for(const name of ['index','mappings','case-law'])assert.ok(fs.readFileSync(path.join(output,name+'.html'),'utf8').includes('href="/rule-workbench"'));
+assert.ok(fs.readFileSync(path.join(output,'mappings.html'),'utf8').includes('id="evidence-inspector"'));
+const candidates=JSON.parse(fs.readFileSync(path.join(output,'section-candidates.json'),'utf8'));assert.equal(candidates.records.length,1732);assert.deepEqual(candidates.provenance.mismatches,[]);
+assert.equal(fs.readdirSync(path.join(output,'laws')).filter(n=>n.endsWith('.html')).length,1732);
+assert.ok(!fs.existsSync(path.join(output,'entitlements.json')));
+console.log('FRAMEWORK_RELEASE_PASS '+model.rules.length+' rules; '+candidates.provenance.sections+' draft headings; source anchors and CSP resolved');
