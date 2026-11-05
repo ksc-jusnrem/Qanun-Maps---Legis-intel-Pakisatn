@@ -23,7 +23,7 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'none'; script-src 'sha256-MoXi5dvja+XVpYBwsu0ywBdx508ODNcSpCeUetOeDfo=' 'sha256-oeOpyaOR6kupThpPj5lQN7x+/sSbwpCkNrdufR8RljI=' 'sha256-wU6bFjfxqMQZWxYMNhoWgR4K9vlNZcjZCzUy/j4gvKo=' 'sha256-1/H7yhcQa9bdrmQzlgNsu9ALXzshAV93cW0FGXRoT2s=' 'sha256-32RZ+PcqPT/5dK4FGzf2tnr5Pg1i/D/gcwEtJ+pLQEM=' 'sha256-NG6vTQC7bI9LXFtMt/mM2ls31ulRgdONSKLbZ5F8h78='; style-src 'unsafe-inline'; font-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'self'; frame-ancestors 'none'; connect-src 'self'"
+          "value": "default-src 'none'; script-src 'sha256-AvJwYsjVA/r8VO1E69xfVJgrg2qTmDarTi+3ZHQ5pbc=' 'sha256-MoXi5dvja+XVpYBwsu0ywBdx508ODNcSpCeUetOeDfo=' 'sha256-oeOpyaOR6kupThpPj5lQN7x+/sSbwpCkNrdufR8RljI=' 'sha256-wU6bFjfxqMQZWxYMNhoWgR4K9vlNZcjZCzUy/j4gvKo=' 'sha256-1/H7yhcQa9bdrmQzlgNsu9ALXzshAV93cW0FGXRoT2s=' 'sha256-32RZ+PcqPT/5dK4FGzf2tnr5Pg1i/D/gcwEtJ+pLQEM=' 'sha256-NG6vTQC7bI9LXFtMt/mM2ls31ulRgdONSKLbZ5F8h78='; style-src 'unsafe-inline'; font-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'self'; frame-ancestors 'none'; connect-src 'self'"
         }
       ]
     }
@@ -39,6 +39,9 @@
       "maxDuration": 30,
       "includeFiles": "{landing-pages/qanun-maps/laws/*.{json,txt},tools/qanun-framework/section-candidates.json,tools/qanun-release/{statute-rule-mappings,rule-case-mappings}.json}",
       "excludeFiles": "{.qanun-*/**,landing-pages/qanun-maps/**/*.html,tools/qanun-release/*.html}"
+    },
+    "api/case-law.js": {
+      "maxDuration": 30
     }
   }
 }

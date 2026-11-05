@@ -34,7 +34,7 @@ if(mode==='inventory'){
  assert.ok(cp.includes('judgment not checked'));assert.ok(mp.includes('Case mapping unresolved'));assert.ok(cp.includes('No automatic merging'));
  console.log('RULE_INTEGRATION_PASS: reciprocal rule/case/provision anchors, coverage and evidence distinctions');
 }else if(mode==='release'){
- const r=read(new URL('./integration-manifest.json',import.meta.url));assert.equal(r.record_count,1732);assert.equal(r.law_text_count,1728);assert.equal(r.public_file_count,5223);assert.equal(r.research.rule_cases.case_relationship_count,9);assert.equal(r.research.rule_cases.reviewed_case_count,5);assert.ok(r.download_bytes_unchanged&&r.source_text_characters_unchanged);
+ const r=read(new URL('./integration-manifest.json',import.meta.url));assert.equal(r.record_count,1732);assert.equal(r.law_text_count,1728);assert.equal(r.public_file_count,5224);assert.equal(r.research.rule_cases.case_relationship_count,9);assert.equal(r.research.rule_cases.reviewed_case_count,5);assert.ok(r.download_bytes_unchanged&&r.source_text_characters_unchanged);
  const result=spawnSync(process.execPath,['tools/qanun-release/research-check.mjs',out],{stdio:'inherit'});assert.equal(result.status,0);
  const policy=read('vercel.json').headers.flatMap(x=>x.headers).find(h=>h.key==='Content-Security-Policy').value;
  for(const p of ['index.html','legislation.html','membership.html','case-law.html','laws/pk-code-6c462b7d924dbbe3.html']){const html=fs.readFileSync(path.join(out,p),'utf8');for(const m of html.matchAll(/<script>([\s\S]*?)<\/script>/g)){assert.ok(policy.includes('sha256-'+crypto.createHash('sha256').update(m[1]).digest('base64')),'Inline script must be allowed by CSP: '+p);}}
