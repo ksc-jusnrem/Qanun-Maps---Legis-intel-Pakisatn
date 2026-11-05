@@ -38,7 +38,7 @@ assert.equal(redirect('/?q=health&return=https://example.com'),'/legislation?q=h
 for(const url of ['/','/#membership','/?campaign=reference','/#%E0%A4%A'])assert.equal(redirect(url),undefined);
 
 // Reader return links preserve both current and legacy search state, but cannot leave the site.
-function readerReturn(requested){const link={href:'/legislation?record=test#catalogue'};vm.runInNewContext(source('./reader-ui.js'),{URL,URLSearchParams,document:{getElementById(){return link;}},location:{search:'?return='+encodeURIComponent(requested),origin:'https://www.jusnrem.legal'}});return link;}
+function readerReturn(requested){const link={href:'/legislation?record=test#catalogue'};vm.runInNewContext(source('./reader-ui.js'),{URL,URLSearchParams,document:{getElementById(id){return id==='catalogue-return'?link:null;}},location:{search:'?return='+encodeURIComponent(requested),origin:'https://www.jusnrem.legal'}});return link;}
 for(const url of ['/legislation?q=health&jur=Punjab#pk-code-6c462b7d924dbbe3','/?q=health#catalogue'])assert.equal(readerReturn(url).href,url);
 for(const url of ['https://example.com/legislation#catalogue','//example.com/#catalogue','javascript:alert(1)','/membership#catalogue','/legislation?unknown=1#catalogue','/legislation#%22onclick'])assert.equal(readerReturn(url).href,'/legislation?record=test#catalogue');
 
