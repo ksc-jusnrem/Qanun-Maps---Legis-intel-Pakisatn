@@ -52,6 +52,13 @@ inner.open=outer.open=false;location.hash='#absent';hashListener();assert.ok(!in
 location.hash='#reviewed-case';hashListener();assert.ok(inner.open&&outer.open);
 location.hash='#%E0%A4%A';assert.doesNotThrow(()=>hashListener());
 
+// The mappings script precedes its reference panels in the document. Wait for parsing before revealing an initial bookmark.
+let loaded,parsed=false;
+inner.open=outer.open=false;
+vm.runInNewContext(source('./research-details.js'),{location:{hash:'#reviewed-case'},document:{readyState:'loading',getElementById:()=>parsed?{closest:()=>inner}:null,addEventListener:(event,fn)=>{assert.equal(event,'DOMContentLoaded');loaded=fn;}},addEventListener:()=>{}});
+assert.ok(!inner.open&&!outer.open);
+parsed=true;loaded();assert.ok(inner.open&&outer.open);
+
 const policy=JSON.parse(fs.readFileSync('vercel.json','utf8')).headers.flatMap(h=>h.headers).find(h=>h.key==='Content-Security-Policy').value;
 assert.ok(policy.includes("form-action 'self'"),'The homepage GET search must be allowed');
 assert.ok(policy.includes("default-src 'none'")&&!policy.includes("script-src 'unsafe-inline'"));

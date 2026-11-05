@@ -6,5 +6,6 @@
     while(parent){parent.open=true;parent=parent.parentElement?.closest('details.research-drawer');}
   }
   addEventListener('hashchange',revealResearchAnchor);
-  revealResearchAnchor();
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',revealResearchAnchor,{once:true});
+  else revealResearchAnchor();
 })();
