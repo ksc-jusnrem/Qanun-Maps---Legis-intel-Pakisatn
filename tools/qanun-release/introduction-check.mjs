@@ -1,0 +1,20 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import assert from 'node:assert/strict';
+import {projectSummary,projectHomeIntroduction,projectAboutIntroduction} from './project-introduction.mjs';
+const output=process.argv[2];
+if(!output)throw Error('Provide generated public directory');
+const home=fs.readFileSync(path.join(output,'index.html'),'utf8');
+const about=fs.readFileSync(path.join(output,'about.html'),'utf8');
+assert.ok(home.includes(projectHomeIntroduction));
+assert.ok(about.includes(projectAboutIntroduction));
+assert.ok(home.includes(projectSummary)&&about.includes(projectSummary));
+assert.ok(home.includes('href="/about#project-introduction"'));
+for(const id of ['project-introduction','project-current','project-next'])assert.ok(about.includes(`id="${id}"`));
+assert.ok(about.includes('href="https://digitalgovernmenthub.org/library/creating-open-source-legislation-as-code/"'));
+assert.ok(about.includes('Pia Andrews')&&about.includes('This rule-testing capability is planned.'));
+const existing=JSON.parse(fs.readFileSync(new URL('./about-content.json',import.meta.url),'utf8'));
+const escape=s=>s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+for(const [title,paragraphs] of existing.sections){assert.ok(about.includes(escape(title)));for(const p of paragraphs)assert.ok(about.includes(escape(p)));}
+assert.ok(about.includes(escape(existing.intro)));
+console.log('PROJECT_INTRO_PASS: homepage and full introduction, reference credit, current/planned separation and all existing founder/programme text preserved.');

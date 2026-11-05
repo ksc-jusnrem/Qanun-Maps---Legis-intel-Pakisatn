@@ -22,11 +22,15 @@ const ruleCaseCheck=spawnSync(process.execPath,[path.join(toolDir,'rule-case-che
 if(ruleCaseCheck.status!==0)throw Error('Rule-case integration checks failed');
 const evidenceCheck=spawnSync(process.execPath,[path.join(toolDir,'evidence-check.mjs'),generated],{stdio:'inherit',cwd:root});
 if(evidenceCheck.status!==0)throw Error('Evidence inspector checks failed');
+const designCheck=spawnSync(process.execPath,[path.join(toolDir,'design-check.mjs'),generated],{stdio:'inherit',cwd:root});
+if(designCheck.status!==0)throw Error('Design navigation checks failed');
+const introductionCheck=spawnSync(process.execPath,[path.join(toolDir,'introduction-check.mjs'),generated],{stdio:'inherit',cwd:root});
+if(introductionCheck.status!==0)throw Error('Project introduction checks failed');
 const report=JSON.parse(fs.readFileSync(path.join(toolDir,'integration-manifest.json'),'utf8'));
-if(report.record_count!==1732||report.law_text_count!==1728||report.source_notice_count!==4||report.public_file_count!==5210)throw Error('Unexpected generated coverage');
+if(report.record_count!==1732||report.law_text_count!==1728||report.source_notice_count!==4||report.public_file_count!==5212)throw Error('Unexpected generated coverage');
 if(report.research.case_count!==2397||report.research.statute_edges!==9||report.research.mapped_law_count<1)throw Error('Research integration missing');
 const policy=JSON.parse(fs.readFileSync(path.join(root,'vercel.json'),'utf8')).headers.flatMap(x=>x.headers).find(x=>x.key==='Content-Security-Policy').value;
-for(const token of [report.script_csp_token,report.reader_script_csp_token,report.research.script_csp_token,report.research.evidence_inspector.script_csp_token,report.research.rule_framework.script_csp_token])if(!policy.includes(token))throw Error('Release script missing from CSP');
+for(const token of [report.home_script_csp_token,report.script_csp_token,report.reader_script_csp_token,report.research.script_csp_token,report.research.evidence_inspector.script_csp_token,report.research.rule_framework.script_csp_token])if(!policy.includes(token))throw Error('Release script missing from CSP');
 const frameworkCheck=spawnSync(process.execPath,[path.join(toolDir,'../qanun-framework/check.mjs'),generated],{stdio:'inherit',cwd:root});
 if(frameworkCheck.status!==0)throw Error('Rule framework checks failed');
 if(report.research.evidence_inspector.relationships!==18)throw Error('Evidence inspector coverage mismatch');

@@ -11,7 +11,7 @@ if(typeof document!=='undefined') {
  const count=document.getElementById('resultcount'),empty=document.getElementById('empty'),emptyText=document.getElementById('empty-text'),more=document.getElementById('more');
  let visibleLimit=40,matches=[],directRecord='';
  function readState(){const params=new URLSearchParams(location.search);for(const id of ids)document.getElementById(id).value=params.get(id)||'';const n=Number(params.get('shown'));visibleLimit=Number.isInteger(n)&&n>=40?Math.min(n,QANUN_RECORDS.length):40;directRecord=cards.has(params.get('record'))?params.get('record'):'';}
- function stateUrl(anchor='catalogue'){const p=new URLSearchParams();for(const id of ids){const v=document.getElementById(id).value;if(v)p.set(id,v);}if(visibleLimit>40)p.set('shown',String(visibleLimit));if(directRecord)p.set('record',directRecord);return '/'+(p.size?'?'+p.toString():'')+'#'+anchor;}
+ function stateUrl(anchor='catalogue'){const p=new URLSearchParams();for(const id of ids){const v=document.getElementById(id).value;if(v)p.set(id,v);}if(visibleLimit>40)p.set('shown',String(visibleLimit));if(directRecord)p.set('record',directRecord);return '/legislation'+(p.size?'?'+p.toString():'')+'#'+anchor;}
  function apply(reset=true,save=true){
   if(reset){visibleLimit=40;directRecord='';}
   const filters=Object.fromEntries(ids.map(id=>[id,document.getElementById(id).value]));
