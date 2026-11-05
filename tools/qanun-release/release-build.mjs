@@ -26,8 +26,10 @@ const designCheck=spawnSync(process.execPath,[path.join(toolDir,'design-check.mj
 if(designCheck.status!==0)throw Error('Design navigation checks failed');
 const introductionCheck=spawnSync(process.execPath,[path.join(toolDir,'introduction-check.mjs'),generated],{stdio:'inherit',cwd:root});
 if(introductionCheck.status!==0)throw Error('Project introduction checks failed');
+const policyCheck=spawnSync(process.execPath,[path.join(toolDir,'legislative-intelligence-check.mjs'),generated],{stdio:'inherit',cwd:root});
+if(policyCheck.status!==0)throw Error('Policy publication checks failed');
 const report=JSON.parse(fs.readFileSync(path.join(toolDir,'integration-manifest.json'),'utf8'));
-if(report.record_count!==1732||report.law_text_count!==1728||report.source_notice_count!==4||report.public_file_count!==5212)throw Error('Unexpected generated coverage');
+if(report.record_count!==1732||report.law_text_count!==1728||report.source_notice_count!==4||report.public_file_count!==5215)throw Error('Unexpected generated coverage');
 if(report.research.case_count!==2397||report.research.statute_edges!==9||report.research.mapped_law_count<1)throw Error('Research integration missing');
 const policy=JSON.parse(fs.readFileSync(path.join(root,'vercel.json'),'utf8')).headers.flatMap(x=>x.headers).find(x=>x.key==='Content-Security-Policy').value;
 for(const token of [report.home_script_csp_token,report.script_csp_token,report.reader_script_csp_token,report.research.script_csp_token,report.research.evidence_inspector.script_csp_token,report.research.rule_framework.script_csp_token])if(!policy.includes(token))throw Error('Release script missing from CSP');
