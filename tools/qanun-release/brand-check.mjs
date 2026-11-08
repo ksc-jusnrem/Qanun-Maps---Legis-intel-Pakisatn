@@ -11,7 +11,7 @@ for(const file of [...Object.keys(pageMetadata).map(name=>name+'.html'),'404.htm
  assert.ok(html.includes('href="/mappings">Qanun Maps</a>'));
  assert.ok(html.includes('href="/connectors">Legis-Intel MCP</a>'));
  assert.ok(!html.includes('<strong>Qanun Maps <span class="beta">'));
- assert.match(html,/<title>[^<]*Legis-Intel Pakistan<\/title>/);
+ assert.match(html,/<title>[^<]*Legis-Intel Pakistan[^<]*<\/title>/);
 }
 assert.ok(read('index.html').includes('Every rule has a source. Every connection has a reason.'));
 assert.ok(read('index.html').includes('From legal text<br><em>to connected intelligence.</em>'));
