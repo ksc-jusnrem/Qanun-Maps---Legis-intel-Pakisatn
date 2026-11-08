@@ -34,6 +34,8 @@ const clientCheck=spawnSync(process.execPath,[path.join(toolDir,'../qanun-mcp/se
 if(clientCheck.status!==0)throw Error('Client setup checks failed');
 const visitorCheck=spawnSync(process.execPath,[path.join(toolDir,'visitor-seo-check.mjs'),generated],{stdio:'inherit',cwd:root});
 if(visitorCheck.status!==0)throw Error('Visitor guidance or search visibility checks failed');
+const brandCheck=spawnSync(process.execPath,[path.join(toolDir,'brand-check.mjs'),generated],{stdio:'inherit',cwd:root});
+if(brandCheck.status!==0)throw Error('Platform brand or mapping-tool identity checks failed');
 const report=JSON.parse(fs.readFileSync(path.join(toolDir,'integration-manifest.json'),'utf8'));
 if(report.record_count!==1732||report.law_text_count!==1728||report.source_notice_count!==4||report.public_file_count!==5226)throw Error('Unexpected generated coverage');
 if(report.research.case_count!==2397||report.research.statute_edges!==9||report.research.mapped_law_count<1)throw Error('Research integration missing');

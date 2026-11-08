@@ -35,7 +35,7 @@ export function createHttpHandler({getService, getRegistry, now = Date.now, allo
     let registry;
     try { registry = getRegistry(); } catch { return error(503,null,-32603,'Access configuration unavailable'); }
     const grant = authenticate(request.headers.get('authorization'),registry,now());
-    if (!grant) return error(401,null,-32001,'Valid Qanun Maps access key required',{'WWW-Authenticate':'Bearer realm="qanun-maps"'});
+    if (!grant) return error(401,null,-32001,'Valid Legis-Intel MCP access key required',{'WWW-Authenticate':'Bearer realm="qanun-maps"'});
     if (request.method !== 'POST') return error(405,null,-32600,'Use POST for MCP messages',{'Allow':'POST'});
     if (!request.headers.get('content-type')?.toLowerCase().startsWith('application/json')) return error(415,null,-32600,'Content-Type must be application/json');
     const accept = request.headers.get('accept') || '';

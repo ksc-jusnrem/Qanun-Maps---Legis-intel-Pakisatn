@@ -44,4 +44,4 @@ for(const name of fs.readdirSync(path.join(output,'laws')).filter(n=>n.endsWith(
  if(r.content_kind==='source_notice'){notices++;assert.ok(!urls.includes(origin+'/laws/'+r.id));assert.ok(read('laws/'+r.id+'.html').includes('noindex,follow'));}
 }
 assert.equal(notices,4);
-console.log('VISITOR_SEO_PASS: 26 glossary terms, guide links and fragments, 1739 canonical sitemap URLs, crawler access, metadata, ownership marker and four excluded source notices.');
+console.log('VISITOR_SEO_PASS: 27 glossary terms, guide links and fragments, 1739 canonical sitemap URLs, crawler access, metadata, ownership marker and four excluded source notices.');
