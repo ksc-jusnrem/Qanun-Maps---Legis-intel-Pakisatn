@@ -5,6 +5,8 @@
  if(requested){try{const u=new URL(requested,location.origin);const allowed=['q','jur','year','instrument','kind','shown','record'];if(u.origin===location.origin&&['/','/legislation'].includes(u.pathname)&&[...u.searchParams.keys()].every(k=>allowed.includes(k))&&/^#(?:catalogue|[a-zA-Z0-9_-]+)$/.test(u.hash)){link.href=u.pathname+u.search+u.hash;link.textContent='Back to your search';}}catch{}}
  const form=document.getElementById('reader-search');
  if(!form)return;
+ const format=document.getElementById('reader-format'),text=document.getElementById('law-text');
+ if(format&&text){format.hidden=false;format.addEventListener('click',()=>{const show=text.classList.toggle('show-extraction');format.setAttribute('aria-pressed',String(show));format.textContent=show?'Use reading view':'Show extraction spacing';});}
  const query=document.getElementById('reader-query'),status=document.getElementById('reader-search-status'),results=document.getElementById('reader-search-results');
  const normalize=s=>s.replace(/\s+/g,' ').trim();
  const headings=Array.from(document.querySelectorAll('nav[aria-label="Identified provisions"] a')).map(a=>({label:a.textContent,href:a.getAttribute('href'),text:normalize(a.textContent).toLowerCase(),kind:'Identified heading'}));
