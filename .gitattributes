@@ -3,3 +3,6 @@
 *.png binary
 *.pdf binary
 *.webp binary
+
+# Source-layout proofs bind exact bytes across Windows and hosted Linux builds.
+tools/qanun-library/** -text

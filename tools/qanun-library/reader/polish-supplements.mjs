@@ -1,0 +1,5 @@
+import fs from 'node:fs';
+const url=new URL('./supplements.mjs',import.meta.url);let s=fs.readFileSync(url,'utf8');
+s=s.replace('.source-supplement-nav a{','.source-supplement-rotate{margin:0 8px 14px 0}.source-supplement-page>label{font:14px/1.6 Arial,sans-serif}.source-supplement-rotate:checked~.source-supplement-viewport{position:relative;padding:0;aspect-ratio:var(--source-landscape-ratio)}.source-supplement-rotate:checked~.source-supplement-viewport img{position:absolute;left:50%;top:50%;width:calc(100% * var(--source-page-ratio));height:auto;transform:translate(-50%,-50%) rotate(90deg)}.source-supplement-nav a{');
+s=s.replace('</figcaption><div class="source-supplement-viewport">','</figcaption><input type="checkbox" class="source-supplement-rotate" id="source-supplement-rotate-${p.source_page}"><label for="source-supplement-rotate-${p.source_page}">Rotate 90° for reading</label><div class="source-supplement-viewport" style="--source-page-ratio:${p.width/p.height};--source-landscape-ratio:${p.height/p.width}">');
+fs.writeFileSync(url,s);

@@ -1,0 +1,696 @@
+{
+  "schema_version": "legis-intel-source-reading-layouts/1",
+  "scope": "Eight paragraph-only fallback records identified by prior complete reader scan",
+  "accepted": 8,
+  "readable_text_layouts": 6,
+  "image_body_exceptions": [
+    "pk-code-5097d83dca653be9",
+    "pk-code-ab0f59c91b74feab"
+  ],
+  "nonmatches": [],
+  "records": [
+    {
+      "id": "pk-code-084197d9e14ef6bb",
+      "title": "Judicial Officers´ Protection Act, 1850",
+      "input_text_sha256": "34888d72535f3764b9a5a97c5b196c7fd58513d9bec3794ced2673a3c62e386a",
+      "layout_path": "tools/qanun-library/reader/verified-layouts/layouts/pk-code-084197d9e14ef6bb.txt",
+      "layout_sha256": "2d7e4327bbd2b94cde2d6f99b485b49f66a21f0e8ebbbb29942a69304e135b89",
+      "layout_characters": 2797,
+      "non_whitespace_characters": 2170,
+      "literal_non_whitespace_sha256": "0a3b9eaf02dcce54675a2c6313ec7131339a16222abb937121d9ca3e4ba770f4",
+      "literal_stream_equal": true,
+      "comparison_method": "Exact full non-whitespace character equality; no NFKC, case folding, quote equivalence, soft-hyphen removal or punctuation substitution.",
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\c7ba4349c9875211_Judicial_Officers_Protection_Act,_1850.pdf",
+      "original_pdf_sha256": "91dc3bb3451e74d74eb93d7594719172ce606daeb19b248f52614d3c9c99dd9a",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorc6ff9d5902d0d783c6b8ef80aa8becdc.pdf",
+      "recorded_detail_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Fvb50%3D-sg-jjjjjjjjjjjjj",
+      "original_retrieval_date": "2026-07-23T21:24:04Z",
+      "extraction_method": "PyMuPDF page.get_text(\"text\"), original content order; page texts joined by two newlines.",
+      "pages": [
+        {
+          "page": 1,
+          "extracted_non_whitespace_characters": 180,
+          "images": 3
+        },
+        {
+          "page": 2,
+          "extracted_non_whitespace_characters": 1990,
+          "images": 1
+        }
+      ],
+      "low_text_image_pages": [],
+      "reading_status": "source_derived_readable_layout",
+      "source_completeness_note": "Layout verified against complete held text character stream; legal force and later amendments remain separate."
+    },
+    {
+      "id": "pk-code-4fd8caf7b4384576",
+      "title": "President's Pension Act, 1974",
+      "input_text_sha256": "3b54c5413cc83d1cecabb8b98d849c87634e294004645fb5095f1012a528e1e4",
+      "layout_path": "tools/qanun-library/reader/verified-layouts/layouts/pk-code-4fd8caf7b4384576.txt",
+      "layout_sha256": "82766809bf94d6d8ea2679695c4e3b700a4deaf2c21999461713941e16e4c0c1",
+      "layout_characters": 6878,
+      "non_whitespace_characters": 5283,
+      "literal_non_whitespace_sha256": "76c3f75ad6457477ada597a5e399d5cafb12f287cdd6625c1e1f7fac972a74f7",
+      "literal_stream_equal": true,
+      "comparison_method": "Exact full non-whitespace character equality; no NFKC, case folding, quote equivalence, soft-hyphen removal or punctuation substitution.",
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\bd2438daf9de42e9_President's_Pension_Act,_1974.pdf",
+      "original_pdf_sha256": "28cdfdd507dc1b07c35a531b84d9ebececd7a1e59543082a7c14af305f446368",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator27e8ffee09259f1aeb1927fcc66b301c.pdf",
+      "recorded_detail_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bpuUY2ls-sg-jjjjjjjjjjjjj",
+      "original_retrieval_date": "2026-07-23T21:26:29Z",
+      "extraction_method": "PyMuPDF page.get_text(\"text\"), original content order; page texts joined by two newlines.",
+      "pages": [
+        {
+          "page": 1,
+          "extracted_non_whitespace_characters": 240,
+          "images": 4
+        },
+        {
+          "page": 2,
+          "extracted_non_whitespace_characters": 1481,
+          "images": 2
+        },
+        {
+          "page": 3,
+          "extracted_non_whitespace_characters": 1876,
+          "images": 2
+        },
+        {
+          "page": 4,
+          "extracted_non_whitespace_characters": 1686,
+          "images": 2
+        }
+      ],
+      "low_text_image_pages": [],
+      "reading_status": "source_derived_readable_layout",
+      "source_completeness_note": "Layout verified against complete held text character stream; legal force and later amendments remain separate."
+    },
+    {
+      "id": "pk-code-5097d83dca653be9",
+      "title": "Pakistan Nursing and Midwifery Council Ordinance, 2025",
+      "input_text_sha256": "54c0037a9a677d31499474bf9f58efd609a8b183e53ed2a5056d38a91e6309ee",
+      "layout_path": "tools/qanun-library/reader/verified-layouts/layouts/pk-code-5097d83dca653be9.txt",
+      "layout_sha256": "69b1ba0dd7d8a6234095c4b6bba071a74bbb14b91e9aecbd390e1b1b24d2d3c9",
+      "layout_characters": 3938,
+      "non_whitespace_characters": 2518,
+      "literal_non_whitespace_sha256": "1f37e11089bdac4ffb1f3dbacc5669427698c314eb738fb71f335d4beb0eaa27",
+      "literal_stream_equal": true,
+      "comparison_method": "Exact full non-whitespace character equality; no NFKC, case folding, quote equivalence, soft-hyphen removal or punctuation substitution.",
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\5b20c993975fbae1_Pakistan_Nursing_and_Midwifery_Council_Ordinance,_2025.pdf",
+      "original_pdf_sha256": "418c4c06b59a05b35e2fcf050954b6cd2cbcd0896f5d938057222732cab1746b",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator505f368de48128368ab2a90e97a5cd1b.pdf",
+      "recorded_detail_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tnbA%3D%3D-sg-jjjjjjjjjjjjj",
+      "original_retrieval_date": "2026-07-23T21:25:53Z",
+      "extraction_method": "PyMuPDF page.get_text(\"text\"), original content order; page texts joined by two newlines.",
+      "pages": [
+        {
+          "page": 1,
+          "extracted_non_whitespace_characters": 807,
+          "images": 1
+        },
+        {
+          "page": 2,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 3,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 4,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 5,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 6,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 7,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 8,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 9,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 10,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 11,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 12,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 13,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 14,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 15,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 16,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 17,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 18,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 19,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 20,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 21,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 22,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 23,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 24,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 25,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 26,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 27,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 28,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 29,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 30,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 31,
+          "extracted_non_whitespace_characters": 49,
+          "images": 1
+        },
+        {
+          "page": 32,
+          "extracted_non_whitespace_characters": 241,
+          "images": 1
+        }
+      ],
+      "low_text_image_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "reading_status": "text_layer_incomplete_image_body_requires_source_image_reader_or_verified_OCR",
+      "source_completeness_note": "The text layer does not expose most image pages. Exact character-stream matching is not complete statute-body verification."
+    },
+    {
+      "id": "pk-code-96851491f9ddd7d4",
+      "title": "Public Accountants´ Default Act, 1850",
+      "input_text_sha256": "869229b46105582ca41da916d1cc662358c716d3cc4fafa4d53a16c3911f2413",
+      "layout_path": "tools/qanun-library/reader/verified-layouts/layouts/pk-code-96851491f9ddd7d4.txt",
+      "layout_sha256": "a19775687fd351df59788100654aa03e64b3210785dc53996e6c210d1c884711",
+      "layout_characters": 5125,
+      "non_whitespace_characters": 3974,
+      "literal_non_whitespace_sha256": "ba24f54ee9136578ae88222ead9e1b849350eb78d75d2bf72b4611300c5595c2",
+      "literal_stream_equal": true,
+      "comparison_method": "Exact full non-whitespace character equality; no NFKC, case folding, quote equivalence, soft-hyphen removal or punctuation substitution.",
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\95ddf63e3f2f0277_Public_Accountants_Default_Act,_1850.pdf",
+      "original_pdf_sha256": "89ed307c460f65483550288fccb59724ffe5dcdc94b8c3544dd4afdcd7ee6611",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratoraf7be9587f13339baf709c9cf6ed9136.pdf",
+      "recorded_detail_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-aw%3D%3D-sg-jjjjjjjjjjjjj",
+      "original_retrieval_date": "2026-07-23T21:26:53Z",
+      "extraction_method": "PyMuPDF page.get_text(\"text\"), original content order; page texts joined by two newlines.",
+      "pages": [
+        {
+          "page": 1,
+          "extracted_non_whitespace_characters": 315,
+          "images": 3
+        },
+        {
+          "page": 2,
+          "extracted_non_whitespace_characters": 2918,
+          "images": 1
+        },
+        {
+          "page": 3,
+          "extracted_non_whitespace_characters": 741,
+          "images": 1
+        }
+      ],
+      "low_text_image_pages": [],
+      "reading_status": "source_derived_readable_layout",
+      "source_completeness_note": "Layout verified against complete held text character stream; legal force and later amendments remain separate."
+    },
+    {
+      "id": "pk-code-ab0f59c91b74feab",
+      "title": "Defence Industrial Production and Regulatory Authority of Pakistan Ordinance, 2026",
+      "input_text_sha256": "2b4d1aa067afc4da6f362e4e222bb204293c04c01e88893b3cf5ab47fbd32a58",
+      "layout_path": "tools/qanun-library/reader/verified-layouts/layouts/pk-code-ab0f59c91b74feab.txt",
+      "layout_sha256": "576f3acc9aba67299925c51341463d83992dd54f4af099b7f8ce968eea7b9ee0",
+      "layout_characters": 4379,
+      "non_whitespace_characters": 2798,
+      "literal_non_whitespace_sha256": "a3fc038463497cd052725e0337782ea873789887e5d8b53885ffb256ee8c8895",
+      "literal_stream_equal": true,
+      "comparison_method": "Exact full non-whitespace character equality; no NFKC, case folding, quote equivalence, soft-hyphen removal or punctuation substitution.",
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\eee01a9e37602997_Defence_Industrial_Production_and_Regulatory_Authority_of_Pakistan_Ordinance,_2026.pdf",
+      "original_pdf_sha256": "5939c1c34916e102f390360e7248697ec2c86af958f8515f65accbece6b560a2",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator8a882d3e0bebbcdf5634c63465ae91b3.pdf",
+      "recorded_detail_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5tpbw%3D%3D-sg-jjjjjjjjjjjjj",
+      "original_retrieval_date": "2026-07-23T21:22:03Z",
+      "extraction_method": "PyMuPDF page.get_text(\"text\"), original content order; page texts joined by two newlines.",
+      "pages": [
+        {
+          "page": 1,
+          "extracted_non_whitespace_characters": 819,
+          "images": 1
+        },
+        {
+          "page": 2,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 3,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 4,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 5,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 6,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 7,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 8,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 9,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 10,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 11,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 12,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 13,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 14,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 15,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 16,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 17,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 18,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 19,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 20,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 21,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 22,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 23,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 24,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 25,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 26,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 27,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 28,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 29,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 30,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 31,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 32,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 33,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 34,
+          "extracted_non_whitespace_characters": 47,
+          "images": 2
+        },
+        {
+          "page": 35,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 36,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 37,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 38,
+          "extracted_non_whitespace_characters": 47,
+          "images": 1
+        },
+        {
+          "page": 39,
+          "extracted_non_whitespace_characters": 240,
+          "images": 2
+        }
+      ],
+      "low_text_image_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "reading_status": "text_layer_incomplete_image_body_requires_source_image_reader_or_verified_OCR",
+      "source_completeness_note": "The text layer does not expose most image pages. Exact character-stream matching is not complete statute-body verification."
+    },
+    {
+      "id": "pk-code-b381214ba943ffa3",
+      "title": "Acceding State (Property) Order, 1961",
+      "input_text_sha256": "1133f60b7ee6cf0fa265815cfaaf318f856857da72408176b9f38c7d299dcff8",
+      "layout_path": "tools/qanun-library/reader/verified-layouts/layouts/pk-code-b381214ba943ffa3.txt",
+      "layout_sha256": "b4495b98f1873449eb7c55c9a2bf08bdd30c1e0d2fa0f77173945057b6f275fa",
+      "layout_characters": 3538,
+      "non_whitespace_characters": 2682,
+      "literal_non_whitespace_sha256": "c9887dc8fab4a1fb198f8bf311512df426f37128e2b1468844099909899e5d3c",
+      "literal_stream_equal": true,
+      "comparison_method": "Exact full non-whitespace character equality; no NFKC, case folding, quote equivalence, soft-hyphen removal or punctuation substitution.",
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\e48f4b7f9fe479e1_Acceding_State_(Property)_Order,_1961.pdf",
+      "original_pdf_sha256": "7a9d311c7557c8d60ffcb833a7cace09cfe01bfbcadcc06f8622531539650a0c",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator5d794f16b962bde9ff5bb4bb2a365f2e.pdf",
+      "recorded_detail_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-apaUY2Npa5plag%3D%3D-sg-jjjjjjjjjjjjj",
+      "original_retrieval_date": "2026-07-23T21:20:40Z",
+      "extraction_method": "PyMuPDF page.get_text(\"text\"), original content order; page texts joined by two newlines.",
+      "pages": [
+        {
+          "page": 1,
+          "extracted_non_whitespace_characters": 2355,
+          "images": 3
+        },
+        {
+          "page": 2,
+          "extracted_non_whitespace_characters": 327,
+          "images": 1
+        }
+      ],
+      "low_text_image_pages": [],
+      "reading_status": "source_derived_readable_layout",
+      "source_completeness_note": "Layout verified against complete held text character stream; legal force and later amendments remain separate."
+    },
+    {
+      "id": "pk-code-fc935fb388ced93d",
+      "title": "Caste Disabilities Removal Act, 1850",
+      "input_text_sha256": "a3e0476c7425d71c5c5537347335b59bdd13f6eb6a39e783bbda234ef01b303b",
+      "layout_path": "tools/qanun-library/reader/verified-layouts/layouts/pk-code-fc935fb388ced93d.txt",
+      "layout_sha256": "eb6b7fb3e9df6caf4afe2f8af59c8abba17304b95b73423095bdae3736a879fe",
+      "layout_characters": 3530,
+      "non_whitespace_characters": 2757,
+      "literal_non_whitespace_sha256": "f7bf68145436679586bf1c08d9efab2ceb104bb645e8cd81f3b86801c4010ddb",
+      "literal_stream_equal": true,
+      "comparison_method": "Exact full non-whitespace character equality; no NFKC, case folding, quote equivalence, soft-hyphen removal or punctuation substitution.",
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\8be2cc6e382bed54_Caste_Disabilities_Removal_Act,_1850.pdf",
+      "original_pdf_sha256": "824458b473b2abe3ded700619ca6aef50f07fedf5f1cdab3acb66f6efdda7d2e",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator288d0a3ec8ff89402149c031823f12e7.pdf",
+      "recorded_detail_url": "https://pakistancode.gov.pk/alpha/UY2FqaJw1-apaUY2Fqa-bQ%3D%3D-sg-jjjjjjjjjjjjj",
+      "original_retrieval_date": "2026-07-23T21:21:16Z",
+      "extraction_method": "PyMuPDF page.get_text(\"text\"), original content order; page texts joined by two newlines.",
+      "pages": [
+        {
+          "page": 1,
+          "extracted_non_whitespace_characters": 153,
+          "images": 3
+        },
+        {
+          "page": 2,
+          "extracted_non_whitespace_characters": 2604,
+          "images": 1
+        }
+      ],
+      "low_text_image_pages": [],
+      "reading_status": "source_derived_readable_layout",
+      "source_completeness_note": "Layout verified against complete held text character stream; legal force and later amendments remain separate."
+    },
+    {
+      "id": "punjab-code-c2540076ed44b08b",
+      "title": "PUNJAB LAND REVENUE (ABOLITION) ACT 1998",
+      "input_text_sha256": "776ac43dd99f5261dc669e4a792605598c4fe2a38699553faf97ec5fb29beeda",
+      "layout_path": "tools/qanun-library/reader/verified-layouts/layouts/punjab-code-c2540076ed44b08b.txt",
+      "layout_sha256": "51735645880e96e95b719ae3f46ec9c02ef2b2b8f412e808907a7dd02b5593db",
+      "layout_characters": 1994,
+      "non_whitespace_characters": 1516,
+      "literal_non_whitespace_sha256": "c7e1d94ff7202b11b3944af01533c71414bffeef8b974cc05a5389b9ddf8246b",
+      "literal_stream_equal": true,
+      "comparison_method": "Exact full non-whitespace character equality; no NFKC, case folding, quote equivalence, soft-hyphen removal or punctuation substitution.",
+      "original_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\punjab-code-corpus\\pdfs\\c2540076ed44b08b_PUNJAB LAND REVENUE (ABOLITION) ACT 1998.pdf",
+      "original_pdf_sha256": "20f1ed0384faff293f979550eb19e81bc0e7fe974027a4ac82d47a68606c3cc6",
+      "original_url": "https://punjabcode.punjab.gov.pk/uploads/articles/THE_PUNJAB_LAND_REVENUE_%28ABOLITION%29_ACT_1998.doc.pdf",
+      "recorded_detail_url": "https://punjabcode.punjab.gov.pk/en/show_article/V2JTYQs~Bz4-",
+      "original_retrieval_date": "2026-08-06T14:56:51Z",
+      "extraction_method": "PyMuPDF page.get_text(\"text\"), original content order; page texts joined by two newlines.",
+      "pages": [
+        {
+          "page": 1,
+          "extracted_non_whitespace_characters": 122,
+          "images": 0
+        },
+        {
+          "page": 2,
+          "extracted_non_whitespace_characters": 1394,
+          "images": 0
+        }
+      ],
+      "low_text_image_pages": [],
+      "reading_status": "source_derived_readable_layout",
+      "source_completeness_note": "Layout verified against complete held text character stream; legal force and later amendments remain separate."
+    }
+  ]
+}

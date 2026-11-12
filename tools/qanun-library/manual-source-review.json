@@ -1,0 +1,34 @@
+{
+  "record_id": "pk-code-a2f0a11f70fdf902",
+  "source_pdf_sha256": "0a8b926e1c6417563ab2afd0c5dc360edec2a4081a8b52be6e7b491ed4033efa",
+  "review_date": "2026-11-12",
+  "pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "printed_pages": [
+    765,
+    766,
+    767,
+    768,
+    769,
+    770
+  ],
+  "primary_visual_review": "All six original page images read and transcribed by the primary agent.",
+  "independent_visual_review": "All six original page images collated by the independent mapping/source reviewer. Clauses 1-11, inserted Article 4A(1)-(20), subclauses, provisos and page continuations checked; no changed or omitted substantive words, numerals or negations found.",
+  "review_corrections": [
+    "Retained comma after rolling-stock in Article 4A(1).",
+    "Retained terminal comma after rolling stock in Article 4A(7).",
+    "Retained comma after track access in Article 4A(20).",
+    "Retained the visible small period after clause 1(2)'s number, following the independent review's facsimile observation."
+  ],
+  "collation_reviewed_sha256_before_final_scan_mark": "7ff1427d685efbe0320e97b0ca5e321e859014e308db937c1df83f5bf0accb78",
+  "legacy_ocr_certified": false,
+  "reading_transcription_collated": true,
+  "current_force_status": "not_checked",
+  "final_collation_sha256": "be514f7be6f5f3a13aaf3eb5d95585c7c78c3e74bfed0f048962345596788890"
+}

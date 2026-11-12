@@ -1,0 +1,1186 @@
+{
+  "reviewer": "library_readers independent visual review",
+  "scope": "Actual displayed image-object panels read, with top72 source-object key. This classifies the displayed objects; source-occurrence/context validation belongs to the source officer census. No OCR or source-body/current-force certification.",
+  "panels": [
+    {
+      "path": "tools/qanun-library/sources/cache/review/remaining-small-top72.jpg",
+      "sha256": "d944ff4da91cb2dcaf681da59569df4fa2048a90b552e0b2da81fe5b922faef0"
+    },
+    {
+      "path": "tools/qanun-library/sources/cache/review/provisional-small-logos-188.jpg",
+      "sha256": "ad3dcb042c9edf4cbd9d8717a37aefcf9296921cd8fe40dfc2e6b4d1631770ca"
+    }
+  ],
+  "top72_publisher_emblem_watermark_exclusions": [
+    {
+      "number": 1,
+      "count": 232,
+      "id": "pk-code-088aeed25b25f266",
+      "page": 1,
+      "digest": "2e531f537437ed3221e35535e0bbe49f",
+      "area_ratio": 0.2167617,
+      "bbox": [
+        93.83999633789062,
+        392.03997802734375,
+        552.239990234375,
+        621.239990234375
+      ],
+      "width": 1080,
+      "height": 540
+    },
+    {
+      "number": 3,
+      "count": 31,
+      "id": "pk-code-211bb78dc5fb0414",
+      "page": 2,
+      "digest": "be2aeea4ab3ededb9679dd6bd2e16e4a",
+      "area_ratio": 0.2167617,
+      "bbox": [
+        93.83999633789062,
+        396.3599853515625,
+        552.239990234375,
+        625.5599975585938
+      ],
+      "width": 1080,
+      "height": 540
+    },
+    {
+      "number": 6,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "be2f80dad7cf86830bd579dc0020d70b",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        246.72000122070312,
+        552.239990234375,
+        262.55999755859375
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 7,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "3a041c7a873e34fb309f90ca6ef5ec09",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        262.5600280761719,
+        552.239990234375,
+        278.4000244140625
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 8,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "359e9de63fb2f1ba3f0bf858a4b5ba87",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        278.3999938964844,
+        552.239990234375,
+        294.239990234375
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 9,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "3c4238d8d19f8549f68eda9b2d39e611",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        294.239990234375,
+        552.239990234375,
+        310.0799865722656
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 10,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "df5c7322f8c1089fff4a814bee52333b",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        310.08001708984375,
+        552.239990234375,
+        325.9200134277344
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 11,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "f5a0568b580d9d7e66b81520a3e31dc5",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        325.9200134277344,
+        552.239990234375,
+        341.760009765625
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 12,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "438945f0c35e076f4fc4e8eb9c34c2b7",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        341.760009765625,
+        552.239990234375,
+        357.6000061035156
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 13,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "be5295b7c95232aa7ad09a2b408e9fe2",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        357.6000061035156,
+        552.239990234375,
+        373.44000244140625
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 14,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "ac9cb716099cea34ef8cb6fbb175f18d",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        373.44000244140625,
+        552.239990234375,
+        389.2799987792969
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 15,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "7db5e8c258bf7cbdb63c75f414a13334",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        389.2799987792969,
+        552.239990234375,
+        405.1199951171875
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 16,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "6232f162a93e0a1c0100b1057f4a8a13",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        405.1199951171875,
+        552.239990234375,
+        420.9599914550781
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 17,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "dc58fed828ff78b0f252ef498ce218dc",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        420.9599914550781,
+        552.239990234375,
+        436.79998779296875
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 18,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "d1322cc7176e683895023fe53d65ce7a",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        436.8000183105469,
+        552.239990234375,
+        452.6400146484375
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 19,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "4555319d9b24e3977692a2d4bb1e9ab3",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        452.6400146484375,
+        552.239990234375,
+        468.4800109863281
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 20,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "f266fb10c4d6f7d8fc71d4713ab2d3d2",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        468.4800109863281,
+        552.239990234375,
+        484.32000732421875
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 21,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "97ceedac7b0054e09fa375fd080a5106",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        484.32000732421875,
+        552.239990234375,
+        500.1600036621094
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 22,
+      "count": 10,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "89983aec2e99c9569487be90c1ef9d8b",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        500.1600036621094,
+        552.239990234375,
+        516
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 26,
+      "count": 7,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "085fdf94d493a9668bd3c4d56911eb2a",
+      "area_ratio": 0.1824813,
+      "bbox": [
+        102.23999786376953,
+        207.2396240234375,
+        529.9199829101562,
+        421.0796203613281
+      ],
+      "width": 427,
+      "height": 213
+    },
+    {
+      "number": 27,
+      "count": 7,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "20503a542f83c41d6fca9d8a74da321e",
+      "area_ratio": 0.1824813,
+      "bbox": [
+        102.23999786376953,
+        421.0796203613281,
+        529.9199829101562,
+        634.9196166992188
+      ],
+      "width": 427,
+      "height": 213
+    },
+    {
+      "number": 31,
+      "count": 4,
+      "id": "pk-code-0a1f9a9d07f6a01d",
+      "page": 1,
+      "digest": "68c92d9ebb2c5aea44245629f7db3086",
+      "area_ratio": 0.0172404,
+      "bbox": [
+        280.5,
+        42.749969482421875,
+        365.20001220703125,
+        141.40997314453125
+      ],
+      "width": 96,
+      "height": 109
+    },
+    {
+      "number": 35,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "a95f74224b57f45eb82ffdfab2fbc5a1",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        245.27999877929688,
+        552.239990234375,
+        261.1199951171875
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 36,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "b6c5cb1c269eedf7e0415b68f2386145",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        261.1200256347656,
+        552.239990234375,
+        276.96002197265625
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 37,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "3355800f3f96517194b9a81c2745ee6f",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        276.9599914550781,
+        552.239990234375,
+        292.79998779296875
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 38,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "3853540928ef0806616fc47a370b7701",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        292.8000183105469,
+        552.239990234375,
+        308.6400146484375
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 39,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "a4a9206105c83aea62c24fce762e15b9",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        308.6400146484375,
+        552.239990234375,
+        324.4800109863281
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 40,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "c173443ae810705e71b6bf456c894a48",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        324.4800109863281,
+        552.239990234375,
+        340.32000732421875
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 41,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "1e30e424d9a75bb21b7be8d308073f3f",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        340.32000732421875,
+        552.239990234375,
+        356.1600036621094
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 42,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "7835f7f6829a9f4100764d00c4937771",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        356.1600036621094,
+        552.239990234375,
+        372
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 43,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "fbb886293f2dfcc79e3dc7180bee1549",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        372,
+        552.239990234375,
+        387.8399963378906
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 44,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "60318184776cd0f3883a30f5284b8838",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        387.8399963378906,
+        552.239990234375,
+        403.67999267578125
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 45,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "bb313c094fb70e282660c909663487b7",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        403.67999267578125,
+        552.239990234375,
+        419.5199890136719
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 46,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "344ceeefbabd0fb450435cd087012c0e",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        419.5199890136719,
+        552.239990234375,
+        435.3599853515625
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 47,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "75df139dee94fe3675b9b944aa189383",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        435.3600158691406,
+        552.239990234375,
+        451.20001220703125
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 48,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "3b145dceb1af29cb91617f262d940dac",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        451.20001220703125,
+        552.239990234375,
+        467.0400085449219
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 49,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "93461b9ea9e011eeec2c1f3af8a4d11c",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        467.0400085449219,
+        552.239990234375,
+        482.8800048828125
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 50,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "bd317f3913cfb3b2c270f68ab6d2534a",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        482.8800048828125,
+        552.239990234375,
+        498.7200012207031
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 51,
+      "count": 3,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 1,
+      "digest": "304030ae1237a9d17a7c192075afc061",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        498.7200012207031,
+        552.239990234375,
+        514.5599975585938
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 53,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "c852dbac594bef6ce44fb92ecaf37781",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        246.72000122070312,
+        552.4800415039062,
+        262.55999755859375
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 54,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "1827babc555b45d2d417310056691433",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        262.55999755859375,
+        552.4800415039062,
+        278.3999938964844
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 55,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "a9359e9d5377c9141b3226c1e18e8ffd",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        278.3999938964844,
+        552.4800415039062,
+        294.239990234375
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 56,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "9788eef73d9639b125f1eb49ca04374a",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        294.2400207519531,
+        552.4800415039062,
+        310.08001708984375
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 57,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "419b5b1a4686247555ad021eacd6c3c9",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        310.0799865722656,
+        552.4800415039062,
+        325.91998291015625
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 58,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "82803f512c3f02d9d8ac9592fe6bfc4f",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        325.9200134277344,
+        552.4800415039062,
+        341.760009765625
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 59,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "e88beb2930f85808f026a17bf61ff0f5",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        341.7599792480469,
+        552.4800415039062,
+        357.5999755859375
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 60,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "5b0bb631822b9c7b2aaf913a8b22630a",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        357.6000061035156,
+        552.4800415039062,
+        373.44000244140625
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 61,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "561870d04e51fd76742f5d1703faf033",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        373.4400329589844,
+        552.4800415039062,
+        389.280029296875
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 62,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "0cbf4ee8fe2723fa5a1b214da78d65cf",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        389.2799987792969,
+        552.4800415039062,
+        405.1199951171875
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 63,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "52c894e50dd991333d2834dc1c1b6cbe",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        405.1199645996094,
+        552.4800415039062,
+        420.9599609375
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 64,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "5acd061e6667c1e1d59b8f0ffe67fdb6",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        420.96002197265625,
+        552.4800415039062,
+        436.8000183105469
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 65,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "2ae4dd82430162fae4f09ab5f1317bd4",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        436.8000183105469,
+        552.4800415039062,
+        452.6400146484375
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 66,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "db0126f227371dfbace96a19a760413b",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        452.6400146484375,
+        552.4800415039062,
+        468.4800109863281
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 67,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "c747133904f7e60541b66711ee259bad",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        468.4800109863281,
+        552.4800415039062,
+        484.32000732421875
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 68,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "3a0ddf569a85b9d3114a77c3b1e1aefa",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        484.32000732421875,
+        552.4800415039062,
+        500.1600036621094
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 69,
+      "count": 3,
+      "id": "pk-code-8c1aa86babddf1cf",
+      "page": 1,
+      "digest": "71c1ad8f1845ba66da62bd8bd4101c05",
+      "area_ratio": 0.0149804,
+      "bbox": [
+        94.08000183105469,
+        500.1600036621094,
+        552.4800415039062,
+        516
+      ],
+      "width": 955,
+      "height": 33
+    },
+    {
+      "number": 70,
+      "count": 2,
+      "id": "pk-code-065a6e78237f87e9",
+      "page": 1,
+      "digest": "40665987a1e8d18f131569609c641ec2",
+      "area_ratio": 0.0156875,
+      "bbox": [
+        271.3500061035156,
+        8.54998779296875,
+        358.95001220703125,
+        98.29998779296875
+      ],
+      "width": 116,
+      "height": 119
+    },
+    {
+      "number": 72,
+      "count": 2,
+      "id": "pk-code-334270ac204d99a9",
+      "page": 1,
+      "digest": "8cca21f08374ad0ca241f31a7677423c",
+      "area_ratio": 0.0099285,
+      "bbox": [
+        279.04998779296875,
+        83.50001525878906,
+        344.3499755859375,
+        159.70001220703125
+      ],
+      "width": 181,
+      "height": 290
+    }
+  ],
+  "top72_retained_objects": [
+    {
+      "number": 2,
+      "count": 66,
+      "id": "pk-code-50b156551c0e99ed",
+      "page": 219,
+      "digest": "ce8dbd6c32371c5f263c101f3dec5e26",
+      "area_ratio": 0.0004392,
+      "bbox": [
+        399.3599853515625,
+        169.31997680664062,
+        412.79998779296875,
+        185.15997314453125
+      ],
+      "width": 37,
+      "height": 44,
+      "reason": "Unknown black/tiny glyph or mask: retain actual composed source page; do not infer empty content"
+    },
+    {
+      "number": 4,
+      "count": 28,
+      "id": "pk-code-50b156551c0e99ed",
+      "page": 215,
+      "digest": "2d5490931f576492bbef8e73a5ec669d",
+      "area_ratio": 0.0002608,
+      "bbox": [
+        360,
+        406.08001708984375,
+        369.239990234375,
+        419.760009765625
+      ],
+      "width": 25,
+      "height": 37,
+      "reason": "Unknown black/tiny glyph or mask: retain actual composed source page; do not infer empty content"
+    },
+    {
+      "number": 5,
+      "count": 18,
+      "id": "pk-code-30ecabb4a7ed433a",
+      "page": 17,
+      "digest": "7f4db40547e8a20ea1c41a0306c020c6",
+      "area_ratio": 0.0031856,
+      "bbox": [
+        260.1600036621094,
+        135.83999633789062,
+        371.0400085449219,
+        150.239990234375
+      ],
+      "width": 231,
+      "height": 29,
+      "reason": "Visible religious/constitutional text heading retained"
+    },
+    {
+      "number": 23,
+      "count": 10,
+      "id": "pk-code-844d56d5915121fb",
+      "page": 3,
+      "digest": "8ea1ca276763788e21e008719d0670be",
+      "area_ratio": 0.0045016,
+      "bbox": [
+        72,
+        265.3199768066406,
+        202.55999755859375,
+        282.5999755859375
+      ],
+      "width": 174,
+      "height": 23,
+      "reason": "Visible religious/constitutional text heading retained"
+    },
+    {
+      "number": 24,
+      "count": 9,
+      "id": "pk-code-09962873f4c3ff32",
+      "page": 10,
+      "digest": "2d2b39a77ac2d9a53065b03c1c6da143",
+      "area_ratio": 0.0003933,
+      "bbox": [
+        235.67999267578125,
+        368.2799987792969,
+        249.71998596191406,
+        382.32000732421875
+      ],
+      "width": 26,
+      "height": 26,
+      "reason": "Outlined form box retained"
+    },
+    {
+      "number": 25,
+      "count": 8,
+      "id": "pk-code-50b156551c0e99ed",
+      "page": 219,
+      "digest": "4a5c281b71fbc45c1b8edd4b85aa58a1",
+      "area_ratio": 0.0007647,
+      "bbox": [
+        131.16000366210938,
+        181.80001831054688,
+        154.55999755859375,
+        197.6400146484375
+      ],
+      "width": 65,
+      "height": 44,
+      "reason": "Unknown black/tiny glyph or mask: retain actual composed source page; do not infer empty content"
+    },
+    {
+      "number": 28,
+      "count": 6,
+      "id": "pk-code-50b156551c0e99ed",
+      "page": 219,
+      "digest": "143a9d1865105cb6bf6c885c36f2f09e",
+      "area_ratio": 0.0007176,
+      "bbox": [
+        425.760009765625,
+        156.60000610351562,
+        447.7200012207031,
+        172.44000244140625
+      ],
+      "width": 61,
+      "height": 44,
+      "reason": "Unknown black/tiny glyph or mask: retain actual composed source page; do not infer empty content"
+    },
+    {
+      "number": 29,
+      "count": 6,
+      "id": "punjab-code-85706601105214af",
+      "page": 1,
+      "digest": "70804eebaf44ab20467195d7740e49e9",
+      "area_ratio": 0.0063828,
+      "bbox": [
+        212.1999969482422,
+        162.7000274658203,
+        383.20001220703125,
+        181.4000244140625
+      ],
+      "width": 400,
+      "height": 63,
+      "reason": "Visible religious/constitutional text heading retained"
+    },
+    {
+      "number": 30,
+      "count": 5,
+      "id": "pk-code-1bb8f26418349f92",
+      "page": 38,
+      "digest": "8dd6bb7329a71449b0a1b292b5999164",
+      "area_ratio": 0.0006381,
+      "bbox": [
+        368.2300109863281,
+        246.88995361328125,
+        392.2300109863281,
+        260.2099609375
+      ],
+      "width": 2,
+      "height": 2,
+      "reason": "Unknown black/tiny glyph or mask: retain actual composed source page; do not infer empty content"
+    },
+    {
+      "number": 32,
+      "count": 4,
+      "id": "pk-code-5097d83dca653be9",
+      "page": 1,
+      "digest": "74be103435937f8491ed9f5e730bebb6",
+      "area_ratio": 0.1015649,
+      "bbox": [
+        127.19999694824219,
+        107.99998474121094,
+        485.75,
+        245.29998779296875
+      ],
+      "width": 1494,
+      "height": 572,
+      "reason": "Original Gazette publication header retained"
+    },
+    {
+      "number": 33,
+      "count": 4,
+      "id": "pk-code-50b156551c0e99ed",
+      "page": 219,
+      "digest": "f3c97d0f54648a35686bf2c4535ebaad",
+      "area_ratio": 0.000749,
+      "bbox": [
+        131.16000366210938,
+        169.31997680664062,
+        154.0800018310547,
+        185.15997314453125
+      ],
+      "width": 64,
+      "height": 44,
+      "reason": "Unknown black/tiny glyph or mask: retain actual composed source page; do not infer empty content"
+    },
+    {
+      "number": 34,
+      "count": 4,
+      "id": "pk-code-50b156551c0e99ed",
+      "page": 686,
+      "digest": "0e01fc754b03fb257e7ecbeba73f8d1b",
+      "area_ratio": 0.0024955,
+      "bbox": [
+        544.2000122070312,
+        129.8400115966797,
+        616.2000122070312,
+        146.6400146484375
+      ],
+      "width": 199,
+      "height": 46,
+      "reason": "Unknown black/tiny glyph or mask: retain actual composed source page; do not infer empty content"
+    },
+    {
+      "number": 52,
+      "count": 3,
+      "id": "pk-code-2fff45df8bbd92f6",
+      "page": 213,
+      "digest": "4fc243406e1f2aafdc74d31737f15642",
+      "area_ratio": 0.0017027,
+      "bbox": [
+        161.9499969482422,
+        507.5279846191406,
+        175.84999084472656,
+        568.9199829101562
+      ],
+      "width": 38,
+      "height": 170,
+      "reason": "Unknown black/tiny glyph or mask: retain actual composed source page; do not infer empty content"
+    },
+    {
+      "number": 71,
+      "count": 2,
+      "id": "pk-code-0a3e518677d1bd6f",
+      "page": 114,
+      "digest": "c967845ff68e14b7371e6def9d98bda4",
+      "area_ratio": 2e-7,
+      "bbox": [
+        422.5199890136719,
+        128.04002380371094,
+        422.7599792480469,
+        128.52001953125
+      ],
+      "width": 1,
+      "height": 3,
+      "reason": "Unknown black/tiny glyph or mask: retain actual composed source page; do not infer empty content"
+    }
+  ],
+  "additional188_panel_classification": "All displayed objects are national/publisher emblems or Pakistan Code watermarks; cell15 is Government of Balochistan provincial publisher logo. No form/map/numeric table/standalone legal heading visible. Occurrence context remains a separate source-census check.",
+  "source_files_modified": false
+}

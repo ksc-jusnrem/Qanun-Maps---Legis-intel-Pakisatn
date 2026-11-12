@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import crypto from 'node:crypto';
+const sha=b=>crypto.createHash('sha256').update(b).digest('hex');
+const panels=['remaining-small-top72.jpg','provisional-small-logos-188.jpg'];
+const key=JSON.parse(fs.readFileSync(new URL('../sources/cache/review/remaining-small-top72-key.json',import.meta.url),'utf8'));
+const range=(a,b)=>Array.from({length:b-a+1},(_,i)=>a+i);
+const excluded=[1,3,...range(6,22),26,27,31,...range(35,51),...range(53,70),72];
+const retained=[2,4,5,23,24,25,28,29,30,32,33,34,52,71];
+if(new Set([...excluded,...retained]).size!==72)throw Error('Review classifications incomplete');
+const row={reviewer:'library_readers independent visual review',scope:'Actual displayed image-object panels read, with top72 source-object key. This classifies the displayed objects; source-occurrence/context validation belongs to the source officer census. No OCR or source-body/current-force certification.',panels:panels.map(name=>({path:'tools/qanun-library/sources/cache/review/'+name,sha256:sha(fs.readFileSync(new URL('../sources/cache/review/'+name,import.meta.url)))})),top72_publisher_emblem_watermark_exclusions:excluded.map(number=>key.find(r=>r.number===number)),top72_retained_objects:retained.map(number=>({...key.find(r=>r.number===number),reason:[5,23,29].includes(number)?'Visible religious/constitutional text heading retained':number===32?'Original Gazette publication header retained':number===24?'Outlined form box retained':'Unknown black/tiny glyph or mask: retain actual composed source page; do not infer empty content'})),additional188_panel_classification:'All displayed objects are national/publisher emblems or Pakistan Code watermarks; cell15 is Government of Balochistan provincial publisher logo. No form/map/numeric table/standalone legal heading visible. Occurrence context remains a separate source-census check.',source_files_modified:false};
+fs.writeFileSync(new URL('./source-image-object-review.json',import.meta.url),JSON.stringify(row,null,2));console.log(JSON.stringify({top72_excluded:excluded.length,top72_retained:retained.length,additional_emblem_objects:188}));

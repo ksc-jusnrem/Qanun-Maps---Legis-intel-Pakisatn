@@ -23,7 +23,7 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'none'; script-src 'sha256-MoXi5dvja+XVpYBwsu0ywBdx508ODNcSpCeUetOeDfo=' 'sha256-oeOpyaOR6kupThpPj5lQN7x+/sSbwpCkNrdufR8RljI=' 'sha256-wU6bFjfxqMQZWxYMNhoWgR4K9vlNZcjZCzUy/j4gvKo=' 'sha256-1/H7yhcQa9bdrmQzlgNsu9ALXzshAV93cW0FGXRoT2s=' 'sha256-FulSInvrNNnie5faNdzvxx3pXu14Yo3QGTOYLlpQ/c0=' 'sha256-NG6vTQC7bI9LXFtMt/mM2ls31ulRgdONSKLbZ5F8h78='; style-src 'unsafe-inline'; font-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'self'; frame-ancestors 'none'; connect-src 'self'"
+          "value": "default-src 'none'; script-src 'sha256-IdtvJ1qTzPzrIstO6Vi+Ln54pVLfw4d02yLbW7T3Dlg=' 'sha256-nhuW+KLBr4ga6sQ9emaBGRoAkiMwU5Sx8YUg4tufqQg=' 'self' 'sha256-Ln1oVz67CcllENARoI9nIVvaAF9Mtk3sugZhvuzO7wc=' 'sha256-qy1o0uTRi6RkH/nYYOhfwyf6I2s0eE7WMhJYriCV0ck=' 'sha256-z3xR3V4O6WsRHFxAYsbLzMBk1VFez6i9MihPzK4gzg0=' 'sha256-MoXi5dvja+XVpYBwsu0ywBdx508ODNcSpCeUetOeDfo=' 'sha256-oeOpyaOR6kupThpPj5lQN7x+/sSbwpCkNrdufR8RljI=' 'sha256-wU6bFjfxqMQZWxYMNhoWgR4K9vlNZcjZCzUy/j4gvKo=' 'sha256-1/H7yhcQa9bdrmQzlgNsu9ALXzshAV93cW0FGXRoT2s=' 'sha256-FulSInvrNNnie5faNdzvxx3pXu14Yo3QGTOYLlpQ/c0=' 'sha256-NG6vTQC7bI9LXFtMt/mM2ls31ulRgdONSKLbZ5F8h78='; style-src 'unsafe-inline'; font-src 'self'; img-src 'self' data:; base-uri 'none'; form-action 'self'; frame-ancestors 'none'; connect-src 'self'"
         }
       ]
     }
@@ -37,8 +37,15 @@
   "functions": {
     "api/mcp.js": {
       "maxDuration": 30,
-      "includeFiles": "{landing-pages/qanun-maps/laws/*.{json,txt},tools/qanun-framework/section-candidates.json,tools/qanun-release/{statute-rule-mappings,rule-case-mappings}.json}",
+      "includeFiles": "{landing-pages/qanun-maps/laws/*.{json,txt},landing-pages/qanun-maps/reading-records/*.json,landing-pages/qanun-maps/data/source-verification.json,tools/qanun-framework/section-candidates.json,tools/qanun-release/{statute-rule-mappings,rule-case-mappings}.json}",
       "excludeFiles": "{.qanun-*/**,landing-pages/qanun-maps/**/*.html,tools/qanun-release/*.html}"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/publications/Legislative_Intelligence_Policy_Paper_FINAL.pdf",
+      "destination": "https://ksc-jusnrem.io/policy-papers#legislative-intelligence",
+      "permanent": false
+    }
+  ]
 }

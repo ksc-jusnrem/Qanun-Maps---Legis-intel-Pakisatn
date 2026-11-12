@@ -1,0 +1,502 @@
+{
+  "records": [
+    {
+      "number": 7,
+      "id": "pk-code-0110d516a9238938",
+      "page": 2,
+      "digest": "00594fd4f42ba43fc1ca0427a0576295",
+      "area_ratio": 0.0015931,
+      "bbox": [
+        342.7300109863281,
+        18.70999526977539,
+        377.29010009765625,
+        38.8699951171875
+      ],
+      "width": 1,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 123,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "3492ab747a1187b0694cccc6ea7a42ff",
+      "area_ratio": 0.0149725,
+      "bbox": [
+        94.08000183105469,
+        167.51998901367188,
+        552.239990234375,
+        183.3599853515625
+      ],
+      "width": 955,
+      "height": 33,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 141,
+      "id": "pk-code-0fbd6d35f64e0589",
+      "page": 1,
+      "digest": "8cde9f9340e2c9da2c40e69b2a6e06a3",
+      "area_ratio": 0.0137249,
+      "bbox": [
+        94.08000183105469,
+        611.0399780273438,
+        552.239990234375,
+        625.5599975585938
+      ],
+      "width": 955,
+      "height": 31,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 246,
+      "id": "pk-code-1eefbffe36f5df1e",
+      "page": 2,
+      "digest": "c1fa1f22fa36d331be4027e683baad06",
+      "area_ratio": 3.9e-06,
+      "bbox": [
+        134.3000030517578,
+        83.39996337890625,
+        136.5500030517578,
+        84.25
+      ],
+      "width": 4,
+      "height": 1,
+      "underlying_text": "E",
+      "classification": "retained_text_overlap"
+    },
+    {
+      "number": 566,
+      "id": "pk-code-5dafefaab2147224",
+      "page": 1,
+      "digest": "5f2f89bf12ed97e16b4e40795e098d3c",
+      "area_ratio": 0.014949,
+      "bbox": [
+        94.08000183105469,
+        603.3599243164062,
+        551.52001953125,
+        619.199951171875
+      ],
+      "width": 953,
+      "height": 33,
+      "underlying_text": "9.  \nTemporary entry upon land for repairing or preventing accident",
+      "classification": "retained_text_overlap"
+    },
+    {
+      "number": 624,
+      "id": "pk-code-60dbb0374367e6f4",
+      "page": 1,
+      "digest": "b025abcbbb721ad2a1a26c574dab48f6",
+      "area_ratio": 0.013137,
+      "bbox": [
+        94.08000183105469,
+        610.5599975585938,
+        551.52001953125,
+        624.47998046875
+      ],
+      "width": 953,
+      "height": 29,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 628,
+      "id": "pk-code-60ef676a2188a30c",
+      "page": 1,
+      "digest": "ccb31a793d2cf43da959e09a58ae55e8",
+      "area_ratio": 0.0149647,
+      "bbox": [
+        94.08000183105469,
+        167.04000854492188,
+        552.0,
+        182.8800048828125
+      ],
+      "width": 954,
+      "height": 33,
+      "underlying_text": ",",
+      "classification": "retained_text_overlap"
+    },
+    {
+      "number": 1430,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "fce976242d53ceaa35038304f3a00800",
+      "area_ratio": 3e-07,
+      "bbox": [
+        313.91998291015625,
+        52.55961608886719,
+        314.27996826171875,
+        52.91961669921875
+      ],
+      "width": 1,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 1482,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "1a8660345a2ad0a49244ac21a33af1e3",
+      "area_ratio": 1.6e-06,
+      "bbox": [
+        315.3599853515625,
+        59.75962829589844,
+        317.5199890136719,
+        60.11962890625
+      ],
+      "width": 6,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 1550,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "9f0e29bd51ee12d79d68dd6430357fa1",
+      "area_ratio": 8e-07,
+      "bbox": [
+        297.0,
+        66.23960876464844,
+        298.0799865722656,
+        66.599609375
+      ],
+      "width": 3,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 1552,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "c938d295d554d3ed6422654c32e54f91",
+      "area_ratio": 8e-07,
+      "bbox": [
+        334.79998779296875,
+        66.23960876464844,
+        335.8799743652344,
+        66.599609375
+      ],
+      "width": 3,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 1869,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "0d0570e2be13c1c52d3b7eeccf4cc213",
+      "area_ratio": 5e-07,
+      "bbox": [
+        336.9599914550781,
+        84.95964050292969,
+        337.67999267578125,
+        85.31964111328125
+      ],
+      "width": 2,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2031,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "444a1d134ada0902a15bbe48186f961a",
+      "area_ratio": 3e-07,
+      "bbox": [
+        343.0799865722656,
+        93.59965515136719,
+        343.4399719238281,
+        93.95965576171875
+      ],
+      "width": 1,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2119,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "aac0dee5db273b402eb3212d228a1400",
+      "area_ratio": 5e-07,
+      "bbox": [
+        293.0400085449219,
+        97.91960144042969,
+        293.760009765625,
+        98.27960205078125
+      ],
+      "width": 2,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2129,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "54aab5fc4e7c4a10f8803288312f7091",
+      "area_ratio": 5e-07,
+      "bbox": [
+        288.7200012207031,
+        98.27964782714844,
+        289.44000244140625,
+        98.6396484375
+      ],
+      "width": 2,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2147,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "8597d4e7e65352a302b63e07bc01a7da",
+      "area_ratio": 3e-07,
+      "bbox": [
+        316.0799865722656,
+        98.63963317871094,
+        316.4399719238281,
+        98.9996337890625
+      ],
+      "width": 1,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2280,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "93a227bc2fbe7ed58a6726845d5f7a9c",
+      "area_ratio": 1e-06,
+      "bbox": [
+        340.1999816894531,
+        104.03959655761719,
+        341.6399841308594,
+        104.39959716796875
+      ],
+      "width": 4,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2324,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "47620cd4d0e9e5a3bde74745031a5dfc",
+      "area_ratio": 1.3e-06,
+      "bbox": [
+        330.8399963378906,
+        105.83964538574219,
+        332.6399841308594,
+        106.19964599609375
+      ],
+      "width": 5,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2374,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "24cacabaaee8d6059e3d3a61531dd695",
+      "area_ratio": 1e-06,
+      "bbox": [
+        295.55999755859375,
+        107.99961853027344,
+        297.0,
+        108.359619140625
+      ],
+      "width": 4,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2376,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "12c08522bb86f469b28447305b5ce247",
+      "area_ratio": 1.3e-06,
+      "bbox": [
+        300.6000061035156,
+        107.99961853027344,
+        302.3999938964844,
+        108.359619140625
+      ],
+      "width": 5,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2402,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "04a2211b701a32642f63f831b6851027",
+      "area_ratio": 2.1e-06,
+      "bbox": [
+        310.67999267578125,
+        109.07963562011719,
+        313.55999755859375,
+        109.43963623046875
+      ],
+      "width": 8,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2404,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "c210f617b9e980d35d4fbd7fb4f1591c",
+      "area_ratio": 1.8e-06,
+      "bbox": [
+        319.67999267578125,
+        109.07963562011719,
+        322.1999816894531,
+        109.43963623046875
+      ],
+      "width": 7,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2409,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "7f3b27cd6552e9724f673daf24a83cac",
+      "area_ratio": 8e-07,
+      "bbox": [
+        298.0799865722656,
+        109.43962097167969,
+        299.15997314453125,
+        109.79962158203125
+      ],
+      "width": 3,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2435,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "b54d397dddb27ee442abb15e1882c006",
+      "area_ratio": 8e-07,
+      "bbox": [
+        306.0,
+        110.87962341308594,
+        307.0799865722656,
+        111.2396240234375
+      ],
+      "width": 3,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2441,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "0b6d59e8a493a4a0ac135c7af58733af",
+      "area_ratio": 5e-07,
+      "bbox": [
+        312.8399963378906,
+        111.23960876464844,
+        313.55999755859375,
+        111.599609375
+      ],
+      "width": 2,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2485,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "8d32587969afcca18755bc4cbaf74fd3",
+      "area_ratio": 1.3e-06,
+      "bbox": [
+        306.3599853515625,
+        120.59965515136719,
+        308.15997314453125,
+        120.95965576171875
+      ],
+      "width": 5,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2486,
+      "id": "pk-code-ec3345f08723a1fb",
+      "page": 1,
+      "digest": "e2a679eb3bcfd7e52f7dc87cb7770d45",
+      "area_ratio": 1.3e-06,
+      "bbox": [
+        324.3599853515625,
+        120.59965515136719,
+        326.15997314453125,
+        120.95965576171875
+      ],
+      "width": 5,
+      "height": 1,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    },
+    {
+      "number": 2552,
+      "id": "pk-code-fbaade759126be32",
+      "page": 1,
+      "digest": "6cdfa2e69c67c3bf9d0d3bc0c758bb53",
+      "area_ratio": 0.0152784,
+      "bbox": [
+        72.47999572753906,
+        162.24002075195312,
+        540.0,
+        178.08001708984375
+      ],
+      "width": 974,
+      "height": 33,
+      "underlying_text": "THE SUPERIOR COURTS (COURT DRESS AND MODE OF \nADDRESS) ORDER (REPEAL) ACT 2020",
+      "classification": "retained_text_overlap"
+    },
+    {
+      "number": 2570,
+      "id": "pk-code-fbaade759126be32",
+      "page": 1,
+      "digest": "a6e51961ca70a96f74caf05de765daf7",
+      "area_ratio": 0.0078707,
+      "bbox": [
+        72.47999572753906,
+        621.6000366210938,
+        540.0,
+        629.760009765625
+      ],
+      "width": 974,
+      "height": 17,
+      "underlying_text": "",
+      "classification": "non_content_white_raster"
+    }
+  ],
+  "summary": {
+    "objects": 29,
+    "no_text_overlap": 25,
+    "retained_text_overlap": 4
+  }
+}

@@ -1,0 +1,2064 @@
+{
+  "schema_version": "legis-intel-original-facsimiles/1",
+  "records": [
+    {
+      "id": "pk-code-5097d83dca653be9",
+      "title": "Pakistan Nursing and Midwifery Council Ordinance, 2025",
+      "input_text_sha256": "54c0037a9a677d31499474bf9f58efd609a8b183e53ed2a5056d38a91e6309ee",
+      "source_pdf_sha256": "418c4c06b59a05b35e2fcf050954b6cd2cbcd0896f5d938057222732cab1746b",
+      "source_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\5b20c993975fbae1_Pakistan_Nursing_and_Midwifery_Council_Ordinance,_2025.pdf",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator505f368de48128368ab2a90e97a5cd1b.pdf",
+      "source_material_status": "original_file_obtained_all_pages_rendered",
+      "body_text_status": "image_body_not_machine_transcribed_or_full_text_checked",
+      "render_method": "PyMuPDF complete-page RGB raster, matrix 2x2 (144dpi), alpha=False; no clipping or OCR",
+      "asset_directory": "tools/qanun-library/reader/facsimiles/pk-code-5097d83dca653be9",
+      "pdf_asset": "original.pdf",
+      "pages": [
+        {
+          "page": 1,
+          "asset": "page-001.png",
+          "sha256": "689ce38819fa774090ed264033e1dbdc7a579432ce6993dd36bd59b4b328ddb5",
+          "bytes": 161020,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 2,
+          "asset": "page-002.png",
+          "sha256": "b0edb528e9328110daeca91d8925381e0f2fc7b87dda2156ae5a3fbf5780c495",
+          "bytes": 262248,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 3,
+          "asset": "page-003.png",
+          "sha256": "6729e5e02a97dcfeac13c66afb117230930467c5f1a827a59170ec913fe09dbb",
+          "bytes": 402688,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 4,
+          "asset": "page-004.png",
+          "sha256": "66923b270a8f46b05455fa8c20870da74e4815cfde4b95de05a512d6d8465096",
+          "bytes": 405195,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 5,
+          "asset": "page-005.png",
+          "sha256": "7b3b37a32b55f43e3d84a422a2c74eb196e13d9283805d45315bda08dfd02a0b",
+          "bytes": 392706,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 6,
+          "asset": "page-006.png",
+          "sha256": "9d767fc80fba30e8468615d9d2593e997fe31af21325b7c1308e424de402b6a9",
+          "bytes": 350360,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 7,
+          "asset": "page-007.png",
+          "sha256": "651d925a784fbdfe7e2445203d6c72537ed13bb1f9f550623d8c0638142b75cd",
+          "bytes": 417937,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 8,
+          "asset": "page-008.png",
+          "sha256": "0522c7cae6bed40bea2814e8145cb12fff4ad3ebaf366b65b05ede11c5169e1b",
+          "bytes": 343904,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 9,
+          "asset": "page-009.png",
+          "sha256": "116b4f221b89e21dd69d85dee2e4e4d9c2b344fd5f674a46198c99f203b21ac1",
+          "bytes": 444711,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 10,
+          "asset": "page-010.png",
+          "sha256": "d2598bb20fa70b4c4db49576346fd527e5b4a766a951220e2b9ab5f11706dbff",
+          "bytes": 404378,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 11,
+          "asset": "page-011.png",
+          "sha256": "df332c2b93b6ee40d38e1961c2169d004a7f34c94498ca35f150c9ef7b693f12",
+          "bytes": 391755,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 12,
+          "asset": "page-012.png",
+          "sha256": "1233ffcac19bd2070d04c2f51d410398eaf0c0eda3249bd93a6b4885c76ed741",
+          "bytes": 374734,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 13,
+          "asset": "page-013.png",
+          "sha256": "f764b73140cf17f255bbafd1cb7ccae014d95a7a8b63ebfc4b57b03002fbae65",
+          "bytes": 407463,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 14,
+          "asset": "page-014.png",
+          "sha256": "a257be44a5894449f562372db4ea4dac2e726cc9c267cd3c176c97847f2bff6f",
+          "bytes": 387853,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 15,
+          "asset": "page-015.png",
+          "sha256": "97fa8d1b5e5b606783cd1562008db8110fa70d58a748781fb1bf43f7d97e7482",
+          "bytes": 401504,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 16,
+          "asset": "page-016.png",
+          "sha256": "78aa3702c81901d97102184b6681951d6c1485493cf10faf6f8904c965d08e55",
+          "bytes": 443972,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 17,
+          "asset": "page-017.png",
+          "sha256": "13786857ec19500196ba0afb3c12f73654164587102d3cdab14b7e6bc04560fe",
+          "bytes": 404632,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 18,
+          "asset": "page-018.png",
+          "sha256": "e9fa0bf5094c88b10a92a0398bf214bd5c93e1abc12f7300814bcf6382a556c4",
+          "bytes": 374424,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 19,
+          "asset": "page-019.png",
+          "sha256": "e444f2246cbf884d04d7869d37d2f8b96f8af76069388f9ad474d57890ddd092",
+          "bytes": 449799,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 20,
+          "asset": "page-020.png",
+          "sha256": "961bff8bf172780fa3cba7c61c6d5644c46fe374987f2841ce5b54796828339d",
+          "bytes": 398864,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 21,
+          "asset": "page-021.png",
+          "sha256": "90d9001079924ac9b002944ca1635ad3db73e157ec3087eea502c1793725071c",
+          "bytes": 394380,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 22,
+          "asset": "page-022.png",
+          "sha256": "1ce8285ad631edfd9dddcc76004362af5f925339a363134026b7b321c8894095",
+          "bytes": 420956,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 23,
+          "asset": "page-023.png",
+          "sha256": "288f2ca50bb93b6c7d84527ef50bbff70865691b6e21df51f83355525271e78b",
+          "bytes": 422476,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 24,
+          "asset": "page-024.png",
+          "sha256": "c62fbf0ebc5b275ec3c9156cb03758cd7c2e734f8a14d4f5fe4475c146d235ee",
+          "bytes": 402011,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 25,
+          "asset": "page-025.png",
+          "sha256": "2e1e86641732d602ff9a4afff213bec757a2826b9c73a6c2b4e4febee3eed405",
+          "bytes": 413112,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 26,
+          "asset": "page-026.png",
+          "sha256": "370989c8f51d81e6b246e35b616f18fd34bfbda9524658fe44d65855e4bcd852",
+          "bytes": 379794,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 27,
+          "asset": "page-027.png",
+          "sha256": "e35e292df0f8a5e3ed0e267d2c965c6fc244a3ddb0ff4a40b0ad261b9ba94816",
+          "bytes": 379112,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 28,
+          "asset": "page-028.png",
+          "sha256": "f4b6c69e573c67a1b1ef627558ee0dc42f779c98c36e3d07394fc1f1865a350f",
+          "bytes": 373167,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 29,
+          "asset": "page-029.png",
+          "sha256": "717d3a6c5da840fe00f802b5b735343bb84885ecd7313139a5ed564aea6df48c",
+          "bytes": 425978,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 30,
+          "asset": "page-030.png",
+          "sha256": "0db38d59cb567e1484bc1e3ca7e85b84e420056ed71f8fa7c1ccdc5653519e7c",
+          "bytes": 393379,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 31,
+          "asset": "page-031.png",
+          "sha256": "d1be90280a6ded44125f50e42bee5f834dbe917f76e9d9d4e9c1eda14a2d6042",
+          "bytes": 386217,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 32,
+          "asset": "page-032.png",
+          "sha256": "d93769f4346cc50d81e0a82c3044d93ca38086e5c9f2e28b327df1c0d266cca0",
+          "bytes": 268097,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        }
+      ],
+      "page_count": 32,
+      "total_page_image_bytes": 12278826
+    },
+    {
+      "id": "pk-code-ab0f59c91b74feab",
+      "title": "Defence Industrial Production and Regulatory Authority of Pakistan Ordinance, 2026",
+      "input_text_sha256": "2b4d1aa067afc4da6f362e4e222bb204293c04c01e88893b3cf5ab47fbd32a58",
+      "source_pdf_sha256": "5939c1c34916e102f390360e7248697ec2c86af958f8515f65accbece6b560a2",
+      "source_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\eee01a9e37602997_Defence_Industrial_Production_and_Regulatory_Authority_of_Pakistan_Ordinance,_2026.pdf",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator8a882d3e0bebbcdf5634c63465ae91b3.pdf",
+      "source_material_status": "original_file_obtained_all_pages_rendered",
+      "body_text_status": "image_body_not_machine_transcribed_or_full_text_checked",
+      "render_method": "PyMuPDF complete-page RGB raster, matrix 2x2 (144dpi), alpha=False; no clipping or OCR",
+      "asset_directory": "tools/qanun-library/reader/facsimiles/pk-code-ab0f59c91b74feab",
+      "pdf_asset": "original.pdf",
+      "pages": [
+        {
+          "page": 1,
+          "asset": "page-001.png",
+          "sha256": "1bc105fc71dd66e8e54dbc07b43e03e1d42be4a64db6e0d98c3b6111fc392241",
+          "bytes": 170369,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 2,
+          "asset": "page-002.png",
+          "sha256": "b06d3813f845b493941048312cf4bab0c1b9d25bfccfe1e5b58bb525550ce361",
+          "bytes": 301754,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 3,
+          "asset": "page-003.png",
+          "sha256": "8a229c562217534e1d141df3f273e25e242d00e8b506a2d20e5ecc4f75e95aad",
+          "bytes": 529037,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 4,
+          "asset": "page-004.png",
+          "sha256": "bdec8df273bb11cab2cb106e1c11d3d2e6e6c57cf44a17d44943af63d3d0e16b",
+          "bytes": 550902,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 5,
+          "asset": "page-005.png",
+          "sha256": "9310632824d89032a798985254c9f9b0bf1a8ea39d5e3e4f1242658b4effa499",
+          "bytes": 503089,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 6,
+          "asset": "page-006.png",
+          "sha256": "44ec57d8ff3738d06254c9fa8d14a4202723014d5a6b3639eb0087a57623450f",
+          "bytes": 536812,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 7,
+          "asset": "page-007.png",
+          "sha256": "a604b69cfe3275bd5255b15f8c689b41aa167a474a6a8afc020d8301733fb069",
+          "bytes": 543973,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 8,
+          "asset": "page-008.png",
+          "sha256": "d4a20c9cde009d7dd01ffdac7fdecdb7385a717505d3a2159588464dc9e9da21",
+          "bytes": 475151,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 9,
+          "asset": "page-009.png",
+          "sha256": "2f61dc1a4803505b093bb6e097ccb2a8ce6d04d792b4cb0994e47b812cb76d27",
+          "bytes": 455528,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 10,
+          "asset": "page-010.png",
+          "sha256": "f8d42ecef52c9a720633c7d9638dec23d8f1a4e0b38789609a3b6ef4fb784691",
+          "bytes": 498760,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 11,
+          "asset": "page-011.png",
+          "sha256": "c476d6ec264cbbe9f7d628c632d3f33b4d4f7cb13d23f471dcd15a3b98b9e662",
+          "bytes": 504062,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 12,
+          "asset": "page-012.png",
+          "sha256": "82e501930ad188f079a1f2b5ff3e3cf0d85639538f71312e54952b9679688b5f",
+          "bytes": 456016,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 13,
+          "asset": "page-013.png",
+          "sha256": "90e77d053ba2d4ff6b60cfe29cef19308eac34fb433876eb1ade78e9dd87a7ed",
+          "bytes": 537021,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 14,
+          "asset": "page-014.png",
+          "sha256": "63f5a6ef7b23879e775ad86c72a35031f92351dc45ae70881bc1fc30a2d0e38e",
+          "bytes": 543279,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 15,
+          "asset": "page-015.png",
+          "sha256": "8d74f0fddc4b18fc50fac06ef7994542f8e53619104f39740d1245476e2476cf",
+          "bytes": 489054,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 16,
+          "asset": "page-016.png",
+          "sha256": "ee1b6cea826168a6e102cfa070dd066723dfabbe2505c6cc5a3cc4c02a150364",
+          "bytes": 514606,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 17,
+          "asset": "page-017.png",
+          "sha256": "2ebe0e634f12e7b7be3806ea3b1c87760530fad5c31e399180226d51d038c04b",
+          "bytes": 433349,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 18,
+          "asset": "page-018.png",
+          "sha256": "10bf344121e2ee581fd8fd5e7bccc528028c89fc088da4a8dd0cb57cc6f18d4f",
+          "bytes": 377334,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 19,
+          "asset": "page-019.png",
+          "sha256": "ca479ea0a31a175a08ecde784359d4a40ceaf217c31ae4aded80bb5b44fab23f",
+          "bytes": 414999,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 20,
+          "asset": "page-020.png",
+          "sha256": "3d2450aa8cdca8317cfd3aa07d349658aabcba8bc0ca8d545319d4bcd4934914",
+          "bytes": 505357,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 21,
+          "asset": "page-021.png",
+          "sha256": "577246b983c251afd3590404a176b2da2e8d17718cb277130ab89f7407a7bf3c",
+          "bytes": 572065,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 22,
+          "asset": "page-022.png",
+          "sha256": "41c30a87181e5cadc708236b497077282cfcdacc57d7a644ebfb86175b2f2798",
+          "bytes": 462245,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 23,
+          "asset": "page-023.png",
+          "sha256": "64d0478b6b318a75e6ed202ff62b283adf7fbb6e3ab4c0b49b8a12764b6bcb01",
+          "bytes": 411805,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 24,
+          "asset": "page-024.png",
+          "sha256": "bf14f4f075576fdd70d249fc6e91719938b916c5d8c91624675aac488e64daad",
+          "bytes": 532859,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 25,
+          "asset": "page-025.png",
+          "sha256": "6d8f75c0913cc4f828dc2cc35fb9d4a43a43d0a3b4a32179dde78d544c59730e",
+          "bytes": 493149,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 26,
+          "asset": "page-026.png",
+          "sha256": "8ac8bd2d99046fb03f63ed05e078599d9c36690141bfe562ed35726277a23bcb",
+          "bytes": 538284,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 27,
+          "asset": "page-027.png",
+          "sha256": "8c8f55de596415b6338e613e89ffd9ee8fd0644553e706f4f73935eb7a769c17",
+          "bytes": 394191,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 28,
+          "asset": "page-028.png",
+          "sha256": "cb0bb5292baac43767df7c8c6bd42d37738acc172a8f94271e9621f1d013cc6d",
+          "bytes": 509792,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 29,
+          "asset": "page-029.png",
+          "sha256": "19803f7a54bb3c9534a63657a5e7f68a9a0b62306f51be607fd67eb258202cf5",
+          "bytes": 537246,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 30,
+          "asset": "page-030.png",
+          "sha256": "ba0e59954208d722d39574a141a75c7d0cb3413914ebb3848ef1c5d86f91f375",
+          "bytes": 489736,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 31,
+          "asset": "page-031.png",
+          "sha256": "3816cbff470dd95b26880847f18842d83fe5f6ba78954bc7a8f7d7e8efd91894",
+          "bytes": 548761,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 32,
+          "asset": "page-032.png",
+          "sha256": "1ae797562af5ff8abccab9f7438deccb44be4009224854afe86afb075b502a82",
+          "bytes": 545939,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 33,
+          "asset": "page-033.png",
+          "sha256": "47222de0f382b99d32da17425b2e2529b3c2cd081162665be68d79cd173dc34c",
+          "bytes": 539128,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 34,
+          "asset": "page-034.png",
+          "sha256": "a15870a54ecdaf15154f20b701214df575ca22c33dc584c32459ee42b8ddfebc",
+          "bytes": 546493,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 35,
+          "asset": "page-035.png",
+          "sha256": "115d1ee60b984e4e55834d8c5d15508545400c21249d922f38b63f9cdabe8080",
+          "bytes": 436759,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 36,
+          "asset": "page-036.png",
+          "sha256": "0b1be1d01c06ebf5db7988c696d5343ab8aef85bc9b9c2dc8f482bff10284357",
+          "bytes": 546910,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 37,
+          "asset": "page-037.png",
+          "sha256": "31c31ed1351c3214532f3683907dab38e2ccf03c4035ad76c2feedb46da468f7",
+          "bytes": 518164,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 38,
+          "asset": "page-038.png",
+          "sha256": "888440ec7a760d36bd65cafc0fb51c006cf199e22e7c3eeee434fc9777374d20",
+          "bytes": 474690,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        },
+        {
+          "page": 39,
+          "asset": "page-039.png",
+          "sha256": "82d5162e3e6c3a05e14067bfce8f0d2959ae8a147b86b4f0f61a84153768a348",
+          "bytes": 363350,
+          "width": 1224,
+          "height": 1584,
+          "pdf_page_rect": [
+            0,
+            0,
+            612,
+            792
+          ]
+        }
+      ],
+      "page_count": 39,
+      "total_page_image_bytes": 18802018
+    },
+    {
+      "id": "pk-code-c02eccd95b859b79",
+      "title": "Marriage Functions (Ostentatious Displays) Ordinance, 1999",
+      "input_text_sha256": "d62ca263f3db795373261be2b92a831b0dd008b52d04801441bbeebc8db6f5e6",
+      "source_pdf_sha256": "711b6fa8e0b2122c4a8e6c2e80a46b09e5de4d72288960db3ccfc7ad052238a8",
+      "source_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\drs-molaw-corpus\\pdfs\\695_1887_Document_History_-_The_Marriage_Functions_(Ostentatious_Displays)_Ordinance,_1999.pdf",
+      "original_url": "https://drs.molaw.gov.pk/documents/document-versions?docId=695&versionId=1887",
+      "source_material_status": "original_file_obtained_all_pages_rendered",
+      "body_text_status": "damaged_source_OCR_not_corrected_prefer_original_facsimile",
+      "render_method": "PyMuPDF complete-page RGB raster, matrix 2x2 (144dpi), alpha=False; no clipping or OCR",
+      "asset_directory": "tools/qanun-library/reader/facsimiles/pk-code-c02eccd95b859b79",
+      "pdf_asset": "original.pdf",
+      "pages": [
+        {
+          "page": 1,
+          "asset": "page-001.png",
+          "sha256": "9bc21b5802839d3ab2cf56d1cdd48e83015a1028421c6ed8989910aa45630d6a",
+          "bytes": 426052,
+          "width": 888,
+          "height": 1361,
+          "pdf_page_rect": [
+            0,
+            0,
+            443.5199890136719,
+            680.4000244140625
+          ]
+        },
+        {
+          "page": 2,
+          "asset": "page-002.png",
+          "sha256": "665334dc982fe81bd8492f14fd1155a1568884e95d8463cba4738db2f55f6249",
+          "bytes": 601469,
+          "width": 888,
+          "height": 1361,
+          "pdf_page_rect": [
+            0,
+            0,
+            443.5199890136719,
+            680.4000244140625
+          ]
+        },
+        {
+          "page": 3,
+          "asset": "page-003.png",
+          "sha256": "f5920a0b9acaa24e18898abb9ff7a4e5cc16ae53bc00d971923d8731e8449426",
+          "bytes": 475131,
+          "width": 888,
+          "height": 1361,
+          "pdf_page_rect": [
+            0,
+            0,
+            443.5199890136719,
+            680.0399780273438
+          ]
+        }
+      ],
+      "reading_quality_note": "Original Gazette dated 17 April 1999. Archived OCR is visibly garbled and is preserved separately; original facsimile is the primary reader. No subsequent amendments or current legal force certified.",
+      "page_count": 3,
+      "total_page_image_bytes": 1502652
+    },
+    {
+      "id": "pk-code-4ff23b094ca55ea4",
+      "title": "Representation Of People Act, 1976(Repealed by No.F.8(9)/2017 dated.23-10-17)",
+      "input_text_sha256": "6f8a38f4831e06b318ce91a60c2cbe0ae00e5b4703f4014187cc150f54eff52f",
+      "source_pdf_sha256": "b6bcc8ac12aae0be36be00073f74de2d45698d01ba7cd12bf92023230c07aca8",
+      "source_pdf_path": "D:\\Qanun Maps\\Legis-Intel-Library-Repair-2026-11-12\\tools\\qanun-library\\sources\\cache\\originals\\representation-1976.pdf",
+      "original_url": "https://ecp.gov.pk/storage/files/1/eleclaws18.pdf",
+      "source_material_status": "official_original_volume_obtained_selected_act_pages_rendered",
+      "body_text_status": "different_source_edition_prefer_official_facsimile_legacy_2002_unverified",
+      "render_method": "PyMuPDF complete-page RGB raster, matrix 2x2 (144dpi), alpha=False; selected physical PDF pages 107–165 inclusive rendered without clipping or OCR",
+      "asset_directory": "tools/qanun-library/reader/facsimiles/pk-code-4ff23b094ca55ea4",
+      "pdf_asset": "original.pdf",
+      "pages": [
+        {
+          "page": 1,
+          "source_page": 107,
+          "printed_page": 131,
+          "asset": "page-001.png",
+          "sha256": "e9d0cc70837d83e5706ac253ee8e3b2722c7f086e04c9d63e8f76150f7e60bf9",
+          "bytes": 377777,
+          "width": 896,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            448,
+            686
+          ]
+        },
+        {
+          "page": 2,
+          "source_page": 108,
+          "printed_page": 132,
+          "asset": "page-002.png",
+          "sha256": "165701a41dcd5dbff4ee0544ae66f2c931d02cb76ec69b4f7ff37b94e5d2dd2d",
+          "bytes": 385289,
+          "width": 896,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            448,
+            686
+          ]
+        },
+        {
+          "page": 3,
+          "source_page": 109,
+          "printed_page": 133,
+          "asset": "page-003.png",
+          "sha256": "8e196815a9921e855d67cc3abb59427184a63ac40f18b5a2c42a994a6ff2aac6",
+          "bytes": 434125,
+          "width": 894,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            686
+          ]
+        },
+        {
+          "page": 4,
+          "source_page": 110,
+          "printed_page": 134,
+          "asset": "page-004.png",
+          "sha256": "37c413e2d77fc1472271d3ac6e56dbfce04d6f716bb2b78d55aa8ae64d593b40",
+          "bytes": 525078,
+          "width": 894,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            686
+          ]
+        },
+        {
+          "page": 5,
+          "source_page": 111,
+          "printed_page": 135,
+          "asset": "page-005.png",
+          "sha256": "d07eee96fd9edc90be884aa0efa4f27b53b6d4a4b98629cacb15b88ae1a6130f",
+          "bytes": 460678,
+          "width": 894,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            686
+          ]
+        },
+        {
+          "page": 6,
+          "source_page": 112,
+          "printed_page": 136,
+          "asset": "page-006.png",
+          "sha256": "0df1095da1831b923318d7c4a26f10b505493e45d54bfa068857cd6347460c91",
+          "bytes": 549179,
+          "width": 894,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            686
+          ]
+        },
+        {
+          "page": 7,
+          "source_page": 113,
+          "printed_page": 137,
+          "asset": "page-007.png",
+          "sha256": "9c0355a8e0ef876763f28f47b353f7eb1f68390f5b7769dfd1255d68a6ae70c3",
+          "bytes": 548103,
+          "width": 894,
+          "height": 1348,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            674
+          ]
+        },
+        {
+          "page": 8,
+          "source_page": 114,
+          "printed_page": 138,
+          "asset": "page-008.png",
+          "sha256": "ba41e13be71aa30751a2b9a27cc470ca0e331112a26b11e2aeaa4810e4c123cf",
+          "bytes": 456758,
+          "width": 894,
+          "height": 1348,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            674
+          ]
+        },
+        {
+          "page": 9,
+          "source_page": 115,
+          "printed_page": 139,
+          "asset": "page-009.png",
+          "sha256": "bab3e1f1ba18ab53ec111bb702705e849c5494279d9a5fc39891d74ba29246fa",
+          "bytes": 473083,
+          "width": 894,
+          "height": 1368,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            684
+          ]
+        },
+        {
+          "page": 10,
+          "source_page": 116,
+          "printed_page": 140,
+          "asset": "page-010.png",
+          "sha256": "3c148f155c7437647cac822c7a0840a4ed714887091c0961c543e62ee2b659aa",
+          "bytes": 471653,
+          "width": 894,
+          "height": 1368,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            684
+          ]
+        },
+        {
+          "page": 11,
+          "source_page": 117,
+          "printed_page": 141,
+          "asset": "page-011.png",
+          "sha256": "8b79ba44a884dc0ba8db014cbf54c4531b64d042d5cb7f2002e75da0a41e7b07",
+          "bytes": 484877,
+          "width": 894,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            686
+          ]
+        },
+        {
+          "page": 12,
+          "source_page": 118,
+          "printed_page": 142,
+          "asset": "page-012.png",
+          "sha256": "79cc5648aff01fba844a1226991259da32a02db7408998b29f952077444c0ac4",
+          "bytes": 464933,
+          "width": 894,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            686
+          ]
+        },
+        {
+          "page": 13,
+          "source_page": 119,
+          "printed_page": 143,
+          "asset": "page-013.png",
+          "sha256": "5161ebae6fe769a8f3a320c0bfd646473653104b0a5fbaf62ba7936251cf773b",
+          "bytes": 575474,
+          "width": 894,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            687
+          ]
+        },
+        {
+          "page": 14,
+          "source_page": 120,
+          "printed_page": 144,
+          "asset": "page-014.png",
+          "sha256": "ac17aea2a94dde7f3e514115a2ceba22a35afef5c47ab5cc2a51af7dc7eaff0a",
+          "bytes": 490253,
+          "width": 894,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            687
+          ]
+        },
+        {
+          "page": 15,
+          "source_page": 121,
+          "printed_page": 145,
+          "asset": "page-015.png",
+          "sha256": "6b8a17853242cda414257825e8c8a941db2f1d89fce72516104bce30e0327ac3",
+          "bytes": 554760,
+          "width": 894,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            687
+          ]
+        },
+        {
+          "page": 16,
+          "source_page": 122,
+          "printed_page": 146,
+          "asset": "page-016.png",
+          "sha256": "d70450f0dae1876ea60ec17274a8611295a507708db152987a704d826749d7a6",
+          "bytes": 495306,
+          "width": 894,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            687
+          ]
+        },
+        {
+          "page": 17,
+          "source_page": 123,
+          "printed_page": 147,
+          "asset": "page-017.png",
+          "sha256": "9cc8a8763ea7669b57555144e9e488c94331273d237f4d1bf2060c8b70819e70",
+          "bytes": 520649,
+          "width": 894,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            686
+          ]
+        },
+        {
+          "page": 18,
+          "source_page": 124,
+          "printed_page": 148,
+          "asset": "page-018.png",
+          "sha256": "66aaeefe211bf24bef74e18c613ac936607568c9db9962d823598c13658d636f",
+          "bytes": 510604,
+          "width": 894,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            686
+          ]
+        },
+        {
+          "page": 19,
+          "source_page": 125,
+          "printed_page": 149,
+          "asset": "page-019.png",
+          "sha256": "cdc095eaf5a1c670750c0e2e75919813c6e5de10f302e35538476ce91a307790",
+          "bytes": 481558,
+          "width": 894,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            687
+          ]
+        },
+        {
+          "page": 20,
+          "source_page": 126,
+          "printed_page": 150,
+          "asset": "page-020.png",
+          "sha256": "ccbbea378ef6774144a21af0d3d0182767c61f431fc61a922a6584cfca3fe005",
+          "bytes": 478990,
+          "width": 894,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            687
+          ]
+        },
+        {
+          "page": 21,
+          "source_page": 127,
+          "printed_page": 151,
+          "asset": "page-021.png",
+          "sha256": "7fa6170068ae41f073f919fa0e98ba8e5f53ffec6408522801d82b99d13b9613",
+          "bytes": 575189,
+          "width": 811,
+          "height": 1291,
+          "pdf_page_rect": [
+            0,
+            0,
+            405.3599853515625,
+            645.47998046875
+          ]
+        },
+        {
+          "page": 22,
+          "source_page": 128,
+          "printed_page": 152,
+          "asset": "page-022.png",
+          "sha256": "c1c05b5a4e6b13284112f00cf4cb3b6503efe7525106adbcd673a40b2df1fd76",
+          "bytes": 525542,
+          "width": 811,
+          "height": 1291,
+          "pdf_page_rect": [
+            0,
+            0,
+            405.3599853515625,
+            645.47998046875
+          ]
+        },
+        {
+          "page": 23,
+          "source_page": 129,
+          "printed_page": 153,
+          "asset": "page-023.png",
+          "sha256": "44961bb1fde8bb47c3906509db7e08a95731cea6556be6fb486952b41e4ab148",
+          "bytes": 644694,
+          "width": 894,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            686
+          ]
+        },
+        {
+          "page": 24,
+          "source_page": 130,
+          "printed_page": 154,
+          "asset": "page-024.png",
+          "sha256": "51e376f1ef3c949ff16f4fa7d7aa4f3cc2b1617a0c807ed5e34dba9b2123fe53",
+          "bytes": 475873,
+          "width": 894,
+          "height": 1372,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            686
+          ]
+        },
+        {
+          "page": 25,
+          "source_page": 131,
+          "printed_page": 155,
+          "asset": "page-025.png",
+          "sha256": "c162b2f14d75e0218ef0c1d31332a3789a48bf9d50ab6f3db0c8b40f11a5b12b",
+          "bytes": 458083,
+          "width": 894,
+          "height": 1356,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            678
+          ]
+        },
+        {
+          "page": 26,
+          "source_page": 132,
+          "printed_page": 156,
+          "asset": "page-026.png",
+          "sha256": "80ba6b8db90691b26e2564300bfa5ba79e81d82fd83c3cb7340a4aec3a630b8e",
+          "bytes": 443542,
+          "width": 894,
+          "height": 1356,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            678
+          ]
+        },
+        {
+          "page": 27,
+          "source_page": 133,
+          "printed_page": 157,
+          "asset": "page-027.png",
+          "sha256": "2c6fe30ee6cce93be9ffa8458dfe2269e49853b0f2a3dbe418150ca7317aa24d",
+          "bytes": 551963,
+          "width": 892,
+          "height": 1316,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            658
+          ]
+        },
+        {
+          "page": 28,
+          "source_page": 134,
+          "printed_page": 158,
+          "asset": "page-028.png",
+          "sha256": "dd5e788c122d095c09d5f9a6f4948b40c0743436d80d95b6fcccaa50c9109986",
+          "bytes": 523158,
+          "width": 892,
+          "height": 1316,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            658
+          ]
+        },
+        {
+          "page": 29,
+          "source_page": 135,
+          "printed_page": 159,
+          "asset": "page-029.png",
+          "sha256": "822243df9d174455eb5ab2530f255a748fa5c22ac2c3d6674ef0d6ec86bfe2dc",
+          "bytes": 601417,
+          "width": 892,
+          "height": 1364,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            682
+          ]
+        },
+        {
+          "page": 30,
+          "source_page": 136,
+          "printed_page": 160,
+          "asset": "page-030.png",
+          "sha256": "b0f73c9ef56c25a1996651f4eb0d2b3b5bebb6ecd980fc3b58b00f4aebf0a53b",
+          "bytes": 564691,
+          "width": 892,
+          "height": 1364,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            682
+          ]
+        },
+        {
+          "page": 31,
+          "source_page": 137,
+          "printed_page": 161,
+          "asset": "page-031.png",
+          "sha256": "d68a2e1ebccdc9d9252ceb88106bc0f523e0f81bc75965c19b7f2ea3c911e2a9",
+          "bytes": 514030,
+          "width": 894,
+          "height": 1344,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            672
+          ]
+        },
+        {
+          "page": 32,
+          "source_page": 138,
+          "printed_page": 162,
+          "asset": "page-032.png",
+          "sha256": "1f3fe17caf42d58b545f82850dd71511a028f054407d61eec1f7709d6a994b60",
+          "bytes": 470627,
+          "width": 894,
+          "height": 1344,
+          "pdf_page_rect": [
+            0,
+            0,
+            447,
+            672
+          ]
+        },
+        {
+          "page": 33,
+          "source_page": 139,
+          "printed_page": 163,
+          "asset": "page-033.png",
+          "sha256": "b974e35dfdc80e866bbb6ea677131ffedd47295772e6c61688f7900cdf01e195",
+          "bytes": 509981,
+          "width": 892,
+          "height": 1362,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            681
+          ]
+        },
+        {
+          "page": 34,
+          "source_page": 140,
+          "printed_page": 164,
+          "asset": "page-034.png",
+          "sha256": "fedd1e66378647be39a209c28b0b8bd818289bf65b45d00127391714acf5b0da",
+          "bytes": 437645,
+          "width": 892,
+          "height": 1362,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            681
+          ]
+        },
+        {
+          "page": 35,
+          "source_page": 141,
+          "printed_page": 165,
+          "asset": "page-035.png",
+          "sha256": "de70c00ae2569748f3b3a56cc0e30ddc7f9a23f7f056565799f4616198753ad2",
+          "bytes": 476059,
+          "width": 892,
+          "height": 1346,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            673
+          ]
+        },
+        {
+          "page": 36,
+          "source_page": 142,
+          "printed_page": 166,
+          "asset": "page-036.png",
+          "sha256": "52b6e763e8a7d3c20c75a794e58e069abc17d687b61f577720bb64b62c374ff7",
+          "bytes": 521253,
+          "width": 892,
+          "height": 1346,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            673
+          ]
+        },
+        {
+          "page": 37,
+          "source_page": 143,
+          "printed_page": 167,
+          "asset": "page-037.png",
+          "sha256": "00ff5892764f0b302c6a15e6d8cd6d2115469c813df67ac576efded8972788ba",
+          "bytes": 565316,
+          "width": 828,
+          "height": 1404,
+          "pdf_page_rect": [
+            0,
+            0,
+            414,
+            701.6400146484375
+          ]
+        },
+        {
+          "page": 38,
+          "source_page": 144,
+          "printed_page": 168,
+          "asset": "page-038.png",
+          "sha256": "91efbea2dd0b885d9c23d22491e0b904e8b9e0201bb4794f3241da626043935d",
+          "bytes": 654348,
+          "width": 833,
+          "height": 1538,
+          "pdf_page_rect": [
+            0,
+            0,
+            416.1600036621094,
+            768.9600219726562
+          ]
+        },
+        {
+          "page": 39,
+          "source_page": 145,
+          "printed_page": 169,
+          "asset": "page-039.png",
+          "sha256": "46f27f672f081614bc21b71be4b2e498b9efec5c22c1537d213e06decff69256",
+          "bytes": 548539,
+          "width": 892,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            687
+          ]
+        },
+        {
+          "page": 40,
+          "source_page": 146,
+          "printed_page": 170,
+          "asset": "page-040.png",
+          "sha256": "9618fcd04d878dab32a069c853a02f890b5a513d69b5ede03931153e9c20cfa9",
+          "bytes": 532842,
+          "width": 892,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            687
+          ]
+        },
+        {
+          "page": 41,
+          "source_page": 147,
+          "printed_page": 171,
+          "asset": "page-041.png",
+          "sha256": "6402efadfd0c900c91391d1ce370612c7b9caa7fdc7d1e4b7218aa6bca37984f",
+          "bytes": 576321,
+          "width": 892,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            687
+          ]
+        },
+        {
+          "page": 42,
+          "source_page": 148,
+          "printed_page": 172,
+          "asset": "page-042.png",
+          "sha256": "5d6bd9e8c25133f6f13a61d6a3f94e44d37ccc732e01c7aa81204b23ff97c0fc",
+          "bytes": 440451,
+          "width": 892,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            687
+          ]
+        },
+        {
+          "page": 43,
+          "source_page": 149,
+          "printed_page": 173,
+          "asset": "page-043.png",
+          "sha256": "85bf7c80aae1b7af91be570a4db048d3b744aede57e1aaac4983a6c1280e6c24",
+          "bytes": 443150,
+          "width": 892,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            687
+          ]
+        },
+        {
+          "page": 44,
+          "source_page": 150,
+          "printed_page": 174,
+          "asset": "page-044.png",
+          "sha256": "11b0b575a9c3d2930af0a1e4a64a60e8acd5cc75f6cc92f79ae0aa88dfa76dfe",
+          "bytes": 386872,
+          "width": 892,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            687
+          ]
+        },
+        {
+          "page": 45,
+          "source_page": 151,
+          "printed_page": 175,
+          "asset": "page-045.png",
+          "sha256": "34983a297ea353c116e00101e234d7c0824ada573b3e85a9a2b4987360f2c12f",
+          "bytes": 477000,
+          "width": 892,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            687
+          ]
+        },
+        {
+          "page": 46,
+          "source_page": 152,
+          "printed_page": 176,
+          "asset": "page-046.png",
+          "sha256": "6a7187ab4b7c2a1b9b24745272f079c72d29a417ee4d79ec1e3895f94e4d713d",
+          "bytes": 477013,
+          "width": 892,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            446,
+            687
+          ]
+        },
+        {
+          "page": 47,
+          "source_page": 153,
+          "printed_page": 177,
+          "asset": "page-047.png",
+          "sha256": "b8e48ea7a7d22f0514bcaef374ccf0deccf7a6aa5bb1fb06d5133f52a66fc2a8",
+          "bytes": 499968,
+          "width": 932,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            466,
+            687
+          ]
+        },
+        {
+          "page": 48,
+          "source_page": 154,
+          "printed_page": 178,
+          "asset": "page-048.png",
+          "sha256": "bc3025a849a3754a9e5b51db96b873b0d284ded9aef4262697b132fc44e71f9b",
+          "bytes": 436164,
+          "width": 932,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            466,
+            687
+          ]
+        },
+        {
+          "page": 49,
+          "source_page": 155,
+          "printed_page": 179,
+          "asset": "page-049.png",
+          "sha256": "eec07b7e62bd221e3e1357c6477ec6cb8edda22bcb214930cd0fc9b3ad908859",
+          "bytes": 539476,
+          "width": 930,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            465,
+            687
+          ]
+        },
+        {
+          "page": 50,
+          "source_page": 156,
+          "printed_page": 180,
+          "asset": "page-050.png",
+          "sha256": "7aff0b0f2919209ea0220f91dbeafa539ee3a17d4070fb5c69d5e9ac203b6ed1",
+          "bytes": 500613,
+          "width": 930,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            465,
+            687
+          ]
+        },
+        {
+          "page": 51,
+          "source_page": 157,
+          "printed_page": 181,
+          "asset": "page-051.png",
+          "sha256": "34f542934bab83ef1021ceab72228479a7df68b399f7a8d94c296ac012cda63e",
+          "bytes": 613468,
+          "width": 930,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            465,
+            687
+          ]
+        },
+        {
+          "page": 52,
+          "source_page": 158,
+          "printed_page": 182,
+          "asset": "page-052.png",
+          "sha256": "a7a748d9f6d46f6df9f61efd75fa9e29b202afdd5d321085b19600785f8a846d",
+          "bytes": 490694,
+          "width": 930,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            465,
+            687
+          ]
+        },
+        {
+          "page": 53,
+          "source_page": 159,
+          "printed_page": 183,
+          "asset": "page-053.png",
+          "sha256": "43a174bea1de34abb45f9bb82cc9cf4db0403f8bd0ee117bceaf6f18f134ffdc",
+          "bytes": 473666,
+          "width": 930,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            465,
+            687
+          ]
+        },
+        {
+          "page": 54,
+          "source_page": 160,
+          "printed_page": 184,
+          "asset": "page-054.png",
+          "sha256": "dfca442bcb55d45c2dbc8003cb7dc1b8358628602362afdc293b6adaada50475",
+          "bytes": 515126,
+          "width": 930,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            465,
+            687
+          ]
+        },
+        {
+          "page": 55,
+          "source_page": 161,
+          "printed_page": 185,
+          "asset": "page-055.png",
+          "sha256": "e68331802d7129f3ef9470f7a96d5f4ce92dfef15292cc35dda9bc5ae806cadb",
+          "bytes": 445448,
+          "width": 930,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            465,
+            687
+          ]
+        },
+        {
+          "page": 56,
+          "source_page": 162,
+          "printed_page": 186,
+          "asset": "page-056.png",
+          "sha256": "d47d7d1ee22066ebadc3af830daeaca7c015235c64543d917e527324eaf2d886",
+          "bytes": 482757,
+          "width": 930,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            465,
+            687
+          ]
+        },
+        {
+          "page": 57,
+          "source_page": 163,
+          "printed_page": 187,
+          "asset": "page-057.png",
+          "sha256": "3440aaa8db7c2044f19abc5ca7cb3865c775f043a210d2e946aeb559c7a536ef",
+          "bytes": 544873,
+          "width": 926,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            463,
+            687
+          ]
+        },
+        {
+          "page": 58,
+          "source_page": 164,
+          "printed_page": 188,
+          "asset": "page-058.png",
+          "sha256": "bf85ff1736bfc060f5fba0472948e4d82b4c79b534443f9d60bc52488cd175f9",
+          "bytes": 565814,
+          "width": 926,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            463,
+            687
+          ]
+        },
+        {
+          "page": 59,
+          "source_page": 165,
+          "printed_page": 189,
+          "asset": "page-059.png",
+          "sha256": "7b6ea5410c5c676e90aa50e878141a3c7141395ec6894d91ef155f3c57e2b94d",
+          "bytes": 349985,
+          "width": 928,
+          "height": 1374,
+          "pdf_page_rect": [
+            0,
+            0,
+            464,
+            687
+          ]
+        }
+      ],
+      "source_pdf_page_count": 281,
+      "source_page_start": 107,
+      "source_page_end": 165,
+      "printed_page_start": 131,
+      "printed_page_end": 189,
+      "selected_act_scope": "All 59 selected pages of the Representation of the People Act, 1976 in the held ECP election-law volume: physical PDF pages 107–165, printed pages 131–189. The untouched download is the complete 281-page ECP volume. This source edition differs from the archived 2002 compilation; identity of provisions across editions and current consolidation have not been certified.",
+      "reading_quality_note": "Read the selected Act pages from this official ECP source edition. The separate archived text identifies a 2002 compilation and has not been verified against this different edition; it is retained for provenance only. No current consolidation, later-amendment completeness or current legal force is certified.",
+      "page_count": 59,
+      "total_page_image_bytes": 29592778,
+      "original_pdf_page_count": 281,
+      "source_edition_note": "The displayed Act is the edition held in the official ECP election-law volume eleclaws18.pdf. It is a different source edition from the archived 2002 compilation, whose text has not been verified against this facsimile. No claim is made that either is a current consolidation or has current legal force."
+    }
+  ],
+  "verification_scope": "Original PDF bytes hashed; complete original pages or explicitly selected Act page ranges rendered without clipping and each image hashed. Archived text/OCR, where present, is not editorially verified against a different edition. Selected proposition evidence is separately recorded."
+}

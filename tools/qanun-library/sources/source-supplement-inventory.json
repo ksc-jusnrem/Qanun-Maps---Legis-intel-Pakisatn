@@ -1,0 +1,3409 @@
+{
+  "schema_version": "legis-intel-source-supplements/1",
+  "records": [
+    {
+      "id": "pk-code-0110d516a9238938",
+      "title": "Coasting-Vessels Act,(XIX of 1838)(Repeal by 52 of 2001 s.610 & sch (pp-1-5)))",
+      "input_text_sha256": "1c9da74dbaa0aba2f3efc9e10a730f04bb6c2cf99c1c4f4eec02408da8e077c9",
+      "stored_text_sha256": "1c9da74dbaa0aba2f3efc9e10a730f04bb6c2cf99c1c4f4eec02408da8e077c9",
+      "accepted_input_text_sha256": [
+        "1c9da74dbaa0aba2f3efc9e10a730f04bb6c2cf99c1c4f4eec02408da8e077c9"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\ef9e57efbee58daf_Coasting-Vessels_Act,(XIX_of_1838)(Repeal_by_52_of_2001_s.610_&_sch_(pp-1-5))).pdf",
+      "original_pdf_sha256": "4be4fc00fd60435146b6edf2da50ff45c49b1af12067ecb67b6abe3ddb966ea2",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator0fec6f1f03ce6e45980e3fa44e70c6d2.pdf",
+      "original_pdf_page_count": 5,
+      "selected_physical_pages": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "source_image_digests": [
+        "0a7b5ef0e65fc4d08f0e2d70f6cd1ff1",
+        "29b4555afe037dc1303eb6b8a7a81ae6",
+        "753bc2cfdcc9a0343bdc761745bed7d3",
+        "9fd59b09e9396f6dc5d96ba0e7de42bb",
+        "cd074bd29e218e756e8d7a0c23bdf8c5"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-02f39d87f6f34abd",
+      "title": "Pakistan Academy of Letters' Act, 2013",
+      "input_text_sha256": "5352d4696184095ea5b7865f6aa7dac5541ce6867c389785ed2828e14e4c5ab3",
+      "stored_text_sha256": "5352d4696184095ea5b7865f6aa7dac5541ce6867c389785ed2828e14e4c5ab3",
+      "accepted_input_text_sha256": [
+        "5352d4696184095ea5b7865f6aa7dac5541ce6867c389785ed2828e14e4c5ab3"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\70a2918aced8cd79_Pakistan_Academy_of_Letters'_Act,_2013.pdf",
+      "original_pdf_sha256": "32181e1c310720b6e9043b61392df959f8929b8016007cb19ff4361abf684e24",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorb5d621089cd3b9f89bd243da38df4ee3.pdf",
+      "original_pdf_page_count": 9,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "5b86ed53dcd2710566d49bfff71b9fef"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-05aa4e0be0d678a9",
+      "title": "Muslim Family Laws Ordinance, 1961",
+      "input_text_sha256": "1759dedb1d31bb623c7e287431ebe19731477f814c699fb8ec7223a1b4ca4a42",
+      "stored_text_sha256": "1759dedb1d31bb623c7e287431ebe19731477f814c699fb8ec7223a1b4ca4a42",
+      "accepted_input_text_sha256": [
+        "1759dedb1d31bb623c7e287431ebe19731477f814c699fb8ec7223a1b4ca4a42"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\e8455c80ada93f01_Muslim_Family_Laws_Ordinance,_1961.pdf",
+      "original_pdf_sha256": "c821bbcd9b3c79e2559d4334398a9a120ed4d266f6fe4deccd8c3047b8260440",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratoreecaf3b490e2d43d2e3b50c0c068b5d7.pdf",
+      "original_pdf_page_count": 7,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "658cc225f076d6ae5dc104267f43f1ae"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-065a6e78237f87e9",
+      "title": "Post Office Act, 1898",
+      "input_text_sha256": "615eb993d54de83993f4462e1ba3c7b8825d28d93b45a964ac4032ec5369f438",
+      "stored_text_sha256": "615eb993d54de83993f4462e1ba3c7b8825d28d93b45a964ac4032ec5369f438",
+      "accepted_input_text_sha256": [
+        "615eb993d54de83993f4462e1ba3c7b8825d28d93b45a964ac4032ec5369f438"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\b3878c22bcbd4ef6_Post_Office_Act,_1898.pdf",
+      "original_pdf_sha256": "2d1c17a875710f7a0cb45f22bfb42ad4dc79279e97b997f0a9fa34a0c71fbe42",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator76aadf17aac1b3e1809b622fc6afdce5.pdf",
+      "original_pdf_page_count": 32,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "c6c7408c700808c35620a3c96a3ec10b"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-088aeed25b25f266",
+      "title": "Chief Election Commissioner (Salary, Allowances and Privileges) Act, 1975",
+      "input_text_sha256": "d7f2e1173347ef0b0d62636916b7a2f4af0e27d1ac8e2e83735bc10e2416d4b4",
+      "stored_text_sha256": "d7f2e1173347ef0b0d62636916b7a2f4af0e27d1ac8e2e83735bc10e2416d4b4",
+      "accepted_input_text_sha256": [
+        "d7f2e1173347ef0b0d62636916b7a2f4af0e27d1ac8e2e83735bc10e2416d4b4"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\689cfe40ad95e451_Chief_Election_Commissioner_(Salary,_Allowances_and_Privileges)_Act,_1975.pdf",
+      "original_pdf_sha256": "849fdd5293cd9e9854d702c6086cff380b5a0fef5dd5ab8697d83481765a6967",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator66059e02d37fb0fcc543196ecdad0595.pdf",
+      "original_pdf_page_count": 3,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "3d8d76f891fc5a2ffa7e65e86f456387"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-09962873f4c3ff32",
+      "title": "Hindu Marriage Act, 2017",
+      "input_text_sha256": "821ace4816050835314f4fbb41aa28f347ec51a1d428f487dd1d81860bc3f7c0",
+      "stored_text_sha256": "821ace4816050835314f4fbb41aa28f347ec51a1d428f487dd1d81860bc3f7c0",
+      "accepted_input_text_sha256": [
+        "821ace4816050835314f4fbb41aa28f347ec51a1d428f487dd1d81860bc3f7c0"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\304b124dfee40bd2_Hindu_Marriage_Act,_2017.pdf",
+      "original_pdf_sha256": "19ba4a52a563d5fda5011bb880fad529d5118a7be1b0f808c073e70cfc29562a",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator8cf3b3c8dbef7ea138cd39d37850f2fc.pdf",
+      "original_pdf_page_count": 11,
+      "selected_physical_pages": [
+        10
+      ],
+      "source_image_digests": [
+        "2d2b39a77ac2d9a53065b03c1c6da143"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-0a3e518677d1bd6f",
+      "title": "Elections Act, 2017",
+      "input_text_sha256": "05c31bdaea4f254be162f2a45c67f2d851e3cc05d6fde56d95f5610eaa65576f",
+      "stored_text_sha256": "05c31bdaea4f254be162f2a45c67f2d851e3cc05d6fde56d95f5610eaa65576f",
+      "accepted_input_text_sha256": [
+        "05c31bdaea4f254be162f2a45c67f2d851e3cc05d6fde56d95f5610eaa65576f"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\46d01e44712ad624_Elections_Act,_2017.pdf",
+      "original_pdf_sha256": "2f11afed93af23d201ae7c60fb6e6742f95d5ac0142e3e844c01eb6a2e34d699",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorf21c97fb85cfdc593f840a4c008caa45.pdf",
+      "original_pdf_page_count": 122,
+      "selected_physical_pages": [
+        32,
+        114
+      ],
+      "source_image_digests": [
+        "1392258bfd4eb4ba67baea8769d2a04c",
+        "9264b204af49b38e7b265acf15f6b74d",
+        "95199765be474696826de6ec25401b3a",
+        "a05ec3949bc691e5cb431f176196bf8e",
+        "a1b606e85fef970a4d94e83285f874d9",
+        "c967845ff68e14b7371e6def9d98bda4",
+        "eb254c2b78eee2a9d24b90853ef728d0"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-10380062e73ec560",
+      "title": "Islamabad Club (Administration) Ordinance, 1978",
+      "input_text_sha256": "d4e43de13e5514446dbc506ad98695d7a4cdf29631e46bec2870b5851d70d02d",
+      "stored_text_sha256": "d4e43de13e5514446dbc506ad98695d7a4cdf29631e46bec2870b5851d70d02d",
+      "accepted_input_text_sha256": [
+        "d4e43de13e5514446dbc506ad98695d7a4cdf29631e46bec2870b5851d70d02d"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\aaaf64f0d1f4cf3f_Islamabad_Club_(Administration)_Ordinance,_1978.pdf",
+      "original_pdf_sha256": "84799dda25baaec3aa58b31988e7d5cff2a0fb8bfdbdf24e3580c301a6015ec8",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator8c9829cb13f1a7b73c993d248fc3ab61.pdf",
+      "original_pdf_page_count": 4,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "7ed5dcae10f16a5ca27fea5be3b8bc9a"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-1bb8f26418349f92",
+      "title": "Cantonments Ordinance, 2002 (CXXXVII)(Repealed by Act No. XLVII of 2023)",
+      "input_text_sha256": "270d7fa9a5b30d32238b54f421774c6d7319527e6ad004a0ab9d6b3180c77a95",
+      "stored_text_sha256": "270d7fa9a5b30d32238b54f421774c6d7319527e6ad004a0ab9d6b3180c77a95",
+      "accepted_input_text_sha256": [
+        "270d7fa9a5b30d32238b54f421774c6d7319527e6ad004a0ab9d6b3180c77a95"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\6c3b8ce5e916e864_Cantonments_Ordinance,_2002_(CXXXVII)(Repealed_by_Act_No._XLVII_of_2023).pdf",
+      "original_pdf_sha256": "0719cfdce42f879399000737b6783eb72c61ed8f72f1bb931bac825190fa4eef",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorc774f7e02d8464e42ff93992c6abcba1.pdf",
+      "original_pdf_page_count": 122,
+      "selected_physical_pages": [
+        38,
+        44,
+        111
+      ],
+      "source_image_digests": [
+        "8dd6bb7329a71449b0a1b292b5999164"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-1c393d549917bbd8",
+      "title": "State Bank of Pakistan (SBP) Banking Services Corporation Ordinance, 2001",
+      "input_text_sha256": "4bd2190d5d659cdc723699fb00bbc149e04fcb820a500ae6af12fa632cc3f25b",
+      "stored_text_sha256": "4bd2190d5d659cdc723699fb00bbc149e04fcb820a500ae6af12fa632cc3f25b",
+      "accepted_input_text_sha256": [
+        "4bd2190d5d659cdc723699fb00bbc149e04fcb820a500ae6af12fa632cc3f25b"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\547f1190f4e0e7d7_State_Bank_of_Pakistan_(SBP)_Banking_Services_Corporation_Ordinance,_2001.pdf",
+      "original_pdf_sha256": "c8a06494c1147e720599c9d4cd4c24393496169b5404290ad432f496a789b18b",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorcddfa3dc8074240b4c6f30da93574353.pdf",
+      "original_pdf_page_count": 16,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "a955bebe5f1fc1c4c38c787cba2e439d"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-1c7ad0fffbb5145e",
+      "title": "Maritime Security Agency, Act, 1994",
+      "input_text_sha256": "68a9b3dfef15a47999f8a256b14a600196292c00aeac56de047e1cdcf8d89c68",
+      "stored_text_sha256": "68a9b3dfef15a47999f8a256b14a600196292c00aeac56de047e1cdcf8d89c68",
+      "accepted_input_text_sha256": [
+        "68a9b3dfef15a47999f8a256b14a600196292c00aeac56de047e1cdcf8d89c68"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\5909de081bfd5ce1_Maritime_Security_Agency,_Act,_1994.pdf",
+      "original_pdf_sha256": "3d1d9d5ea4443be9b749882f50e1d01ec3d570cae2590f73184d88724bbad629",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratoreb7a80b452cdcc24b998d3a7dd95b931.pdf",
+      "original_pdf_page_count": 11,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "d9f415f318696ee1c7c2afd9f71b84d1"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-1eefbffe36f5df1e",
+      "title": "National Judicial (Policy Making) Committee Ordinance, 2002",
+      "input_text_sha256": "52c5ffacbb9ddf740b0743ee6a502966dc6553c00aebc2e84df79184e5c51d3e",
+      "stored_text_sha256": "52c5ffacbb9ddf740b0743ee6a502966dc6553c00aebc2e84df79184e5c51d3e",
+      "accepted_input_text_sha256": [
+        "52c5ffacbb9ddf740b0743ee6a502966dc6553c00aebc2e84df79184e5c51d3e"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\80223524cd942862_National_Judicial_(Policy_Making)_Committee_Ordinance,_2002.pdf",
+      "original_pdf_sha256": "4d61ed9076b2706606a9fbe37bbd207ceb955430193a415647607771f6a4c604",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator1add8207d5de52b637c91e729f4f98e8.pdf",
+      "original_pdf_page_count": 3,
+      "selected_physical_pages": [
+        2
+      ],
+      "source_image_digests": [
+        "c1fa1f22fa36d331be4027e683baad06"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-211bb78dc5fb0414",
+      "title": "Smart Institute of Science and Technology Act, 2022",
+      "input_text_sha256": "d60e524099042960457f331d6533fad47031c3ae29594bdc518976a993f9a2eb",
+      "stored_text_sha256": "d60e524099042960457f331d6533fad47031c3ae29594bdc518976a993f9a2eb",
+      "accepted_input_text_sha256": [
+        "d60e524099042960457f331d6533fad47031c3ae29594bdc518976a993f9a2eb"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\230e3d1dd83bbd69_Smart_Institute_of_Science_and_Technology_Act,_2022.pdf",
+      "original_pdf_sha256": "3cc0e735769a16a9bb36885b8d3c7cbfc849795d50aeae9c987b8c55c739d71e",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator5f288779d3a1932171f8771d3201b30f.pdf",
+      "original_pdf_page_count": 31,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "0f844e55df9ba85ab653a6dbb0b3fd83",
+        "1518c90788a4c1fef0ca7bfb65e561a0",
+        "1db734da7e94fd868d8a826f72d48cb8",
+        "39b0a7cf0901407d83316b875dbbea81",
+        "41892d1bd886e9d57b08bbf62507b806",
+        "426c68b665e5aa05833a4317f2ea50f4",
+        "4cbe6a11ebc7ed668557ddeab8922935",
+        "55e5224487f4993d72063599280285e9",
+        "71d33a674492af0d40452a1e0387d747",
+        "95395163477f610166a2bbc5a16ffca0",
+        "98f7289496c39043469880c18e0af51c",
+        "9fa28be8094979e47419c9a459a8cd7a",
+        "dbef863abaa7982f28cc948cb786ba3e",
+        "e1dfccc5ac3931f45aeb279ff695245a",
+        "edec8c4acc6a403875e8e5047c8b558f",
+        "f2be52ad1c12181604d123de35527f48",
+        "f376607828db8d20cf08a70ba4fd227a"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-21c717a7bb8edb88",
+      "title": "National Command Authority (NCA) Act, 2010",
+      "input_text_sha256": "d0863f29330c210fda45e1fb9bff6ec0edc1f23c064a848d80a8fc9f625a8d8f",
+      "stored_text_sha256": "d0863f29330c210fda45e1fb9bff6ec0edc1f23c064a848d80a8fc9f625a8d8f",
+      "accepted_input_text_sha256": [
+        "d0863f29330c210fda45e1fb9bff6ec0edc1f23c064a848d80a8fc9f625a8d8f"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\e69963e40afdf82e_National_Command_Authority_(NCA)_Act,_2010.pdf",
+      "original_pdf_sha256": "642730d03bc52d62c85e8d58625c73d626a73ea93bc0e8678e8664033c3b84b8",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator93cc37130e102d0a87a564dae2486992.pdf",
+      "original_pdf_page_count": 9,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "cee9e0876940ecb887a6072e15caf1f7"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-2405598b7f80d6a8",
+      "title": "Quaid-e-Azam's Mazar (Protection and Maintenance) Ordinance, 1971",
+      "input_text_sha256": "352e30807e66ab8363d8de8923749978df1d3454d680f45b34ab29e62683b73e",
+      "stored_text_sha256": "352e30807e66ab8363d8de8923749978df1d3454d680f45b34ab29e62683b73e",
+      "accepted_input_text_sha256": [
+        "352e30807e66ab8363d8de8923749978df1d3454d680f45b34ab29e62683b73e"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\9595d7f8e79e953a_Quaid-e-Azam's_Mazar_(Protection_and_Maintenance)_Ordinance,_1971.pdf",
+      "original_pdf_sha256": "4d66926aa01d10aca5529e8e36449e16c108a3d56de28a83557e31868de1d7e5",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator484616c50fb23172262b08aa2c109772.pdf",
+      "original_pdf_page_count": 4,
+      "selected_physical_pages": [
+        4
+      ],
+      "source_image_digests": [
+        "7577bccd0962ff9fd72de75627b970be"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-2d6e44082e5f253f",
+      "title": "Shaheed Zulfiqar Ali Bhutto Medical University, Islamabad, Act, 2013",
+      "input_text_sha256": "6a9bc590410cfe6f26dbcb8be4b7123f9f79aa7a58a41913436ccc356f9119de",
+      "stored_text_sha256": "6a9bc590410cfe6f26dbcb8be4b7123f9f79aa7a58a41913436ccc356f9119de",
+      "accepted_input_text_sha256": [
+        "6a9bc590410cfe6f26dbcb8be4b7123f9f79aa7a58a41913436ccc356f9119de"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\9804a37915dbbb62_Shaheed_Zulfiqar_Ali_Bhutto_Medical_University,_Islamabad,_Act,_2013.pdf",
+      "original_pdf_sha256": "9806dbed6ad93523dae94b1e9b7ae5d1a68c7b0553628c2adb0743a38028dcbe",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator3795f7a79b11ba6af248fef2414f03ec.pdf",
+      "original_pdf_page_count": 31,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "f87a9707597891aede7b93f4a6885a15"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-2eb77b30e9cbe64a",
+      "title": "Anti-Rape (Investigation and Trial) Act, 2021",
+      "input_text_sha256": "4d14110889e99eab4d644303f4d24cfd4db8e0c46a1fabf0954a17dd0448163d",
+      "stored_text_sha256": "4d14110889e99eab4d644303f4d24cfd4db8e0c46a1fabf0954a17dd0448163d",
+      "accepted_input_text_sha256": [
+        "4d14110889e99eab4d644303f4d24cfd4db8e0c46a1fabf0954a17dd0448163d"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\0432fdd9d597e0dd_Anti-Rape_(Investigation_and_Trial)_Act,_2021.pdf",
+      "original_pdf_sha256": "120ae1cbcb070f052dcef4c8f674ef79f88b405d2ad7ffeeee10e341c793b85c",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratordcbf53fa2d37ade990bcaa63630e66ff.pdf",
+      "original_pdf_page_count": 14,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "ff53e39605cde48e52d083aa15e680c8"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-2fff45df8bbd92f6",
+      "title": "Code of Civil Procedure (CPC) , 1908 (Under Review)",
+      "input_text_sha256": "5c3961ba9fa2cffa46f5cf59e105f7009fcf26c882ab42acc94658d35f5dfb63",
+      "stored_text_sha256": "5c3961ba9fa2cffa46f5cf59e105f7009fcf26c882ab42acc94658d35f5dfb63",
+      "accepted_input_text_sha256": [
+        "5c3961ba9fa2cffa46f5cf59e105f7009fcf26c882ab42acc94658d35f5dfb63"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\831b0b846cace3cc_Code_of_Civil_Procedure_(CPC)_,_1908_(Under_Review).pdf",
+      "original_pdf_sha256": "c51d194bfc14f076769f266db7efabc1901f1de2182da89c8f0ef82d92844b33",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator6598dabbad120033d4d42d717dcf9755.pdf",
+      "original_pdf_page_count": 318,
+      "selected_physical_pages": [
+        213,
+        231,
+        312,
+        313
+      ],
+      "source_image_digests": [
+        "013b3df4c100a5ec20a1b6f6e9ea5a2b",
+        "4fc243406e1f2aafdc74d31737f15642",
+        "a57a00c690f0abb71bea39850933e270"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-30ecabb4a7ed433a",
+      "title": "Constitution of the Islamic Republic of Pakistan",
+      "input_text_sha256": "b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "stored_text_sha256": "b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a",
+      "accepted_input_text_sha256": [
+        "b4c3398abc155e5d543d326f4cd2167a25f194de0e6b274f64aa5058006f705a"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\ab62991e00e75a6e_Constitution_of_the_Islamic_Republic_of_Pakistan.pdf",
+      "original_pdf_sha256": "140aefc49ca24106f8a098418b420d8ae45683799e890ea550da6858d8d10e48",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator9d8e2ecc414c6d3371ac41114b61a2c4.pdf",
+      "original_pdf_page_count": 176,
+      "selected_physical_pages": [
+        17,
+        145,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168
+      ],
+      "source_image_digests": [
+        "7f4db40547e8a20ea1c41a0306c020c6"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-373a70c7f70e95b5",
+      "title": "Gwadar Port Authority Ordinance, 2002",
+      "input_text_sha256": "4f21997dbc12175c8b33babff410bac56e84c2540a9bd26b3c0800fbd0bf7e1d",
+      "stored_text_sha256": "4f21997dbc12175c8b33babff410bac56e84c2540a9bd26b3c0800fbd0bf7e1d",
+      "accepted_input_text_sha256": [
+        "4f21997dbc12175c8b33babff410bac56e84c2540a9bd26b3c0800fbd0bf7e1d"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\a6ffe980830ef240_Gwadar_Port_Authority_Ordinance,_2002.pdf",
+      "original_pdf_sha256": "9a08250255bd48ff7777665a72909a89d32e20910d99fb1f380866dce38cc846",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratora054b6e4c0c801758ad7da94cac1a86a.pdf",
+      "original_pdf_page_count": 28,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "c6382a8ec553a3ea1c9361199b7bacd6"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-3a9d2b63ba9a7409",
+      "title": "Board of Investment Ordinance, 2001",
+      "input_text_sha256": "30e6f0b9a52d111cf759b38102fd8a7acb6fa5f93105d46a5732a9017ec7df6f",
+      "stored_text_sha256": "30e6f0b9a52d111cf759b38102fd8a7acb6fa5f93105d46a5732a9017ec7df6f",
+      "accepted_input_text_sha256": [
+        "30e6f0b9a52d111cf759b38102fd8a7acb6fa5f93105d46a5732a9017ec7df6f"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\8e8ccc29135cc3ae_Board_of_Investment_Ordinance,_2001.pdf",
+      "original_pdf_sha256": "c7b885b22f242e182b18e9e2b2cd57cf783d58a285fa7584d59cbeef51244f2a",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator0ec3cfea1b3f330a93b185f57df04634.pdf",
+      "original_pdf_page_count": 14,
+      "selected_physical_pages": [
+        8,
+        9
+      ],
+      "source_image_digests": [
+        "07847e72d84713cc5b01131c67520355",
+        "15ba16528d5592cd0ab87552cfe8abe9",
+        "19b7397ad040d33c961e04749525e346",
+        "45f9fc78440f02c49d8b38643c746457",
+        "460caec20f4efc13161ddb53f13811a0",
+        "51c4f595ba777a159e7ffed58a4063a1",
+        "55a9db38433e7507f4651059969c1185",
+        "697bd766c9d048e7ee103e37fb2e07b8",
+        "6dbabdec7b8f7ce3a18cf8a4c53de96e",
+        "7060a11a00d6376232772ac187ff964d",
+        "7bf2acacab4d7d937b65b85d4d514a4a",
+        "7f1232def9221f42557e7aef93ceb4e2",
+        "83c53959846173c79507a2dc5eca2d5f",
+        "99f0e8c9eff692f309304aa720fcee48",
+        "a0fc9d5fd4d9880c1c5eb9fa68638726",
+        "a2d4feb025bd9aab95a3953595bf2780",
+        "aa1625a639a73ae83bfeec7e01bf9bd8",
+        "ac8bafcb88278f2e9bb3d677b12a3c21",
+        "b1a0f30b7747efcc9e34dd958f88442a",
+        "b8fc3eb111e3ad37a372222fed1d497b",
+        "be894c3f3a0c216f6b9c850e3a3c3d80",
+        "c1c7ccdbb5fbbf3803b7a3bd6013456f",
+        "c7fc8cebfc88c14cfad893d69d8bab58",
+        "cb277d8611b941d04baf63645d96e1c2",
+        "d150b2c87dc16aa2899f2a66f0917931",
+        "d276d20f528198a421f3afd287be9b1a",
+        "e44ff11e5368a17dc5ec70bed7b81f15",
+        "e9374190ee6be09a58d8f0c8fddf731a",
+        "e95d27360107698375d252461e152cd3",
+        "f229d2fa65c49934f1f9e0275cdd1191"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-3ceb205b4f7efa68",
+      "title": "National Highway Authority (NHA) Act, 1991",
+      "input_text_sha256": "e3c98e809cbaa364572ae4eeb3725f7390547386e7bee85cf5750a0251bf1e8d",
+      "stored_text_sha256": "e3c98e809cbaa364572ae4eeb3725f7390547386e7bee85cf5750a0251bf1e8d",
+      "accepted_input_text_sha256": [
+        "e3c98e809cbaa364572ae4eeb3725f7390547386e7bee85cf5750a0251bf1e8d"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\5ed194332facfe37_National_Highway_Authority_(NHA)_Act,_1991.pdf",
+      "original_pdf_sha256": "5d1715c7b448089d347aaf0dc0f06b08a4361d777bc0b58468eee6143efa0a72",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator1cbd99cb7f8f339e9c392ec37738953f.pdf",
+      "original_pdf_page_count": 14,
+      "selected_physical_pages": [
+        14
+      ],
+      "source_image_digests": [
+        "472b56882df1b8ec6b336b4509727ad5",
+        "a78a2d212e0684d61cb49c68cd70a381",
+        "c209dd04f4584e942c6d1eaae09877a6"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-3d66990a0ddde1a5",
+      "title": "Virtual Assets Act, 2026",
+      "input_text_sha256": "874645c4b6a01b1ee2101822b36bce37ac37f23679c3f2d3378f48a4ba36c42d",
+      "stored_text_sha256": "874645c4b6a01b1ee2101822b36bce37ac37f23679c3f2d3378f48a4ba36c42d",
+      "accepted_input_text_sha256": [
+        "874645c4b6a01b1ee2101822b36bce37ac37f23679c3f2d3378f48a4ba36c42d"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\55b5d64230be5314_Virtual_Assets_Act,_2026.pdf",
+      "original_pdf_sha256": "543fba0bde5d4c41d026c2f2f73e7592a5e295521d5732d320841bad751bd82b",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorecf7449c490a80991651ebb42d9b0ad2.pdf",
+      "original_pdf_page_count": 35,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "9636feb23e09899fe3000a1d9a399117"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-4218c86bbb52555a",
+      "title": "Financial Institutions (Recovery of Finances) Ordinance, 2001",
+      "input_text_sha256": "04a19dffbe7d67aeb9d50b5f743a686c8023e025f33e5b0a188f39f55e4e5c18",
+      "stored_text_sha256": "04a19dffbe7d67aeb9d50b5f743a686c8023e025f33e5b0a188f39f55e4e5c18",
+      "accepted_input_text_sha256": [
+        "04a19dffbe7d67aeb9d50b5f743a686c8023e025f33e5b0a188f39f55e4e5c18"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\9ddf80e2ff93ae3b_Financial_Institutions_(Recovery_of_Finances)_Ordinance,_2001.pdf",
+      "original_pdf_sha256": "e468665ee4c0680e163a7007f48e551623d98efcb2b96498ab2a1fb72eb3cf52",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorcf20efcd7f792c08850503359c31ce76.pdf",
+      "original_pdf_page_count": 21,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "9a1afbc8c784a1104ab595fa169249aa"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-4a95ab09e94b7c38",
+      "title": "Anti Terrorism Act (ATA),1997",
+      "input_text_sha256": "d3d8d7ba5e7bda0340ea480da0b52842a24ad7efed48f3f770e409e1c0207e92",
+      "stored_text_sha256": "d3d8d7ba5e7bda0340ea480da0b52842a24ad7efed48f3f770e409e1c0207e92",
+      "accepted_input_text_sha256": [
+        "d3d8d7ba5e7bda0340ea480da0b52842a24ad7efed48f3f770e409e1c0207e92"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\6371e50b329f504c_Anti_Terrorism_Act_(ATA),1997.pdf",
+      "original_pdf_sha256": "f1af080cc1c42e15337f3c8200d55381466222809578691743067d6d2968d508",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator0c000814bbb1b4188b0855eb6e5dd446.pdf",
+      "original_pdf_page_count": 57,
+      "selected_physical_pages": [
+        4
+      ],
+      "source_image_digests": [
+        "49f8b8062f6547d094dc72cb0235556d"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-50b156551c0e99ed",
+      "title": "Estacode",
+      "input_text_sha256": "5e8658e3b365ae9bb4cbe36b8bc32aba5e4bee1572d75daef292b031bb62e9f3",
+      "stored_text_sha256": "5e8658e3b365ae9bb4cbe36b8bc32aba5e4bee1572d75daef292b031bb62e9f3",
+      "accepted_input_text_sha256": [
+        "5e8658e3b365ae9bb4cbe36b8bc32aba5e4bee1572d75daef292b031bb62e9f3"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\5027b15f3f316e3f_Estacode.pdf",
+      "original_pdf_sha256": "0feb1c0acde32d1e5f0e34445f389ea593470a7f778eab203f13e857f047997c",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator41708b287250bc3afc9b10806054551e.pdf",
+      "original_pdf_page_count": 1044,
+      "selected_physical_pages": [
+        1,
+        13,
+        14,
+        15,
+        112,
+        215,
+        219,
+        222,
+        234,
+        237,
+        282,
+        283,
+        359,
+        397,
+        398,
+        686,
+        728
+      ],
+      "source_image_digests": [
+        "068cbf362a4309061be18d8f0b5b6484",
+        "0e01fc754b03fb257e7ecbeba73f8d1b",
+        "0e6202f0e710f70648cdf58c0b8552ef",
+        "13aeb67bb6bd19f7b1315c53ff118290",
+        "143a9d1865105cb6bf6c885c36f2f09e",
+        "156f896e82ec70ce49409beb6f861b05",
+        "1743e594cf395bf728b24d88fa51e12e",
+        "1b6774dd1073be209d5839d955a024e8",
+        "24827c7df7d6f4e62efc41643d5d6bfa",
+        "2d5490931f576492bbef8e73a5ec669d",
+        "2ea2be1ceb423faf48c2d0015a694471",
+        "31145864495bc7c76c591553c0e3a69a",
+        "341460cc97e49fda73ec8cb35323713a",
+        "38e0b5cd34e9cdf3b95e12be8a768180",
+        "3cf553ace3e103c6509224538c40fa3e",
+        "444244aba072f81c8a7a31cc0cc1953b",
+        "4532717f74382ff22eafc56063a2ebe7",
+        "48a8c187b78343e3d780587d906a0526",
+        "4a5c281b71fbc45c1b8edd4b85aa58a1",
+        "4ba51167cb02e6e89b7594edb6e35b40",
+        "56763b7a78e5d1d5502c78feb3acbe1b",
+        "5b72cf495d4f9f03b8d5c11cce686af4",
+        "5c51bfb668adbbecb5dce5dd50333d54",
+        "5cc4fd5dc4f3de1f178c64b08d3caa5a",
+        "5e8b78d0b145460137a1892a43e00ee1",
+        "6431d15ee8947f5e4e1e805fd8fdfaff",
+        "67d89918bbe1f20f2ef013146782e65a",
+        "6e26bb12a48766b74d8be06e9a537c9f",
+        "70ae3c61c724765b08589f95d427cd8e",
+        "714f67872f555dbdd880f417a1f16382",
+        "7699eb4626bd133312d7a3a777cf4e25",
+        "7c86936293e7d0cd39a8b00c02eb7a5b",
+        "7c95dab9b113f417c86e10676336e544",
+        "82ebe38e4e69c3630d35df45d2322f95",
+        "998af5966a85429a17787c7269ba332a",
+        "99cf3899d263e2a8176d56a1b25c5ab6",
+        "ab2d7863c67881cef03febe0d8accbaf",
+        "b08490c34fe4bc09a1c282ad237af7d2",
+        "b38547c163f74b3338d416ed7092d8af",
+        "b4c70f982adfb11660177bd378baef28",
+        "baea4d09ae22050dc2a42d821e2e29f8",
+        "bc2f8ce119ee67feef3ed47d47ced71c",
+        "bc72d5c153906047c1ccb23d90f6cacf",
+        "bda2527e8dfb2803eb7fa076299d4cec",
+        "c408995fd03faf5277a1bb6c6adcfadd",
+        "c550c19e36deeb897701bad644414a98",
+        "c798f046d832783a25334d7bd19089a4",
+        "c8a7cafda43e087bf1bf4b3474806a5e",
+        "ce8dbd6c32371c5f263c101f3dec5e26",
+        "ced41938e1dc475175b7cf28c35ea466",
+        "d688c7d06a9789af5ab927add826899d",
+        "dab45f935f479ba83c124c923b957fc3",
+        "de96c9c67c8f1dfefcaaee5a9e4a875e",
+        "e1b67aefbb9f275dba5933192710bc94",
+        "e3afd30e458b4abf4039d40add6b22bb",
+        "e4247a1da3c3f5e142b6dc6016d99e38",
+        "f1b60bc03f005289ff840e5e6907953e",
+        "f3c97d0f54648a35686bf2c4535ebaad",
+        "ff8a9d7541581880bdc167afe5d1fc67"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-5b77046cd080bfac",
+      "title": "Industrial Relations Ordinance, 2002 (Repealed by Act No IV of 2008)",
+      "input_text_sha256": "cca3aeb1eff4bf34881e3c21f1587e71f21d43df16adfc36da6d56ca23c26b7d",
+      "stored_text_sha256": "cca3aeb1eff4bf34881e3c21f1587e71f21d43df16adfc36da6d56ca23c26b7d",
+      "accepted_input_text_sha256": [
+        "cca3aeb1eff4bf34881e3c21f1587e71f21d43df16adfc36da6d56ca23c26b7d"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\e5064454ef75fcbc_Industrial_Relations_Ordinance,_2002_(Repealed_by_Act_No_IV_of_2008).pdf",
+      "original_pdf_sha256": "35a11e19fabdf31278c9c515402689e3e104fcfc7d5ce240719f3b79ef64d0fd",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator3ca0a0ab658986baa6d6eb1a89f8d5e0.pdf",
+      "original_pdf_page_count": 39,
+      "selected_physical_pages": [
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_image_digests": [
+        "0493aef1aa45dba544a7947e6f7fedda",
+        "07dd1006d70d0420cdbcc58acc6f4973",
+        "2975bd1a809637f0109221bdb9ac7562",
+        "2c3d3ea6966cbfe2c84b82c15b6d893b",
+        "355c54ad76a4a4fd9061319e3a378b53",
+        "3e2ca3d5520d30fc89e4d5522c96c3ac",
+        "415f95268504e827569e26c4aec2dab4",
+        "47ba7c52d4aff32a65384c9b1ae3ffaf",
+        "556f4512af249b4b633c75c0a2032f45",
+        "61da5d0c13ff6b2bd3b6d49d1a7b459e",
+        "7116bd0f185403aad61b4eccfcc9e3ec",
+        "71e690ac1d810d09fdcaac81442e68d5",
+        "7251bdb7e709e5e02af41bd22e0e01e0",
+        "7f269f23335117e30c8551c850819c13",
+        "814a2541952d1afe7d8a32660e9dae35",
+        "93cca5c042108832093883625fff1c04",
+        "a481407d4b29ebbde9dfed9ae3359a21",
+        "aec73f422449a7f7558a46ba5c4e26c0",
+        "af6191de68c7cc4621642c20d39a373b",
+        "b1e1d6e131d8e5eacb02b3b1a30df3a4",
+        "b5212cb8c4b730507d47ec01944ea1aa",
+        "b685cad86d13607117cb6dc1598f581f",
+        "b755c171433907f462b950fbf500f38c",
+        "d7857e081b49b4f097cb106f5dec15af",
+        "df5ef0b8392b9d174391c7b4d86b42c1",
+        "e3eb9889a199cbf77bbfb2b90bd9ff29",
+        "f240b21d26e5f98a64c87862243fdbcb",
+        "f72a8700022761a3c1f8e83e06b27e80",
+        "fd0d0bafe1138d05e98df3414114f042"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-5dafefaab2147224",
+      "title": "Railways Act, 1890",
+      "input_text_sha256": "9b1ea29f03ea244e0e52f52344f96f40d3dbffcee4bba8014f44248bf25d9188",
+      "stored_text_sha256": "9b1ea29f03ea244e0e52f52344f96f40d3dbffcee4bba8014f44248bf25d9188",
+      "accepted_input_text_sha256": [
+        "9b1ea29f03ea244e0e52f52344f96f40d3dbffcee4bba8014f44248bf25d9188"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\7269950326ce6ca7_Railways_Act,_1890.pdf",
+      "original_pdf_sha256": "87fa06d4b6862d6f1c2b24fe1742aa1106d12ec8deb7464ac31ee3f269472d18",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator2ee5578ca7f0081f5d589a84de29b868.pdf",
+      "original_pdf_page_count": 43,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "5f2f89bf12ed97e16b4e40795e098d3c"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-60dbb0374367e6f4",
+      "title": "Pakistan Red Crescent Society Act",
+      "input_text_sha256": "c24f7aac518c729dce33204068baadb52d3b10a34bd6c0e56b430f41a2f8d4a3",
+      "stored_text_sha256": "c24f7aac518c729dce33204068baadb52d3b10a34bd6c0e56b430f41a2f8d4a3",
+      "accepted_input_text_sha256": [
+        "c24f7aac518c729dce33204068baadb52d3b10a34bd6c0e56b430f41a2f8d4a3"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\02b977c5b27c933d_Pakistan_Red_Crescent_Society_Act.pdf",
+      "original_pdf_sha256": "36e7d12cfe53e8751c4c4f0b52d00856af43b0c7f1e99f86570d0d543085c7db",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator6e2025e398d01c93f5db47a234468c5c.pdf",
+      "original_pdf_page_count": 7,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "011e640676a51c557bf43c45bcfa02a1",
+        "071dc78daac844123fe06ba3be9f09f8",
+        "177c98602f5056ef939c03bf48a40e8c",
+        "313405546149c24675c2eea02974dc6d",
+        "4431c534c4a6e5ffb0f75870e5a7a8fd",
+        "481cc4653c8ab063cd3735568b6b7843",
+        "4aed6b2a2188f8618791b7bce840854b",
+        "50c1337a73b83fd90145d7bc9482b3fb",
+        "5f2f89bf12ed97e16b4e40795e098d3c",
+        "69ab57ce598fcbbca27fa3444fefd695",
+        "807e64d26deeea5416c68a6957cf21e0",
+        "a5ed1784f96870ddb5b4ff4f06f57bfd",
+        "a95a4cf8ce1c8aba28c8e5ecced701f4",
+        "ab2aa26f94d5f1aba517015e4ae5b60a",
+        "b547bd6b6944a599012dfe242635ebb8",
+        "d7cd95d43cf15cfc23d917ea40963a2a",
+        "f4b0bf08938a6d857447680f8c88068e",
+        "fef1c73469fe62b5f98567af4a51c364"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-60ef676a2188a30c",
+      "title": "Deposit Protection Corporation Act, 2016",
+      "input_text_sha256": "ff34ca5dc51b59ccae3b2cf11c5ddb9b406814902782ce21ab6932029cc2467f",
+      "stored_text_sha256": "ff34ca5dc51b59ccae3b2cf11c5ddb9b406814902782ce21ab6932029cc2467f",
+      "accepted_input_text_sha256": [
+        "ff34ca5dc51b59ccae3b2cf11c5ddb9b406814902782ce21ab6932029cc2467f"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\b016450ab966414b_Deposit_Protection_Corporation_Act,_2016.pdf",
+      "original_pdf_sha256": "188e2bc01fa95cd3cbbc917fe582a30804890c00bea93194dec8dcc955830cf2",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorea1cbf75b338a5ac16eddfe7dfcfd4a3.pdf",
+      "original_pdf_page_count": 21,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "0125c8d472f0bf2282e6d972f820f910",
+        "1deb46c7de91b6c03ec9319fd2583f86",
+        "1ed3f453c56b1f906e26a18869541e16",
+        "2795bc8c5a2d6521d572980c597f5918",
+        "3ccb669aed8d147926a78427e9d06580",
+        "41953694e863ec5164c8b60b39caebcc",
+        "5c3cbd25b3c31a0d60a0a8c7294bd5ef",
+        "66e454114f484a487e1f96d7d980f01b",
+        "742a4c5db2561d4c2fe71a57ece972f7",
+        "79d25be946717635eeefe2189b8827c0",
+        "9150795fd6e491d690d71045b0728be0",
+        "a430ecfa16abf7a8a1f2bd35c5f932fc",
+        "b8b0441f5c5a54268103e28bb038b284",
+        "b92ab23ab1423cedf0e78f851f7fd7a8",
+        "ccb31a793d2cf43da959e09a58ae55e8",
+        "d085652cd202850adfd0932b58533f26",
+        "e65bd23929073686732592c6cb2d213e",
+        "efc90df09956d2f990388f00de272768"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-67e7a06176eac34e",
+      "title": "Control of Narcotic Substances Act (CNSA), 1997",
+      "input_text_sha256": "3e097c6788f6d06586c6ae82dd48996013e59149e1baed95a0d6ce6f40028d16",
+      "stored_text_sha256": "3e097c6788f6d06586c6ae82dd48996013e59149e1baed95a0d6ce6f40028d16",
+      "accepted_input_text_sha256": [
+        "3e097c6788f6d06586c6ae82dd48996013e59149e1baed95a0d6ce6f40028d16"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\b50c661175379559_Control_of_Narcotic_Substances_Act_(CNSA),_1997.pdf",
+      "original_pdf_sha256": "e5e7cad13487f4828b787fe7991e4a4765175137eb62cc0325f55824a3ebaecf",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator739c7aa745c5afab5decf2e100caf1c5.pdf",
+      "original_pdf_page_count": 50,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "af8b1739703d5104d0da88a0a8b6d2af"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-695ad1e66fdfa9b3",
+      "title": "Karachi Port Security Force Ordinance, 2002",
+      "input_text_sha256": "a9f324d1af4344c57cd9f0797fac0ae403acec774e4eb7ebd9ae679816e3cdd6",
+      "stored_text_sha256": "a9f324d1af4344c57cd9f0797fac0ae403acec774e4eb7ebd9ae679816e3cdd6",
+      "accepted_input_text_sha256": [
+        "a9f324d1af4344c57cd9f0797fac0ae403acec774e4eb7ebd9ae679816e3cdd6"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\4c29fdee8a05a15b_Karachi_Port_Security_Force_Ordinance,_2002.pdf",
+      "original_pdf_sha256": "b4de136e7846769a5e76636065d9affb878b1c29b952a6a715ff080fa45c62f2",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator99323b24414042ba1fad2619af9fec4f.pdf",
+      "original_pdf_page_count": 11,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "66dc1cf4e0356a5eb3517bae64693ebc"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-6c1a54f82844de3b",
+      "title": "Islamabad Capital Territory Local Government Act, 2015",
+      "input_text_sha256": "1cec4d47327941a8b0dee3179457967026deb2ee9d074f96b8cd2ee3e27ed875",
+      "stored_text_sha256": "1cec4d47327941a8b0dee3179457967026deb2ee9d074f96b8cd2ee3e27ed875",
+      "accepted_input_text_sha256": [
+        "1cec4d47327941a8b0dee3179457967026deb2ee9d074f96b8cd2ee3e27ed875"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\a7f6e349935dfc7f_Islamabad_Capital_Territory_Local_Government_Act,_2015.pdf",
+      "original_pdf_sha256": "fde5f7670a33099688eb6d3d342eab6577f7b259657b201f79553034a1780454",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator2cd0fb199558bc5fb239d66d51d21e27.pdf",
+      "original_pdf_page_count": 86,
+      "selected_physical_pages": [
+        63
+      ],
+      "source_image_digests": [
+        "3debc9b519363e34f184fbfa8949108e"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-6c462b7d924dbbe3",
+      "title": "Rules of Business",
+      "input_text_sha256": "9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+      "stored_text_sha256": "9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3",
+      "accepted_input_text_sha256": [
+        "9891101e1417c7fa89201f5f1c43111fd0c3e43eda7238611a14d7bfe6d15ef3"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\6b988a8e2d205215_Rules_of_Business.pdf",
+      "original_pdf_sha256": "4e00b563c253ee836b48f9cb2a3e9e06d002b785237802c34b871fde1a286612",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorcbfbe0b7ea25fbbcf8b10e53b794b6a5.pdf",
+      "original_pdf_page_count": 87,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "159d703d9b24c94944777fb067d9c925",
+        "2f7f7eff9abeb89ea9917706f06d115d",
+        "988462026e844e8dc1f143b251f1e9cf",
+        "d41b9a5aa9775cd5ab7be62eb8e30ac2",
+        "e10ca6f4b8b14acbb9aab52078cb8fd5"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-713bebd1867b594a",
+      "title": "Punjab Laws Act, 1872",
+      "input_text_sha256": "0e3c529b63b6a30a1e9be5f3a38db05d4cdf7030ac5a7815b4dc4e6e3c31555a",
+      "stored_text_sha256": "0e3c529b63b6a30a1e9be5f3a38db05d4cdf7030ac5a7815b4dc4e6e3c31555a",
+      "accepted_input_text_sha256": [
+        "0e3c529b63b6a30a1e9be5f3a38db05d4cdf7030ac5a7815b4dc4e6e3c31555a"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\d5986df9131ce450_Punjab_Laws_Act,_1872.pdf",
+      "original_pdf_sha256": "d3557a1cf3dec5d77f74b66879841b7a8e39b72d3a84559ce189dcaf5eaabbff",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator03228293f22331aa4d74568d913399ac.pdf",
+      "original_pdf_page_count": 11,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "fd9fd31b4e2cef607cfbabe94d4d591e"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-73d2f3ad267d8589",
+      "title": "Industrial Relations Act, 2008 (Repealed by Act X of 2012)",
+      "input_text_sha256": "70a082fd23313ec2df87ada3435567f0a936068c8488817adc3bab2900677ab1",
+      "stored_text_sha256": "70a082fd23313ec2df87ada3435567f0a936068c8488817adc3bab2900677ab1",
+      "accepted_input_text_sha256": [
+        "70a082fd23313ec2df87ada3435567f0a936068c8488817adc3bab2900677ab1"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\5b7e81de28cc3142_Industrial_Relations_Act,_2008_(Repealed_by_Act_X_of_2012).pdf",
+      "original_pdf_sha256": "438979444d868bcdc0aec01d3646d048cf3950af6c13651e0961ff689690a147",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorede73c18d5f614a9f6e377f6c88c5ba6.pdf",
+      "original_pdf_page_count": 48,
+      "selected_physical_pages": [
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "source_image_digests": [
+        "0493aef1aa45dba544a7947e6f7fedda",
+        "07dd1006d70d0420cdbcc58acc6f4973",
+        "2975bd1a809637f0109221bdb9ac7562",
+        "2c3d3ea6966cbfe2c84b82c15b6d893b",
+        "355c54ad76a4a4fd9061319e3a378b53",
+        "3e2ca3d5520d30fc89e4d5522c96c3ac",
+        "415f95268504e827569e26c4aec2dab4",
+        "47ba7c52d4aff32a65384c9b1ae3ffaf",
+        "51312c869ced250210ab4c0ad6b9b170",
+        "556f4512af249b4b633c75c0a2032f45",
+        "55a069f16ce61ac7e5da063a3930c19b",
+        "565d35a16a166675f616bbc880deeb5e",
+        "61da5d0c13ff6b2bd3b6d49d1a7b459e",
+        "7116bd0f185403aad61b4eccfcc9e3ec",
+        "71e690ac1d810d09fdcaac81442e68d5",
+        "7251bdb7e709e5e02af41bd22e0e01e0",
+        "7f269f23335117e30c8551c850819c13",
+        "7fe45a01ff5404ae57d4a77d1e4fdac6",
+        "814a2541952d1afe7d8a32660e9dae35",
+        "93cca5c042108832093883625fff1c04",
+        "9437b573da77595b9cc80872a37914f5",
+        "97bd7a96b0c90e091b882f766d52fb8a",
+        "a481407d4b29ebbde9dfed9ae3359a21",
+        "aec73f422449a7f7558a46ba5c4e26c0",
+        "af6191de68c7cc4621642c20d39a373b",
+        "b1e1d6e131d8e5eacb02b3b1a30df3a4",
+        "b5212cb8c4b730507d47ec01944ea1aa",
+        "b685cad86d13607117cb6dc1598f581f",
+        "b755c171433907f462b950fbf500f38c",
+        "d7857e081b49b4f097cb106f5dec15af",
+        "df5ef0b8392b9d174391c7b4d86b42c1",
+        "e3eb9889a199cbf77bbfb2b90bd9ff29",
+        "f240b21d26e5f98a64c87862243fdbcb",
+        "f72a8700022761a3c1f8e83e06b27e80",
+        "fd0d0bafe1138d05e98df3414114f042"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-749434d5bce5b5d4",
+      "title": "Finance Ordinance, 2001",
+      "input_text_sha256": "4d2651282abde4590d6ef8bcf33a620f7c4c4f701e0247e48d6e04aba4ed4732",
+      "stored_text_sha256": "4d2651282abde4590d6ef8bcf33a620f7c4c4f701e0247e48d6e04aba4ed4732",
+      "accepted_input_text_sha256": [
+        "4d2651282abde4590d6ef8bcf33a620f7c4c4f701e0247e48d6e04aba4ed4732"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\ab517fc88283d5cf_Finance_Ordinance,_2001.pdf",
+      "original_pdf_sha256": "cd770b023f52c7228040dda7842b8541702dc3bcfba091935e828193e90b390c",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator888bc6d1009f9fb0809dd695f28e21b5.pdf",
+      "original_pdf_page_count": 42,
+      "selected_physical_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "source_image_digests": [
+        "01586b04322943119f74734a52615714",
+        "0f1174611d55756eea7d225dcf622395",
+        "15b0f4de76c0d3077ff6b18b91d01a8d",
+        "1b9f5372bb0bc8d65b420b2de513a125",
+        "1c7f7260efa24836b18fd961bc339061",
+        "297e5ac901b6102438c18e53396a047c",
+        "2eb8c0ad8de802b168ab1b9a8f4f5dd0",
+        "2efd5f256384fcf7326119b8758d6078",
+        "38c621bd9c506d11c8517f265b05d25a",
+        "3b48c6320e8da58e338022ccb410f650",
+        "3e0261147f7719281ce1d87e626c6631",
+        "3f031f54e98a92ab5f05ab53b83cdc10",
+        "4203498078976ac10c62697473a2f179",
+        "48727fcbd5d5c0ea17655ad0bcd08e6e",
+        "4a7d534868ea442e04af33b2caab7c98",
+        "4d1ce65d35b5b075a023a5439adcbe49",
+        "61b0a13d5f049c512b9616b4a6099cd2",
+        "672167849196fe92d6c1fc215bfb7346",
+        "6a7cd45bfc5cd41d728bc517ab53af7e",
+        "703c1da43ae3bbc9fc759678f2595574",
+        "71022ffd6c4bfdf5255efcb5781fd5d3",
+        "72069be022c6b8dc66eef12cdf0e03f3",
+        "7a6b39ee019dbb8f38ec4eb271ffc612",
+        "7a790f0b94ec05650e54349de5074349",
+        "7cfb45f60c27d3167bf42d256d07bbe5",
+        "8238b9efcdd6661d9f8e219f565a6dd5",
+        "8ceda559c3c3ecffbd352825894ab7ea",
+        "900b56dd7b7274ee6033deb2e6770d3b",
+        "91922375cc9800289deab93d7a1b13cd",
+        "9bfea65191652cc8baaecab78b12e4a3",
+        "9d2a917fdc904f008a0d3ef5c430b1d8",
+        "ad5296a3a14c26c47a3460ce1c3166c1",
+        "add0ef6491c36bf685181d790cb48ee8",
+        "af2dd04495ea55b97f87d896a76ad376",
+        "c3f6c53ade80298d1c7959b27aac2f67",
+        "c501b26decac84396d9e26235dbbdb19",
+        "c5688ae7735eb46140ce11df327e0a6b",
+        "d6ba05c60add41dad5e499f35afb078b",
+        "e09ecaedc39a5f53e4ffc96c48b297fd",
+        "e1c06bfbf4acf7c50cdbf63859352edc",
+        "e9079818919a0630ae3da4d7b964a623",
+        "fed9a0c574798eeabb4bf5ade42187f2"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-7512b5eb00740a4a",
+      "title": "Service Tribunals Act, 1973",
+      "input_text_sha256": "a6baae9fe5b405cebcc5810b4c8fc0ebd016af98890f90afa033e2fb4a153fc6",
+      "stored_text_sha256": "a6baae9fe5b405cebcc5810b4c8fc0ebd016af98890f90afa033e2fb4a153fc6",
+      "accepted_input_text_sha256": [
+        "a6baae9fe5b405cebcc5810b4c8fc0ebd016af98890f90afa033e2fb4a153fc6"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\c0a613f9e6e8629c_Service_Tribunals_Act,_1973.pdf",
+      "original_pdf_sha256": "8676dc502be662a2179501cc466fff5dabf89e01106e989926ee8db3330665ee",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratora25489da1a9ed8c9c927a144f6511732.pdf",
+      "original_pdf_page_count": 6,
+      "selected_physical_pages": [
+        6
+      ],
+      "source_image_digests": [
+        "8dd6bb7329a71449b0a1b292b5999164"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-7d5a0399ecf58b5a",
+      "title": "Married Women's Property Act, 1874",
+      "input_text_sha256": "6cbfab512b8a9c5a47eefc7e85fc76ddeeb2b737917d01712794f9a378b21483",
+      "stored_text_sha256": "6cbfab512b8a9c5a47eefc7e85fc76ddeeb2b737917d01712794f9a378b21483",
+      "accepted_input_text_sha256": [
+        "6cbfab512b8a9c5a47eefc7e85fc76ddeeb2b737917d01712794f9a378b21483"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\96f661fd91332ed8_Married_Women's_Property_Act,_1874.pdf",
+      "original_pdf_sha256": "5ba3f262962aea1b000141b7b943fc52d8e6fdc0c84eb1483967cc405a7939f7",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator838fddea2bd84054cde358506b537096.pdf",
+      "original_pdf_page_count": 5,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "c4e4716785e05068c60587a60e05e5e4"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-7f9a63629fef6704",
+      "title": "West Pakistan Requisitioning of Stage Carriages (Temporary) Ordinance, 1970",
+      "input_text_sha256": "1d06a1a7f32a5dee8bcf401408490f5260fa4ddb2f021b2c580b402436f71a4c",
+      "stored_text_sha256": "1d06a1a7f32a5dee8bcf401408490f5260fa4ddb2f021b2c580b402436f71a4c",
+      "accepted_input_text_sha256": [
+        "1d06a1a7f32a5dee8bcf401408490f5260fa4ddb2f021b2c580b402436f71a4c"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\312d3da1ffec7616_West_Pakistan_Requisitioning_of_Stage_Carriages_(Temporary)_Ordinance,_1970.pdf",
+      "original_pdf_sha256": "c5defe0038ffe7bc6930915fad3cbb97889ce6a70f2e48b24fa249bcc8833316",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator555f674739391f4dbff76e94e2d7a077.pdf",
+      "original_pdf_page_count": 5,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "a5193069ca5562a02b9c7e11efa6f873"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-8322305080c5e0e7",
+      "title": "Health Services Academy Ordinance, 2002",
+      "input_text_sha256": "3ee4784a76e38c548932fd342570f09e0eb812f0a171744da6f840a97c74eee5",
+      "stored_text_sha256": "3ee4784a76e38c548932fd342570f09e0eb812f0a171744da6f840a97c74eee5",
+      "accepted_input_text_sha256": [
+        "3ee4784a76e38c548932fd342570f09e0eb812f0a171744da6f840a97c74eee5"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\f85d24a0f12fb2d1_Health_Services_Academy_Ordinance,_2002.pdf",
+      "original_pdf_sha256": "18a5e7585008914b60c804e1ad6f044112fd380a8a6e80a76b69bcaa6ce36659",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator9660a0cbc92616c2f72be17e31b62d33.pdf",
+      "original_pdf_page_count": 13,
+      "selected_physical_pages": [
+        13
+      ],
+      "source_image_digests": [
+        "c1fa1f22fa36d331be4027e683baad06"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-834f7aee435e5f0f",
+      "title": "Provincial Industrial Development Corporation (West Pakistan) Ordinance, 1962",
+      "input_text_sha256": "9a50942283a945735ee7757b7e3fe9ad186c3778055a70272ed2428159e2b912",
+      "stored_text_sha256": "9a50942283a945735ee7757b7e3fe9ad186c3778055a70272ed2428159e2b912",
+      "accepted_input_text_sha256": [
+        "9a50942283a945735ee7757b7e3fe9ad186c3778055a70272ed2428159e2b912"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\3d9c1eac71d04d83_Provincial_Industrial_Development_Corporation_(West_Pakistan)_Ordinance,_1962.pdf",
+      "original_pdf_sha256": "5431eaaef9121f0a31e3e787f421a75bdaa527817e1e52070ce94cf5d763764b",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator0dfab7f2b790bd796874a4852c6ec18f.pdf",
+      "original_pdf_page_count": 14,
+      "selected_physical_pages": [
+        14
+      ],
+      "source_image_digests": [
+        "bbd822615535efc59c0719b820e06fd9"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-844d56d5915121fb",
+      "title": "National Rahmatul-Lil-Aalameen Wa Khatamun Nabiyyin Authority Act, 2022",
+      "input_text_sha256": "6be3bd636a3f1efbceef23e50f2b1ac828add7f1e048364d9f5f77e281ae9b82",
+      "stored_text_sha256": "6be3bd636a3f1efbceef23e50f2b1ac828add7f1e048364d9f5f77e281ae9b82",
+      "accepted_input_text_sha256": [
+        "6be3bd636a3f1efbceef23e50f2b1ac828add7f1e048364d9f5f77e281ae9b82"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\ccb828eb6cd33215_National_Rahmatul-Lil-Aalameen_Wa_Khatamun_Nabiyyin_Authority_Act,_2022.pdf",
+      "original_pdf_sha256": "354ac3c528f6342b3caeb62e96e9c4f0973d6d59d5ef7cad7f98c00163bd9b80",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator5b1721b5ac90c58b596d027298533e75.pdf",
+      "original_pdf_page_count": 9,
+      "selected_physical_pages": [
+        3,
+        5,
+        6
+      ],
+      "source_image_digests": [
+        "8ea1ca276763788e21e008719d0670be"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-8516a9c3a7aaa043",
+      "title": "Companies Ordinance, 1984 (Repealed by Act XIX of 2017)",
+      "input_text_sha256": "83a001de3c7ced6016d4394bed984a82cde48efb35b30833c4183797c8790d48",
+      "stored_text_sha256": "83a001de3c7ced6016d4394bed984a82cde48efb35b30833c4183797c8790d48",
+      "accepted_input_text_sha256": [
+        "83a001de3c7ced6016d4394bed984a82cde48efb35b30833c4183797c8790d48"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\0e14aeaed3de8a90_Companies_Ordinance,_1984_(Repealed_by_Act_XIX_of_2017).pdf",
+      "original_pdf_sha256": "4f1a1dab7370f573262a61889fc11ce90301ca896616aaa67ca294286d876b50",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratordcf11eff82268b4a6ba50d93a2d2273b.pdf",
+      "original_pdf_page_count": 376,
+      "selected_physical_pages": [
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349
+      ],
+      "source_image_digests": [
+        "2f66814308f9a11c7983813384df7061",
+        "495d375e2b8ae1854055e878c05562fd",
+        "536b3602a2aed719e2d23e87b04731d5",
+        "596d74f5ae4cf78f50c3d232b30ac6b1",
+        "6629f3a357d41e9092d765974018cc92",
+        "bfa7680a97c314de5d1bf654ec1df38e",
+        "eca1b05110b4acbe7a06e913e018ff80",
+        "f8547239d7117f8d0b44ae8d0f865444"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-8bdb1b70f6701854",
+      "title": "West Pakistan Industries (Control on Establishment and Enlargement) Ordinance, 1963",
+      "input_text_sha256": "dbfd20796cf85a4411a05312e8cbb56daed21ba52cb3105098673c0fa90d26ad",
+      "stored_text_sha256": "dbfd20796cf85a4411a05312e8cbb56daed21ba52cb3105098673c0fa90d26ad",
+      "accepted_input_text_sha256": [
+        "dbfd20796cf85a4411a05312e8cbb56daed21ba52cb3105098673c0fa90d26ad"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\78d160ea4e0b69d9_West_Pakistan_Industries_(Control_on_Establishment_and_Enlargement)_Ordinance,_1963.pdf",
+      "original_pdf_sha256": "432e0cbff28bca2b749cd9a66a0181534c3fdd52da79410aeb60fc8164cbfa31",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratoraebf960fb31e323629352e0982ee7599.pdf",
+      "original_pdf_page_count": 4,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "cf624fc34953c585bf9287680e768ee3"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-908e42ddee84c122",
+      "title": "Publication of the Holy Quran (Elimination of Printing Errors) Act, 1973",
+      "input_text_sha256": "05c13d9e1ee6599999cea3007073a851886da05c44fbeedebfba8d3bdc2f814e",
+      "stored_text_sha256": "05c13d9e1ee6599999cea3007073a851886da05c44fbeedebfba8d3bdc2f814e",
+      "accepted_input_text_sha256": [
+        "05c13d9e1ee6599999cea3007073a851886da05c44fbeedebfba8d3bdc2f814e"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\8d3e8bf6d7d0030f_Publication_of_the_Holy_Quran_(Elimination_of_Printing_Errors)_Act,_1973.pdf",
+      "original_pdf_sha256": "f5383b7c0a0b226ce46c142f8b8da919a040e9a5d1175ac9d769c02a28e65fba",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorc94aeb8ee3e750bf2775495293a4972b.pdf",
+      "original_pdf_page_count": 5,
+      "selected_physical_pages": [
+        5
+      ],
+      "source_image_digests": [
+        "13c980ef995301ed57f1a3bd4b650f81",
+        "1d08c01dde61335e21240cd03c69e7e1",
+        "854092c20b1cd2901e5d595ec07e2fe3",
+        "8a53cae0247a4f5c58bc8fad50eda8d5",
+        "c5a65d65b6d19d6c19d106a681bebdd0"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-93ddb88ac5c3b4cc",
+      "title": "National Metrology Institute of Pakistan Act, 2022",
+      "input_text_sha256": "adefb43fafd9735891960615489cd5ce0ff08fe8f55ef80800b7756158a70250",
+      "stored_text_sha256": "adefb43fafd9735891960615489cd5ce0ff08fe8f55ef80800b7756158a70250",
+      "accepted_input_text_sha256": [
+        "adefb43fafd9735891960615489cd5ce0ff08fe8f55ef80800b7756158a70250"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\9ba9719e066ca79a_National_Metrology_Institute_of_Pakistan_Act,_2022.pdf",
+      "original_pdf_sha256": "e86d8144b2ec35634969c7663a8408e66629afc88bcec02121910c13b3804b1f",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator07767182eaff05aa8d5b818cf6098a9b.pdf",
+      "original_pdf_page_count": 17,
+      "selected_physical_pages": [
+        7
+      ],
+      "source_image_digests": [
+        "bcac085298fc984418f816d4e00f62c9",
+        "f485ad96a364f67cce1145901f902171"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-954f4866681e904f",
+      "title": "Islamabad Capital Territory Local Government (Amendment) Ordinance, 2026",
+      "input_text_sha256": "6e02b5d8994b934e4b1ddbf29e66e4c7458d036a6fd728104db6de1d75bc8604",
+      "stored_text_sha256": "6e02b5d8994b934e4b1ddbf29e66e4c7458d036a6fd728104db6de1d75bc8604",
+      "accepted_input_text_sha256": [
+        "6e02b5d8994b934e4b1ddbf29e66e4c7458d036a6fd728104db6de1d75bc8604"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\4a494fa06a325c91_Islamabad_Capital_Territory_Local_Government_(Amendment)_Ordinance,_2026.pdf",
+      "original_pdf_sha256": "b01ea4a00e2495d4862f2676351a10cdec03aeed3eb20ec4cecd71566c3d2ade",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator36daa6c68c69913952887282f5f65820.pdf",
+      "original_pdf_page_count": 8,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "74be103435937f8491ed9f5e730bebb6"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-96314d261ae6e5d5",
+      "title": "Staple Cotton (Excise Duty) Ordinance, 1978",
+      "input_text_sha256": "8bcb0495409d991199cf3e3b0fbf265fbecd60d2b0fbab5e73a1e063a8a97084",
+      "stored_text_sha256": "8bcb0495409d991199cf3e3b0fbf265fbecd60d2b0fbab5e73a1e063a8a97084",
+      "accepted_input_text_sha256": [
+        "8bcb0495409d991199cf3e3b0fbf265fbecd60d2b0fbab5e73a1e063a8a97084"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\9dc1af7e358059cb_Staple_Cotton_(Excise_Duty)_Ordinance,_1978.pdf",
+      "original_pdf_sha256": "35b8406318947dbea7dc4d883649b3a1e51644056b7f9a2a02fb4f140fa3bced",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratord889d8fe337fc6ac0318f2d6f4b54d75.pdf",
+      "original_pdf_page_count": 3,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "70067ab9b6d3520b3a08f1531cca4519"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-99d5dfc05aa32b15",
+      "title": "The International Islamic Institute for Peace (IIIP) Act, 2024",
+      "input_text_sha256": "9196767180dee7a9f39ed5f4abeb0582930d2dbf51f6e0676b1c1218f8408326",
+      "stored_text_sha256": "9196767180dee7a9f39ed5f4abeb0582930d2dbf51f6e0676b1c1218f8408326",
+      "accepted_input_text_sha256": [
+        "9196767180dee7a9f39ed5f4abeb0582930d2dbf51f6e0676b1c1218f8408326"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\53ac60663fa29d05_The_International_Islamic_Institute_for_Peace_(IIIP)_Act,_2024.pdf",
+      "original_pdf_sha256": "d7534d2a84e27eec099430555df8248b195818b39a5bdfdd38b0a9518be4b280",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator1a8d8d18072acb14cd47ef645d99a48c.pdf",
+      "original_pdf_page_count": 26,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "c0a4828fd219d5dd5e2a27f333040749"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-a09a8915c3645dc6",
+      "title": "Regulation of Generation Transmission and Distribution of Electric Power Act, 1997",
+      "input_text_sha256": "8206ab4588309c81598c4798d29c23aa83665498d050b18690b1b09f06225624",
+      "stored_text_sha256": "8206ab4588309c81598c4798d29c23aa83665498d050b18690b1b09f06225624",
+      "accepted_input_text_sha256": [
+        "8206ab4588309c81598c4798d29c23aa83665498d050b18690b1b09f06225624"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\a686660834663d84_Regulation_of_Generation_Transmission_and_Distribution_of_Electric_Power_Act,_1997.pdf",
+      "original_pdf_sha256": "64022e862837371ada4c011c89e9ef812da8320a63d716561cdfeea61ffb8bf6",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator43841507be454e13e49d1fe0ebf5c3b9.pdf",
+      "original_pdf_page_count": 46,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "1ef1d79aa359f387f64c89149a475f60"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-a0f390e7dfc6587d",
+      "title": "Pensions Act, 1871",
+      "input_text_sha256": "78fd97c97f0e9748454ecfaebf973aded1e720b096e063e6cdbab3ef342e21c8",
+      "stored_text_sha256": "78fd97c97f0e9748454ecfaebf973aded1e720b096e063e6cdbab3ef342e21c8",
+      "accepted_input_text_sha256": [
+        "78fd97c97f0e9748454ecfaebf973aded1e720b096e063e6cdbab3ef342e21c8"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\07ce9b80b9e76de9_Pensions_Act,_1871.pdf",
+      "original_pdf_sha256": "51c83f4fcd519f97b5bcb1df0dfd934b19b5fee4802e9cc3f65274c216b9605b",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorede62fb0012b42c5d1aab4166249809a.pdf",
+      "original_pdf_page_count": 5,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "d816f25c84e4fb79ead2795d0e07e18b"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-a163bdf465fc129e",
+      "title": "Bahria University Ordinance, 2000",
+      "input_text_sha256": "995dc493053c3e3140751bc4ae7ac3144798e0d52eadc709c11c23c0e6553f49",
+      "stored_text_sha256": "995dc493053c3e3140751bc4ae7ac3144798e0d52eadc709c11c23c0e6553f49",
+      "accepted_input_text_sha256": [
+        "995dc493053c3e3140751bc4ae7ac3144798e0d52eadc709c11c23c0e6553f49"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\1987b1a15cbbfdc0_Bahria_University_Ordinance,_2000.pdf",
+      "original_pdf_sha256": "5745841f023b4fcd419ceca94e60c8aef19e275c539fdeaf68d2c0f3a9f50b26",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratora9a889fd2717536c4cc270839ca38769.pdf",
+      "original_pdf_page_count": 18,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "61affb6b49409556f8c35bd11f73a1dd"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-a55ea36c33f4c4c3",
+      "title": "Customs Act, 1969 (Same as on the official website of FBR dated 30-06-2025)",
+      "input_text_sha256": "fc529f750746cbd6105d29703947a954ff122f28e113749e9aae6e2a9021fe82",
+      "stored_text_sha256": "fc529f750746cbd6105d29703947a954ff122f28e113749e9aae6e2a9021fe82",
+      "accepted_input_text_sha256": [
+        "fc529f750746cbd6105d29703947a954ff122f28e113749e9aae6e2a9021fe82"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\c62c0dac2d60c035_Customs_Act,_1969_(Same_as_on_the_official_website_of_FBR_dated_30-06-2025).pdf",
+      "original_pdf_sha256": "9e22264a08ff3b5817329433f88fb6559a9bdb289a77614e586dcc39a3d51fd8",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator6d344e569c576550c200d66afb7b28f6.pdf",
+      "original_pdf_page_count": 279,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "bcee85e20dfc488570735dcf7ad660f8"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-a642b8d1d7b72f93",
+      "title": "Islamabad Rent Restriction Ordinance, 2001",
+      "input_text_sha256": "617266bf53f5ff41838e4fdf00d5014809d230d801d0032d1ceb0e250bd2bbfc",
+      "stored_text_sha256": "617266bf53f5ff41838e4fdf00d5014809d230d801d0032d1ceb0e250bd2bbfc",
+      "accepted_input_text_sha256": [
+        "617266bf53f5ff41838e4fdf00d5014809d230d801d0032d1ceb0e250bd2bbfc"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\3534addf3c857743_Islamabad_Rent_Restriction_Ordinance,_2001.pdf",
+      "original_pdf_sha256": "bbf6fd71fea2206b169c20cfd98efaac0a3dfd71558787fceb65f0f9c1ed3b28",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorf55c8364472e13dc098d52c71def1f58.pdf",
+      "original_pdf_page_count": 14,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "e272b6e5deb86fd246b40fef7278e63e"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-a70b1c6600748eb1",
+      "title": "Public Private Partnership Authority Act, 2017.",
+      "input_text_sha256": "251ed60eb1404e606d9a050d5323f899b09f62b76f2c85f9a11e5b11e282cdc6",
+      "stored_text_sha256": "251ed60eb1404e606d9a050d5323f899b09f62b76f2c85f9a11e5b11e282cdc6",
+      "accepted_input_text_sha256": [
+        "251ed60eb1404e606d9a050d5323f899b09f62b76f2c85f9a11e5b11e282cdc6"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\15b14e2857244e92_Public_Private_Partnership_Authority_Act,_2017.pdf",
+      "original_pdf_sha256": "e52b534e8b929bdaaddd1120bae89cc2548574214d8a8670de2954b8917d9a97",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator23c1e02ecf2fc31ef82de21c87e486d2.pdf",
+      "original_pdf_page_count": 20,
+      "selected_physical_pages": [
+        17
+      ],
+      "source_image_digests": [
+        "7bf2acacab4d7d937b65b85d4d514a4a",
+        "e44ff11e5368a17dc5ec70bed7b81f15"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-b452dcfa4aea1f77",
+      "title": "Islamabad Capital Territory Child Marriage Restraint Act, 2025",
+      "input_text_sha256": "f0d24652cbd1da86dff19c9c4c7c1bebf70555c8d82edce13afdd6d409794441",
+      "stored_text_sha256": "f0d24652cbd1da86dff19c9c4c7c1bebf70555c8d82edce13afdd6d409794441",
+      "accepted_input_text_sha256": [
+        "f0d24652cbd1da86dff19c9c4c7c1bebf70555c8d82edce13afdd6d409794441"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\612074679be00d62_Islamabad_Capital_Territory_Child_Marriage_Restraint_Act,_2025.pdf",
+      "original_pdf_sha256": "0cdbc3f2728f2f9a7618cca486e272bcd8542cfa723ef7c0b4578ee4b377ce99",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorecc8e12e1de9dfa4925e655c9cd5a385.pdf",
+      "original_pdf_page_count": 5,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "eb5067366e149289008f40336708a4fb"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-b628571e400dbbe7",
+      "title": "Provincial Motor Vehicles Ordinance, 1965",
+      "input_text_sha256": "659e3d3b155815701cc100087bdcc785f4455c86339f4b10802e884ca4942e34",
+      "stored_text_sha256": "659e3d3b155815701cc100087bdcc785f4455c86339f4b10802e884ca4942e34",
+      "accepted_input_text_sha256": [
+        "659e3d3b155815701cc100087bdcc785f4455c86339f4b10802e884ca4942e34"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\206ce8eebc712ee5_Provincial_Motor_Vehicles_Ordinance,_1965.pdf",
+      "original_pdf_sha256": "f0168b7cd4f8d9292852075f386118f45407a7c6480dee01a3bdc96812fd5024",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorfcc61bd4cc647332fccbdffad801bab8.pdf",
+      "original_pdf_page_count": 98,
+      "selected_physical_pages": [
+        24,
+        88,
+        89,
+        90,
+        91,
+        92
+      ],
+      "source_image_digests": [
+        "0234b4fe283bc6bda9c453e55e6691a1",
+        "25bb0fd2ed66e4277e5672b800a444c4",
+        "2b4670eb88d823b692c64cb14e50e2e4",
+        "2bff837bf390be1ca1c2a94d2d9b0270",
+        "3829aaccbe21b79da64f2e0336ae3969",
+        "c3a66bde66e8808f1d30e334c0940fcc",
+        "f2e6b856ac9d73d18d2f098eb9b8bf47",
+        "fe3222e22c7154622579172f380fb7fb"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-b8a053f889c251bc",
+      "title": "Pakistan International Airlines Corporation (Conversion) (Repeal) Ordinance, 2026",
+      "input_text_sha256": "2c3759a7d71e8ec7c730af2400bf421212cdfa738e49ec1a3580da112a36af6f",
+      "stored_text_sha256": "2c3759a7d71e8ec7c730af2400bf421212cdfa738e49ec1a3580da112a36af6f",
+      "accepted_input_text_sha256": [
+        "2c3759a7d71e8ec7c730af2400bf421212cdfa738e49ec1a3580da112a36af6f"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\a0d1bb3d96e3889b_Pakistan_International_Airlines_Corporation_(Conversion)_(Repeal)_Ordinance,_2026.pdf",
+      "original_pdf_sha256": "42fa0c5b61506b2cb79f07eb33294a3882cbc8a28f760bedb85c412766a6f4f0",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratordb671e5b8207b2a759733c841ad6811e.pdf",
+      "original_pdf_page_count": 2,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "74be103435937f8491ed9f5e730bebb6"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-ba01ba71968f11a5",
+      "title": "Probation of Offenders Ordinance, 1960",
+      "input_text_sha256": "1177207a386d957b8169420a0c7c2149adfa70af7e9059ea4caeed5272cf614a",
+      "stored_text_sha256": "1177207a386d957b8169420a0c7c2149adfa70af7e9059ea4caeed5272cf614a",
+      "accepted_input_text_sha256": [
+        "1177207a386d957b8169420a0c7c2149adfa70af7e9059ea4caeed5272cf614a"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\b48885f7a8c7317a_Probation_of_Offenders_Ordinance,_1960.pdf",
+      "original_pdf_sha256": "1c49601d44730b6694aecb38f510652c4d6da68ac78bd6facdd3a5253bc1b0c9",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorc59339c610e14042c34043be418621f7.pdf",
+      "original_pdf_page_count": 7,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "9ddf3ccea72802c88e582e5e41b2368e"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-bdedae92be555312",
+      "title": "Federal Prosecution Service, Act, 2023",
+      "input_text_sha256": "9fa9cec9abaec198b9fb0fbf17952a7a39c57bbc1474ab5f0616969cb167e027",
+      "stored_text_sha256": "9fa9cec9abaec198b9fb0fbf17952a7a39c57bbc1474ab5f0616969cb167e027",
+      "accepted_input_text_sha256": [
+        "9fa9cec9abaec198b9fb0fbf17952a7a39c57bbc1474ab5f0616969cb167e027"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\5ced2ff5e96f7ae3_Federal_Prosecution_Service,_Act,_2023.pdf",
+      "original_pdf_sha256": "82a56cf2344a680de168a599cbb834f1940840da92cf7b75a869d12a9dc6c1bf",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator92c0065f07a25d3f393abf4b272b9497.pdf",
+      "original_pdf_page_count": 11,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "c1801cef720cb4aee8dbf6f8db7f6454"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-c0fa8fa743a624b2",
+      "title": "Export Processing Zones Authority Ordinance, 1980",
+      "input_text_sha256": "e4ef1270b680412f3f5ac6105e2a3b0edb30959e3e8728e1293767650d2b67a2",
+      "stored_text_sha256": "e4ef1270b680412f3f5ac6105e2a3b0edb30959e3e8728e1293767650d2b67a2",
+      "accepted_input_text_sha256": [
+        "e4ef1270b680412f3f5ac6105e2a3b0edb30959e3e8728e1293767650d2b67a2"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\e68abc59df242a36_Export_Processing_Zones_Authority_Ordinance,_1980.pdf",
+      "original_pdf_sha256": "6dd241f04c07690ebbeccf20343ec8b4531025395867e24cdaf799fcbfd7c129",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator8785fc23097fe350194e9e0ade5b970c.pdf",
+      "original_pdf_page_count": 9,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "4f1cd7fb3d48fa91466771b6ee5bb842"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-c3d8526c50f04c5d",
+      "title": "Employees' Old-Age Benefits Act, 1976",
+      "input_text_sha256": "c425473b4893ffcda04cd8708b9062c7bdbaa816781ef847db2035ebc46ad815",
+      "stored_text_sha256": "c425473b4893ffcda04cd8708b9062c7bdbaa816781ef847db2035ebc46ad815",
+      "accepted_input_text_sha256": [
+        "c425473b4893ffcda04cd8708b9062c7bdbaa816781ef847db2035ebc46ad815"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\e66303c2eed63e98_Employees'_Old-Age_Benefits_Act,_1976.pdf",
+      "original_pdf_sha256": "f455a5a5e28b91e5748ae24b1e05bdc7a6cce07d706289f82626c91a6fa32259",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorf3be1ec8d21dfebb9c5d1733f43cffe6.pdf",
+      "original_pdf_page_count": 24,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "919128d0414b644ac7acc5c7f8597e8a"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-c9c3b79f00b8163f",
+      "title": "Islamabad Healthcare Regulation Act, 2018 (Act No_ XXIII of 2018)",
+      "input_text_sha256": "79f951f0cef2b62584482777dd5702ca673ad62fa53c0910a3ca2097e9ce5e6d",
+      "stored_text_sha256": "79f951f0cef2b62584482777dd5702ca673ad62fa53c0910a3ca2097e9ce5e6d",
+      "accepted_input_text_sha256": [
+        "79f951f0cef2b62584482777dd5702ca673ad62fa53c0910a3ca2097e9ce5e6d"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\09a5e53633577157_Islamabad_Healthcare_Regulation_Act,_2018_(Act_No__XXIII_of_2018).pdf",
+      "original_pdf_sha256": "295a09ff7a697f2c2fe7ec2bac7f5436f7522f46e28d978f878905c5b1718885",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator56b8135e2bb8835b42d9118a080fd4ec.pdf",
+      "original_pdf_page_count": 24,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "5f2f89bf12ed97e16b4e40795e098d3c"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-cae442a9ce9e9ee3",
+      "title": "Minimum Wages for Unskilled Workers Ordinance, 1969.",
+      "input_text_sha256": "06a56f738dce84410b126c5e84e97e416dc134817fa5084c6adc3863f427ceaa",
+      "stored_text_sha256": "06a56f738dce84410b126c5e84e97e416dc134817fa5084c6adc3863f427ceaa",
+      "accepted_input_text_sha256": [
+        "06a56f738dce84410b126c5e84e97e416dc134817fa5084c6adc3863f427ceaa"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\9111a3ce18fb4ecb_Minimum_Wages_for_Unskilled_Workers_Ordinance,_1969.pdf",
+      "original_pdf_sha256": "d4016e77ebac14bf294c56a2f5acf2b7ee1e3c0de22d94fd236caba9e3ba8421",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator31e6d281dd11ab76ee53d229d181e63b.pdf",
+      "original_pdf_page_count": 5,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "e3ac4c9b8e0a0141797c6e572eac1250"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-ce1a2a9710235265",
+      "title": "Senate Secretariat Services Act, 2017",
+      "input_text_sha256": "578d18c2ea77938699e04793cbfc459ef54e8d3b7bb377bb56cfa69515aa879f",
+      "stored_text_sha256": "578d18c2ea77938699e04793cbfc459ef54e8d3b7bb377bb56cfa69515aa879f",
+      "accepted_input_text_sha256": [
+        "578d18c2ea77938699e04793cbfc459ef54e8d3b7bb377bb56cfa69515aa879f"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\6d103287a5f50e33_Senate_Secretariat_Services_Act,_2017.pdf",
+      "original_pdf_sha256": "f0781b104122ba4d0a6dfa7a99136fc47e1daaad7c95fe123f5c034780d608f1",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator313e18882c62aab054230e7a3f60f745.pdf",
+      "original_pdf_page_count": 10,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "2684b9052cbc745909e8db9351327d39",
+        "67d8485fc7ff419fe25058d4cbede617",
+        "db13e665030ecdd98dbf3c43df7c1708",
+        "dd67972ca545bec7ea364f58f5f7ddc2"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-ce4662a3f3f84232",
+      "title": "United Nations (Privileges and Immunities) Act, 1948",
+      "input_text_sha256": "97ff085ed33ec06a298ba248f39459d96c4cca232f55d26366f80a46680856ff",
+      "stored_text_sha256": "97ff085ed33ec06a298ba248f39459d96c4cca232f55d26366f80a46680856ff",
+      "accepted_input_text_sha256": [
+        "97ff085ed33ec06a298ba248f39459d96c4cca232f55d26366f80a46680856ff"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\9ef175df613d4f03_United_Nations_(Privileges_and_Immunities)_Act,_1948.pdf",
+      "original_pdf_sha256": "5e357c993f73b713fedf3691f08d62f8facb5e5ec2487962d5d3078d70121c4c",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator2e1201b88294a777514d9ef976e152d8.pdf",
+      "original_pdf_page_count": 8,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "5a02881717b5d9e68771662cfd673161"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-d509c2b13867b2ad",
+      "title": "Estacode",
+      "input_text_sha256": "5e8658e3b365ae9bb4cbe36b8bc32aba5e4bee1572d75daef292b031bb62e9f3",
+      "stored_text_sha256": "5e8658e3b365ae9bb4cbe36b8bc32aba5e4bee1572d75daef292b031bb62e9f3",
+      "accepted_input_text_sha256": [
+        "5e8658e3b365ae9bb4cbe36b8bc32aba5e4bee1572d75daef292b031bb62e9f3"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\feab13ddce667abc_Estacode.pdf",
+      "original_pdf_sha256": "0feb1c0acde32d1e5f0e34445f389ea593470a7f778eab203f13e857f047997c",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratora6091991da53c91eaba251f56d52508d.pdf",
+      "original_pdf_page_count": 1044,
+      "selected_physical_pages": [
+        1,
+        13,
+        14,
+        15,
+        112,
+        215,
+        219,
+        222,
+        234,
+        237,
+        282,
+        283,
+        359,
+        397,
+        398,
+        686,
+        728
+      ],
+      "source_image_digests": [
+        "068cbf362a4309061be18d8f0b5b6484",
+        "0e01fc754b03fb257e7ecbeba73f8d1b",
+        "0e6202f0e710f70648cdf58c0b8552ef",
+        "13aeb67bb6bd19f7b1315c53ff118290",
+        "143a9d1865105cb6bf6c885c36f2f09e",
+        "156f896e82ec70ce49409beb6f861b05",
+        "1743e594cf395bf728b24d88fa51e12e",
+        "1b6774dd1073be209d5839d955a024e8",
+        "24827c7df7d6f4e62efc41643d5d6bfa",
+        "2d5490931f576492bbef8e73a5ec669d",
+        "2ea2be1ceb423faf48c2d0015a694471",
+        "31145864495bc7c76c591553c0e3a69a",
+        "341460cc97e49fda73ec8cb35323713a",
+        "38e0b5cd34e9cdf3b95e12be8a768180",
+        "3cf553ace3e103c6509224538c40fa3e",
+        "444244aba072f81c8a7a31cc0cc1953b",
+        "4532717f74382ff22eafc56063a2ebe7",
+        "48a8c187b78343e3d780587d906a0526",
+        "4a5c281b71fbc45c1b8edd4b85aa58a1",
+        "4ba51167cb02e6e89b7594edb6e35b40",
+        "56763b7a78e5d1d5502c78feb3acbe1b",
+        "5b72cf495d4f9f03b8d5c11cce686af4",
+        "5c51bfb668adbbecb5dce5dd50333d54",
+        "5cc4fd5dc4f3de1f178c64b08d3caa5a",
+        "5e8b78d0b145460137a1892a43e00ee1",
+        "6431d15ee8947f5e4e1e805fd8fdfaff",
+        "67d89918bbe1f20f2ef013146782e65a",
+        "6e26bb12a48766b74d8be06e9a537c9f",
+        "70ae3c61c724765b08589f95d427cd8e",
+        "714f67872f555dbdd880f417a1f16382",
+        "7699eb4626bd133312d7a3a777cf4e25",
+        "7c86936293e7d0cd39a8b00c02eb7a5b",
+        "7c95dab9b113f417c86e10676336e544",
+        "82ebe38e4e69c3630d35df45d2322f95",
+        "998af5966a85429a17787c7269ba332a",
+        "99cf3899d263e2a8176d56a1b25c5ab6",
+        "ab2d7863c67881cef03febe0d8accbaf",
+        "b08490c34fe4bc09a1c282ad237af7d2",
+        "b38547c163f74b3338d416ed7092d8af",
+        "b4c70f982adfb11660177bd378baef28",
+        "baea4d09ae22050dc2a42d821e2e29f8",
+        "bc2f8ce119ee67feef3ed47d47ced71c",
+        "bc72d5c153906047c1ccb23d90f6cacf",
+        "bda2527e8dfb2803eb7fa076299d4cec",
+        "c408995fd03faf5277a1bb6c6adcfadd",
+        "c550c19e36deeb897701bad644414a98",
+        "c798f046d832783a25334d7bd19089a4",
+        "c8a7cafda43e087bf1bf4b3474806a5e",
+        "ce8dbd6c32371c5f263c101f3dec5e26",
+        "ced41938e1dc475175b7cf28c35ea466",
+        "d688c7d06a9789af5ab927add826899d",
+        "dab45f935f479ba83c124c923b957fc3",
+        "de96c9c67c8f1dfefcaaee5a9e4a875e",
+        "e1b67aefbb9f275dba5933192710bc94",
+        "e3afd30e458b4abf4039d40add6b22bb",
+        "e4247a1da3c3f5e142b6dc6016d99e38",
+        "f1b60bc03f005289ff840e5e6907953e",
+        "f3c97d0f54648a35686bf2c4535ebaad",
+        "ff8a9d7541581880bdc167afe5d1fc67"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-d6adf191d2429f20",
+      "title": "Anti-Money Laundering (AML) Act, 2010",
+      "input_text_sha256": "c56e07687a9a675d939cad0ba5e86c4a0d18cd57c0f50ba6d586f439f06b5413",
+      "stored_text_sha256": "c56e07687a9a675d939cad0ba5e86c4a0d18cd57c0f50ba6d586f439f06b5413",
+      "accepted_input_text_sha256": [
+        "c56e07687a9a675d939cad0ba5e86c4a0d18cd57c0f50ba6d586f439f06b5413"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\44d0401176a36805_Anti-Money_Laundering_(AML)_Act,_2010.pdf",
+      "original_pdf_sha256": "59ba26c42bbcce67abf5a2aa8b637e27695f9fac8412fea33216b2c5ed1bb446",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator47c7a5354061a54634a6246d2046ddcf.pdf",
+      "original_pdf_page_count": 44,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "6ce7acda73009412905a0c8049424092"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-dc9aa92ea0a7879e",
+      "title": "Special Marriage Act, 1872",
+      "input_text_sha256": "5a7e9d7ee8aec0ea968a074ade76d9c7c8498990604afe6e3e54bf51ea54bf4a",
+      "stored_text_sha256": "5a7e9d7ee8aec0ea968a074ade76d9c7c8498990604afe6e3e54bf51ea54bf4a",
+      "accepted_input_text_sha256": [
+        "5a7e9d7ee8aec0ea968a074ade76d9c7c8498990604afe6e3e54bf51ea54bf4a"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\87f2c1cddfca02b5_Special_Marriage_Act,_1872.pdf",
+      "original_pdf_sha256": "7f53b33fa5ff9e4f09bbcdfd4b667bfd534f1626af9ec1696120ac7ee7228041",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratora0bf0b1883050a237d47158b9a5791a2.pdf",
+      "original_pdf_page_count": 9,
+      "selected_physical_pages": [
+        1,
+        7
+      ],
+      "source_image_digests": [
+        "1b438b1e4b097d7ab251593c299b0a24",
+        "28cb5a21ca0de231278d4bbaca1eb46a",
+        "54fe70c8c079c4ff8a3ee074f90a0415"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-ec3345f08723a1fb",
+      "title": "Islamabad Consumers Protection Act, 1995",
+      "input_text_sha256": "ac98f0278f79e6a61a47ecfb7b03b54d5498170bde713c2943428b6f343508ab",
+      "stored_text_sha256": "ac98f0278f79e6a61a47ecfb7b03b54d5498170bde713c2943428b6f343508ab",
+      "accepted_input_text_sha256": [
+        "ac98f0278f79e6a61a47ecfb7b03b54d5498170bde713c2943428b6f343508ab"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\bb49cec34c9fe63e_Islamabad_Consumers_Protection_Act,_1995.pdf",
+      "original_pdf_sha256": "1b4eb0ba3040e2f2caad8563c4b671890db5a98653edf02fd71fb89952f90cf2",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorbc4daf1cd281f7808ceb417c316f18ea.pdf",
+      "original_pdf_page_count": 7,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "00104784af34c95a6fd544545f94f5da",
+        "00452911a5e8dbe32da8a3174c8ae9f4",
+        "008461e0265cde78d35cf500fbab30c7",
+        "00861644972e00c1b8209881bac72bc9",
+        "017caa7136934904d70841d3e8ba40e9",
+        "018444802297dfe126684bf0904025dd",
+        "01cb53984c567d9afbbdccd16b93a8f7",
+        "01fb08b2a6a706bc27a932b8e69013d8",
+        "0249d1f7764d994d985838ba9ca83df7",
+        "02608ea5f298bb91236f07f93072a5b2",
+        "026b62a3d268d256d1e4ddc142ff8357",
+        "035f6b690101fc1b7487fcca2540b170",
+        "0398591aa6dacff694fd9cc2d91dc6e7",
+        "0428c9ff643842afccfb138fe627c456",
+        "0444acf709c73c2e1bc98d122e305271",
+        "0454b80ca7b12549f27bf1321659053e",
+        "045d25aa745ddd89e217e51d663b4f06",
+        "04cb0077bfd5653af34dde9e62c2b9e2",
+        "04e1dd4a5f409267879c8648bed06481",
+        "054bba22ac33860a6fe40600a62912eb",
+        "05e5c97307e7753fd2e3b14f72856b84",
+        "05ed17ec992a6f2c542c62b2b993b6d2",
+        "060eeb9ce758b75cfbde51ce7b705579",
+        "061205ec36558a7ba68054e8b6e2a2fd",
+        "0612c598ce8aee18b89d4763eb8e82c5",
+        "06399951e47df315add7bcc82a936640",
+        "06cd9a160752ca89702ee39ba8690656",
+        "06fd3bee197116f14601646410171b7f",
+        "0714db600171aee1744cc3de5ebe6a72",
+        "078f7e4eca9ee2476a9581f47c87cf60",
+        "07b630e2725f198de87ba3cd681f6e3c",
+        "08237eaf5bbe1cdfca090d5a9e8ba752",
+        "084a9e57aa34f5fea1f3d935eaef17f2",
+        "086383d6136055d336ea9bb4b7d90bc7",
+        "0887336fd4013e9bd4e9ec0dd2b61dc3",
+        "08c43438e104adde0a20d397ea170f71",
+        "08d7bd537f849682dd88219cd18f5550",
+        "09074127d66d27f09c7e6d1cf8059230",
+        "091eceea4feb0bc2e7577010a04a4f28",
+        "0938d859931b4f2838893aeb145098f9",
+        "0a5047157fc1882bb382223187527f13",
+        "0a8b5dac5e71add77747343bc9fa827c",
+        "0a95fdd83a4fdb0ba831cbaaedff91bc",
+        "0acf5137152c77c0f279f152a35f83d6",
+        "0b232f29b1b3322b0c8b442bab82e58b",
+        "0b2e84981172517a36ba24c21801cd84",
+        "0b51a3c8b1d6a952cb4b2d0a67e718b9",
+        "0beaa62424a19f65ae2a7e58e2a6a9ec",
+        "0beb123a1708e0affa6fc3f9cf65b6e0",
+        "0c2a0edc3c2d7f3b555d9a50c17f2c3e",
+        "0c72bdbecd0ccec38a20358767262d50",
+        "0cc328bf562b73ef8f2c571658b2a74a",
+        "0cdd9ddb9b8683efe60090215cd0225b",
+        "0ce93b2f926f294be613fae14989cfc0",
+        "0cfd742574f851c8f8f65b4da330f33a",
+        "0d08c95f90c78db6591d832930647480",
+        "0d87c3852284ed0393fca0c8478f04cd",
+        "0db6f48227bc4c530491253458f96104",
+        "0dd5e857d8d3357e3b6246628261008d",
+        "0dd75d1dd2b2433e7bc53ea107b1a3f2",
+        "0df9ef53a67b85f5bf9da91abd26a8f5",
+        "0e2865a016ad3cb2666ce1f62c789ebc",
+        "0e3524d85f4401e4e217610600cb147a",
+        "0e39edbd4fbad43fd2f82cf12c11c3af",
+        "0e58a9285a91d73365546ed59d635f68",
+        "0e5d2f0cb37802234a02ff10cca366fb",
+        "0e7969bc280a4ab99ffff0d1a4e545f2",
+        "0eec786074b87cd852a9cd78f95460ac",
+        "0f1c48033341dfad71cf6617cbead255",
+        "101ea977c45c27538bb8d81aa52ab9b1",
+        "102272150dc2665a1e81e5d6c321d7c6",
+        "105da87a0f2db317425c2fad223d52de",
+        "107af47429517abd6a722be46ef15077",
+        "10c05eba2690ed74f2e7ccb044acafa2",
+        "10ddff35dd6ccdb651504be6d232ac62",
+        "11200e9abb9770ba06b833a8510b2720",
+        "1126df022d6588f73956488b0759655b",
+        "113137256f0b4e01943abe4cb2a498ea",
+        "1183fb268440c9bd2497924978fa17ff",
+        "11c4b34dca81ff47a598994818f4c617",
+        "11d12385fcf4af97ab2d451b61fdee25",
+        "11ef40c7763e62e436d3bd60deab1570",
+        "120d58e9b0e245f8bcc6c1f400cda6ed",
+        "1228d63fa83a364fedbd42aa5b6007d1",
+        "12b1d946ee38e88b920a17fe66f9ca41",
+        "12f040ed39ce9195081f82a84dcb7f4b",
+        "130170468f003792d94fe461e2d88112",
+        "13116f540e43fda23934210a6f8ea14c",
+        "134b510291835c7b0aaceddee470fc2b",
+        "1371fbc652bff02b00201cde2dd399c2",
+        "138a171095d4a012e6158bd1df66b574",
+        "13940a0fa232d8311422bc6fa61c8e17",
+        "13f220159bd4864098366708870d9fc6",
+        "144f031327336820d332f5881537f5a7",
+        "145e4e66cb2b9f2209980cb19d276080",
+        "14d81f713871d987a314637d883736df",
+        "14e64e3034b48f3df01d59c68e22e786",
+        "151a3e239fd89edd04c8afd043ff5aac",
+        "15d007943ad1be4f24a0c971deb24ba0",
+        "15fa9c4ac61c0393a36df2089fc32621",
+        "161183471c7472e2c7849667c5e200f2",
+        "1672c9942594160eeb21b521bfaed0b9",
+        "17137ea9b3b1405f2d08dc028c7b40e3",
+        "17b9b5e73350dd3398a39f8c2147ce80",
+        "1833dd5a03483e289318fc452fa71e92",
+        "1886e85f473c7fe6fc59e8c3d027fcaa",
+        "189e3e593954ab5b4eedb9ad0a6a05f2",
+        "18cf806c6c11a0aab8dabe35cb47e8da",
+        "19af19cd0f2b5995e6ffcfac19d21ea2",
+        "19b6c50a85c6f250cca272ffa4b3aec3",
+        "1a5f4dcca2132c383f35b56ba2f24024",
+        "1b0335e23b53dd563826aa296183098c",
+        "1b4d38baed1e2bf5e0cbc9b3aa0a3144",
+        "1b571ddbd18dc4beb38c581a09aea3c8",
+        "1b7341f33b706e138cf3d82fc21ad29c",
+        "1c030184ef2092870a1619761c2d6fb7",
+        "1c0b89c033908f698a8d86e3aa62a8ce",
+        "1c945b52ea246777100b46fec194619e",
+        "1cdfb89d2b8c207ce4be65b5070407af",
+        "1d25150bdf019757f2fd55553884ea16",
+        "1dac926e2366584c656f3928fd858320",
+        "1dc479c7fb5ccc8b3e893b7d80ba4485",
+        "1e3281201f7e39ac5a68f0e13ddc578a",
+        "1e4292c42ebece8d51fa296148093e0c",
+        "1e75d6dbf63c8116ab655d81156dda42",
+        "1e8783e8dea5b58abc8e79cc8cb696f4",
+        "1e8df64cb3cee66409a54228f425ab34",
+        "1e8f223c42a7b3367b5e2af52686239f",
+        "1e9dd0bc83db370e3b557662d7630c67",
+        "1ec3e66c7756583e90568c8142760e98",
+        "1f2646c56bd5e4653732743241beb3f0",
+        "1f7c3733d89c679bb5bcff4c6057aaad",
+        "1f828cc1b6d650f8902e293cf333d529",
+        "1fa6b69eab8c49175c6721a1246b94c1",
+        "1ff64ca2ddd8e182405fed9c82599c59",
+        "201b75587ee4d2559896b7564589e3e4",
+        "208a18abae9a660dc2567d8b94eb4597",
+        "2142c0503656f1ee23beb208fa3d201f",
+        "217b6f34f5d1e8f9e4a648831731c705",
+        "21dacd5cd063aec6633b47f595fccc00",
+        "22611442a47fa11428c8527daac1ab3b",
+        "22b2a48dc57213f21eb9b206e6fcefa3",
+        "22bd7bdc0d82e35554a3b323ad34e726",
+        "2307fbd72b3f322081f49ea68a7dd12b",
+        "2335422819837d56fbe68845a218fdc4",
+        "23521211c43790f00ae7e9e6017b0fe4",
+        "23b8512f2f38ab97cb34316f98813f4f",
+        "244d3c0e31db489dedb989b7ee962da6",
+        "247dd9cc470875f6d056d1296b0fc8a2",
+        "247eac57315c7256d1d8159a686c612b",
+        "24b09ee0110329266521530ab0cef629",
+        "255341dbc1e8d405ccfe2c455a2ef55d",
+        "2557aba6e94bb133d0734372a1880174",
+        "25b967b56542f9bf064a75b810c7cc0a",
+        "25b96a9a44b78b492e9842b2802dfac0",
+        "25e52424821966271cc5ef96ec42ce96",
+        "261646a7441d5fe47f7ae2f52c18846c",
+        "26a4ba11c4e2b9744335cbc1244a2708",
+        "26f151f5b2359367555569be48ccb374",
+        "272abf0e59c17344bfaecfdf77b4c1c3",
+        "2854500e88199842ea61e704bcb046c4",
+        "28df8aede568e8408a2c11ff5e3a5b18",
+        "2923f8ca6f69581c6e8645e8993e87f8",
+        "2942ecae3ad6fd15518995dba2b2d446",
+        "294a251c04043d6a5559c8736450af6b",
+        "2973011dd8983aba0b9d82196fcdef15",
+        "29e83eb2a8c0b711b874b06f435f3cca",
+        "2a2d22b9dd45bfaf49dcef67cd55a50f",
+        "2ad6f01fe9b4e0aabe686764a526aaed",
+        "2afd96a34e4fc7486b1d21be8268cc16",
+        "2afde016eea6b842984c02a404b8355d",
+        "2b17a7854dc545f5dc63a249bea954f9",
+        "2b4f576eb4307e4a360cfe1ae6967e80",
+        "2bb4eb088b359fdc048e4f553264ff2e",
+        "2bf2ab39f3968de8134a3097b09c074a",
+        "2c169faa95b1596ef37c1f04e5ab47bd",
+        "2c70734d2eb485aa90ed396b9debd562",
+        "2c92afc7460ca1d2f3d9da170f4ca55c",
+        "2ca019d494d7879eebd9f4077c34f1fa",
+        "2ca2defc2e0c475944277dd6921d31a0",
+        "2db0e92c669173193326b1e200fa5cfe",
+        "2db9b4bcd8c68f80c7ed4580d479e86f",
+        "2e01009915be7b7af2b9cd0497c83e8c",
+        "2e2d7e5f9cb68c1f22447a2f9cffc01e",
+        "2e566a66e8281082f37d07c1f0ab355d",
+        "2e9d0f85fb20b04cbfdc61318a1dc20f",
+        "2eaf62ca17049da77f698a6c19d609ae",
+        "2ed52e474e6c9056dded21f210613ea9",
+        "2efaeb4ddca2a7646b469646fd4be37a",
+        "2f1dd9630231ddaf7e99aac76c338d91",
+        "2f4aeafc6f67c64c2a6615a7c34caf30",
+        "2f67e2c242ab150de328e2b6f8d06368",
+        "2f872dbdd3a8784f96af8f43af53d0e4",
+        "2fc33a97853029a13edb61e3a1bc5ca2",
+        "2fcebdfc27803181e90ab89d7b3b5868",
+        "2fde835a6bb9ead2049a6bd215bc50b4",
+        "30285660f936b5b83fba1fe5f0f7abdf",
+        "306069efaf8f412738b732721f8cb253",
+        "309c7d0c9d8485767b0a6a66171c8fef",
+        "30b747d520d39a0de38a0f7d0b9119ef",
+        "30bdf56faedf3476e4814e95a6d2eb98",
+        "30d6ecc22568825b271cc006b649ee5e",
+        "3153050cf00675ec3fb0613b37d5fb0d",
+        "315b5620488a7fe1db5d8a0f35e21b44",
+        "3173262fe65db5f869965cf215f6b64e",
+        "327871aec8f503da5f9efcfedd495bdb",
+        "327e90d8efa36d3b2f96c8916240d7cf",
+        "32c24505949eeee7b7e27d6e276cf03a",
+        "33206bbef68773ec092301fa7c1bee23",
+        "34070bfdae4e4e42eb77456bfb2a8e97",
+        "342bf7a0a81bfed508e7abdb009a7912",
+        "3436f3968c061db9fdf652c2f3f1d6a1",
+        "345984a9a7e39c9de0bbed92d9419ab0",
+        "346e1b89a7dbe8b98ab8a812f3b87897",
+        "34d309f6d4ad8ceed4975b3fcde1cb87",
+        "3501ed187c1d95bdf9496dc63b0dbdf1",
+        "351f2489b8d8e3e29068b565c9a26077",
+        "352011271494a680fb2e520cf14efede",
+        "356abfa7956d44f21d1af05b52fc6225",
+        "357bbad09c959c348d0eb8b5960ea863",
+        "3595329a4413397346c703228653f5af",
+        "35cef3236bab570c11b972a2efba30e0",
+        "35ebd0b916c1e3c2c87866abfcf7c761",
+        "35fdabdd46ea6a03ba9abeaab0f4da69",
+        "362528f4670a3453dc1f3d51872e9173",
+        "362b59ab10b3c397085997e3a12075d6",
+        "367e091e3c3924de3d314d4720b9c001",
+        "36fec26719adf7d0a4779735ad978582",
+        "370c9996d3267b4823d1645e061cda88",
+        "372f288d09f4fc90cb5952dc4a02b3da",
+        "37b605d5c40ca9d419c2d77102336f57",
+        "37d64befd3b37cd67c3942291131b46f",
+        "3808bb29f9c3a801d15f0e41da21b6ad",
+        "3856fdd0824929db8f3b6276a81dafa6",
+        "38570795057fe9c00cd69caa4f9c5846",
+        "389386361919f50ced0b21a90f7d3335",
+        "38ec4131defc92343cc7f932c28cf670",
+        "38f598477ed044c8cb644d2d1bbf52e3",
+        "38fedb2d54c65d9042bda279f76bb843",
+        "3901275cac29bfeeb6ffa8037bcb4598",
+        "396413a6f7c50bf353d0899c914d9849",
+        "39a91a1d65b80f886470fc00649b3dfc",
+        "3a0410ff7e6aa67b0df8224c66416fd6",
+        "3a07edc4a7e4842229dae116f7a08741",
+        "3a1f9701e1a9c4a1f357dd1a1880da98",
+        "3b28f8cbe1e66f2305413d1aa74461a7",
+        "3b9d0cb62c0cd6e7d5e3208abda7f618",
+        "3bb93ed7ac256058103f16db4d04c499",
+        "3bc08d8898a6f6a006c18dba4062a887",
+        "3c1579c57bb4261b470896de6049ffd4",
+        "3c2c5541eaa1a5f9270342af922509a0",
+        "3c32b150580b1a83d26d36640d2c819c",
+        "3c44dd7a84e8fa4cafa151199c6afd13",
+        "3c774750cbd731d33fea5bf63cb28873",
+        "3d0547c2189dc08c579cd5aba89ee739",
+        "3d33793906ba5bc3c6f071f33b817bef",
+        "3d4168ef474d3e0be3d237e642d861df",
+        "3d628050871d73d50be4480c73975407",
+        "3dc58a8d17c8ade5a9934b42ee2ed5df",
+        "3dc74cc57c627fa45b564706f19485d4",
+        "3e28b455a18f835e2d4c11cb8cac15e7",
+        "3eb6a791cae98debb355eabfef2d80f1",
+        "3f03ab13eb9b3f99862e8daaad157855",
+        "3f0a952659fc764bff4ef53c22fc309c",
+        "3f0d8905ab893db38bfe4ca468cde127",
+        "3f0e5644cc33e57338a0f97419783d8a",
+        "3f7430001f765406fb0193ca529bab41",
+        "3fba398ff9d9a816cc8957304aa7fc04",
+        "3fc0d123085cf9bd6aa2cc7bbf5fd0cb",
+        "3feb27ef26d449fcad733db149f785fb",
+        "405229bf346e73966482a2b8c733b3c6",
+        "405af06ed65a1efb03200dd4662e288b",
+        "4114741296a5fec1bab5c1e23e8350b9",
+        "41706afd11502c8ff0d0e6742ca54668",
+        "41ad42be30a89373b8367c14789d7df9",
+        "425b09c870c7e43e337c3506ae342539",
+        "42bb51cd532eae14abe6d2157bffdff9",
+        "4313bacf7688b9b83b2f5d8e126d5ed8",
+        "43b1a2239145347de4a139743c34b807",
+        "43fff42df4860ecaf824dd7dbb6f5e79",
+        "44720f0bb1c579fb1c59856884bf4233",
+        "44af270ef1c74e55cc53c5781384676d",
+        "44b1959a6d32fa6ea46e8373aa46a560",
+        "451410848eb1b5ff966700cd19e1cde7",
+        "45bd8c016af5f62f59fcafa979cce779",
+        "45c559b1e0fd187e8197fed7305d05c5",
+        "45cc9a9a8f0b84e575b550074d4bc751",
+        "464af06f1491091535288be5876b4487",
+        "46545a037bac890aff2b38b6815331fd",
+        "46e33a37285a8bba7826830fa6fb8c75",
+        "477b06b239606a8a7a0c176f6d0e40cc",
+        "477f4583300be396288be10d60e6a232",
+        "477fe14bda66a40d912fa2e21b134905",
+        "4786ef14939dc6a31ce5281b1e7fd748",
+        "48aa22d77887e5b0a32803784ff3aa21",
+        "48d76596efc17879f4330d7e8ae86db2",
+        "49ad3ada6e6d21d7f013cc5ab00a4c4b",
+        "49b37917299dbfb99d636bc7749e7533",
+        "49bb46a0516599b401876c67bd7f3046",
+        "49cc97efa0d7c63b9119957e88b9aa6d",
+        "49f44a7995bd4895bbf30d1dfd65eb4d",
+        "4a0af2fb1701f005ad17e2bd3705713c",
+        "4a577448fae89661ac04dbe58ba5b387",
+        "4a94f71fd68d1a31b1cecdad287bc04b",
+        "4a9f51be3b9313716a3464fa773e5aec",
+        "4acc5219a31ea9c78dc864ab0393948c",
+        "4ae8fc4ad718e8c383ca93e2df2fb6c4",
+        "4b2456ad0222ff854cade5814a01fc42",
+        "4b3ccfee2603ea60871e67395a29c7dc",
+        "4b52c8f3152691d5a9d2e60293891f57",
+        "4b71128dd88b55a742e544317056f457",
+        "4b7ca47ed28fda4c867bb733e5d2644f",
+        "4ba5621a6b98e57e91e0852db5508679",
+        "4bc8c4d2878cdad963b0d02b81e2204c",
+        "4bd3a449dc5ed21215bff04cd6ecb7bd",
+        "4bdbbe5ec7906dfa1c10bacc7f853451",
+        "4c7622e08b842c2b6f7ca3a62c16d727",
+        "4cce8b0ec6738d36cf2971bc6fd403f2",
+        "4d60a1e535ad8cef716585f3b1668847",
+        "4d656f4e10f7813bbabc50502380c95c",
+        "4d682f04aebb4bf00f53a950cc1fe926",
+        "4da01480fd7974beca0f533f837fb0a2",
+        "4da729da05ff736170fa43a357adfa6c",
+        "4dca74476aa955ed95f7930fe6ea797b",
+        "4e1930d67da20eec3815caba140b5202",
+        "4e30e14900b72d45c66048e0783de975",
+        "4eb12b5179768015b4e147d03db7eef7",
+        "4ed58a58f09452fe5733833672f1c7de",
+        "4f5e66b6f1825fff0455a27869d4c380",
+        "4f6f2ecf7e70a5af1b28fbe4cbf3c794",
+        "4f808528e1f38f1e7cd8e839e9e23bcf",
+        "50131c68d968b9b4be9adc941ae73205",
+        "501f482393022931b66f45b3ebf6ee26",
+        "505d6b5f1a0e4b1a0947bd9a57c3d980",
+        "516f7b1cf0cf0764cb07285122378b45",
+        "51cab17da892b81f01d2c0b5c4ec8360",
+        "51cac8e32670608b7583a4747c7e93b9",
+        "51e4f9108506e2b755fdf7b27f86ef47",
+        "51fa60890af0f354b0a315ffc22f092a",
+        "524b62ab8746ec35543ccf3d894ec272",
+        "5267f679491d008fbfe1225d6f84e9e1",
+        "526dc21505dca60bece3d495daadf170",
+        "529cf53bffa0bee5e158296bc6ad7c72",
+        "52c572d8dbbcdd0c8d2fbad63afee4a7",
+        "52dfe805c6292d00a2fd51cd0a8518a2",
+        "531d9e37382e224baa948ff5819265bd",
+        "538a33247258fffa02f50cba3348d0c7",
+        "53ae164fea833349af1141c9f3a3357b",
+        "53b097f5b51799bba8a03d8b425ebf7d",
+        "53c0e64ceb8bf9d6a8deced1bb2523f8",
+        "543196d85cd45309eedca9cca70b44ba",
+        "544cf360be6cd2c5c61bedc0e8db7ec3",
+        "549794af937adb8026708373d8249b36",
+        "54b998f497f810f3e49ddfb6e5909cdb",
+        "54e0567966b86cb1ed35e70567d28879",
+        "54e96f269eb8bd22ca6afe0e1aecd752",
+        "54fa98c1df441d41f4283875549ff740",
+        "550c10ce33a5fe0c2da057d40378fe68",
+        "55350076ff8f26e48c8d2bacc1e66213",
+        "556f64fc74dc1a8eaf52809686c20442",
+        "557811ccaabd3176e3365b626a730955",
+        "557fd66cf4520ee305ec97ab674e206d",
+        "55ab1b8dec6a165802db3d968d678348",
+        "55abc04de65bd79b9e963518f80f8099",
+        "563559aab5ddb9976b5f654daeaad439",
+        "56cea6e72e24c7497350929bb4e7e8c9",
+        "570f4d23fd48066f30e6a16b588e3f4e",
+        "576d25872621a6ac6dd5a14604c7db99",
+        "577eea7360db3381310135da86699d69",
+        "577f15e9e2b7868f216aba2498c0026c",
+        "579e89fdcd2ea9ab2ca30e71169c15d6",
+        "579f0889e1e19655d43c598473429ea3",
+        "587ca9553fadf0d0684b5ae1061f03ff",
+        "589c8c8358810d80896fd9df4191b3c8",
+        "58c3522f7e85ec516f181dabea7a4000",
+        "58c698b7c0d34e1dfd5876f8b4803ecc",
+        "597af9906ec2136d2c790af51637928a",
+        "59a60fcd9240058cce6d1bd49f778ef3",
+        "59e16c1ad4a8d21c6381c98b355c7ff0",
+        "59eccc31c0aafbb81ba7ffdb37d10cd8",
+        "5a08219c1e9101b9809e779c71b868b8",
+        "5a1a156c886a2e1b6d0a85ef3ea29fb4",
+        "5a23e143db177b03f094ef9fe2d76906",
+        "5a8f88c83ed3746fb44270a80638da0b",
+        "5acb655d33bf3d9c83fee063ab00dbbd",
+        "5add39482aafcd82e3619f23e14b1dd2",
+        "5b121e66312af5febf451f38b68deda1",
+        "5b626e717d8168693952fae60f4f73e0",
+        "5b9c284509233f31fb461f85e58cd85d",
+        "5bb3b1011fd921f385ba382ea5c157db",
+        "5bc18b9884b2fc0d4d434b8aeef0100d",
+        "5c1a4e81c19817678e445b0bf4d7c64d",
+        "5c4ac7d5bab828184dc80fd5ec825104",
+        "5ce356d28afdd253431245527ec9d038",
+        "5d1b2146cb455be4e71215669f6a2443",
+        "5d4c19969769f73d0af566800a31636a",
+        "5d6984f7c38515306250a14acd214840",
+        "5d9ea296e76f819933415ec57c837ef6",
+        "5dd6ff17f39a436ad7c570df9d4106e9",
+        "5e733acf141b04ee4abf401fa6f4aefc",
+        "5e75c078a96c9917d1283b7163a8cb85",
+        "5f270d783967521a2d813df11e269cbc",
+        "5f50aa319a2eb337bd61cd2b04ebed7d",
+        "606fc91bbd8b5c1e744bfb24cf740255",
+        "60b88f450af93e025208050d58f889fa",
+        "60c492fe6222ce812a54c70ef5a2c308",
+        "60eef06080be8dcda492ae8ddfe2a451",
+        "6117e21c8f3a61d4bf5d32dff2dc66b4",
+        "61308231f1df4e017180cf060e5c55de",
+        "615533973f7250973035f5a766adb9c7",
+        "617f393c19654a6779691dd4fefaef14",
+        "61a05dd0dab2dab6ecf7e41a065da699",
+        "61bcdb7e61331c6e03ccabd10e1e4dd2",
+        "61c913607d3a3a7c78aa91a7c00b3748",
+        "61cbdb7a43087f9887275e76112448e8",
+        "61f629819837af0eb0bca9d6151fc56d",
+        "6206873b89f26f7ef4e0dfc2f5620f96",
+        "621bd367c7d0b3eb678c725bd5a5a83b",
+        "6255d56432e0f04fdd6ba6b1e8e695c8",
+        "626699ccfc1865b0d52a65524863710f",
+        "6286bb282cbf194789d2fec4b9d0018a",
+        "6294db035c7345da04622822c6269c0f",
+        "6301031a0b9f08a2dccb291b8c78c269",
+        "637ea739fe2f15b465dd3b12d05f1da8",
+        "639fa918af690d649bf519951189babd",
+        "63eb65281239cf83d54e002a1a665fb0",
+        "6475285b4a81e81cb85cae244bc80ed8",
+        "64b3a0fe4feecb64c97ed3d4b495851e",
+        "652412405988b75a78ca178ebb0bb83d",
+        "652be1e6cfc455e47af576243532d43f",
+        "653a1cbf46347d0a43528748996907ee",
+        "6542551820c1049b1dbd4316fd8ba0d4",
+        "655178d4ccac74c9a5c4ea1651c8f475",
+        "6574b64898a9dc6d5e506c3df88d77a2",
+        "6649d306943b4349a0d0abe5e670df38",
+        "66c23ceb2c410e66df916740b412765a",
+        "67996da188b6275c0b58fa61ae9ddd9d",
+        "67a7b629b4d71945c88100682aace2ce",
+        "680c04f28ec0e1cfefad92fe91189265",
+        "68171e6fde45266822f636ecb1a2b388",
+        "683fa04450ca49dfc217ee518b5c2114",
+        "685000cef8b7b76b1614b6e7f4480a16",
+        "687fc9a1af0ced651df63fea9de9d9ab",
+        "688be58dcd4aca7a965e402a3922f8b0",
+        "689c73833aadf29c504bbae270a4d165",
+        "69080bfb9fcb3c8971409bf24dc1dff7",
+        "690f5626100575a4a9a896e0d95ff37b",
+        "691adcf86a881efd6611532fd3e7e2fa",
+        "69337cc6d9f6c416c4a302a5e3d6b681",
+        "69947468589e14a3721e1d9ec8c964a6",
+        "69a2edc1d3d3f3bc5048cd629e7f149e",
+        "6a129113107ab66b2e5d323ea33b3098",
+        "6a6dd2d1b2662d74c8b59e074ff7a583",
+        "6b72b55abd93402538826ca1c19945ce",
+        "6b73cf1802da2f78df273d1da8f94ca7",
+        "6c79a3d62fb159fbaf65de614a8b01b6",
+        "6cfbb113865b39d13e5a10117cb77f12",
+        "6d4231c57a125600b0090de921d91bd6",
+        "6d6d5ded6df10c7693fcdb83b02204db",
+        "6d7781ee0a1e73b2a76c7132ab66be9d",
+        "6d91c1b2cc3f779b058ccd6528e28746",
+        "6da502de9978bb370a4172f4159fdcd4",
+        "6e506124884efcae56bddff29c4dd666",
+        "6e8b529e8de03748f3912c172620e4af",
+        "6ea69eec58739d79096612f4ae12505d",
+        "6eb911d7007eda75caa29b9777c821f4",
+        "6ec5be57aba93df832ff97d130186cf1",
+        "6ee8fba32f008945f8880472e89b62e4",
+        "6f346ecf49d4baa80cf39bd64ea2c38a",
+        "6f3d29ab7618d67f1debca9a6d1cb47a",
+        "6f74ded613f137ee6c65c7d0619662f2",
+        "6f7c79d80ebced377ced6905e6da8557",
+        "6f8f4f1fc73fae8bcc333cfb6f148da3",
+        "6fd55037d5baf52db75293dcacbee523",
+        "6feb96a4939ce0b304fdef6cd6fab579",
+        "700e0f798360fb79c0d43b7f3e036b4e",
+        "70209a6da8374a4a17a53e272e4f8eac",
+        "7052d1c48ce5733fcfc6d690bf40600f",
+        "706c3745a2a121c648aa2657b04ec4f8",
+        "706cdaae49611b62628dde035c97c89d",
+        "70c458ca56e0937ea00cfb43644b9a04",
+        "7154fe7940d808f0402c88574119cf26",
+        "716170b997eab62ee8459e64e96cb3d4",
+        "717bf8f902e5ae9e2a5d7dc421bc55dd",
+        "71e7dd64b88b46310f597baf83150722",
+        "71fcc271efe87864ade4ccc6facebc31",
+        "72667668b01c9b05bdcd6c692552513e",
+        "728561a5d48f7e10b17e299c19afabf9",
+        "729d7790f6ff3bd93d991478045af67c",
+        "731603a2e5eb2ed6772d06a7dc0f10e7",
+        "73256c7c163c14bf68e8727fe685ff9a",
+        "736fadba151ee669f3ac8312d948e679",
+        "73a7424e049ac3bdf0ad56da3d59ea4c",
+        "73cb172c75bc9856114236ae55852abc",
+        "73cbc80694d09f818e4610c6cefc28b9",
+        "7415297e8ba20b357c218a7b2f19ca67",
+        "741e37f046248b4364710b98e8b34d63",
+        "74b13371049637cd23730a8d29c495a1",
+        "74b9914e2e3512758dbd14ec8e8ee902",
+        "74f616cae7bc651a47132a3b4134fdcf",
+        "7540babe0a2979eefd49d4190cb8606f",
+        "754a48bcadb7b15635e5868d3fc78f55",
+        "75b6e31f5597c9c4a984a43d5450b249",
+        "75f6c4d77521bc96903d8ed7ef67fb45",
+        "767a20d7f45e56555aee9be44aa69833",
+        "768b0a3863665bfaaffaf43972c74155",
+        "76980da190b9c4280a23fc54af4a4207",
+        "76bd288d0ecf21904cd54b8699b12c06",
+        "77106fa9cf315b6350e353c1e4b12c43",
+        "773e593dd80dbfe3e9038e62ad23079c",
+        "77c400a60a3559172e6d87b9d6b20eeb",
+        "77c4472f1db1acd122e66955dd61be7b",
+        "77ef4f0176cd62309f3639f76714043e",
+        "77f5b2f6ab1d0bcbf761cdb40df0b3c6",
+        "77fea718cd1209b976b41a5c8ea9f0f0",
+        "7802373f530a8a899ed6f3a74bd4c2e8",
+        "78199447957ff2f8f7bb55b9af481ac2",
+        "7819a7459c2c3fe0e467e755a052bd99",
+        "788dc9e335ead861957f3bba33e4dfbb",
+        "789e7c9e60d77a27744941716e0e4689",
+        "78a30d7078b3075d493e5fea0a00088e",
+        "78c78b9fcdc48c59052dad94cef9e556",
+        "78ec4c7ea0e8339df798834c9138c09e",
+        "795650862ebd2f5b4f7a1302714aa716",
+        "7995a714407fe37a8d62d4f683631838",
+        "7a266b2a4edd33ff7276a375577914b7",
+        "7a2a4128e577e26d36f279f7d9de03af",
+        "7a40d4cbac2b87faccc651e07506a432",
+        "7a53c1566b96f12c9baaf39153a6d51a",
+        "7afe5e42b4f5af3b1cf84a97030a034e",
+        "7b16e24ff94def32b5c6edc4478671f4",
+        "7b2c2d9a2d8b96d0cfe61bd46f4fac75",
+        "7c2760c1bbd87c149bd0cb373fcb8a87",
+        "7c710585acfcd9f70dae9aedad665a19",
+        "7c7a1864e0e7991514708a932f47fc18",
+        "7cb444bed939814b07dcf7d0ab307f18",
+        "7d29b69110bcec2cc8cf4b36544c9045",
+        "7d4f6697384fd9fc94f29fcbb35a739b",
+        "7e07ca40480f57d9e6598dc2f1f303ff",
+        "7e7dc7c447598958cdc00cf05d0c419f",
+        "7e9744e5e02663ef5a2bee8ca1b6932a",
+        "7ebc30d605c9bed6b5093f0a8a4aeef5",
+        "7fdd3668a83bef9fd2c65169d6d04c0a",
+        "7fdfb476318716f2cdfb47d26854966d",
+        "80fd25409067586e3f75ac9337aa8d0b",
+        "8127b7051de85f3b18abc7e6d34d653a",
+        "816264e744017f9d1156be34064ebbe2",
+        "81729db74409b6155aed9fbc7899632b",
+        "8192abff17c4e05b5939b1c5559bc93c",
+        "81a442a7ae8b1b4b416615768b312a1b",
+        "81c1e97c9a2109fafb2b88a3ff372952",
+        "81d3e1bf405eaf03283ea79965720777",
+        "822445aee879770be4ba5e8cab6cb137",
+        "824ae2a934d4d5f238695dcaaa42f7b3",
+        "8285c11829a00e08a43ba700e9cd6026",
+        "82972877dbc8fa517f8b932372dc31e6",
+        "829a9c7528e614d0e26cb2c0f637738c",
+        "837f2d21293e666ba93ca5539e10bf01",
+        "839c77c7794ee25b64c16847fba3a843",
+        "83a4f12b56e8608e5d609526a53f0cc4",
+        "83c488e15d08a32d1759cf0838ac3958",
+        "848c220eef3cdf0d6ebe4af35543bbb7",
+        "84bc37a2a954d94a0a93dddf7ed4ac96",
+        "8599bf0d258510d352746a7735193cbd",
+        "85feea0ad683933274f4e38105a1d39c",
+        "861b803b2553519c6d2767c997551e70",
+        "865515d386c8e5db744624ad09814193",
+        "86baa6ef31599546b009d1bc17754200",
+        "87168a92dd26e7432337b2eb3e5f16a8",
+        "875fc9b96c611fc66d7c290ae8eb2a1c",
+        "877f0a7c2e1c168176b78823cb67a8d6",
+        "87993d423304f90fe75814366653da9b",
+        "87a9e5bfc8aed6d1a10fdfa0e68f070a",
+        "87b8f6d386e402ca41ba793d602ff231",
+        "87df24a365840b927b0431f2ac89a1ed",
+        "8882ffbb31630007fbd83b5d1eafb602",
+        "88b7ab4db66f06afdd2a881d8f174fc7",
+        "88c09ab0ff731f0e802e059ae6761a74",
+        "88fd7618cd04eba805ae87be24643d1d",
+        "8908cee32f0993e1acb8014f942f2e98",
+        "896d3b8324d1d9594f7a3575ae9ef64d",
+        "89dccaf2117480ca1190349f28d335f1",
+        "89f39435450bcca42ca9dbdf30885491",
+        "8a669e717bcd4328654a515b612238cc",
+        "8a74aad983a058ac1c87b6eec7066908",
+        "8bf028396e9e768c565e99e5e60bdbfb",
+        "8c20bb3fbb382a794156dff5104e95ab",
+        "8c30cfa21dbcb92968abcd8bdf4f85ca",
+        "8c4741619294919736c7eb06315f6553",
+        "8c920a84e07a908358d86beb340dade6",
+        "8cfd5440eb38effe2074af0b7d3486af",
+        "8d463d4a5ea86800b226c7e1fe69d963",
+        "8d5673b86e62363d33d5db3653deeac3",
+        "8d659024457d00877616368657fb8940",
+        "8d9e6cf949562e85096e080488411db1",
+        "8e39b44836815b855e691cd626a72d92",
+        "8e69a0345b1e9b4066414ca4b3c8d82a",
+        "8eae617e9045089aba889800a14778c7",
+        "8eb472d8052cb2a1c77ad87ca4c7a1be",
+        "8ec013988a0bcb6fb796540b72bbeae7",
+        "8ef9126dea19200fa1eb3b6b19cec706",
+        "8f185d7eb73c9853e27e1b3ab791e18f",
+        "8f69311abeed726255588f803df470bc",
+        "8f85f43f0ac82abd9b4fc8ac505b3622",
+        "8f99c9993bae18ac062b775ac6bfbd3a",
+        "8fbf54852045eb32238506d6a340f9bf",
+        "8ff09a7c1d89ce23a039410838603804",
+        "901227e1d87b6c92f935e91a70eb59f3",
+        "9055618dc5848ce1d769cef3af3cf071",
+        "905bc62c4de62517c26f2fedcbba8d53",
+        "90aa859e57ef730605cbb3637829b055",
+        "91048fe097887a4ec2a10d5bcb9c62b1",
+        "9105edd821b11f213877e7652ee09b4c",
+        "914f19c5896ce5759e0de298aa483ca3",
+        "916b1a1e0acfb72aa00380d18230af15",
+        "91bc75af0dc17b6f8f97cb2967947bb5",
+        "91c60b8b491b467e08312a01a133340d",
+        "9225ade33d19df4afadb15018b455238",
+        "9230442b27cfde20ff250f7e9f0ebcc5",
+        "9264f33994d797edf9f998dfe829d18a",
+        "92659bba79a6207dce4221ece45c6fdd",
+        "92dabf6afb6f9b11f24902556449a74c",
+        "930ff90645ff29aa13f900a90057a223",
+        "936a9ace55f943844a0174928b58398a",
+        "93754448ecfef387197f9bcc1821bf44",
+        "938c0d03410a67332ac9f91b52715c3b",
+        "948705320bfbe131f954c3a8209d210c",
+        "9501144d6f8c3feaf5040501196b978b",
+        "952adee146a0be4fec5dd31c529bac4f",
+        "954d10bc35ab0ddfda02a98966f2b5d4",
+        "9583f48b59b8d48a7bcc3e1a1991cec1",
+        "95c9aea8dd17a24a02aebca38e855df6",
+        "95cf6854c938f4a0eca66f64c3eab9ee",
+        "964b21ca8b49c5683bebcaa4a73559dc",
+        "964d3f04b9095c075b2b39da2b55c1e9",
+        "9650a40875d0c34903646c5b378e7d4d",
+        "96f57d182c236b404111d597b2dbcad0",
+        "96f66d619d06356073c5fc7a1f1c3e66",
+        "972e39e577516e48cd5b0eaf4da24bde",
+        "977681b4fdd81bcc7f33b05a47d8bb10",
+        "97819014004b9ea3e05817ac618fbddf",
+        "97a8e3cc36a2a15847801d69e87b589b",
+        "97f66443f08cdf4d71d7462d00a6ad64",
+        "9837ceb673d9318e9d46497f1713aafd",
+        "983e31764b22ad5c213910efcef67a71",
+        "989790ff52a8bf91192aeeb47e90858c",
+        "98bb6042fd8550379ae48a734919a843",
+        "98c942e13a93cda4b9182127bc1bbaf1",
+        "98e573e7d22d6dc33e15143c52f3d116",
+        "991e69c88c829ed5a9699295a5002568",
+        "99430f96607572ae12bca4f97465f992",
+        "9976a808378b7def3a19e57dc9aa6d09",
+        "998b3d3a1f0efb57c9c901d556c50897",
+        "99abd76280a03d74d677ea2adb65689d",
+        "9a498ae5454e0fb691187f2ec81c6c4e",
+        "9b2738e8f9603e1f0d80411a75a71695",
+        "9b51910c75a0cf80c463c482fbd537d5",
+        "9b549bfb139cc026b9dd6e6b9f16bfc3",
+        "9b7be861c5f69d9b0a39b42348c5a128",
+        "9b85d62aa42b4dadaa8331a4a41b2295",
+        "9b99e77979c5e0cc9a59aecbcb15952c",
+        "9bab6b577f60496b48b2817c895456f2",
+        "9baf00c9bbd8119680b74686776b1501",
+        "9bb41a8c0e211af69c5c4d93f78786dd",
+        "9be3413405e978b319f875f68faadc0d",
+        "9be96278fc7229cf3974c20ef3200733",
+        "9c345829c7c46034a5a42186837606c8",
+        "9c60a22b8d001d9ebcb2a6e06a43d4e7",
+        "9ca14657d7ff37666b094f7327dad75c",
+        "9cf05963d61732c808482777ee324471",
+        "9d1a928907df181f287ab6da714da8e3",
+        "9d2a1bec79ae3e0ca08d38ce2b191f30",
+        "9dac9ed28fcc662fbbd43eaf386e6920",
+        "9dd801b4ca64882dd4841e2edb1902cf",
+        "9e035574d9e8604dbcdbcc89e4677bc0",
+        "9e2c33fbd95d46650f4f6bed21657ad4",
+        "9f7908697a0886d3eb2a40eda0f1b173",
+        "9f7a87845c975d0a84ea9aba7b9f2dcb",
+        "9f96a7cfac794c2644fab6ff110d09aa",
+        "9ff7764643cb138396a5a33d7657fc6f",
+        "a08b3b5cde3d8d12ee7e221b9c46ac97",
+        "a0a3d0ae29416f64d043ba7b630bd3d0",
+        "a139eceebf454cda1a47956fb3d50982",
+        "a188da47a6159c2e44bc3ee57670855c",
+        "a1b6e68a46823ca2e060c815126dbcfc",
+        "a213f5bd56248e19c31110bfac312337",
+        "a3011fd8611d70149d277a65df06da9c",
+        "a34099d0c32ba9b5f015d22a63ea42b7",
+        "a3baa2e76e6d8bb59db37820ff863a32",
+        "a3c582c6f2eae09b8cc09368292d6736",
+        "a3f0ff62d3d805b30ac370facd4d1b61",
+        "a40984106fab050f068180720991eb13",
+        "a448806ed3a2eea6063dc38dd6139fa6",
+        "a45b682cd3e2269bffdf12ad6876221f",
+        "a4ab178639df387a1c3797ac87dfbb84",
+        "a506f774a6ef1d28741850ea27224bac",
+        "a5b28476942696b90c2b318a8c1d1d85",
+        "a60ab717e8385f404d14051124c1d6cd",
+        "a659a469e716a06513b2b70c910203c9",
+        "a65c0965cd651298e68eeb54f3989f6a",
+        "a667a93c364f423926a6089a21fd1d8f",
+        "a6a8019d7f7afc8c2c872ca0d4f3e117",
+        "a72b47c7ed98ea734bf962b3fe1b7cf3",
+        "a73c1d3a7fe35547c5442caae56f073d",
+        "a742db6c449aa136bbeb3070f2fae370",
+        "a7a04f20381b87e2b69f99ae7b3d2f50",
+        "a7e350d12345d8cac792e39b84e2fbc1",
+        "a87185c1ae73a850ab49d2cb141da0fd",
+        "a899e9331a4b4fa8fe2b90546dd907bd",
+        "a89f76ad2c6d97a351f9514b71c95f26",
+        "a8cebd76619d274cacd1cac816c0cd09",
+        "a8efeed8bebd97b1ad476d510b5614c6",
+        "a91b418551a4f34cd77c5ebc13a4d221",
+        "a9200e3c1cd07a02b25bf2609b8075fd",
+        "a9a2e6ae33783acadf8be6fe7d74a7a8",
+        "aa22a08ff76574f1ccc756b2fbb033cf",
+        "aa4e89b7fa54061659e00a1d829e5b09",
+        "aa74094b898be5ff7888fc07c7a6e45d",
+        "aaf1749832f3cb5b96c8c1ce972207e8",
+        "ab13b9dc9ebf169901ebd91cd3ed14f7",
+        "ab69e639664baecabb82de205739d04e",
+        "ab7f803a2f1cbfdeb8b033b1718726ff",
+        "ab9255ee26995fa48f368b61aff7574e",
+        "abe8ab596356749c7ffdb376fd169d5e",
+        "abfc1e0307a1f92027e1640bf705bda3",
+        "acddfa6ccd61b02a658c00c30d8b626f",
+        "ad0a5fb5ee92d29940692dcd55282942",
+        "ad5d85206137031de7fb83e7a0872c70",
+        "ad818f359cedd19c19735036e4a5d102",
+        "ade46251abd18107a2bd9c4fedf5bda6",
+        "aeb5925ce47f5a47041fd0d949659cd9",
+        "aece626c23858daad24e9fcf5352c2a0",
+        "aecee576e2cd1435930eeab043716c15",
+        "af4fb9347912a598111c1a3d28a4e308",
+        "afec4eacd6d6f3cc1424ef64a1d6f5f2",
+        "b01cecd0c76625e8ce08ef27bb87d481",
+        "b020981915f15a1bfac1169210e482f4",
+        "b02241d579dcfd58edd3e4dffd1cef43",
+        "b031b266685f12db4d21d9698c601f87",
+        "b04b43ac2ed3c679f80a8c3aa0e80151",
+        "b0d8de708d9de96ba1bb67fe5ff68a87",
+        "b0ebc937743ce9dc4a53b65a854a9281",
+        "b15b9cfc34a878f809549229f7f91db8",
+        "b17e86ed8eb3d637fdccdc766661a454",
+        "b1cd71011d15451e88babd4850d72f9c",
+        "b20c4ffd696f13331fe597d5fd7cd99a",
+        "b229c4d6de9ec6151b42ec3b01c26495",
+        "b22ebcedff55423bf95c1bcdc6e34ec3",
+        "b24dcc7676d04243181652086f012ea9",
+        "b26bb6ea73b4ca086d9d1046a953a2c0",
+        "b2c3770176663788af223e8c5e8d6820",
+        "b2eb03fc9c6ba5508f206de03276c245",
+        "b3421b8c991c6dd862bee35ae788140f",
+        "b38e24d0604aeafb6e0880f7175d9dac",
+        "b3aeb4547c06582d1e705971e740ed8e",
+        "b3b5e1aae17068f9115a9a331e224dbe",
+        "b3b5ee0d67efc6434baa0e16e8d7bdf5",
+        "b3f0c977983863fcaf268c7601a71bbc",
+        "b422a4948353ce0d8ed33345eb20a61a",
+        "b44aef5dc9a4b61d676f48cf0edc3c55",
+        "b4a2835d17581fad9237ae5c4f94436f",
+        "b556bfe1a30889fef503f991f487150d",
+        "b58ce716ca9adc5d7872fd47d113cde4",
+        "b5f287c923f3d1b10932646000d29710",
+        "b613299683a7c3c8b32a7a51fd3973cb",
+        "b63c2e8a854002e5c42f3d3979a86e97",
+        "b6669b5e6ca72fa35f89b60f84535a78",
+        "b694ba69c2511b94d3c8dead496da3a9",
+        "b6c705417b066039e5d196cd772cf1d6",
+        "b6d01d449c14abc9caae780718890cb3",
+        "b713d354d7aa40decb1397b5c48cf09e",
+        "b73cd0fd6d1b7f82bff4c8356bbeca3a",
+        "b765b85f2c835799cacaddd27107e648",
+        "b76e51993f993b1b1f6b3d5a0a06aaa4",
+        "b7beda241c8092da8dfe0c676475e84e",
+        "b7dfcab66274bbe909af8a16182401ab",
+        "b7ef55e8366ee4b17203f751762355d2",
+        "b7fb5171915247c20dc0cdc5f1313c6f",
+        "b837581aa0b481bc57d66848a0629b48",
+        "b880f90a008a07f88f09519b2c1227e5",
+        "b8e74fe3891c45879ea13e882f0fa44b",
+        "b9b89fb32810ca887371cd95febaa7b4",
+        "b9c551d525c9992925d26efa37f0d06b",
+        "ba53f2d7cd8c479f9bdca63e093726f7",
+        "ba5e0333751846d94f48cf83dd806998",
+        "ba926b48ff5156c43bffc2bae23d957e",
+        "baa994e79da90d85cec9f402adb10a0d",
+        "bb405e68d4c3beca8537dcbda01412a3",
+        "bb6c9e85633ce3b4576b680045925366",
+        "bba36c5dab318cb9bedcf346b17fd93b",
+        "bbb6883e19958bca654e6a233da1eacf",
+        "bbe99b62d3ef2727f88eedda99be4d9f",
+        "bbf385a390d010065b7af10a0ab9d1ce",
+        "bc53c591832cf1fd6d13288fe1939a28",
+        "bc55d3ba9170e355666053e55ec6cc58",
+        "bc66649eba9bdd032f5a5b16fac887a0",
+        "bc737d0538c83867121b787c17c06277",
+        "bc9db466b74aacf920bdde1a765e6c4e",
+        "bcbda897ffd02487d08ce9c5b5b79f88",
+        "bcc1d736686d48eb25d693e127bf1d4d",
+        "bd5d300204d19f76476ce76ace053733",
+        "bd7c98efa0dc7dcfa1aa6595d9aafe32",
+        "bda36ad5d70b042df907293c79bf0f1c",
+        "bdbbf41b1eea14c8d51a898eb115b32f",
+        "be27632d8776738f4dd75b3d71f6608b",
+        "bed2666a7e8eed5627d262810f13ca67",
+        "bed37eb8b3259029f5d779b99a6214b1",
+        "bf17e777bf743bd052919b70d76598fa",
+        "bfa696642410cf2754abaed1b5228851",
+        "bfb17a2e80ccfdd4301b0831ab7f5c0b",
+        "bfbdb77a2798134377dcd80acbbc737f",
+        "c02dfe55677e17c2a7a6bc9970bfbd56",
+        "c0d88a11e2d925f286429d89ec6094c5",
+        "c0db67b7220d545aece087229ebcbea7",
+        "c0eb62b4d2f1e952118f846af429f28c",
+        "c1118773b5fe08833eb0502cb95417bf",
+        "c123ae979a89f9f3ed2d444d4896dced",
+        "c15daaeee87aeee59f7cfc25315096bb",
+        "c1eacde0dcca76875865461147195834",
+        "c1f28a5ff3ae0d53d537282934023c3d",
+        "c1f55a9664a284d4535b46b69dd4b8c1",
+        "c20579591f922d378292e8c3cf769bcc",
+        "c232b4d107cb91f3a61268d62b3e96da",
+        "c242db0c3eb76d472bf84199bee62663",
+        "c27860796613845dedd8cd14061c165e",
+        "c2b49285a695537c8b0e75c43158c90a",
+        "c2c2c0c434a60335620081a30f6729a3",
+        "c2d79cc9d4cb04ed1615c128a5cb7eb0",
+        "c2ef7b7a5ac705143b9dea496f1c2281",
+        "c37e530d10e488facacfd4de863069c5",
+        "c3ccf38b52a993c882767a95785f79bc",
+        "c41faeac35b9b54944ea14e632028903",
+        "c4c1c928f796a0fcd60b182216afa56d",
+        "c4ca45395e3fa859e6a5f54cce2f1d1a",
+        "c531d9815b228dc7086d622c98337ef7",
+        "c5aa98e9a2af5e65edc6cb48d0073fbd",
+        "c5bcdd0e5df221f197318405ac82b818",
+        "c5e54d74c48963cb7a68e57e58c74326",
+        "c60fc27304ed2276352cbce7bc76135c",
+        "c7163b551ff209c4e6fc6b02bed48f36",
+        "c7d1ec96d3c2ae8a10219f687bc3f9d6",
+        "c80d10a7418a0ff0a73adc078a2b9592",
+        "c814a7b334d2b8aa596471f913badc4c",
+        "c862eba7946b0759b24d8921a57ba1bb",
+        "c888a121f1b575175f6c5688ae01d778",
+        "c88a393843326b090628162e4f3efc5e",
+        "c8c2263ffd68da47fd701dc72a6fae76",
+        "c8eb171ffc1782bc3cfc922e2f8e4908",
+        "c93ef1ac34c2767367feb0a983dd1106",
+        "c9610ba31652eaf888ee007889979b57",
+        "c9c834872e2b36ad8ac4c5c85bbb7c87",
+        "ca230103b7d59a249f667bb974a3dda4",
+        "ca92ce01e1b62667aace9b7461c35f78",
+        "cab09deaa1fc94a1828a009e0da287e6",
+        "cb17092861cd4bec771c709716e38e1b",
+        "cb78a650f4f66ebf8cd03116c4571342",
+        "cbbef90368f0a75f244b4bad3292ca13",
+        "ccb73fa3a0139828aba60c47e518cd16",
+        "ccc7f0467b01614f8e487e0bbb16b01e",
+        "ccec384185e44577583aaccf53c0bd17",
+        "cd19018f198852681a3ba07c5f152e13",
+        "cd34a83101a96b2968d4ef8095141073",
+        "cd7d0a63ab7daaba3b19429f079ca168",
+        "cd9f5c079423553038060cdf28444b5e",
+        "cdfeadc389dc3114ab9b72dfb2532e7b",
+        "ce0751d6738784d6a04d103cea0ebfce",
+        "ce5fc278b3617c49cff642f8a355059e",
+        "ceb9adb95418c9d13dfea7a7174c06a2",
+        "cef5e1a9974ea2373b6ba2d1705d7557",
+        "cf234e000eff4aa6c5c46f21b3037932",
+        "d07bbb3668b55fdf4f17d1c6bb1400fb",
+        "d0acf94974781ff392ae85135473ae14",
+        "d15aff6aa65fb20dbe0fb9f7bddbc1da",
+        "d15e486b2faa859b0e5c5ea3ec8ab50b",
+        "d19f524552f77350da704c1e6387ec6b",
+        "d1a33ac09dac7ec370a9f6021a442069",
+        "d1dfe97938ab773aa093071b3297596b",
+        "d2017f032c29a3719d7d25fed7c829a1",
+        "d22d729e0587f82097c3c2a1f0026998",
+        "d238e57137b7660a354060bed1043069",
+        "d2757c64461240232114762418047ba4",
+        "d297ccc10555285c5d850763bee73013",
+        "d3fd508f8c94787ebdbda003fba0538c",
+        "d406c7149a89af0b0892b0537630b719",
+        "d422093c2aa8d5f907915d31e7dfff6f",
+        "d4231bf77c45e4ed40ac052ad3cb479d",
+        "d485ec562a47124cb89006d7100dc755",
+        "d4b91ee2cbbb647c983e2b8c2ea45126",
+        "d501422bbb5a232a69baddd091e4e06a",
+        "d5092f429e4896258b2f9217089303ec",
+        "d54201445a0883cabab50742e26194ce",
+        "d5b4647da5a6d486034fb85dfdae99d4",
+        "d5ea73e9bd043c98062a48a3fda05032",
+        "d5fb074a0dfc2c04b6e52be7a45bab41",
+        "d5fdae7e5446bd9d2c510faba4d8102b",
+        "d60b347f4fca9e4edfec68802065a98f",
+        "d63209244089d7006053a7fbbc447100",
+        "d6a6686608cc54c56166ebe8836151b8",
+        "d716707044f89785fe1231c6ebd82e73",
+        "d76dfc9c8fe9727d2a42a30da74be5a0",
+        "d78146d27843977544b2ee169fedd239",
+        "d7b12c811ef3d0fb5661a615966e25fe",
+        "d7c207316a67bbef05498a2067eb3dca",
+        "d86e0b000d72ff8ba0c7b4ca4886a6b9",
+        "d8c9bf609492481d119e943102f7a9ea",
+        "d908caf41df3807796e245d012c04a19",
+        "d973ab33a6da659e18c3c6d462e7168f",
+        "d980e6012d2afcb093b0245b2b0ac097",
+        "d9d6329501d4509fbf0a95cd5ebaac55",
+        "da2621d753be819b9b7b5f97d27fa5b9",
+        "da8f69335ca3ac7a80a8099ee2775e54",
+        "db0fa39abf387b0b9bafa0cc680f9410",
+        "db2aad606d13152e89fbffec8e299843",
+        "db2dff6770902ed7dd906d045e06d03f",
+        "db3a158fa190590e6009b1b22f4f6722",
+        "db5c33c0d1d78bdfb4413ed8fe88b3fb",
+        "db673b8fd709de562ce90592b85317b4",
+        "dc4493b833a9c2ef1a2acb3349e0fd52",
+        "dc9405794b8b0abcfa3ba1c3cd564cca",
+        "dca61d5b57b51a646b07f3d0bfb8cfff",
+        "dd3920c96c273556a47596559400cd02",
+        "dd4aa0ae9c446efbf9b654b74a9d21d4",
+        "dd6bf02767e14093e610975abb6f5644",
+        "dd7c81f0d68e1889fa6091d3a8986fca",
+        "dd83caf54b50b987c3b033c53b87c3b8",
+        "dd863bdf147d9408a852232d76a7034b",
+        "ddd95fb91bcb0adf032ee50e61440090",
+        "de204ca3adf4da27f67d9952e56e257c",
+        "de2c759806e862ff1a01041805ce4d92",
+        "de4c85caefe2682f7dfe1491f1299e48",
+        "dea46a07759d3992d959d02bf0948263",
+        "df4d57360f1e64befdd0f4fa308a5a20",
+        "df5863ad6b0f304fed7e9251fd1d6fcf",
+        "df7685cd4fb5071d709345941b2cf7ec",
+        "dfad4a1d7a41e8218624ca6c04186e36",
+        "e04df301358660636f4bb2235982db0a",
+        "e06020ea178d59eaa9ea601f494f5aa6",
+        "e0638354c54aa49cc602fe14877ed9a3",
+        "e0834c929ce95eaaf1be3c513f654449",
+        "e0e61f33ebd73d97d6dfd9ebca46457a",
+        "e116e06e27f2fee4334e8d19b2f86cf5",
+        "e13c43d11006f784977d638b79b3dbae",
+        "e16d751e9a7e02c3ead44bde4af7e4b0",
+        "e18ab42bce01d86a0dd41c64efbae74f",
+        "e1f731d1605b0b746f5a65a32cdce0f0",
+        "e2c35494743474b94620741b30f3230e",
+        "e2dbae9188742188acebb10b0a7b09f9",
+        "e385cd6ad69d3e6be23fe7e819534e7e",
+        "e397e72d90446f8b7bfc4f833c48aa3f",
+        "e3c842c368bb254425de481ce09767e8",
+        "e42277889f70887907c6c73c4d865a03",
+        "e441cc62afb017edfa07c4736c7e0457",
+        "e47356d98b0acb2a0eab6d0aae252b0c",
+        "e499d38d9a8b4610a84d06da9998baad",
+        "e5a4dd814d261bb8a235bd9acf6c8b72",
+        "e5b8b5e01ecf19d8d8941939f84ad85a",
+        "e5db5cab702c138b2a2c6ee292ada7e2",
+        "e60539a50d11e61684612db7867a6d77",
+        "e6d383255d816b0b22b5318e8d4476d3",
+        "e721705247d9c53ada5cd3d0d6387f00",
+        "e754fd20951dcf1105765d50f2e1b626",
+        "e7859da184928a1bdb255efe91358bd4",
+        "e7ca4befe8c579368e65e8fb4d6eb7d0",
+        "e805d773c85e01b5e2bcd0647b9db6e3",
+        "e8575be6a4354ad8b406633da06e726e",
+        "e880eeb864598f8953bd947450de0503",
+        "e95350cfe00934044ae5f5436b542f8f",
+        "e97c4f0585f81ee5a052bfe9c01026d9",
+        "e9c72dd29015a42229e1142e25d4cdfd",
+        "e9c849873443a2d18bac35a06d66001c",
+        "e9cd3e0ee38561ab2c25553e039384d9",
+        "ea073c3d9df073889dd1519cb2a14bc8",
+        "ea2d655f71fb48a76de1f303fff17a5c",
+        "ea4b12647093c694dd9a9896927d768c",
+        "ea569bedaa903e9a896371af7c6b68aa",
+        "eb0c95672e99a8f21cf50c22d4fb2b7f",
+        "eb6bf1b97578b477ac91e23324b42471",
+        "eb71441e7d6899ad56c0ef2b2af2b415",
+        "eb90b6751f4c001440d8eb1799dfbc28",
+        "ebb2e8bb4af2951954fdb1871cf0e60c",
+        "ebbcff5fa989585142c06e328d6ed2a6",
+        "ebc050e2a42aedeb464ca026d9a2e646",
+        "ebc18526e711b8848566a6daeea4e911",
+        "ebc977dbbccf41efc916071f2d773f6f",
+        "ebcd482d1e860362a9b02953e771d876",
+        "ec26aee3b1511c0bdef68b1e9c2e4bb0",
+        "ec7d0c15851bb964c73bb0344fd955a6",
+        "ec81c3e31c93ec5e389b1f9b7e91695e",
+        "eca3d79419d45f81fc8e224e4197c7f9",
+        "ed51a4818b13a49132425cbf1bcb5783",
+        "ed696bb1d15f9cca194aed70252bfaab",
+        "ee67a2924ad074971837ba6a4e360acf",
+        "ee70d42bbd4ca162592f7d9ea044d658",
+        "ee8777db4298bd6005c410779fd0d724",
+        "ee9d4873658a9aae05c2174326ce3285",
+        "eebe7ac3b16db648675a8a5c8750dd69",
+        "ef3183418771db1450b78ffc51344820",
+        "ef40f8b5c3870bb315a61e61248761ff",
+        "ef5b94d2728369816c68c3fcec2fef54",
+        "efa8fdabaf63e157cc81a80be6ef36e3",
+        "efb7b02b694ef4196ff4f338c36cf654",
+        "efb9f9fd44ad0393807f659c1d082ca4",
+        "efe22e27092d3106c53303c44b82c2a7",
+        "f040842a68fee1bd714f1c1065ad3402",
+        "f0bf299bf33ea15a3bc528f7fe4eda9e",
+        "f100cf6e9a8de9f9dcdfeafd192b2d92",
+        "f153ac73edea3953c451016ff26c4800",
+        "f18957d692efe906b43df10e4a195a14",
+        "f1d1ce523c261f04556bbac6aa9ba162",
+        "f1e9dcf3a443ff8ae776284ed41f688b",
+        "f21d85a02fcec5e880d7f11bee322a29",
+        "f22c0a60ac0c0d3e25ed39c2a586cb91",
+        "f23640517f76d1c64e208adb2aaa181c",
+        "f2367bc486962d56b9d06d8fd6e390d3",
+        "f2f6a1c42324de04b13267fc2e7e903c",
+        "f2fc04cf0248fe990f1b7e656bc3e8c7",
+        "f300080e567bfb1379e36546294580e7",
+        "f349332481246b98ba5bffac9d901f7e",
+        "f35f30622d28875bf1461e5e3f6f6805",
+        "f379f280044becf57255685136282143",
+        "f38077d10edd45abe5bc685e23cc9eac",
+        "f3ba4499231b8ac16d80ff17315c9dde",
+        "f3f53f01a47576844906e9c2342f3ac6",
+        "f479e87e28e0cd42ec551eb5f4f576a9",
+        "f569505bbe28d6b533be86403ca8109b",
+        "f56bcd7e5bb492ceebb5aa8f57b2a014",
+        "f5966ef8b6fd0dcd88c974adf0588867",
+        "f5db7a3f21476295b664f24ea9660850",
+        "f60a21ec1dac32e9dc0d1251c39de869",
+        "f65b83abc7eeb4552c51ffea2b009b2a",
+        "f66686038e0a2d4f97bc4b58980802b0",
+        "f7a1e1b791d011dac5790a8774157bd8",
+        "f7d09ebcb82cd4f5b3d83decc97edc6a",
+        "f7eb82453dbe5502fb46c0b20bd65509",
+        "f8187ef016d2b618b45ccfd5543c884a",
+        "f81c75df4aed805da4abd204757292f9",
+        "f81d644f046c5aa6021d266065e6e5c1",
+        "f82925f89dff983501d33eed20fe43c2",
+        "f8641cbfecbdcfbca202d2dd6faf3149",
+        "f88ea659922d83f73acfd05014dc4df0",
+        "f8deda37ee4f5ac822801c91a0923f7b",
+        "f902baa949b0e995039db44c16ebbfb1",
+        "f9711371afc2d57ab0c99058a21faebe",
+        "f9942fb012fd585e6c0e06e5faaac7a6",
+        "f9f331eb520b4ae3cf86cf970b28eaac",
+        "fa681f785182f1cf556e6703568947c1",
+        "faadc30b41b98b163d5144f7d8f54de4",
+        "fb01a63aa842153448f25dabd7638d6b",
+        "fb4a85c8979f9d789a71793ad309a7bd",
+        "fb52bb002604b2246c87d469b36bc61d",
+        "fb73860108a4ca1cc1fbdbbaea0d36b1",
+        "fb8089cb27642f6149dba3bd9a6597cc",
+        "fbca162012d1491d19dbdd4d1ea29fce",
+        "fbd3021581c8da92f829f29a4f2cc790",
+        "fbeb65dd37ce51cb5e4b6625d11c0f49",
+        "fc6e1a5d3cd80df20c9a01d5a77306ce",
+        "fc7add2d42c562789aa6c80a1335da0e",
+        "fc961884b67544c62c77427b2503bec4",
+        "fce3553331b427e0f643a96969a0d7c6",
+        "fd3833bf5d55764935124ceaf344bbf5",
+        "fe338749eea183350aff295295f28af5",
+        "fe9ad1e456d2e171fc590769de637f7c",
+        "febf7363c6e20e19f7add7e7d9c91b8a",
+        "fefde546644b5a214e2a1d557d10b68e",
+        "ff0a0c24f6b277dfba9f5c26e0e34f14",
+        "ff2bc7abe8402aa5c931f6d303081fc7",
+        "ff493b727b094c4ed38d86f05cbd08ec",
+        "ffb08d0797ff13e91977b24e7f6da8bb",
+        "ffe303b65c11d2b16a99028cd774b0a5"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-f40603913b933194",
+      "title": "Income Tax Ordinance, 2001 (Same as on the official website of FBR dated 31-07-2025)",
+      "input_text_sha256": "2b2ba40482fdceaafe1169e233500b67c9cf19fdbf558cf058405eef2cc51791",
+      "stored_text_sha256": "9354c1dfbc347202690c2769b0ad7be72811ba1d2e03e1ed5ee0615821c73565",
+      "accepted_input_text_sha256": [
+        "9354c1dfbc347202690c2769b0ad7be72811ba1d2e03e1ed5ee0615821c73565",
+        "2b2ba40482fdceaafe1169e233500b67c9cf19fdbf558cf058405eef2cc51791"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\d6924ccfc9e073ba_Income_Tax_Ordinance,_2001_(Same_as_on_the_official_website_of_FBR_dated_31-07-2025).pdf",
+      "original_pdf_sha256": "96cef5e5fb0d461b06b587a6fc880b400cd17dfe2e86816cddd9f30bc69bf590",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratorc09ecd376211abe32a7e44510f3fd719.pdf",
+      "original_pdf_page_count": 822,
+      "selected_physical_pages": [
+        1,
+        703
+      ],
+      "source_image_digests": [
+        "18db358b06905081bfd05bf5ab1f7c54",
+        "c3769234f4a049c58be88d7b023c81b0",
+        "dc47be2ffa2c8bbb7eb6883a72f0c117"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-f647f3a1be300022",
+      "title": "Alternative Energy Development Board Act, 2010 (Repealed by Act No.XXVI of 2023)",
+      "input_text_sha256": "ffe9cbacfa4024ed9efebca70f6cb3ba3ed6d7f801c1075b3c7a324bdb553364",
+      "stored_text_sha256": "ffe9cbacfa4024ed9efebca70f6cb3ba3ed6d7f801c1075b3c7a324bdb553364",
+      "accepted_input_text_sha256": [
+        "ffe9cbacfa4024ed9efebca70f6cb3ba3ed6d7f801c1075b3c7a324bdb553364"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\3197633c9a5c4f2d_Alternative_Energy_Development_Board_Act,_2010_(Repealed_by_Act_No.XXVI_of_2023).pdf",
+      "original_pdf_sha256": "fdc3d6d0ede9163ddf28d0f9823a4bde25b12b7208ec9fc09b484a7137a1749f",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator23703acc87ef98a8e01eb2d8a9eb52ba.pdf",
+      "original_pdf_page_count": 8,
+      "selected_physical_pages": [
+        8
+      ],
+      "source_image_digests": [
+        "bed974d22a914c29b2790c9b4cfb580a"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-f912c59bf10195d7",
+      "title": "Majority Act, 1875",
+      "input_text_sha256": "9cf950fcd46b29ff682229066cb3e96c6b4adc8e45d4943ef61faa9b88c76dfe",
+      "stored_text_sha256": "9cf950fcd46b29ff682229066cb3e96c6b4adc8e45d4943ef61faa9b88c76dfe",
+      "accepted_input_text_sha256": [
+        "9cf950fcd46b29ff682229066cb3e96c6b4adc8e45d4943ef61faa9b88c76dfe"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\25c98592a35503fa_Majority_Act,_1875.pdf",
+      "original_pdf_sha256": "4a51dce90509211cbd7598ec71522ff666eef907866ee28bd090acefe2ed4304",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator48b083e7f2c44e28f6eb0a73477e8297.pdf",
+      "original_pdf_page_count": 3,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "a63e0d2413421c98e3501a9ef89f372c"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-fbaade759126be32",
+      "title": "Superior Courts (Court Dress and Mode of Address) Order (Repeal) Act, 2020",
+      "input_text_sha256": "f766b0dd8bb1cd23792e4bc54396562a26ed340e763a0dcdc59c7c3149bd35b9",
+      "stored_text_sha256": "f766b0dd8bb1cd23792e4bc54396562a26ed340e763a0dcdc59c7c3149bd35b9",
+      "accepted_input_text_sha256": [
+        "f766b0dd8bb1cd23792e4bc54396562a26ed340e763a0dcdc59c7c3149bd35b9"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\fc7b87af679c061a_Superior_Courts_(Court_Dress_and_Mode_of_Address)_Order_(Repeal)_Act,_2020.pdf",
+      "original_pdf_sha256": "a886dfa1abc025c22e3b378d4d5131313aeea76d60c90daf2e2b8303e8331f32",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator2f18355cd07e0222ce42093709d16ebf.pdf",
+      "original_pdf_page_count": 2,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "215bde98c999beb0d455be8dbff850eb",
+        "2bb30e423e528ac6ee7517188ed9e164",
+        "309599913212775182187c717c91e6b2",
+        "59ee1eb14d50afa4e187094e20fdd778",
+        "66a5b277f3603d2dacf1bc72d7def338",
+        "6cdfa2e69c67c3bf9d0d3bc0c758bb53",
+        "73a776b1626c33bc0e0c023030abfd81",
+        "88d82ddde883be36b04a84e152927e4c",
+        "92f810414f7974401571a625c0ce174c",
+        "ae79c915197e06ea609ae4698da8a775",
+        "b4a2c0012988b26f1079eb76b5c457be",
+        "c800e21ee715c5bf2ea103d27bc526f9",
+        "c86b8435540753d4582168bfeb16ba0c",
+        "cc7d0f6e5d53c7d2e05aa033d19a1468",
+        "d8c6ee25c110bf893b711a382fe3b0c0",
+        "e167eec15745c35773abb00f452d294b",
+        "e2579c65df7d7ca08806cc48f0bbd35c",
+        "f5249d8812d989991f4d953ed8b7d1f5"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-fc0b9db44686b2a8",
+      "title": "Enforcement of Women's Property Rights Act, 2020",
+      "input_text_sha256": "2cb61c629ed80ae18a3f40d2caca63496230c5d12667aa943299421220280584",
+      "stored_text_sha256": "2cb61c629ed80ae18a3f40d2caca63496230c5d12667aa943299421220280584",
+      "accepted_input_text_sha256": [
+        "2cb61c629ed80ae18a3f40d2caca63496230c5d12667aa943299421220280584"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\016016b13f7081b5_Enforcement_of_Women's_Property_Rights_Act,_2020.pdf",
+      "original_pdf_sha256": "2fde3e0b805a25938ba9d1df533360d729b252d87250cc1eb34e8eb03ead148b",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administrator080fe2813f4e31fb566cb0385a414fe1.pdf",
+      "original_pdf_page_count": 5,
+      "selected_physical_pages": [
+        4
+      ],
+      "source_image_digests": [
+        "51dd9dbad757877ae9f2ba717fa06cb1"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-febbe3fc753de5e1",
+      "title": "Karachi Port Trust Act, 1886",
+      "input_text_sha256": "ce39c84ba47824e3f66561435b1bea22a3d949bceb4541b1cf428fcbdaa95eba",
+      "stored_text_sha256": "ce39c84ba47824e3f66561435b1bea22a3d949bceb4541b1cf428fcbdaa95eba",
+      "accepted_input_text_sha256": [
+        "ce39c84ba47824e3f66561435b1bea22a3d949bceb4541b1cf428fcbdaa95eba"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\a2ef28f96e25827f_Karachi_Port_Trust_Act,_1886.pdf",
+      "original_pdf_sha256": "63406b10b6d534ad3db4aa6cd39d08b6333924f271827eb0235194aa1f5c0b78",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratordfb16c171ac87d08adbd4f0e8a51a954.pdf",
+      "original_pdf_page_count": 77,
+      "selected_physical_pages": [
+        74
+      ],
+      "source_image_digests": [
+        "23a83298aecf8d6c05abfcaa86fa4ce2"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "pk-code-fff8903ad1e4b74c",
+      "title": "West Pakistan Tobacco Vend Act, 1958",
+      "input_text_sha256": "bd54db56110051cd763ab3e8a7e4e9b040682e934e26121909fd15e502c88cdf",
+      "stored_text_sha256": "bd54db56110051cd763ab3e8a7e4e9b040682e934e26121909fd15e502c88cdf",
+      "accepted_input_text_sha256": [
+        "bd54db56110051cd763ab3e8a7e4e9b040682e934e26121909fd15e502c88cdf"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\pakistan-code-corpus\\pdfs\\88b209fef6290929_West_Pakistan_Tobacco_Vend_Act,_1958.pdf",
+      "original_pdf_sha256": "c286a8692068979e5223a6750e7853a79f33b4abc90a8e15b1753a2484b6a25b",
+      "original_url": "https://pakistancode.gov.pk/pdffiles/administratord35afe771d2cdbdc59f7ac0de5773f64.pdf",
+      "original_pdf_page_count": 5,
+      "selected_physical_pages": [
+        1
+      ],
+      "source_image_digests": [
+        "5f2f89bf12ed97e16b4e40795e098d3c",
+        "9c88d48b308653b7289c887e06fba240"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "punjab-code-175ef2603536956d",
+      "title": "PUNJAB HOLY QURAN (PRINTING AND RECORDING) ACT 2011",
+      "input_text_sha256": "75b634a1518d731671e3a5fb9878a6332d880817aaed969af98547df4fa5b610",
+      "stored_text_sha256": "75b634a1518d731671e3a5fb9878a6332d880817aaed969af98547df4fa5b610",
+      "accepted_input_text_sha256": [
+        "75b634a1518d731671e3a5fb9878a6332d880817aaed969af98547df4fa5b610"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\punjab-code-corpus\\pdfs\\175ef2603536956d_PUNJAB HOLY QURAN (PRINTING AND RECORDING) ACT 2011.pdf",
+      "original_pdf_sha256": "be21a8ef51c5323cd5ada61f914b44a797cce7cdfc985b3ab8ece69212fc2df3",
+      "original_url": "https://punjabcode.punjab.gov.pk/uploads/articles/punjab-holy-quran-printing-and-recording-act-2011-doc1-1-pdf.pdf",
+      "original_pdf_page_count": 8,
+      "selected_physical_pages": [
+        8
+      ],
+      "source_image_digests": [
+        "08cfeefcb5820222ac1f3800d23ea4d0"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "punjab-code-4308e2cddb66d821",
+      "title": "PUNJAB FORENSIC SCIENCE AUTHORITY ACT 2025",
+      "input_text_sha256": "c15e435ec35b29923651fb2b09d266cbe235b315124ebba505ca06974d8ab511",
+      "stored_text_sha256": "c15e435ec35b29923651fb2b09d266cbe235b315124ebba505ca06974d8ab511",
+      "accepted_input_text_sha256": [
+        "c15e435ec35b29923651fb2b09d266cbe235b315124ebba505ca06974d8ab511"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\punjab-code-corpus\\pdfs\\4308e2cddb66d821_PUNJAB FORENSIC SCIENCE AUTHORITY ACT 2025.pdf",
+      "original_pdf_sha256": "38d5d029491416ad5e3e2e25d48eb2ba9277ee81499054052776cd1be1481d0a",
+      "original_url": "https://punjabcode.punjab.gov.pk/uploads/articles/punjab-forensic-science-authority-act-2025-home-docx-pdf.pdf",
+      "original_pdf_page_count": 9,
+      "selected_physical_pages": [
+        2
+      ],
+      "source_image_digests": [
+        "93312da5e62465e81b4e918f2b75024e"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "punjab-code-43adb7edf0c8e7a0",
+      "title": "PROVINCIAL MOTOR VEHICLES ORDINANCE, 1965",
+      "input_text_sha256": "1eec63c215d059146234d04c5c74ed1e84830d126f09d7bef0a23e1df0ebad5e",
+      "stored_text_sha256": "1eec63c215d059146234d04c5c74ed1e84830d126f09d7bef0a23e1df0ebad5e",
+      "accepted_input_text_sha256": [
+        "1eec63c215d059146234d04c5c74ed1e84830d126f09d7bef0a23e1df0ebad5e"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\punjab-code-corpus\\pdfs\\43adb7edf0c8e7a0_PROVINCIAL MOTOR VEHICLES ORDINANCE, 1965.pdf",
+      "original_pdf_sha256": "478074ae27945e06c39cfa3c88d79b42154d1392b5163b7e9025ecc329e1601f",
+      "original_url": "https://punjabcode.punjab.gov.pk/uploads/articles/provincial-motor-vehicles-ordinance-1965-doc-doc-pdf.pdf",
+      "original_pdf_page_count": 132,
+      "selected_physical_pages": [
+        118,
+        119,
+        120,
+        121,
+        122
+      ],
+      "source_image_digests": [
+        "0fb3319acb3a8bf9c39a74ba25b4b58d",
+        "11606e9e9fe8e326bc13e5362f36faeb",
+        "773d2838ba66e5f86f7eb385a00d3f08",
+        "ba600bbcba3bab120d4eb0e36f282164",
+        "ecca896cb8bd028edf11fab6f4099307"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "punjab-code-57772e46b3069b66",
+      "title": "JUVENILE JUSTICE SYSTEM ACT, 2018",
+      "input_text_sha256": "7790c83dfa4fbdf38932080264913cb19ecebb89e39ebe787034fcbe10a7fd0c",
+      "stored_text_sha256": "7790c83dfa4fbdf38932080264913cb19ecebb89e39ebe787034fcbe10a7fd0c",
+      "accepted_input_text_sha256": [
+        "7790c83dfa4fbdf38932080264913cb19ecebb89e39ebe787034fcbe10a7fd0c"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\punjab-code-corpus\\pdfs\\57772e46b3069b66_JUVENILE JUSTICE SYSTEM ACT, 2018.pdf",
+      "original_pdf_sha256": "b1a75c1b67c785256ea2b29b14526adbf4231603deffd798c13ac3b1bf05453d",
+      "original_url": "https://punjabcode.punjab.gov.pk/uploads/articles/juvenile-justice-system-act-2018-pdf.pdf",
+      "original_pdf_page_count": 12,
+      "selected_physical_pages": [
+        3
+      ],
+      "source_image_digests": [
+        "8dd6bb7329a71449b0a1b292b5999164"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "punjab-code-5cfdff7cd52d4335",
+      "title": "RAVI URBAN DEVELOPMENT AUTHORITY ACT 2020",
+      "input_text_sha256": "a73e3b4a85bb052a09060d2748c580ebb1e1f2fd8506920e81b148f81076bdb2",
+      "stored_text_sha256": "a73e3b4a85bb052a09060d2748c580ebb1e1f2fd8506920e81b148f81076bdb2",
+      "accepted_input_text_sha256": [
+        "a73e3b4a85bb052a09060d2748c580ebb1e1f2fd8506920e81b148f81076bdb2"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\punjab-code-corpus\\pdfs\\5cfdff7cd52d4335_RAVI URBAN DEVELOPMENT AUTHORITY ACT 2020.pdf",
+      "original_pdf_sha256": "8bf79dd87a15fe103bd69e615410253fa3a9aab9ecf63ff1df875e8283f5ec38",
+      "original_url": "https://punjabcode.punjab.gov.pk/uploads/articles/ravi-urban-development-authority-act-2020-pdf1.pdf",
+      "original_pdf_page_count": 163,
+      "selected_physical_pages": [
+        161
+      ],
+      "source_image_digests": [
+        "63f9ac6a68296280e229a64ad6ed02ba"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "punjab-code-85706601105214af",
+      "title": "CONSTITUTION OF PAKISTAN",
+      "input_text_sha256": "1f1e67055db98526f0f983b35a3810c4d28597e6060fb90b4c7f2be7250cc820",
+      "stored_text_sha256": "1f1e67055db98526f0f983b35a3810c4d28597e6060fb90b4c7f2be7250cc820",
+      "accepted_input_text_sha256": [
+        "1f1e67055db98526f0f983b35a3810c4d28597e6060fb90b4c7f2be7250cc820"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\punjab-code-corpus\\pdfs\\85706601105214af_CONSTITUTION OF PAKISTAN.pdf",
+      "original_pdf_sha256": "63dfce34931493843637f9ab73871adf37761ad7530d463b5d658465f82a0b93",
+      "original_url": "https://punjabcode.punjab.gov.pk/uploads/articles/CONSTITUTION_OF_PAKISTAN.doc.pdf",
+      "original_pdf_page_count": 366,
+      "selected_physical_pages": [
+        1,
+        168,
+        179,
+        180,
+        192,
+        301
+      ],
+      "source_image_digests": [
+        "70804eebaf44ab20467195d7740e49e9"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "punjab-code-8c8689d1e8f8f490",
+      "title": "PUNJAB LOCAL GOVERNMENT ACT 2022",
+      "input_text_sha256": "1b9423e0a2a734196d5e9664d9b9c7fcc84ff8f5a00b9b663647ed15a755703e",
+      "stored_text_sha256": "1b9423e0a2a734196d5e9664d9b9c7fcc84ff8f5a00b9b663647ed15a755703e",
+      "accepted_input_text_sha256": [
+        "1b9423e0a2a734196d5e9664d9b9c7fcc84ff8f5a00b9b663647ed15a755703e"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\punjab-code-corpus\\pdfs\\8c8689d1e8f8f490_PUNJAB LOCAL GOVERNMENT ACT 2022.pdf",
+      "original_pdf_sha256": "4dbb6da14922de3be9e917f102b005a4d087febc693e0aa395061c3ccac24190",
+      "original_url": "https://punjabcode.punjab.gov.pk/uploads/articles/punjab-local-government-act-2022-xxxiii-of-2022-docx1-pdf.pdf",
+      "original_pdf_page_count": 136,
+      "selected_physical_pages": [
+        101
+      ],
+      "source_image_digests": [
+        "fb6bca69eb4595c7563a07abc427680d"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "punjab-code-cdc4fd60ddc66655",
+      "title": "PUNJAB CENTRAL BUSINESS DISTRICT DEVELOPMENT AUTHORITY ACT 2021",
+      "input_text_sha256": "25c5c044a43bdc8500a94427b81f2476d3acc64cb7798cfc3d540c029dd005a1",
+      "stored_text_sha256": "25c5c044a43bdc8500a94427b81f2476d3acc64cb7798cfc3d540c029dd005a1",
+      "accepted_input_text_sha256": [
+        "25c5c044a43bdc8500a94427b81f2476d3acc64cb7798cfc3d540c029dd005a1"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\punjab-code-corpus\\pdfs\\cdc4fd60ddc66655_PUNJAB CENTRAL BUSINESS DISTRICT DEVELOPMENT AUTHORITY ACT 2021.pdf",
+      "original_pdf_sha256": "ccc8d3c9948cc432c2a0101810d246ca6f9134f805c97fb6a5ae114f31cb4df1",
+      "original_url": "https://punjabcode.punjab.gov.pk/uploads/articles/punjab-central-business-district-development-authority-act-2021-docx-1-pdf1.pdf",
+      "original_pdf_page_count": 55,
+      "selected_physical_pages": [
+        26,
+        28,
+        30,
+        36,
+        41,
+        47,
+        52
+      ],
+      "source_image_digests": [
+        "35d91243e91d82b4512dfbf025689512",
+        "937c34c51381e857502002aa1f06c683",
+        "c7cefc2ccc5eff3a710a99bb14748da7",
+        "d09061778c5e3812578e523666bac7c0",
+        "d3042ed79342616ced49d3b0231b3705",
+        "d78c45df396f8a09b9f6f05025060231",
+        "dc9a2be0379e1d8c5fc1b9438fe6ac1f"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "punjab-code-d09176bb78c8809f",
+      "title": "COLONIZATION OF GOVERNMENT LANDS (PUNJAB) ACT, 1912",
+      "input_text_sha256": "bff1333fefd3bc2ac5bc6102fcf5c431c164d9ebbc6e88b36ec316f628290673",
+      "stored_text_sha256": "bff1333fefd3bc2ac5bc6102fcf5c431c164d9ebbc6e88b36ec316f628290673",
+      "accepted_input_text_sha256": [
+        "bff1333fefd3bc2ac5bc6102fcf5c431c164d9ebbc6e88b36ec316f628290673"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\punjab-code-corpus\\pdfs\\d09176bb78c8809f_COLONIZATION OF GOVERNMENT LANDS (PUNJAB) ACT, 1912.pdf",
+      "original_pdf_sha256": "5fbc4d37bd57a4ac009b04f47dcf38072f4ae363fd97959070c26e2a1db4cc46",
+      "original_url": "https://punjabcode.punjab.gov.pk/uploads/articles/4-colonization-of-government-lands-punjab-act-1912-pdf.pdf",
+      "original_pdf_page_count": 21,
+      "selected_physical_pages": [
+        20
+      ],
+      "source_image_digests": [
+        "6d382afc948d5309f40f054546b2a70c"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    },
+    {
+      "id": "punjab-code-fe186023eafed719",
+      "title": "DEFENCE HOUSING AUTHORITY RAWALPINDI ACT 2013",
+      "input_text_sha256": "b5f9ff03037b9374d25e6c5aa25b81744bd2ec04587d05ba8ead5664721d0ffa",
+      "stored_text_sha256": "b5f9ff03037b9374d25e6c5aa25b81744bd2ec04587d05ba8ead5664721d0ffa",
+      "accepted_input_text_sha256": [
+        "b5f9ff03037b9374d25e6c5aa25b81744bd2ec04587d05ba8ead5664721d0ffa"
+      ],
+      "original_pdf_path": "D:\\Qanun Maps\\PK-LaC\\PK-LAC-  Law as Code Project\\annexes\\punjab-code-corpus\\pdfs\\fe186023eafed719_DEFENCE HOUSING AUTHORITY RAWALPINDI ACT 2013.pdf",
+      "original_pdf_sha256": "4e41d0fdf93baeaeaada26b63239a28a3d737d9c9b5031a154b00f34216abfb0",
+      "original_url": "https://punjabcode.punjab.gov.pk/uploads/articles/defence_housing_authority_rawalpindi_act-2013-pdf.pdf",
+      "original_pdf_page_count": 11,
+      "selected_physical_pages": [
+        10
+      ],
+      "source_image_digests": [
+        "d57551143a664ea8b11a316a516ecd06"
+      ],
+      "review_basis": "All original pages screened for image objects of every size, regardless of OCR text. Exact visually confirmed decorative logo/watermark digests excluded; all substantive or uncertain original image content retained as complete source pages."
+    }
+  ],
+  "summary": {
+    "records": 88,
+    "selected_pages": 282,
+    "original_records_screened": 1728,
+    "original_pages_screened": 30293,
+    "small_image_screening_complete": true,
+    "image_area_scope": "All visible image objects, including images below35%page area and OCR-layer-masked scans.",
+    "decorative_image_digests_excluded": 1324
+  },
+  "review_manifest_sha256": "83c1cfbc25abbdd3e0a1b19cf7979e1b3850e400411f708258d1ce4d7858d197"
+}

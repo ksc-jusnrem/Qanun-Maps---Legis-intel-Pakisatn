@@ -1,4 +1,6 @@
 import {buildVisitorHelp,helpCss} from './visitor-help.mjs';
+import {integrateLibrary} from '../qanun-library/integrate.mjs';
+import {displayRecordTitle} from '../qanun-library/record-display.mjs';
 import {applySearchVisibility} from './search-visibility.mjs';
 import {conceptCss} from './project-concepts.mjs';
 import {automicaCss} from './automica-theme.mjs';
@@ -11,7 +13,8 @@ import {integrateRuleCases} from './rule-case-panels.mjs';
 import {buildWorkbench} from '../qanun-framework/page.mjs';
 import {designCss, homeContent} from './design-presentation.mjs';
 import {commercialCss, commercialSection} from './commercial-presentation.mjs';
-import {applySectionNavigation} from './section-navigation.mjs';
+// The complete structured reader replaces the temporary raw reader after legacy mapping panels are installed.
+const applySectionNavigation=(record,html)=>({html,report:{id:record.id,status:'structured_reader_applied_in_library_integration'}});
 import {applyMappings} from './mapping-panels.mjs';
 import {cleanDisplay} from './reader-display.mjs';
 import path from 'node:path';
@@ -36,7 +39,7 @@ const records=all.filter(x=>x.startsWith('laws/')&&x.endsWith('.json')).map(name
 if(records.length!==1732||records.filter(x=>x.content_kind==='stored_law_text').length!==1728)throw Error('Unexpected record counts');
 function metadata(r){const years=[...r.title.matchAll(/\b(?:17|18|19|20)\d{2}\b/g)].map(x=>x[0]);let type='Other / not identified';for(const [name,re] of [['Act',/\bact\b/i],['Ordinance',/\bordinance\b/i],['Rules',/\brules\b/i],['Regulations',/\bregulations\b/i],['Code',/\bcode\b/i],['Order',/\border\b/i],['Notification',/\bnotification\b/i],['Scheme',/\bscheme\b/i],['Constitution',/\bconstitution\b/i]])if(re.test(r.title)){type=name;break;}return {id:r.id,title:r.title,collection:r.source_collection,year:years[0]||'',type,ict:/\bIslamabad\b|Capital\s+(?:Territory|Tritory)/i.test(r.title),kind:r.content_kind};}
 function codePointCompare(a,b){const aa=Array.from(a),bb=Array.from(b);for(let i=0;i<Math.min(aa.length,bb.length);i++){const d=aa[i].codePointAt(0)-bb[i].codePointAt(0);if(d)return d;}return aa.length-bb.length;}
-const catalogue=records.map(metadata).sort((a,b)=>codePointCompare(a.title.normalize('NFC'),b.title.normalize('NFC'))||codePointCompare(a.id,b.id));
+const catalogue=records.map(record=>({...metadata(record),title:displayRecordTitle(record)})).sort((a,b)=>codePointCompare(a.title.normalize('NFC'),b.title.normalize('NFC'))||codePointCompare(a.id,b.id));
 fs.mkdirSync(output,{recursive:true});for(const name of all){const p=path.join(output,name);fs.mkdirSync(path.dirname(p),{recursive:true});fs.copyFileSync(path.join(baseline,name),p);}
 const design=fs.readFileSync(designPath,'utf8');let css=design.match(/<style>([\s\S]*?)<\/style>/)[1];
 css=css.replace(/@font-face\s*\{/g,'@font-face{font-display:swap;');
@@ -88,10 +91,11 @@ researchReport.rule_framework=buildWorkbench({output,head,header,footer});
 buildConnectors({output,head,header,footer});
 researchReport.legislative_intelligence=buildLegislativeIntelligence({output,head,header,footer});
 buildVisitorHelp({output,head,header,footer});
+researchReport.library=integrateLibrary({output,records,head,header,footer});
 researchReport.search_visibility=applySearchVisibility(output,records);
 const inventory={};function walk(dir){for(const n of fs.readdirSync(dir)){const p=path.join(dir,n);if(fs.statSync(p).isDirectory())walk(p);else inventory[path.relative(output,p).split(path.sep).join('/')]={sha256:hash(fs.readFileSync(p)),bytes:fs.statSync(p).size};}}walk(output);
 const report={research:{...researchReport,intro:undefined},baseline_commit:'32e69c9dd4d373e95bedc6ab3221002ac889aa19',parent_release_commit:'c57a7b14d727058785d14c63ed093c7953a6b38a',extension_manifest:'QANUN-LAW-ASSETS-2026-10-31.json',record_count:records.length,law_text_count:1728,source_notice_count:4,public_file_count:Object.keys(inventory).length,home_script_csp_token:'sha256-'+crypto.createHash('sha256').update(homeScript).digest('base64'),script_csp_token:'sha256-'+crypto.createHash('sha256').update(combinedScript).digest('base64'),script_sha256:hash(combinedScript),fonts:fontNumber,font_policy_required:'font-src self or exact asset URLs; not applied',script_policy_required:'exact script CSP hash; not applied',type_counts:Object.fromEntries(types.map(t=>[t,catalogue.filter(x=>x.type===t).length])),year_unknown:catalogue.filter(x=>!x.year).length,ict_title_references:catalogue.filter(x=>x.ict).length,download_bytes_unchanged:true,source_text_characters_unchanged:true,presentation_markers_hidden:true,reader_script_csp_token:'sha256-'+crypto.createHash('sha256').update(readerScript).digest('base64'),manifest:inventory};
 for(const name of all.filter(n=>n.startsWith('laws/')&&(n.endsWith('.txt')||n.endsWith('.json')))){if(hash(fs.readFileSync(path.join(output,name)))!==manifest.output_allowlist[name].sha256)throw Error('Download changed '+name);}
 fs.renameSync(output,targetOutput);
 fs.writeFileSync(path.join(here,'section-navigation-coverage.json'),JSON.stringify(sectionNavigationReports,null,2));
-fs.writeFileSync(path.join(here,'catalogue.json'),JSON.stringify(catalogue,null,2));fs.writeFileSync(path.join(here,'integration-manifest.json'),JSON.stringify(report,null,2));fs.writeFileSync(path.join(here,'generated-script.js'),combinedScript);console.log(JSON.stringify({...report,manifest:undefined},null,2));
+fs.writeFileSync(path.join(here,'catalogue.json'),JSON.stringify(catalogue,null,2));fs.writeFileSync(path.join(here,'integration-manifest.json'),JSON.stringify(report,null,2));fs.writeFileSync(path.join(here,'generated-script.js'),combinedScript);console.log(JSON.stringify({...report,research:{...report.research,library:{...report.research.library,readers:undefined}},manifest:undefined},null,2));

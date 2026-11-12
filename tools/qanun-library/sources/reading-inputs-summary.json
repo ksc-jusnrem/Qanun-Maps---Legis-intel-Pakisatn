@@ -1,0 +1,11 @@
+{
+  "records_examined": 1732,
+  "layout_records": 1725,
+  "spacing_only_records": 0,
+  "spacing_deletions": 0,
+  "bundle_records": 1725,
+  "bundle_sha256": "22d6c9eba60ccccf0db4b8b43f82fc9bb3057ba47e67799f0aa92632ac568cb1",
+  "uncompressed_bytes": 73848905,
+  "compressed_bytes": 19018383,
+  "privacy": "No local filesystem paths. Public legislation text and source URL/hash only."
+}

@@ -1,0 +1,6 @@
+import {spawnSync} from 'node:child_process';
+import fs from 'node:fs';
+const output=process.argv[2]||'work/library-repair/final-public';
+const checks=['tools/qanun-release/remediation-check.mjs','tools/qanun-release/research-check.mjs','tools/qanun-release/rule-case-check.mjs','tools/qanun-release/evidence-check.mjs','tools/qanun-release/design-check.mjs','tools/qanun-release/introduction-check.mjs','tools/qanun-release/legislative-intelligence-check.mjs','tools/qanun-mcp/setup-check.mjs','tools/qanun-release/visitor-seo-check.mjs','tools/qanun-release/brand-check.mjs','tools/qanun-framework/check.mjs'];
+const results=[];for(const script of checks){const args=script.includes('rule-case-check')?['integration',output]:[output];const r=spawnSync(process.execPath,[script,...args],{encoding:'utf8',maxBuffer:4*1024*1024});const result={script,exit:r.status,passed:r.status===0};results.push(result);console.log(JSON.stringify(result));if(r.status!==0){console.error((r.stdout||'').slice(-10000)+(r.stderr||'').slice(-10000));process.exitCode=1;}}
+fs.writeFileSync('work/library-repair/release-checks.json',JSON.stringify({output,results},null,2));if(results.every(r=>r.passed))console.log('RELEASE_REGRESSIONS_PASSED');

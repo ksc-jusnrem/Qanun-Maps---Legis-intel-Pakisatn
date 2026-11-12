@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {displayRecordTitle} from '../qanun-library/record-display.mjs';
 export const origin='https://www.jusnrem.legal';
 export const googleVerification='ZfQYjWfzY5gs7nfQ2rdPg0hVjxE6kzOuEoQ7hr4CTDg';
 const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -7,6 +8,7 @@ export const pageMetadata={
  'index':['Legis-Intel Pakistan — Legislation as Code','Explore Pakistani legislation, rule mapping and Judicial Intelligence. Find source-linked legal texts and discover the Legis-Intel MCP research connector.'],
  'legislation':['Pakistan Legislation Library | Legis-Intel Pakistan','Search held Pakistani legislation by title and source collection. Read provisions, inspect source editions and download structured research records.'],
  'mappings':['Qanun Maps — Rule Mapping | Legis-Intel Pakistan','Explore selected Pakistani statute and judgment relationships. Compare supporting passages, source editions and review limits in Qanun Maps, the mapping tool of Legis-Intel Pakistan.'],
+ 'library-map':['Law Library Map | Legis-Intel Pakistan','Follow instrument citations, provision references and incoming links across the law library, with exact source evidence and unresolved references.'],
  'case-law':['Pakistan Judicial Intelligence | Legis-Intel Pakistan','Search judgment discovery records and inspect selected reviewed judgment-to-provision relationships with source passages and research limitations.'],
  'rule-workbench':['Rules as Code Research Workbench | Legis-Intel Pakistan','Inspect source-linked research propositions, supporting passages and evidence gaps in the Legis-Intel Pakistan Rules as Code workbench.'],
  'legislative-intelligence':['Legislative Intelligence | Legis-Intel Pakistan','Explore the Legislative Intelligence framework and visual explanations connecting legal sources, institutional responsibilities and implementation.'],
@@ -28,7 +30,7 @@ export function applySearchVisibility(output,records){
   if(index)entries.push(canonical);
  };
  for(const [name,[title,description]] of Object.entries(pageMetadata))apply(name+'.html',name==='index'?'/':'/'+name,title,description);
- for(const record of records)apply('laws/'+record.id+'.html','/laws/'+record.id,record.title+' | Legis-Intel Pakistan',`Read the held ${record.source_collection} record for ${record.title}. Inspect its text, source edition and research limits.`,record.content_kind==='stored_law_text');
+ for(const record of records)apply('laws/'+record.id+'.html','/laws/'+record.id,displayRecordTitle(record)+' | Legis-Intel Pakistan',`Read the held ${record.source_collection} record for ${displayRecordTitle(record)}. Inspect its text, source edition and research limits.`,record.content_kind==='stored_law_text');
  fs.writeFileSync(path.join(output,'robots.txt'),`User-agent: *\nAllow: /\nDisallow: /api/\nDisallow: /mcp\n\nSitemap: ${origin}/sitemap.xml\n`);
  // No fabricated lastmod dates: source retrieval dates are not page modification dates.
  fs.writeFileSync(path.join(output,'sitemap.xml'),'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+entries.map(url=>`  <url><loc>${escape(url)}</loc></url>`).join('\n')+'\n</urlset>\n');

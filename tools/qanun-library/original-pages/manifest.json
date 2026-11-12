@@ -1,0 +1,49 @@
+{
+  "record_id": "pk-code-a2f0a11f70fdf902",
+  "source_pdf_sha256": "0a8b926e1c6417563ab2afd0c5dc360edec2a4081a8b52be6e7b491ed4033efa",
+  "rendering": "PyMuPDF at scale1.7; no cropping or content editing",
+  "pages": [
+    {
+      "page": 1,
+      "file": "page-1.png",
+      "sha256": "a1f5f16e5f930253d7e8e10a5b92a8b1506c9f339e5a4033f69f4248f19bf4db",
+      "width": 1009,
+      "height": 1427
+    },
+    {
+      "page": 2,
+      "file": "page-2.png",
+      "sha256": "9c0ea087f9f0806edd062f05b4852a6727d820968b137618ecf526d0f461d07e",
+      "width": 1009,
+      "height": 1425
+    },
+    {
+      "page": 3,
+      "file": "page-3.png",
+      "sha256": "e0bd31e3279bf5fb3ab48443d282b85bc1aabb660a0dc49dd1e8e4876e63b0b3",
+      "width": 1009,
+      "height": 1427
+    },
+    {
+      "page": 4,
+      "file": "page-4.png",
+      "sha256": "02832c2704005bdc62b88764177f0f561124a39ad113f08f946b693de4caacbe",
+      "width": 1009,
+      "height": 1425
+    },
+    {
+      "page": 5,
+      "file": "page-5.png",
+      "sha256": "a7ada68d454da96d8c109318843c7860658db3929a523894c33c2c5f6d144c3e",
+      "width": 1009,
+      "height": 1430
+    },
+    {
+      "page": 6,
+      "file": "page-6.png",
+      "sha256": "2e1c874a4af32d33b175c161975cf5115c4b06bb80540de8137392ab41248cac",
+      "width": 1009,
+      "height": 1427
+    }
+  ]
+}

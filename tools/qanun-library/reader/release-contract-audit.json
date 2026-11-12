@@ -1,0 +1,45 @@
+{
+  "module_hashes": {
+    "reader.mjs": "e0c66b2ec68c4cb168826a0933c0bc71fd00d5f6adb2df5c6d40310d570c6ab7",
+    "facsimile.mjs": "0478d4ebf9976c1133012275a62a20f73ef8be3542bc6a89beee5d244b0ce7bb",
+    "facsimile-frame.mjs": "b468550e3cbbd086983b62ffda1a2dfe1095aadb5e1461032b8cb4d393b153f1",
+    "source-inputs.mjs": "888bc8718bc3f1838e5d7889e67afcea47a49edfd034c6a105fad3d914e38113",
+    "supplements.mjs": "07b0881e91c9e616505a8ec22940ea6b4df38f2a19347334c67b5c11064f5036",
+    "reader.test.mjs": "d04e500978853519519a0fb343fb713c5faef661816413cba7ac9a50f1fed970",
+    "facsimile.test.mjs": "dee077483a5ccad1c12ed46bde47be867dc46620ec6b6e546c650e1f8c5a30a1",
+    "source-inputs.test.mjs": "b27d596169f65db9c14320505efbd040ae085b731be6bf7a9325113b0b911fa9",
+    "supplements.test.mjs": "aa7302d948ab7e9634e56bca68f5571a43fb24a60228f839fd31d07f9adc7343",
+    "render-supplements.py": "a65f82187da8050acd7d2834b47089eb78ea04019e5f8d8905e8843cd92c7369",
+    "verify-supplement-pixels.py": "f22eb2c3a4343073f4616bd5178e0b19fc61eb77242294d68141b419d41b9fcb",
+    "verified-layouts/manifest.json": "8e81520aebcf389d5f9210963c9d9c95b2960bb28e366181f701f336d9502b2e",
+    "facsimiles/manifest.json": "19cab34ff05880b4809d261cf99ee107cd85e206d814711e3dc769c754c94e2d",
+    "facsimiles/reviewed-relationships.json": "bc5f4a3c6b062b07e3a9cb91c32bd7270549b94400b2a7e8112749279949cb18",
+    "supplement-assets/manifest.json": "3173962c067b01ccd056e8896c8424f857a11925c76e67070dad65a5c9963c3e",
+    "supplement-assets/pixel-verification.json": "b214ef2342c1c68989a2e2ff0158073d95d31065f0cd437adb44b7a4be714e8f"
+  },
+  "independent_exact_stream_layouts": 8,
+  "readable_text_layouts": 6,
+  "image_body_original_readers": 4,
+  "original_page_images": 133,
+  "original_image_bytes": 62176274,
+  "selected_visual_source_relationships": 7,
+  "unresolved_printed_instrument_identities": 2,
+  "source_supplements": {
+    "records": 88,
+    "selected_pages": 282,
+    "page_image_bytes": 224178946,
+    "pdf_bytes": 112537596
+  },
+  "source_supplement_inventory_sha256": "5d9aa6a6c020b20afbd4e88b7354d7753af16fa3f733ba27d9d6618de69d164a",
+  "source_supplement_pixel_proof": {
+    "manifest_sha256": "3173962c067b01ccd056e8896c8424f857a11925c76e67070dad65a5c9963c3e",
+    "pages": 282,
+    "all_pixels_match": true
+  },
+  "focused_check": {
+    "command": "node --test --test-reporter=tap --test-skip-pattern=whole tools/qanun-library/reader/reader.test.mjs",
+    "observed_result": "25 passed; 0 failed",
+    "coverage": "Focused adversarial/real-law reader checks, exact source input bindings and all original facsimile and supplementary graphic assets with independent source-pixel proof. Final whole-library source-integrated build validation belongs to release driver."
+  },
+  "stale_baseline_notice": "coverage.json is a previous raw-default module scan; compare module_sha256 before using it."
+}

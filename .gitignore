@@ -22,3 +22,22 @@ venv/
 # Local tooling
 .vercel
 node_modules/
+.unlazy/
+tools/qanun-library/sources/cache/
+tools/qanun-library/sources/source-verification.json
+tools/qanun-library/mapping/graph.json
+tools/qanun-library/library-graph-verification.json
+tools/qanun-library/check-gates.mjs
+.qanun-*/
+
+# Recomputed build inventories and exploratory reader diagnostics.
+tools/qanun-release/catalogue.json
+tools/qanun-release/generated-script.js
+tools/qanun-release/integration-manifest.json
+tools/qanun-release/section-navigation-coverage.json
+tools/qanun-library/reader/coverage.json
+tools/qanun-library/mapping/coverage-report.json
+tools/qanun-library/reader/verified-layouts/candidates/
+tools/qanun-library/reader/verified-layouts/evaluation.json
+tools/qanun-library/reader/verified-layouts/probe-results.json
+tools/qanun-library/check-live-site.py

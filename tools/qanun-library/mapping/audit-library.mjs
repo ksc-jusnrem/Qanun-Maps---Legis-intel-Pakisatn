@@ -1,0 +1,18 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import crypto from 'node:crypto';
+import {buildLibraryGraph,verifyLibraryGraph} from './mapping.mjs';
+const root=path.resolve(process.argv[2]??process.cwd());
+const directory=path.join(root,'landing-pages/qanun-maps/laws');
+const records=fs.readdirSync(directory).filter(n=>n.endsWith('.json')).map(n=>JSON.parse(fs.readFileSync(path.join(directory,n),'utf8')));
+const read=name=>JSON.parse(fs.readFileSync(path.join(root,'tools/qanun-release',name),'utf8'));
+const start=Date.now();
+const digest=value=>crypto.createHash('sha256').update(value).digest('hex');
+const moduleSha256=digest(fs.readFileSync(new URL('./mapping.mjs',import.meta.url)));
+console.log('Loaded '+records.length+' source records');
+const graph=buildLibraryGraph(records,{reviewedStatutes:read('statute-rule-mappings.json'),reviewedCases:read('rule-case-mappings.json'),onProgress:state=>{if(state.processed%100===0||state.processed===state.total)console.log('Mapped '+state.processed+'/'+state.total);}});
+verifyLibraryGraph(records,graph);
+fs.writeFileSync(new URL('./coverage-report.json',import.meta.url),JSON.stringify({schema_version:'library-mapping-coverage/1',module_sha256:moduleSha256,source_text_digest:digest([...records].sort((a,b)=>a.id.localeCompare(b.id)).map(r=>r.id+':'+r.text_sha256).join('\n')),statistics:graph.statistics,seconds:(Date.now()-start)/1000,coverage:graph.coverage,limitations:['Instrument links identify exact source-title citations, not legal-effect conclusions.','Ambiguous source editions are not merged.','Source comparison and current force are separate evidence questions.']},null,2));
+fs.writeFileSync(new URL('./graph.json',import.meta.url),JSON.stringify(graph));
+console.log(JSON.stringify(graph.statistics));
+console.log('LIBRARY_MAPPING_AUDIT_PASSED');

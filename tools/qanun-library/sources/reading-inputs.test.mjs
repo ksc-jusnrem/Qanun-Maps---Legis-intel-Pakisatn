@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {getSourceReadingInput,loadSourceReadingInputs} from './reading-inputs.mjs';
+const law=JSON.parse(fs.readFileSync(new URL('../../../landing-pages/qanun-maps/laws/pk-code-6c462b7d924dbbe3.json',import.meta.url),'utf8'));
+test('source layout preserves every literal legislative character',()=>{const x=getSourceReadingInput(law);assert.ok(x.sourceLayoutText);assert.equal(x.sourceLayoutText.replace(/\s+/g,''),law.text.replace(/\s+/g,''));});
+test('source input refuses wrong original PDF identity',()=>assert.throws(()=>getSourceReadingInput(law,'0'.repeat(64)),/original identity mismatch/));
+test('stale source offsets are not applied to a repaired text version',()=>assert.deepEqual(getSourceReadingInput({...law,text_sha256:'0'.repeat(64)}),{}));
+test('missing source input has no inferred correction',()=>assert.deepEqual(getSourceReadingInput({id:'not-in-library',text_sha256:'0'.repeat(64)}),{}));
+test('the full immutable input index is cached',()=>assert.equal(loadSourceReadingInputs(),loadSourceReadingInputs()));

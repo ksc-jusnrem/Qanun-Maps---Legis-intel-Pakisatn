@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const url=new URL('../facsimile.mjs',import.meta.url);let text=fs.readFileSync(url,'utf8');
+if(!text.includes("from './facsimile-frame.mjs'"))text=text.replace("import fs from 'node:fs';","import fs from 'node:fs';\nimport {buildFacsimileFrame,validateFacsimileManifest} from './facsimile-frame.mjs';");
+text=text.replace(" const assets=[{asset:'original.pdf'"," validateFacsimileManifest(f);\n const assets=[{asset:'original.pdf'");
+const start=text.indexOf(' const html=`'),end=text.indexOf(' return {html,nav,css:',start);
+if(start<0||end<0)throw Error('Unexpected helper frame boundaries');
+text=text.slice(0,start)+' const {html,nav,scope}=buildFacsimileFrame(f,record,base,markers);\n'+text.slice(end);
+text=text.replace("Selected passage review is separately recorded.'}};","Selected passage review is separately recorded.',...scope}};");
+text=text.replace("${damagedOCR?'original_damaged_ocr':'original_extracted_headers'}","${f.selected_act_scope?'legacy_different_edition':damagedOCR?'original_damaged_ocr':'original_extracted_headers'}");
+fs.writeFileSync(url,text);

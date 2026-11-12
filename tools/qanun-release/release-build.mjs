@@ -9,8 +9,12 @@ const root=path.resolve(process.argv.find(x=>x.startsWith('--repo-root='))?.slic
 const baseline=path.join(root,'landing-pages/qanun-maps');
 const manifest=path.join(root,'QANUN-LAW-ASSETS-2026-10-31.json');
 const design=path.join(toolDir,'Qanun_Maps_Design_Preview.html');
+const sources=spawnSync(process.execPath,[path.join(toolDir,'../qanun-library/verify-public-sources.mjs')],{stdio:'inherit',cwd:root});
+if(sources.status!==0)throw Error('The complete original-source comparison register is required before production build');
 const frameworkTests=spawnSync(process.execPath,['--test',path.join(toolDir,'remediation.test.mjs'),path.join(toolDir,'evidence-model.test.mjs'),path.join(toolDir,'evidence-ui.test.mjs'),path.join(toolDir,'section-navigation.test.mjs'),path.join(toolDir,'../qanun-framework/framework.test.mjs'),path.join(toolDir,'../qanun-framework/mcp.test.mjs'),path.join(toolDir,'../qanun-mcp/http.test.mjs'),path.join(toolDir,'../qanun-mcp/bridge.test.mjs')],{stdio:'inherit',cwd:root});
 if(frameworkTests.status!==0)throw Error('Rule framework or MCP tests failed');
+const libraryTests=spawnSync(process.execPath,['--test','--test-reporter=tap','--test-skip-pattern=whole',path.join(toolDir,'../qanun-library/reader/reader.test.mjs'),path.join(toolDir,'../qanun-library/mapping/mapping.test.mjs'),path.join(toolDir,'../qanun-library/mapping/facsimile-relationships.test.mjs'),path.join(toolDir,'../qanun-library/enrich-provisions.test.mjs'),path.join(toolDir,'../qanun-library/historical-anchors.test.mjs'),path.join(toolDir,'../qanun-library/text-reader.test.mjs'),path.join(toolDir,'../qanun-library/version-store.test.mjs')],{stdio:'inherit',cwd:root});
+if(libraryTests.status!==0)throw Error('Library source/reader/mapping regression tests failed');
 for(const p of [baseline,manifest,design,path.join(toolDir,'FONT-LICENSE.txt'),path.join(toolDir,'about-content.json'),path.join(toolDir,'catalogue-ui.js'),path.join(toolDir,'reader-ui.js'),path.join(toolDir,'reader-display.mjs'),path.join(toolDir,'section-navigation.mjs'),path.join(toolDir,'mapping-panels.mjs'),path.join(toolDir,'statute-rule-mappings.json')])if(!fs.existsSync(p))throw Error('Required release input is absent: '+p);
 const stage=fs.mkdtempSync(path.join(root,'.qanun-release-stage-'));
 const generated=path.join(stage,'public');
@@ -37,7 +41,11 @@ if(visitorCheck.status!==0)throw Error('Visitor guidance or search visibility ch
 const brandCheck=spawnSync(process.execPath,[path.join(toolDir,'brand-check.mjs'),generated],{stdio:'inherit',cwd:root});
 if(brandCheck.status!==0)throw Error('Platform brand or mapping-tool identity checks failed');
 const report=JSON.parse(fs.readFileSync(path.join(toolDir,'integration-manifest.json'),'utf8'));
-if(report.record_count!==1732||report.law_text_count!==1728||report.source_notice_count!==4||report.public_file_count!==5226)throw Error('Unexpected generated coverage');
+if(report.record_count!==1732||report.law_text_count!==1728||report.source_notice_count!==4||report.public_file_count!==Object.keys(report.manifest).length)throw Error('Unexpected generated coverage');
+const libraryCheck=spawnSync(process.execPath,[path.join(toolDir,'../qanun-library/verify-library.mjs'),generated],{stdio:'inherit',cwd:root});
+if(libraryCheck.status!==0)throw Error('Whole-library reading and mapping checks failed');
+const versionCheck=spawnSync(process.execPath,[path.join(toolDir,'../qanun-library/verify-connector-versions.mjs'),generated],{stdio:'inherit',cwd:root});
+if(versionCheck.status!==0)throw Error('Corrected and historical connector version checks failed');
 if(report.research.case_count!==2397||report.research.statute_edges!==9||report.research.mapped_law_count<1)throw Error('Research integration missing');
 const policy=JSON.parse(fs.readFileSync(path.join(root,'vercel.json'),'utf8')).headers.flatMap(x=>x.headers).find(x=>x.key==='Content-Security-Policy').value;
 for(const token of [report.home_script_csp_token,report.script_csp_token,report.reader_script_csp_token,report.research.script_csp_token,report.research.evidence_inspector.script_csp_token,report.research.rule_framework.script_csp_token])if(!policy.includes(token))throw Error('Release script missing from CSP');

@@ -12,7 +12,8 @@ assert.ok(!/^Disallow:\s*\/\s*$/m.test(robots),'Sitewide crawler block must be a
 assert.ok(/^Disallow:\s*\/\s*$/m.test('User-agent: *\nDisallow: /\n'),'Block detector positive control');
 assert.ok(robots.includes('Sitemap: '+origin+'/sitemap.xml'));
 const urls=[...read('sitemap.xml').matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>m[1]);
-assert.equal(urls.length,1739);assert.equal(new Set(urls).size,urls.length);
+const laws=fs.readdirSync(path.join(output,'laws')).filter(n=>n.endsWith('.json')).map(n=>JSON.parse(read('laws/'+n)));
+assert.equal(urls.length,Object.keys(pageMetadata).length+laws.filter(r=>r.content_kind==='stored_law_text').length);assert.equal(new Set(urls).size,urls.length);
 for(const url of urls){
  const route=url.slice(origin.length);assert.ok(url.startsWith(origin+'/'));
  assert.ok(!/[?#]|\.html$/.test(route));
@@ -44,4 +45,4 @@ for(const name of fs.readdirSync(path.join(output,'laws')).filter(n=>n.endsWith(
  if(r.content_kind==='source_notice'){notices++;assert.ok(!urls.includes(origin+'/laws/'+r.id));assert.ok(read('laws/'+r.id+'.html').includes('noindex,follow'));}
 }
 assert.equal(notices,4);
-console.log('VISITOR_SEO_PASS: 27 glossary terms, guide links and fragments, 1739 canonical sitemap URLs, crawler access, metadata, ownership marker and four excluded source notices.');
+console.log(`VISITOR_SEO_PASS: ${glossaryTerms.length} glossary terms, guide links and fragments, ${urls.length} canonical sitemap URLs, crawler access, metadata, ownership marker and ${notices} excluded source notices.`);
