@@ -22,20 +22,34 @@
  const normalize=s=>s.replace(/\s+/g,' ').trim();
  const headings=Array.from(document.querySelectorAll('nav[aria-label="Identified provisions"] a')).map(a=>({label:a.textContent,href:a.getAttribute('href'),text:normalize(a.textContent).toLowerCase(),kind:'Identified heading'}));
  const passages=Array.from(document.querySelectorAll('#law-text span[id^="p-"]')).map(p=>{const text=normalize(p.dataset?.passageText??p.textContent);return{label:text,href:'#'+p.id,text:text.toLowerCase(),kind:'Stored passage'};});
- function search(event){
-  event?.preventDefault();results.replaceChildren();
-  const words=normalize(query.value).toLowerCase().split(' ').filter(Boolean);
-  if(!words.length){status.textContent='Enter a provision number, heading or words from this text.';return;}
-  const matches=[...headings,...passages].filter(p=>words.every(w=>p.text.includes(w)));
-  status.textContent=matches.length+' matching headings or passages · '+Math.min(matches.length,20)+' shown. Matches locate stored text; they do not establish legal applicability.';
-  for(const match of matches.slice(0,20)){
+ const more=document.createElement('button');more.type='button';more.id='reader-search-more';more.textContent='Show more matches';more.hidden=true;form.append(more);
+ let matches=[],shown=0,currentWords=[];
+ function render(start=0){
+  if(!start)results.replaceChildren();
+  let firstNewLink;
+  status.textContent=matches.length+' matching headings or passages · '+Math.min(matches.length,shown)+' shown. Matches locate stored text; they do not establish legal applicability.';
+  for(const match of matches.slice(start,shown)){
    const item=document.createElement('li'),a=document.createElement('a'),note=document.createElement('small');
-   a.href=match.href;
-   const at=Math.max(0,match.text.indexOf(words[0])-60);
+   a.href=match.href;if(!firstNewLink)firstNewLink=a;
+   const at=Math.max(0,match.text.indexOf(currentWords[0])-60);
    a.textContent=match.kind==='Identified heading'?match.label:(at?'…':'')+match.label.slice(at,at+240)+(match.label.length>at+240?'…':'');
    note.textContent=match.kind;item.append(a,note);results.append(item);
   }
+  more.hidden=shown>=matches.length;
+  if(start)firstNewLink?.focus();
  }
+ function search(event){
+  event?.preventDefault();results.replaceChildren();more.hidden=true;matches=[];shown=20;
+  const q=normalize(query.value).toLowerCase();
+  currentWords=q.split(' ').filter(Boolean);
+  if(!currentWords.length){status.textContent='Enter a provision number, heading or words from this text.';return;}
+  // A numbered provision is an identifier, not a substring (42 is not 142 or 420).
+  const reference=q.match(/^(section|article|rule|regulation)\s+(\d+[a-z]?)(?=$|\s|[.,:])/);
+  const numbered=reference?new RegExp('\\b'+reference[1]+'\\s+'+reference[2]+'(?![a-z0-9])','i'):null;
+  matches=[...headings,...passages].filter(p=>currentWords.every(w=>p.text.includes(w))&&(!numbered||numbered.test(p.text)));
+  render();
+ }
+ more.addEventListener('click',()=>{const start=shown;shown+=20;render(start);});
  form.hidden=false;form.addEventListener('submit',search);
  document.getElementById('reader-search-clear').addEventListener('click',()=>{query.value='';search();query.focus();});
 })();

@@ -43,12 +43,12 @@ test('connector draft search accepts instrument titles consistently with the pub
  assert.ok(service.call('find_provisions',{query:'Rules of Business'}).data.matches>0);
  assert.throws(()=>service.call('find_provisions',{query:'commencement',instrument_id:'missing'}));
 });
-function readerHarness(){
+function readerHarness(extraHeadings=[],extraPassages=[]){
  const node=()=>({value:'',children:[],events:{},hidden:true,textContent:'',addEventListener(n,f){this.events[n]=f;},replaceChildren(){this.children=[];},append(...x){this.children.push(...x);},focus(){this.focused=true;}});
  const elements=Object.fromEntries(['catalogue-return','reader-search','reader-query','reader-search-status','reader-search-results','reader-search-clear'].map(x=>[x,node()]));
  const heading={textContent:'Rule 16 — Cabinet consideration',getAttribute:()=> '#provision-16'};
  const passage={id:'p-1',textContent:'A person shall not enter. درخواست 😀 30 days.'};
- const document={getElementById:id=>elements[id],querySelectorAll:s=>s.startsWith('nav')?[heading]:[passage],createElement:node};
+ const document={getElementById:id=>elements[id],querySelectorAll:s=>s.startsWith('nav')?[heading,...extraHeadings]:[passage,...extraPassages],createElement:node};
  vm.runInNewContext(fs.readFileSync(new URL('./reader-ui.js',import.meta.url),'utf8'),{document,location:{search:''},URLSearchParams,URL});
  const search=q=>{elements['reader-query'].value=q;elements['reader-search'].events.submit({preventDefault(){}});};
  return {elements,search,passage};
@@ -60,5 +60,21 @@ test('reader searches headings and Unicode passages, clears results and preserve
  search('zzzxqnomatch');assert.match(e['reader-search-status'].textContent,/0 matching/);assert.equal(e['reader-search-results'].children.length,0);
  search('<script>');assert.equal(e['reader-search-results'].children.length,0);
  e['reader-search-clear'].events.click();assert.equal(e['reader-query'].value,'');assert.match(e['reader-search-status'].textContent,/Enter a provision/);assert.equal(passage.textContent,original);
+});
+test('numbered provision search does not confuse section 42 with 142, 420 or 42A',()=>{
+ const headings=['42','142','420','42A'].map(n=>({textContent:'Section '+n+' — Example',getAttribute:()=> '#section-'+n}));
+ const {elements:e,search}=readerHarness(headings);
+ search('section 42');assert.equal(e['reader-search-results'].children.length,1);assert.equal(e['reader-search-results'].children[0].children[0].href,'#section-42');
+ search('section 42a');assert.equal(e['reader-search-results'].children[0].children[0].href,'#section-42A');
+});
+test('all text matches are reachable and a new query or clear resets pagination',()=>{
+ const passages=Array.from({length:45},(_,i)=>({id:'p-extra-'+i,textContent:'Repeated result '+i}));
+ const {elements:e,search}=readerHarness([],passages);
+ const more=e['reader-search'].children.find(n=>n.id==='reader-search-more');
+ search('Repeated');assert.equal(e['reader-search-results'].children.length,20);assert.equal(more.hidden,false);
+ more.events.click();assert.equal(e['reader-search-results'].children.length,40);assert.equal(e['reader-search-results'].children[20].children[0].focused,true);
+ more.events.click();assert.equal(e['reader-search-results'].children.length,45);assert.equal(e['reader-search-results'].children[40].children[0].focused,true);assert.equal(more.hidden,true);
+ search('Repeated');assert.equal(e['reader-search-results'].children.length,20);
+ e['reader-search-clear'].events.click();assert.equal(more.hidden,true);assert.equal(e['reader-search-results'].children.length,0);
 });
 test.after(()=>fs.rmSync(root,{recursive:true,force:true}));
