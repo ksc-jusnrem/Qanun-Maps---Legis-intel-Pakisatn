@@ -8,7 +8,7 @@ import {renderLibraryReader} from './reader.mjs';
 import {renderFacsimileReader} from './facsimile.mjs';
 const json=u=>JSON.parse(fs.readFileSync(new URL(u,import.meta.url),'utf8'));
 const load=id=>json('../../../landing-pages/qanun-maps/laws/'+id+'.json');
-const audit=json('../sources/source-verification.json');
+const audit=json('../source-status.json');
 const layouts=json('./verified-layouts/manifest.json');
 const facsimiles=json('./facsimiles/manifest.json');
 

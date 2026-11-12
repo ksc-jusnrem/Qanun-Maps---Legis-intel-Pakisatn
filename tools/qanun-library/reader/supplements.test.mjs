@@ -9,7 +9,7 @@ const sha=b=>crypto.createHash('sha256').update(b).digest('hex');
 const assetURL=new URL('./supplement-assets/',import.meta.url);
 const manifest=JSON.parse(fs.readFileSync(new URL('manifest.json',assetURL),'utf8'));
 const load=id=>JSON.parse(fs.readFileSync(new URL('../../../landing-pages/qanun-maps/laws/'+id+'.json',import.meta.url),'utf8'));
-const audit=JSON.parse(fs.readFileSync(new URL('../sources/source-verification.json',import.meta.url),'utf8'));
+const audit=JSON.parse(fs.readFileSync(new URL('../source-status.json',import.meta.url),'utf8'));
 
 test('source supplements publish all reviewed original graphics without changing archived text or passage contracts',()=>{
  const output=fileURLToPath(new URL('./.supplement-test-output-'+process.pid+'/',import.meta.url));assert.ok(output.startsWith(fileURLToPath(new URL('./',import.meta.url))));let pages=0;
@@ -23,7 +23,7 @@ test('source supplements publish all reviewed original graphics without changing
   for(const p of f.pages){const bytes=fs.readFileSync(path.join(folder,p.asset));assert.equal(sha(bytes),p.sha256);assert.equal(bytes.readUInt32BE(16),p.width);assert.equal(bytes.readUInt32BE(20),p.height);assert.ok(out.nav.includes('#source-supplement-page-'+String(p.source_page).padStart(5,'0')));}
   assert.throws(()=>renderSourceSupplements({...r,text:r.text+'changed'}),/input record hash mismatch/);
   assert.throws(()=>renderSourceSupplements(r,{sourceStatus:{original:{sha256:'0'.repeat(64)}}}),/audited PDF binding mismatch/);
-  if(f.id==='pk-code-f40603913b933194'){const original=audit.records[r.id].original;const restored=fs.readFileSync(original.extracted_text_path,'utf8').replace(/\r\n/g,'\n');assert.equal(sha(restored),original.extracted_text_sha256);assert.ok(f.accepted_input_text_sha256.includes(sha(restored)));const repaired={...r,text:restored,text_sha256:sha(restored)};assert.equal(renderSourceSupplements(repaired,{sourceStatus:audit.records[r.id]}).report.input_sha256,sha(restored),'Same original PDF must bind independently restored reading version');}
+  if(f.id==='pk-code-f40603913b933194'){const original=audit.records[r.id].original;const repaired=JSON.parse(fs.readFileSync(new URL('../repaired-records/'+r.id+'.json',import.meta.url),'utf8'));assert.equal(repaired.source_sha256,original.sha256);assert.equal(sha(repaired.text),repaired.text_sha256);assert.ok(f.accepted_input_text_sha256.includes(repaired.text_sha256));assert.equal(renderSourceSupplements(repaired,{sourceStatus:audit.records[r.id]}).report.input_sha256,repaired.text_sha256,'Same original PDF must bind independently restored reading version');}
   assert.throws(()=>renderSourceSupplements(r,{assetBase:'/../escaped'}),/asset base/);
   assert.throws(()=>verifySourceSupplementsOutput(r,out.html,{...out.report,full_source_body_text_checked:true},output));
   const p=f.pages[0],asset=path.join(folder,p.asset),original=fs.readFileSync(asset);fs.writeFileSync(asset,'changed');assert.throws(()=>verifySourceSupplementsOutput(r,out.html,out.report,output),/Published supplement image changed/);fs.writeFileSync(asset,original);
