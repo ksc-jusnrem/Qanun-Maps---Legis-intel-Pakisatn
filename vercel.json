@@ -37,7 +37,7 @@
   "functions": {
     "api/mcp.js": {
       "maxDuration": 30,
-      "includeFiles": "{landing-pages/qanun-maps/laws/*.{json,txt},landing-pages/qanun-maps/reading-records/*.json,landing-pages/qanun-maps/data/source-verification.json,tools/qanun-framework/section-candidates.json,tools/qanun-release/{statute-rule-mappings,rule-case-mappings}.json}",
+      "includeFiles": "{landing-pages/qanun-maps/{laws/*.{json,txt},reading-records/*.json,data/source-verification.json},tools/{qanun-framework/section-candidates.json,qanun-release/{statute-rule-mappings,rule-case-mappings}.json}}",
       "excludeFiles": "{.qanun-*/**,landing-pages/qanun-maps/**/*.html,tools/qanun-release/*.html}"
     }
   },
