@@ -13,8 +13,8 @@ for(const file of [...Object.keys(pageMetadata).map(name=>name+'.html'),'404.htm
  assert.ok(!html.includes('<strong>Qanun Maps <span class="beta">'));
  assert.match(html,/<title>[^<]*Legis-Intel Pakistan[^<]*<\/title>/);
 }
-assert.ok(read('index.html').includes('Every rule has a source. Every connection has a reason.'));
-assert.ok(read('index.html').includes('From legal text<br><em>to connected intelligence.</em>'));
+assert.ok(read('index.html').includes('Words in the legislation title'));
+assert.ok(read('index.html').includes('Pakistani legislation,<br><em>with the evidence in view.</em>'));
 assert.ok(read('index.html').includes(googleVerification));
 assert.ok(read('mappings.html').includes('<h1>Qanun Maps</h1>'));
 assert.ok(read('mappings.html').includes('The mapping tool within Legis-Intel Pakistan — Legislation as Code.'));

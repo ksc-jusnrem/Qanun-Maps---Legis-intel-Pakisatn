@@ -18,6 +18,7 @@ try{
   const rule14=page.locator('nav[aria-label="Identified provisions"] a').filter({hasText:/^Rule 14\b/}).first();await rule14.click();
   assert.match(await page.locator(':target').textContent(),/14/);
   assert.ok(await page.locator('#law-text p').count()>10);
+  const sourceControl=page.locator('#reader-format');if(await sourceControl.count()){assert.match(await sourceControl.textContent(),/View source transcription/);await sourceControl.click();assert.ok(await page.locator('#original-transcription').evaluate(e=>e.open));await rule14.click();}
   const overflow=await page.evaluate(()=>({viewport:innerWidth,width:document.documentElement.scrollWidth}));assert.ok(overflow.width<=overflow.viewport+1,JSON.stringify(overflow));
   await page.screenshot({path:path.join(out,prefix+'-rule14.png')});
   await page.locator('#reader-query').fill('Cabinet');await page.locator('#reader-search').evaluate(f=>f.requestSubmit());await page.waitForFunction(()=>/\d+ matching/.test(document.getElementById('reader-search-status').textContent));
