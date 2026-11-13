@@ -14,13 +14,19 @@ import {buildPolicyPages} from './site-policies.mjs';
 import {commercialSection} from './commercial-presentation.mjs';
 import {homeContent} from './design-presentation.mjs';
 import {pageMetadata,applySearchVisibility} from './search-visibility.mjs';
+import {displayRecordTitle} from '../qanun-library/record-display.mjs';
 import middleware,{config} from '../../middleware.js';
 
 const root=fileURLToPath(new URL('../../',import.meta.url));
 const originalManifest=JSON.parse(fs.readFileSync(path.join(root,'QANUN-LAW-ASSETS-2026-10-31.json'),'utf8')).output_allowlist;
 const sourceAudit=JSON.parse(fs.readFileSync(new URL('../qanun-library/source-status.json',import.meta.url),'utf8'));
-// Full ID/title coverage is cheap; raw-byte and historical-parser verification stays in S2.
-const records=JSON.parse(fs.readFileSync(new URL('./catalogue.json',import.meta.url),'utf8')).map(r=>({...r,content_kind:r.kind,source_collection:r.collection,passage_anchors:['passage-fixture-'+r.id],historical_anchors:['provision-fixture-'+r.id],text_sha256:'opaque-source-version-fixture'}));
+// Derive identities from committed inputs, never the ignored catalogue generated later by build.mjs.
+// Retain only small metadata here; full text/anchor verification remains in S2.
+const committedIdentities=Object.keys(originalManifest).filter(name=>/^laws\/[^/]+\.json$/.test(name)).map(name=>{
+ const record=JSON.parse(fs.readFileSync(path.join(root,'landing-pages/qanun-maps',name),'utf8'));
+ return {id:record.id,title:displayRecordTitle(record),kind:record.content_kind,collection:record.source_collection};
+});
+const records=committedIdentities.map(r=>({...r,content_kind:r.kind,source_collection:r.collection,passage_anchors:['passage-fixture-'+r.id],historical_anchors:['provision-fixture-'+r.id],text_sha256:'opaque-source-version-fixture'}));
 const temp=()=>fs.mkdtempSync(path.join(os.tmpdir(),'legis-experience-'));
 const head=title=>'<!doctype html><html lang="en"><head><title>'+title+'</title></head><body>';
 const header='<header><nav aria-label="Main"><a href="/connectors#client-setup">Connect your AI</a></nav></header>';
@@ -83,7 +89,7 @@ test('reader status covers every actual record; unknown, facsimile, restored, co
  assert.ok(readerEditionSummary({...unknown,version:'<script>bad</script>'},{}).includes('&lt;script&gt;'));
 });
 test('representative static alias pipeline preserves opaque anchors, download names and canonical metadata',()=>{
- const records=JSON.parse(fs.readFileSync(new URL('./catalogue.json',import.meta.url),'utf8')).filter(r=>['pk-code-a35e1c15e60e5ad1','pk-code-7a0c36b8d5c1c0a6','balochistan-code-d9d838bd66607fd9'].includes(r.id)).map(r=>({...r,title:r.id==='balochistan-code-d9d838bd66607fd9'?'Balochistan Sales Tax on Services Act, 2015 , 2015':r.title,content_kind:r.kind,source_collection:r.collection,passage_anchors:['passage-fixture-'+r.id],historical_anchors:['provision-fixture-'+r.id],text_sha256:'opaque-source-version-fixture'}));
+ const records=committedIdentities.filter(r=>['pk-code-a35e1c15e60e5ad1','pk-code-7a0c36b8d5c1c0a6','balochistan-code-d9d838bd66607fd9'].includes(r.id)).map(r=>({...r,title:r.id==='balochistan-code-d9d838bd66607fd9'?'Balochistan Sales Tax on Services Act, 2015 , 2015':r.title,content_kind:r.kind,source_collection:r.collection,passage_anchors:['passage-fixture-'+r.id],historical_anchors:['provision-fixture-'+r.id],text_sha256:'opaque-source-version-fixture'}));
  const routes=Object.fromEntries(records.map(r=>[r.id,readerRoutes[r.id]]));
  const output=temp();
  try{
