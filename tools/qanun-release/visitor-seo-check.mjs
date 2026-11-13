@@ -3,6 +3,7 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 import {pageMetadata,origin,googleVerification} from './search-visibility.mjs';
 import {glossaryTerms} from './visitor-help.mjs';
+import {readerRoutes} from './reader-routes.mjs';
 const output=process.argv[2];
 assert.ok(output,'Provide generated public directory');
 const read=file=>fs.readFileSync(path.join(output,file),'utf8');
@@ -42,7 +43,7 @@ for(const file of ['guide.html','glossary.html'])for(const [,href] of read(file)
 let notices=0;
 for(const name of fs.readdirSync(path.join(output,'laws')).filter(n=>n.endsWith('.json'))){
  const r=JSON.parse(read('laws/'+name));
- if(r.content_kind==='source_notice'){notices++;assert.ok(!urls.includes(origin+'/laws/'+r.id));assert.ok(read('laws/'+r.id+'.html').includes('noindex,follow'));}
+ if(r.content_kind==='source_notice'){notices++;assert.ok(!urls.includes(origin+readerRoutes[r.id]));assert.ok(read('laws/'+r.id+'.html').includes('noindex,follow'));assert.ok(read(readerRoutes[r.id].slice(1)+'.html').includes('noindex,follow'));}
 }
 assert.equal(notices,4);
 console.log(`VISITOR_SEO_PASS: ${glossaryTerms.length} glossary terms, guide links and fragments, ${urls.length} canonical sitemap URLs, crawler access, metadata, ownership marker and ${notices} excluded source notices.`);

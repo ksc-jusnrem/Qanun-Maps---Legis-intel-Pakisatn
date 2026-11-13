@@ -8,6 +8,8 @@ import {displayRecordTitle} from './record-display.mjs';
 import {verifyFacsimileOutput} from './reader/source-inputs.mjs';
 import {validateFacsimileRelationships} from './mapping/facsimile-relationships.mjs';
 import {getSourceSupplement,verifySourceSupplementsOutput} from './reader/supplements.mjs';
+import {readerRoutes} from '../qanun-release/reader-routes.mjs';
+import {readerEditionSummary} from '../qanun-release/reader-experience.mjs';
 
 const output=path.resolve(process.argv[2]||'work/library-repair/public');
 const laws=path.join(output,'laws');
@@ -28,6 +30,11 @@ const anchorSets=new Map();let passages=0,provisions=0,notices=0,facsimiles=0,so
 for(const r of records){
  const html=fs.readFileSync(path.join(laws,r.id+'.html'),'utf8');
  const raw=fs.readFileSync(path.join(laws,r.id+'.txt'));
+ assert.ok(html.includes(readerEditionSummary(byId.get(r.id),sourceAudit.records[r.id])),'Missing or incorrect early edition summary '+r.id);
+ assert.ok(html.indexOf('class="reader-edition-summary"')<html.indexOf('id="law-text"'),'Edition summary appears after legal text '+r.id);
+ const canonical=readerRoutes[r.id];assert.ok(canonical,'Missing canonical reader '+r.id);
+ assert.ok(html.includes('rel="canonical" href="https://www.jusnrem.legal'+canonical+'"'),'Incorrect reader canonical '+r.id);
+ assert.equal(fs.readFileSync(path.join(output,canonical.slice(1)+'.html'),'utf8'),html,'Canonical reader differs or loses historical anchors '+r.id);
  assert.equal(sha(raw),r.text_sha256,'Raw source changed '+r.id);
  assert.equal(raw.toString('utf8'),r.text,'Record and download differ '+r.id);
  const transcription=html.match(/<pre id="source-transcription">([\s\S]*?)<\/pre>/);

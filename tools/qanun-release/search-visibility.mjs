@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {displayRecordTitle} from '../qanun-library/record-display.mjs';
+import {readerRoutes} from './reader-routes.mjs';
 export const origin='https://www.jusnrem.legal';
 export const googleVerification='ZfQYjWfzY5gs7nfQ2rdPg0hVjxE6kzOuEoQ7hr4CTDg';
 const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -16,7 +17,10 @@ export const pageMetadata={
  'membership':['Access and Plans | Legis-Intel Pakistan','Explore planned Legis-Intel Pakistan subscriptions at US$5 monthly or US$50 annually and institutional licensing. Payments and paid activation are coming soon.'],
  'about':['About Legis-Intel Pakistan | Legislation as Code','Understand Legis-Intel Pakistan, its Law as Code programme, machine-readable legislation, rule mapping and Judicial Intelligence research by KSC.JUSNREM.'],
  'guide':['How to Use Legis-Intel Pakistan | Visitor Guide','Learn to search legislation, find provisions, inspect rule mappings and Judicial Intelligence, retain source references and use the MCP research pilot.'],
- 'glossary':['Law as Code & Legal Research Glossary | Legis-Intel Pakistan','Plain-language definitions of Law as Code, Rules as Code, machine-readable law, MCP, rule mapping, provenance and Legis-Intel Pakistan research labels.']
+ 'glossary':['Law as Code & Legal Research Glossary | Legis-Intel Pakistan','Plain-language definitions of Law as Code, Rules as Code, machine-readable law, MCP, rule mapping, provenance and Legis-Intel Pakistan research labels.'],
+ 'contact':['Contact and Corrections | Legis-Intel Pakistan','Contact Legis-Intel Pakistan about pilot research access, setup or a source-linked record correction.'],
+ 'privacy':['Privacy and Research Use | Legis-Intel Pakistan','Read how browser-based research, shareable search addresses, contact links and external services affect your use of Legis-Intel Pakistan.'],
+ 'terms':['Rights and Permitted Use | Legis-Intel Pakistan','Read the existing rights and permitted-use statement, source attribution and provenance guidance for Legis-Intel Pakistan text and JSON records.']
 };
 // Search verification is a public ownership marker, not an API credential.
 export function applySearchVisibility(output,records){
@@ -30,7 +34,7 @@ export function applySearchVisibility(output,records){
   if(index)entries.push(canonical);
  };
  for(const [name,[title,description]] of Object.entries(pageMetadata))apply(name+'.html',name==='index'?'/':'/'+name,title,description);
- for(const record of records)apply('laws/'+record.id+'.html','/laws/'+record.id,displayRecordTitle(record)+' | Legis-Intel Pakistan',`Read the held ${record.source_collection} record for ${displayRecordTitle(record)}. Inspect its text, source edition and research limits.`,record.content_kind==='stored_law_text');
+ for(const record of records){if(!Object.hasOwn(readerRoutes,record.id))throw Error('Missing canonical reader route '+record.id);apply('laws/'+record.id+'.html',readerRoutes[record.id],displayRecordTitle(record)+' | Legis-Intel Pakistan',`Read the held ${record.source_collection} record for ${displayRecordTitle(record)}. Inspect its text, source edition and research limits.`,record.content_kind==='stored_law_text');}
  fs.writeFileSync(path.join(output,'robots.txt'),`User-agent: *\nAllow: /\nDisallow: /api/\nDisallow: /mcp\n\nSitemap: ${origin}/sitemap.xml\n`);
  // No fabricated lastmod dates: source retrieval dates are not page modification dates.
  fs.writeFileSync(path.join(output,'sitemap.xml'),'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+entries.map(url=>`  <url><loc>${escape(url)}</loc></url>`).join('\n')+'\n</urlset>\n');

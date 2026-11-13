@@ -9,6 +9,7 @@ import {renderManuallyCollatedReader} from './manual-reader.mjs';
 import {enrichProvisionTargets} from './enrich-provisions.mjs';
 import {loadReadingVersions,preserveLegacyVersion} from './reading-versions.mjs';
 import {displayRecordTitle} from './record-display.mjs';
+import {readerEditionSummary,readerEditionCss} from '../qanun-release/reader-experience.mjs';
 import {getFacsimile,renderFacsimileReader} from './reader/facsimile.mjs';
 import {loadSourceReaderInputs} from './reader/source-inputs.mjs';
 import {getSourceReadingInput} from './sources/reading-inputs.mjs';
@@ -56,8 +57,10 @@ export function integrateLibrary({output,records,head,header,footer}){
   const inputHash=hash([...records].sort((a,b)=>a.id.localeCompare(b.id)).map(r=>r.id+':'+r.text_sha256).join('\n'));
   if(bound.module_sha256===moduleHash&&bound.source_text_digest===inputHash){const candidate=JSON.parse(fs.readFileSync(cachePath,'utf8'));const ids=new Map(records.map(r=>[r.id,r]));if(candidate.nodes.every(n=>ids.get(n.id)?.title===n.title))graph=candidate;}
  }
+ console.error('[library] '+(graph?'Checking cached':'Building')+' source-bound relationship graph');
  graph??=buildLibraryGraph(records,{reviewedStatutes,reviewedCases});
  verifyLibraryGraph(records,graph);
+ console.error('[library] Graph verified; rendering '+records.length+' readers');
  const report={schema_version:'legis-intel-library-repair/1',records:records.length,readers:[],graph_summary:graph.statistics||graph.summary||null,source_summary:audit?.summary||null};
  const sourceRecords={},provisionsByRecord=new Map();
  for(let recordIndex=0;recordIndex<records.length;recordIndex++){
@@ -68,6 +71,7 @@ export function integrateLibrary({output,records,head,header,footer}){
   const raw=html.match(/<pre id="law-text"[^>]*>[\s\S]*?<\/pre>/);
   if(!raw)throw Error('Missing legacy reader block '+record.id);
   const sourceResult=publicSourceResult(record,audit);sourceRecords[record.id]=sourceResult;
+  html=html.replace('</h1>','</h1>'+readerEditionSummary(record,sourceResult));
   const general=getSourceReadingInput(record);
   if(general.proof&&general.proof.original_pdf_sha256!==sourceResult.original?.sha256)throw Error('Reading layout bound to another original '+record.id);
   const inputs={...general,...loadSourceReaderInputs(record,sourceResult)};
@@ -87,11 +91,13 @@ export function integrateLibrary({output,records,head,header,footer}){
   html=html.replace(/<aside class="contents"[^>]*>[\s\S]*?<\/aside>/,`<aside class="contents" aria-label="Legislation contents">${reader.nav}</aside>`);
   html=html.replace('<div class="sourcebox" id="source-details">',sourcePanel(sourceResult)+'<div class="sourcebox" id="source-details">');
   html=html.replace('<a href="#source-details">Source and version</a>','<a href="#library-relationships">Law relationships</a><a href="#original-source-check">Original-source check</a><a href="#source-details">Source and version</a>');
-  html=html.replace('</head>',`<style>${reader.css||''}\n${mappingCss||''}\n.structured-law .source-passage-target{background:#fff2bd;outline:2px solid #c29c34;outline-offset:4px}.library-source-status{margin:32px 0;padding:24px;border:1px solid #c8d0d8;line-height:1.7}.library-source-status dd,.library-source-status a{overflow-wrap:anywhere}.library-source-status dd{margin:0 0 12px}.library-source-status dt{font-weight:bold}</style></head>`);
+  html=html.replace('</head>',`<style>${reader.css||''}\n${mappingCss||''}\n${readerEditionCss}\n.structured-law .source-passage-target{background:#fff2bd;outline:2px solid #c29c34;outline-offset:4px}.library-source-status{margin:32px 0;padding:24px;border:1px solid #c8d0d8;line-height:1.7}.library-source-status dd,.library-source-status a{overflow-wrap:anywhere}.library-source-status dd{margin:0 0 12px}.library-source-status dt{font-weight:bold}</style></head>`);
   html=html.replace('</body>','<script src="/assets/library-mapping.js" defer></script></body>');
   fs.writeFileSync(file,html);
   report.readers.push({id:record.id,...reader.report});
+  if((recordIndex+1)%200===0)console.error('[library] Readers rendered: '+(recordIndex+1)+'/'+records.length);
  }
+ console.error('[library] Enriching and verifying provision targets');
  report.reader_enrichment=enrichProvisionTargets(graph,records,provisionsByRecord);
  attachFacsimileRelationships(graph,records);
  verifyLibraryGraph(records,graph);
@@ -110,6 +116,7 @@ export function integrateLibrary({output,records,head,header,footer}){
  fs.writeFileSync(fullGraphPath,JSON.stringify(graph));
  fs.mkdirSync(path.join(output,'law-maps'),{recursive:true});
  for(const record of records){const local={schema_version:graph.schema_version,record_id:record.id,facsimile_relationships:(graph.facsimile_relationships||[]).filter(e=>e.source_id===record.id||e.target_id===record.id),coverage:graph.coverage[record.id],citations:graph.citations.filter(e=>e.source===record.id),incoming:graph.citations.filter(e=>e.target===record.id).map(({evidence,context_evidence,...r})=>({...r,source_evidence_url:'/law-maps/'+r.source+'.json'})),internal_references:graph.internal_references.filter(e=>e.source===record.id),external_references:(graph.external_references||[]).filter(e=>e.source===record.id),external_incoming:(graph.external_references||[]).filter(e=>e.target===record.id).map(({evidence,instrument_evidence,context_evidence,...r})=>({...r,source_evidence_url:'/law-maps/'+r.source+'.json'})),unresolved:graph.unresolved.filter(e=>e.source===record.id)};fs.writeFileSync(path.join(output,'law-maps',record.id+'.json'),JSON.stringify(local));}
+ console.error('[library] Preserving historical anchors and original-source graphics');
  applyHistoricalAnchors({output,records:legacyRecords,report});
  appendSourceSupplements({output,records,sourceRecords,report});
  fs.writeFileSync(path.join(output,'data','source-verification.json'),JSON.stringify({schema_version:'legis-intel-public-source-audit/1',audited_at:audit?.audited_at||null,audit_started_at:audit?.audit_started_at||null,summary:audit?.summary||null,records:sourceRecords}));

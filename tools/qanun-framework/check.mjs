@@ -1,4 +1,5 @@
 import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import crypto from 'node:crypto';
+import {readerRoutes} from '../qanun-release/reader-routes.mjs';
 const output=process.argv[2];if(!output)throw Error('Output path required');
 const model=JSON.parse(fs.readFileSync(path.join(output,'rules-model.json'),'utf8'));
 const {model_id,...core}=model;assert.equal(crypto.createHash('sha256').update(JSON.stringify(core)).digest('hex'),model_id);
@@ -10,6 +11,11 @@ for(const r of model.rules){assert.ok(page.includes('id="'+r.id+'"'));assert.equ
 for(const name of ['index','mappings','case-law'])assert.ok(fs.readFileSync(path.join(output,name+'.html'),'utf8').includes('href="/rule-workbench"'));
 assert.ok(fs.readFileSync(path.join(output,'mappings.html'),'utf8').includes('id="evidence-inspector"'));
 const candidates=JSON.parse(fs.readFileSync(path.join(output,'section-candidates.json'),'utf8'));assert.equal(candidates.records.length,1732);assert.deepEqual(candidates.provenance.mismatches,[]);
-assert.equal(fs.readdirSync(path.join(output,'laws')).filter(n=>n.endsWith('.html')).length,1732);
+const recordIds=candidates.records.map(r=>r.id).sort();
+assert.equal(new Set(recordIds).size,1732,'Unique source-record coverage changed');
+assert.deepEqual(Object.keys(readerRoutes).sort(),recordIds,'Canonical identity coverage differs');
+const expectedReaders=[...recordIds.map(id=>id+'.html'),...Object.values(readerRoutes).map(route=>path.basename(route)+'.html')].sort();
+assert.equal(new Set(expectedReaders).size,3464,'Canonical aliases merged record identities');
+assert.deepEqual(fs.readdirSync(path.join(output,'laws')).filter(n=>n.endsWith('.html')).sort(),expectedReaders,'Legacy/canonical reader inventory differs');
 assert.ok(!fs.existsSync(path.join(output,'entitlements.json')));
 console.log('FRAMEWORK_RELEASE_PASS '+model.rules.length+' rules; '+candidates.provenance.sections+' draft headings; source anchors and CSP resolved');
